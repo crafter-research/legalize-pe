@@ -1,0 +1,3263 @@
+---
+title: >-
+  Aprueban Valores Unitarios Oficiales de Edificaci&oacute;n para las
+  localidades de la Costa, Sierra y Selva
+identifier: RM-685-2008-VIVIENDA
+country: pe
+rank: resolucion_ministerial
+publication_date: '2008-10-30'
+last_updated: '2008-10-30'
+status: in_force
+source: 'https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H975198'
+scope: Nacional
+official_journal: El Peruano
+---
+# Aprueban Valores Unitarios Oficiales de Edificación para las localidades de la Costa, Sierra y Selva  
+
+## RESOLUCION MINISTERIAL Nº 685-2008-VIVIENDA  
+
+**(SEPARATA ESPECIAL)  
+**
+
+     Lima, 29 de octubre de 2008
+
+     **CONSIDERANDO:**
+
+     Que, el segundo párrafo del artículo 11 del Texto Unico Ordenado de la Ley de Tributación Municipal, aprobado por Decreto Supremo Nº 156-2004-EF, establece que a “(...) efectos de determinar el valor total de los predios, se aplicará los valores arancelarios de terrenos y valores unitarios oficiales de edificación vigentes al 31 de octubre del año anterior y las tablas de depreciación por antigüedad y estado de conservación, que formula el Consejo Nacional de Tasaciones - CONATA y aprueba anualmente el Ministro de Vivienda, Construcción y Saneamiento mediante Resolución Ministerial”;
+
+     Que, por Decreto Supremo Nº 025-2006-VIVIENDA se aprobó la fusión por absorción del Consejo Nacional de Tasaciones - CONATA con el Ministerio de Vivienda, Construcción y Saneamiento, correspondiéndole al citado Ministerio la calidad de entidad incorporante;
+
+     Que, el numeral 3.1 del artículo 3 de la Resolución Ministerial Nº 291-2006-VIVIENDA dispone la absorción por parte de la Dirección Nacional de Urbanismo del Viceministerio de Vivienda y Urbanismo, de los órganos y dependencias a cargo de la función normativa de competencia del CONATA;
+
+     Que, conforme a lo señalado por el segundo párrafo del artículo 3 de la Resolución Ministerial Nº 010-2007-VIVIENDA, la Dirección Nacional de Urbanismo tendrá a su cargo la función normativa a que hace referencia la Resolución Ministerial Nº 291-2006-VIVIENDA antes citada;
+
+     Que, la Dirección Nacional de Urbanismo ha formulado los valores unitarios oficiales de edificación para las localidades de la Costa, Sierra y Selva, así como la Metodología para la Determinación de la Base Imponible de las Instalaciones Fijas y Permanentes para el cálculo del Impuesto Predial, vigentes para el Ejercicio Fiscal 2009;
+
+     De conformidad con lo dispuesto en el numeral 8 del artículo 25 de la Ley Nº 29158, Ley del Poder Ejecutivo, la Ley Nº 27792, Ley de Organización y Funciones del Ministerio de Vivienda, Construcción y Saneamiento, y su Reglamento aprobado por Decreto Supremo Nº 002-2002-VIVIENDA modificado por el Decreto Supremo Nº 045-2006-VIVIENDA;
+
+     **SE RESUELVE:**
+
+     **Artículo 1.-** Aprobar los Valores Unitarios Oficiales de Edificación para las localidades de la Costa, Sierra y Selva, vigentes para el Ejercicio Fiscal 2009, los que en Anexo 01 forman parte integrante de la presente Resolución.  
+
+     **Artículo 2.-** Aprobar la Metodología para la Determinación de la Base Imponible de las Instalaciones Fijas y Permanentes para el cálculo del Impuesto Predial, vigente para el Ejercicio Fiscal 2009, la que en Anexo 02 forma parte integrante de la presente Resolución.  
+
+     Regístrese, comuníquese y publíquese.
+
+     ENRIQUE CORNEJO RAMÍREZ
+
+     Ministro de Vivienda, Construcción y Saneamiento
+
+**R.M. Nº 685-2008-VIVIENDA**
+
+ 
+
+**ANEXO 01**
+
+ 
+
+**CUADRO DE VALORES UNITARIOS OFICIALES DE EDIFICACIÓN**
+
+**COSTA, SIERRA y SELVA EJERCICIO FISCAL 2009**
+
+ 
+
+**ANEXO 01**
+
+**CUADRO DE VALORES UNITARIOS OFICIALES DE EDIFICACIONES**
+
+**PARA LA COSTA AL 31 DE OCTUBRE DE 2008**
+
+**R.M. N° 685-2008-VIVIENDA**
+
+ 
+
+ 
+
+**FECHA : 30 de octubre de 2008**
+
+**VALORES POR PARTIDAS EN NUEVOS SOLES POR METRO CUADRADO DE AREA TECHADA**
+
+ 
+
+**E S T R U C T U R A S**
+
+**A C A B A D O S**
+
+**INSTALACIONES**
+
+ 
+
+**MUROS Y**
+
+ 
+
+ 
+
+**PUERTAS Y**
+
+REVESTI-
+
+ 
+
+ELECTRICAS Y
+
+ 
+
+**COLUMNAS**
+
+TECHOS
+
+PISOS
+
+VENTANAS
+
+MIENTOS
+
+BAÑOS
+
+SANITARIAS
+
+ 
+
+**(1)**
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+ 
+
+ESTRUCTURAS LAMINA-
+
+LOSA O ALIGERADO DE
+
+MARMOL IMPORTADO,
+
+ALUMINIO PESADO CON
+
+MARMOL IMPORTADO,
+
+BAÑOS COMPLETOS
+
+AIRE ACONDICIONADO,
+
+ 
+
+RES CURVADAS DE
+
+CONCRETO ARMADO
+
+PORCELANATO
+
+PERFILES ESPECIALES
+
+MADERA FINA (CAOBA
+
+DE LUJO
+
+ILUMINACION ESPECIAL,
+
+ 
+
+CONCRETO ARMADO
+
+CON LUCES MAYORES
+
+ 
+
+MADERA FINA ORNA-
+
+O SIMILAR) BALDOSA
+
+IMPORTADO CON
+
+SIST. HIDRONEUMATICO,
+
+ 
+
+QUE INCLUYEN EN UNA
+
+DE 6 M. CON SOBRE-
+
+ 
+
+MENTAL (CAOBA,
+
+ACUSTICO EN TECHO
+
+ENCHAPE FINO
+
+AGUA CALIENTE Y FRIA,
+
+**A**
+
+SOLA ARMADURA LA
+
+CARGA MAYOR A
+
+ 
+
+CEDRO O PINO SELECTO)
+
+O SIMILAR.
+
+(MARMOL O
+
+INTERCOMUNICADOR,
+
+ 
+
+CIMENTACION Y EL
+
+300 KG/M2
+
+ 
+
+CRISTALES.
+
+ 
+
+SIMILAR)
+
+ALARMAS, ASCENSOR,
+
+ 
+
+TECHO, PARA ESTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DESAGUE POR BOMBEO,
+
+ 
+
+CASO NO SE CONSIDERA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TELEFONO.
+
+ 
+
+LOS VALORES DE LA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COLUMNA Nº 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**355,79**
+
+216,10
+
+190,84
+
+193,09
+
+208,12
+
+70,23
+
+202,67
+
+ 
+
+COLUMNAS, VIGAS Y/O
+
+ALIGERADOS O LOSAS
+
+MARMOL NACIONAL O
+
+ALUMINIO O MADERA
+
+MARMOL NACIONAL,
+
+BAÑOS COMPLETOS
+
+SISTEMA DE BOMBEO
+
+ 
+
+PLACAS DE
+
+DE CONCRETO
+
+RECONSTITUIDO,
+
+FINA (CAOBA O
+
+MADERA FINA (CAOBA
+
+IMPORTADOS CON
+
+DE AGUA POTABLE,
+
+**B**
+
+CONCRETO ARMADO
+
+ARMADO
+
+PARQUET FINO (OLIVO,
+
+SIMILAR) DE DISEÑO
+
+O SIMILAR)
+
+MAYOLICA O
+
+ASCENSOR
+
+ 
+
+Y/O METALICAS.
+
+INCLINADAS
+
+CHONTA O SIMILAR),
+
+ESPECIAL, VIDRIO
+
+ENCHAPES EN TECHOS.
+
+CERAMICO
+
+TELEFONO, AGUA
+
+ 
+
+ 
+
+ 
+
+CERAMICA IMPORTADA
+
+POLARIZADO CURVADO.
+
+ 
+
+DECORATIVO
+
+CALIENTE Y FRIA.
+
+ 
+
+ 
+
+ 
+
+MADERA FINA.
+
+ 
+
+ 
+
+IMPORTADO.
+
+ 
+
+ 
+
+**229,39**
+
+140,99
+
+114,38
+
+102,67
+
+159,06
+
+53,86
+
+146,97
+
+ 
+
+PLACAS DE CONCRETO,
+
+ALIGERADO O LOSAS
+
+MADERA FINA
+
+ALUMINIO O MADERA
+
+SUPERFICIE CARAVISTA
+
+BAÑOS COMPLETOS
+
+IGUAL AL PUNTO “B”
+
+ 
+
+(e = 10 A 15 cm.)
+
+DE CONCRETO
+
+MACHIHEMBRADA
+
+FINA (CAOBA O SIMILAR)
+
+OBTENIDA MEDIANTE
+
+NACIONALES CON
+
+SIN ASCENSOR.
+
+ 
+
+ALBAÑILERIA ARMADA,
+
+ARMADO
+
+TERRAZO.
+
+VIDRIO POLARIZADO.
+
+ENCOFRADO ESPECIAL,
+
+MAYOLICA O
+
+ 
+
+**C**
+
+LADRILLO O SIMILAR
+
+HORIZONTALES.
+
+ 
+
+ 
+
+ENCHAPE EN TECHOS.
+
+CERAMICO
+
+ 
+
+ 
+
+CON COLUMNAS Y
+
+ 
+
+ 
+
+ 
+
+ 
+
+NACIONAL DE COLOR.
+
+ 
+
+ 
+
+VIGAS DE AMARRE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**160,73**
+
+118,56
+
+76,63
+
+66,96
+
+119,07
+
+37,71
+
+93,09
+
+ 
+
+LADRILLO O SIMILAR
+
+CALAMINA METALICA
+
+PARQUET DE 1era. ,
+
+VENTANAS DE ALUMINIO
+
+ENCHAPE DE MADERA O
+
+BAÑOS COMPLETOS
+
+AGUA FRIA, AGUA
+
+ 
+
+ 
+
+FIBROCEMENTO
+
+LAJAS, CERAMICA
+
+PUERTAS DE MADERA
+
+LAMINADOS, PIEDRA O
+
+NACIONALES
+
+CALIENTE, CORRIENTE
+
+**D**
+
+ 
+
+SOBRE
+
+NACIONAL, LOSETA
+
+SELECTA, VIDRIO
+
+MATERIAL
+
+BLANCOS CON
+
+TRIFASICA,
+
+ 
+
+ 
+
+VIGUERIA METALICA.
+
+VENECIANA 40x40
+
+TRANSPARENTE.
+
+VITRIFICADO.
+
+MAYOLICA BLANCA.
+
+TELEFONO.
+
+ 
+
+**155,43**
+
+75,25
+
+67,60
+
+58,65
+
+91,36
+
+20,12
+
+58,92
+
+ 
+
+ADOBE, TAPIAL O
+
+MADERA CON
+
+PARQUET DE 2da. LOSETA
+
+VENTANAS DE FIERRO
+
+SUPERFICIE DE
+
+BAÑOS CON
+
+AGUA FRIA, AGUA
+
+ 
+
+QUINCHA
+
+MATERIAL
+
+VENECIANA 30x30
+
+PUERTAS DE MADERA
+
+LADRILLO CARAVISTA.
+
+MAYOLICA
+
+CALIENTE, CORRIENTE
+
+**E**
+
+ 
+
+IMPERMEABILIZANTE.
+
+LAJAS DE CEMENTO CON
+
+SELECTA (CAOBA O
+
+ 
+
+BLANCA PARCIAL.
+
+MONOFASICA,
+
+ 
+
+ 
+
+ 
+
+CANTO RODADO.
+
+SIMILAR) VIDRIO
+
+ 
+
+ 
+
+TELEFONO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRANSPARENTE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**110,40**
+
+28,06
+
+45,29
+
+50,18
+
+62,85
+
+11,83
+
+42,83
+
+ 
+
+MADERA
+
+CALAMINA METALICA
+
+LOSETA CORRIENTE,
+
+VENTANAS DE FIERRO O
+
+TARRAJEO FROTACHADO
+
+BAÑOS BLANCOS
+
+AGUA FRIA, CORRIENTE
+
+ 
+
+ 
+
+FIBROCEMENTO O TEJA
+
+CANTO RODADO.
+
+ALUMINIO INDUSTRIAL,
+
+Y/O YESO MOLDURADO,
+
+SIN MAYOLICA.
+
+MONOFASICA.
+
+ 
+
+ 
+
+SOBRE VIGUERIA DE
+
+ 
+
+PUERTAS CONTRAPLA-
+
+PINTURA LAVABLE.
+
+ 
+
+ 
+
+**F**
+
+ 
+
+MADERA CORRIENTE.
+
+ 
+
+CADAS DE MADERA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(CEDRO O SIMILAR)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VIDRIO TRANSPARENTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEMIDOBLE O SIMPLE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**82,41**
+
+15,43
+
+30,93
+
+37,68
+
+44,31
+
+8,81
+
+23,56
+
+ 
+
+PIRCADO CON MEZCLA
+
+MADERA RUSTICA O
+
+LOSETA VINILICA,
+
+MADERA CORRIENTE CON
+
+ESTUCADO DE YESO Y/O
+
+SANITARIOS BASICOS
+
+AGUA FRIA, CORRIENTE
+
+**G**
+
+DE BARRO.
+
+CAÑA CON TORTA
+
+CEMENTO BRUÑADO
+
+MARCOS EN PUERTAS
+
+BARRO, PINTURA AL
+
+DE LOSA DE 2da,
+
+MONOFASICA SIN
+
+ 
+
+ 
+
+DE BARRO.
+
+COLOREADO.
+
+Y VENTANAS DE PVC O
+
+TEMPLE O AGUA.
+
+FIERRO FUNDIDO
+
+EMPOTRAR.
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADERA CORRIENTE
+
+ 
+
+O GRANITO.
+
+ 
+
+ 
+
+**48,71**
+
+10,64
+
+27,38
+
+20,41
+
+36,44
+
+6,08
+
+12,76
+
+ 
+
+ 
+
+SIN TECHO
+
+CEMENTO PULIDO,
+
+MADERA RUSTICA.
+
+PINTADO EN LADRILLO
+
+SIN APARATOS
+
+SIN INSTALACION
+
+**H**
+
+ 
+
+ 
+
+LADRILLO CORRIENTE,
+
+ 
+
+RUSTICO, PLACA DE
+
+SANITARIOS.
+
+ELECTRICA NI
+
+ 
+
+ 
+
+ 
+
+ENTABLADO CORRIENTE.
+
+ 
+
+CONCRETO O SIMILAR.
+
+ 
+
+SANITARIA.
+
+ 
+
+**...**
+
+0,00
+
+17,13
+
+10,21
+
+14,58
+
+0,00
+
+0,00
+
+ 
+
+ 
+
+ 
+
+TIERRA COMPACTADA
+
+SIN PUERTAS NI
+
+SIN REVESTIMIENTOS
+
+ 
+
+ 
+
+**I**
+
+ 
+
+ 
+
+ 
+
+VENTANAS.
+
+EN LADRILLO,ADOBE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O SIMILAR.
+
+ 
+
+ 
+
+ 
+
+**...**
+
+...
+
+3,43
+
+0,00
+
+0,00
+
+...
+
+...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EN EDIFICIOS AUMENTAR EL VALOR POR M2 EN 5 % A PARTIR DEL 5 PISO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EL VALOR UNITARIO POR M2 PARA UNA EDIFICACION DETERMINADA, SE OBTIENE SUMANDO LOS VALORES SELECCIONADOS DE CADA UNA DE LAS 7 COLUMNAS DEL CUADRO, DE ACUERDO A SUS
+
+CARACTERISTICAS PREDOMINANTES.
+
+ 
+
+ 
+
+ 
+
+LA DEMARCACION TERRITORIAL CONSIGNADA ES DE USO EXCLUSIVO PARA LA APLICACIÓN DEL PRESENTE CUADRO.
+
+ABARCA LAS LOCALIDADES UBICADAS EN EL TERRITORIO SOBRE LA VERTIENTE OCCIDENTAL DE LA CORDILLERA DE LOS ANDES Y LIMITANDO: AL NORTE POR LA FRONTERA CON EL ECUADOR; AL SUR,
+
+POR LA FRONTERA CON CHILE; AL OESTE, POR LA LINEA DE BAJA MAREA DEL LITORAL; Y AL ESTE POR UNA LINEA QUE SIGUE APROXIMADAMENTE, LA CURVA DEL NIVEL DE 2000 m.s.n.m.
+
+  
+
+**ANEXO 01**
+
+**CUADRO DE VALORES UNITARIOS OFICIALES DE EDIFICACIONES**
+
+**PARA LA SIERRA AL 31 DE OCTUBRE DE 2008**
+
+**R.M. N° 685-2008-VIVIENDA**
+
+ 
+
+**FECHA : 30 de octubre de 2008**
+
+**VALORES POR PARTIDAS EN NUEVOS SOLES POR METRO CUADRADO DE AREA TECHADA**
+
+ 
+
+**E S T R U C T U R A S**
+
+A C A B A D O S
+
+**INSTALACIONES**
+
+ 
+
+**MUROS Y**
+
+ 
+
+ 
+
+**PUERTAS Y**
+
+REVESTI-
+
+ 
+
+ELECTRICAS Y
+
+ 
+
+**COLUMNAS**
+
+TECHOS
+
+PISOS
+
+VENTANAS
+
+MIENTOS
+
+BAÑOS
+
+SANITARIAS
+
+ 
+
+**(1)**
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+ 
+
+ESTRUCTURAS LAMINA-
+
+LOSA O ALIGERADO DE
+
+MARMOL IMPORTADO,
+
+ALUMINIO PESADO CON
+
+MARMOL IMPORTADO,
+
+BAÑOS COMPLETOS
+
+AIRE ACONDICIONADO,
+
+ 
+
+RES CURVADAS DE
+
+CONCRETO ARMADO
+
+PORCELANATO
+
+PERFILES ESPECIALES
+
+MADERA FINA (CAOBA
+
+DE LUJO
+
+ILUMINACION ESPECIAL,
+
+ 
+
+CONCRETO ARMADO
+
+CON LUCES MAYORES
+
+ 
+
+MADERA FINA ORNA-
+
+O SIMILAR) BALDOSA
+
+IMPORTADO CON
+
+SIST. HIDRONEUMATICO,
+
+ 
+
+QUE INCLUYEN EN UNA
+
+DE 6 M. CON SOBRE-
+
+ 
+
+MENTAL (CAOBA,
+
+ACUSTICO EN TECHO
+
+ENCHAPE FINO
+
+AGUA CALIENTE Y FRIA,
+
+**A**
+
+SOLA ARMADURA LA
+
+CARGA MAYOR A
+
+ 
+
+CEDRO O PINO SELECTO)
+
+O SIMILAR.
+
+(MARMOL O
+
+INTERCOMUNICADOR,
+
+ 
+
+CIMENTACION Y EL
+
+300 KG/M2
+
+ 
+
+CRISTALES.
+
+ 
+
+SIMILAR)
+
+ALARMAS, ASCENSOR,
+
+ 
+
+TECHO, PARA ESTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DESAGUE POR BOMBEO,
+
+ 
+
+CASO NO SE CONSIDERA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TELEFONO.
+
+ 
+
+LOS VALORES DE LA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COLUMNA Nº 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**399,22**
+
+206,08
+
+146,23
+
+156,42
+
+197,39
+
+70,01
+
+249,46
+
+ 
+
+COLUMNAS, VIGAS Y/O
+
+ALIGERADOS O LOSAS
+
+MARMOL NACIONAL O
+
+ALUMINIO O MADERA
+
+MARMOL NACIONAL,
+
+BAÑOS COMPLETOS
+
+SISTEMA DE BOMBEO
+
+ 
+
+PLACAS DE
+
+DE CONCRETO
+
+RECONSTITUIDO,
+
+FINA (CAOBA O
+
+MADERA FINA (CAOBA
+
+IMPORTADOS CON
+
+DE AGUA POTABLE,
+
+**B**
+
+CONCRETO ARMADO
+
+ARMADO
+
+PARQUET FINO (OLIVO,
+
+SIMILAR) DE DISEÑO
+
+O SIMILAR)
+
+MAYOLICA O
+
+ASCENSOR
+
+ 
+
+Y/O METALICAS.
+
+INCLINADAS
+
+CHONTA O SIMILAR),
+
+ESPECIAL, VIDRIO
+
+ENCHAPES EN TECHOS.
+
+CERAMICO
+
+TELEFONO, AGUA
+
+ 
+
+ 
+
+ 
+
+CERAMICA IMPORTADA
+
+POLARIZADO CURVADO.
+
+ 
+
+DECORATIVO
+
+CALIENTE Y FRIA.
+
+ 
+
+ 
+
+ 
+
+MADERA FINA.
+
+ 
+
+ 
+
+IMPORTADO.
+
+ 
+
+ 
+
+**235,79**
+
+141,68
+
+121,93
+
+139,59
+
+158,98
+
+50,43
+
+146,73
+
+ 
+
+PLACAS DE CONCRETO,
+
+ALIGERADO O LOSAS
+
+MADERA FINA
+
+ALUMINIO O MADERA
+
+SUPERFICIE CARAVISTA
+
+BAÑOS COMPLETOS
+
+IGUAL AL PUNTO “B”
+
+ 
+
+(e = 10 A 15 cm.)
+
+DE CONCRETO
+
+MACHIHEMBRADA
+
+FINA (CAOBA O SIMILAR)
+
+OBTENIDA MEDIANTE
+
+NACIONALES CON
+
+SIN ASCENSOR.
+
+ 
+
+ALBAÑILERIA ARMADA,
+
+ARMADO
+
+TERRAZO.
+
+VIDRIO POLARIZADO.
+
+ENCOFRADO ESPECIAL,
+
+MAYOLICA O
+
+ 
+
+**C**
+
+LADRILLO O SIMILAR
+
+HORIZONTALES.
+
+ 
+
+ 
+
+ENCHAPE EN TECHOS.
+
+CERAMICO
+
+ 
+
+ 
+
+CON COLUMNAS Y
+
+ 
+
+ 
+
+ 
+
+ 
+
+NACIONAL DE COLOR.
+
+ 
+
+ 
+
+VIGAS DE AMARRE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**174,14**
+
+100,46
+
+80,31
+
+102,80
+
+132,82
+
+33,24
+
+111,13
+
+ 
+
+LADRILLO, SILLAR
+
+CALAMINA METALICA
+
+PARQUET DE 1era. ,
+
+VENTANAS DE ALUMINIO
+
+ENCHAPE DE MADERA O
+
+BAÑOS COMPLETOS
+
+AGUA FRIA, AGUA
+
+ 
+
+O SIMILAR.
+
+FIBROCEMENTO
+
+LAJAS, CERAMICA
+
+PUERTAS DE MADERA
+
+LAMINADOS, PIEDRA O
+
+NACIONALES
+
+CALIENTE, CORRIENTE
+
+**D**
+
+ 
+
+SOBRE
+
+NACIONAL, LOSETA
+
+SELECTA, VIDRIO
+
+MATERIAL
+
+BLANCOS CON
+
+TRIFASICA,
+
+ 
+
+ 
+
+VIGUERIA METALICA.
+
+VENECIANA 40x40
+
+TRANSPARENTE.
+
+VITRIFICADO.
+
+MAYOLICA BLANCA.
+
+TELEFONO.
+
+ 
+
+**160,84**
+
+68,32
+
+65,85
+
+60,30
+
+101,59
+
+20,33
+
+62,97
+
+ 
+
+ADOBE, TAPIAL O
+
+MADERA CON
+
+PARQUET DE 2da. LOSETA
+
+VENTANAS DE FIERRO
+
+SUPERFICIE DE
+
+BAÑOS CON
+
+AGUA FRIA, AGUA
+
+ 
+
+QUINCHA.
+
+MATERIAL
+
+VENECIANA 30x30
+
+PUERTAS DE MADERA
+
+LADRILLO CARAVISTA.
+
+MAYOLICA
+
+CALIENTE, CORRIENTE
+
+**E**
+
+ 
+
+IMPERMEABILIZANTE.
+
+LAJAS DE CEMENTO CON
+
+SELECTA (CAOBA O
+
+ 
+
+BLANCA PARCIAL.
+
+MONOFASICA,
+
+ 
+
+ 
+
+ 
+
+CANTO RODADO.
+
+SIMILAR) VIDRIO
+
+ 
+
+ 
+
+TELEFONO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRANSPARENTE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**127,40**
+
+31,37
+
+54,46
+
+46,06
+
+84,52
+
+9,97
+
+35,04
+
+ 
+
+MADERA
+
+CALAMINA METALICA
+
+LOSETA CORRIENTE,
+
+VENTANAS DE FIERRO O
+
+TARRAJEO FROTACHA-
+
+BAÑOS BLANCOS
+
+AGUA FRIA, CORRIENTE
+
+ 
+
+ 
+
+FIBROCEMENTO
+
+CANTO RODADO.
+
+ALUMINIO INDUSTRIAL,
+
+DO Y/O YESO MOLDU-
+
+SIN MAYOLICA.
+
+MONOFASICA.
+
+ 
+
+ 
+
+O TEJAS
+
+ 
+
+PUERTAS CONTRAPLA-
+
+RADO, PINTURA
+
+ 
+
+ 
+
+**F**
+
+ 
+
+SOBRE VIGUERIA DE
+
+ 
+
+CADAS DE MADERA
+
+LAVABLE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADERA CORRIENTE.
+
+ 
+
+(CEDRO O SIMILAR)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VIDRIO TRANSPARENTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEMIDOBLE O SIMPLE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**78,74**
+
+25,09
+
+44,48
+
+35,62
+
+50,40
+
+8,47
+
+22,78
+
+ 
+
+PIRCADO CON MEZCLA
+
+SIN TECHO
+
+LOSETA VINILICA,
+
+MADERA CORRIENTE CON
+
+ESTUCADO DE YESO
+
+SANITARIOS BASICOS
+
+AGUA FRIA, CORRIENTE
+
+**G**
+
+DE BARRO.
+
+ 
+
+CEMENTO BRUÑADO
+
+MARCOS EN PUERTAS
+
+Y/O BARRO, PINTURA
+
+DE LOSA DE 2da,
+
+MONOFASICA SIN
+
+ 
+
+ 
+
+ 
+
+COLOREADO.
+
+Y VENTANAS DE PVC O
+
+AL TEMPLE O AGUA.
+
+FIERRO FUNDIDO
+
+EMPOTRAR.
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADERA CORRIENTE
+
+ 
+
+O GRANITO.
+
+ 
+
+ 
+
+**46,54**
+
+0,00
+
+33,38
+
+21,05
+
+37,56
+
+5,84
+
+13,46
+
+ 
+
+ 
+
+ 
+
+CEMENTO PULIDO,
+
+MADERA RUSTICA.
+
+PINTADO EN LADRILLO
+
+SIN APARATOS
+
+SIN INSTALACION
+
+**H**
+
+ 
+
+ 
+
+LADRILLO CORRIENTE,
+
+ 
+
+RUSTICO, PLACA DE
+
+SANITARIOS.
+
+ELECTRICA NI
+
+ 
+
+ 
+
+ 
+
+ENTABLADO CORRIENTE.
+
+ 
+
+CONCRETO O SIMILAR.
+
+ 
+
+SANITARIA.
+
+ 
+
+**...**
+
+...
+
+18,03
+
+10,53
+
+15,02
+
+0,00
+
+0,00
+
+ 
+
+ 
+
+ 
+
+TIERRA COMPACTADA
+
+SIN PUERTAS NI
+
+SIN REVESTIMIENTOS
+
+ 
+
+ 
+
+**I**
+
+ 
+
+ 
+
+ 
+
+VENTANAS.
+
+EN LADRILLO,ADOBE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O SIMILAR.
+
+ 
+
+ 
+
+ 
+
+**...**
+
+...
+
+3,97
+
+0,00
+
+0,00
+
+...
+
+...
+
+ 
+
+ 
+
+EN EDIFICIOS AUMENTAR EL VALOR POR M2 EN 5 % A PARTIR DEL 5 PISO
+
+EL VALOR UNITARIO POR M2 PARA UNA EDIFICACION DETERMINADA, SE OBTIENE SUMANDO LOS VALORES SELECCIONADOS DE UNA DE LAS 7 COLUMNAS DEL CUADRO, DE ACUERDO A SUS
+
+CARACTERISTICAS PREDOMINANTES.
+
+ 
+
+ 
+
+LA DEMARCACION TERRITORIAL CONSIGNADA ES DE USO EXCLUSIVO PARA LA APLICACIÓN DEL PRESENTE CUADRO.
+
+ABARCA LAS LOCALIDADES UBICADAS EN LA FAJA LONGITUDINAL DEL TERRITORIO LIMITADA, AL NORTE POR LA FRONTERA CON ECUADOR, AL SUR POR LA FRONTERA CON CHILE Y BOLIVIA, AL
+
+OESTE POR LA CURVA DE NIVEL DE 2000 m.s.n.m. QUE LA SEPARA DE LA COSTA ESTE, POR UNA CURVA DE NIVEL QUE LA SEPARA DE LA SELVA , QUE PARTIENDO DE LA FRONTERA CON EL ECUADOR,
+
+CONTINUA HASTA SU CONFLUENCIA CON EL RIO NOVA, AFLUENTE DEL SAN ALEJANDRO, EN DONDE ASCIENDE HASTA LA COTA 2000 Y CONTINUA POR ESTA HACIA EL SUR HASTA SU CONFLUENCIA
+
+CON EL RIO SANABENI, AFLUENTE DEL ENE, DE ESTE PUNTO BAJA HASTA LA COTA 1500 Y CONTINUA HASTA LA FRONTERA CON BOLIVIA.
+
+  
+
+**ANEXO 01**
+
+**CUADRO DE VALORES UNITARIOS OFICIALES DE EDIFICACIONES**
+
+**PARA LA SELVA AL 31 DE OCTUBRE DE 2008**
+
+**R.M. N° 685-2008-VIVIENDA**
+
+ 
+
+**FECHA : 30 de octubre de 2008**
+
+**VALORES POR PARTIDAS EN NUEVOS SOLES POR METRO CUADRADO DE AREA TECHADA**
+
+ 
+
+**E S T R U C T U R A S**
+
+A C A B A D O S
+
+**INSTALACIONES**
+
+ 
+
+**MUROS Y**
+
+ 
+
+ 
+
+**PUERTAS Y**
+
+REVESTI-
+
+ 
+
+ELECTRICAS Y
+
+ 
+
+**COLUMNAS**
+
+TECHOS
+
+PISOS
+
+VENTANAS
+
+MIENTOS
+
+BAÑOS
+
+SANITARIAS
+
+ 
+
+**(1)**
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+ 
+
+ESTRUCTURAS LAMINA-
+
+LOSA O ALIGERADO DE
+
+MARMOL IMPORTADO,
+
+ALUMINIO PESADO CON
+
+MARMOL IMPORTADO,
+
+BAÑOS COMPLETOS
+
+AIRE ACONDICIONADO,
+
+ 
+
+RES CURVADAS DE
+
+CONCRETO ARMADO
+
+PORCELANATO
+
+PERFILES ESPECIALES
+
+MADERA FINA (CAOBA
+
+DE LUJO
+
+ILUMINACION ESPECIAL,
+
+ 
+
+CONCRETO ARMADO
+
+CON LUCES MAYORES
+
+ 
+
+MADERA FINA ORNA-
+
+O SIMILAR) BALDOSA
+
+IMPORTADO CON
+
+SIST. HIDRONEUMATICO,
+
+ 
+
+QUE INCLUYEN EN UNA
+
+DE 6 M. CON SOBRE-
+
+ 
+
+MENTAL (CAOBA,
+
+ACUSTICO EN TECHO
+
+ENCHAPE FINO
+
+AGUA CALIENTE Y FRIA,
+
+**A**
+
+SOLA ARMADURA LA
+
+CARGA MAYOR A
+
+ 
+
+CEDRO O PINO SELECTO)
+
+O SIMILAR.
+
+(MARMOL O
+
+INTERCOMUNICADOR,
+
+ 
+
+CIMENTACION Y EL
+
+300 KG/M2
+
+ 
+
+CRISTALES.
+
+ 
+
+SIMILAR)
+
+ALARMAS, ASCENSOR,
+
+ 
+
+TECHO, PARA ESTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DESAGUE POR BOMBEO,
+
+ 
+
+CASO NO SE CONSIDERA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TELEFONO.
+
+ 
+
+LOS VALORES DE LA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COLUMNA Nº 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**421,22**
+
+214,15
+
+261,04
+
+177,14
+
+210,05
+
+76,64
+
+259,07
+
+ 
+
+COLUMNAS, VIGAS Y/O
+
+ALIGERADOS O LOSAS
+
+MARMOL NACIONAL O
+
+ALUMINIO O MADERA
+
+MARMOL NACIONAL,
+
+BAÑOS COMPLETOS
+
+SISTEMA DE BOMBEO
+
+ 
+
+PLACAS DE
+
+DE CONCRETO
+
+RECONSTITUIDO,
+
+FINA (CAOBA O
+
+MADERA FINA (CAOBA
+
+IMPORTADOS CON
+
+DE AGUA POTABLE,
+
+**B**
+
+CONCRETO ARMADO
+
+ARMADO
+
+PARQUET FINO (OLIVO,
+
+SIMILAR) DE DISEÑO
+
+O SIMILAR)
+
+MAYOLICA O
+
+ASCENSOR
+
+ 
+
+Y/O METALICAS.
+
+INCLINADAS
+
+CHONTA O SIMILAR),
+
+ESPECIAL, VIDRIO
+
+ENCHAPES EN TECHOS.
+
+CERAMICO
+
+TELEFONO, AGUA
+
+ 
+
+ 
+
+ 
+
+CERAMICA IMPORTADA
+
+POLARIZADO CURVADO.
+
+ 
+
+DECORATIVO
+
+CALIENTE Y FRIA.
+
+ 
+
+ 
+
+ 
+
+MADERA FINA.
+
+ 
+
+ 
+
+IMPORTADO.
+
+ 
+
+ 
+
+**287,39**
+
+152,38
+
+126,02
+
+141,75
+
+146,05
+
+54,95
+
+156,33
+
+ 
+
+PLACAS DE CONCRETO,
+
+ALIGERADO O LOSAS
+
+MADERA FINA
+
+ALUMINIO O MADERA
+
+SUPERFICIE CARAVISTA
+
+BAÑOS COMPLETOS
+
+IGUAL AL PUNTO “B”
+
+ 
+
+(e = 10 A 15 cm.)
+
+DE CONCRETO
+
+MACHIHEMBRADA
+
+FINA (CAOBA O SIMILAR)
+
+OBTENIDA MEDIANTE
+
+NACIONALES CON
+
+SIN ASCENSOR.
+
+ 
+
+ALBAÑILERIA ARMADA,
+
+ARMADO
+
+TERRAZO.
+
+VIDRIO POLARIZADO.
+
+ENCOFRADO ESPECIAL,
+
+MAYOLICA O
+
+ 
+
+**C**
+
+LADRILLO O SIMILAR
+
+HORIZONTALES.
+
+ 
+
+ 
+
+ENCHAPE EN TECHOS.
+
+CERAMICO
+
+ 
+
+ 
+
+CON COLUMNAS Y
+
+ 
+
+ 
+
+ 
+
+ 
+
+NACIONAL DE COLOR.
+
+ 
+
+ 
+
+VIGAS DE AMARRE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**213,25**
+
+115,50
+
+83,07
+
+108,33
+
+124,97
+
+38,89
+
+114,50
+
+ 
+
+LADRILLO O SIMILAR
+
+CALAMINA METALICA
+
+PARQUET DE 1era. ,
+
+VENTANAS DE ALUMINIO
+
+ENCHAPE DE MADERA O
+
+BAÑOS COMPLETOS
+
+AGUA FRIA,
+
+ 
+
+ 
+
+FIBROCEMENTO
+
+LAJAS, CERAMICA
+
+PUERTAS DE MADERA
+
+LAMINADOS, PIEDRA O
+
+NACIONALES
+
+CORRIENTE TRIFASICA,
+
+**D**
+
+ 
+
+SOBRE
+
+NACIONAL, LOSETA
+
+SELECTA, VIDRIO
+
+MATERIAL
+
+BLANCOS CON
+
+TELEFONO.
+
+ 
+
+ 
+
+VIGUERIA METALICA.
+
+VENECIANA 40x40
+
+TRANSPARENTE.
+
+VITRIFICADO.
+
+MAYOLICA
+
+ 
+
+ 
+
+**164,88**
+
+100,69
+
+70,43
+
+72,61
+
+90,31
+
+26,37
+
+63,67
+
+ 
+
+MADERA SELECTA TRATA
+
+MADERA SELECTA
+
+PARQUET DE 2da. LOSETA
+
+VENTANAS DE FIERRO
+
+SUPERFICIE DE
+
+BAÑOS CON
+
+AGUA FRIA,
+
+ 
+
+DA SOBRE PILOTAJE DE
+
+TRATADA CON
+
+VENECIANA 30x30
+
+PUERTAS DE MADERA
+
+LADRILLO CARAVISTA.
+
+MAYOLICA
+
+CORRIENTE
+
+**E**
+
+MADERA CON BASE DE
+
+MATERIAL
+
+LAJAS DE CEMENTO CON
+
+SELECTA (CAOBA O
+
+ 
+
+BLANCA PARCIAL.
+
+MONOFASICA
+
+ 
+
+CONCRETO CON MUROS
+
+IMPERMEABILIZANTE.
+
+CANTO RODADO.
+
+SIMILAR) VIDRIO
+
+ 
+
+ 
+
+TELEFONO
+
+ 
+
+DE
+
+ 
+
+ 
+
+TRANSPARENTE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+MADERA CONTRAPLA-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CADA O SIMILAR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**131,90**
+
+73,31
+
+56,82
+
+47,15
+
+69,12
+
+13,09
+
+43,05
+
+ 
+
+ADOBE O SIMILAR
+
+CALAMINA METALICA
+
+LOSETA CORRIENTE,
+
+VENTANAS DE FIERRO O
+
+TARRAJEO FROTACHADO
+
+BAÑOS BLANCOS
+
+AGUA FRIA, CORRIENTE
+
+ 
+
+ 
+
+FIBROCEMENTO
+
+CANTO RODADO.
+
+ALUMINIO INDUSTRIAL,
+
+Y/O YESO MOLDURADO,
+
+SIN MAYOLICA.
+
+MONOFASICA.
+
+ 
+
+ 
+
+O TEJAS
+
+ 
+
+PUERTAS CONTRAPLA-
+
+PINTURA LAVABLE O
+
+ 
+
+ 
+
+**F**
+
+ 
+
+SOBRE TIJERALES
+
+ 
+
+CADAS DE MADERA
+
+BARNIZADO SOBRE
+
+ 
+
+ 
+
+ 
+
+ 
+
+DE MADERA
+
+ 
+
+(CEDRO O SIMILAR)
+
+MADERA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VIDRIO TRANSPARENTE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEMIDOBLE O SIMPLE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+**103,24**
+
+33,71
+
+46,27
+
+38,45
+
+52,94
+
+11,12
+
+23,77
+
+ 
+
+MADERA TRATADA
+
+TECHOS DE PALMAS
+
+LOSETA VINILICA,
+
+MADERA CORRIENTE CON
+
+ESTUCADO DE YESO Y/O
+
+SANITARIOS BASICOS
+
+AGUA FRIA, CORRIENTE
+
+ 
+
+SELECTA CON BASE DE
+
+(CRISNEJAS)
+
+CEMENTO BRUÑADO
+
+MARCOS EN PUERTAS
+
+BARRO, PINTURA AL
+
+DE LOSA DE 2da,
+
+MONOFASICA SIN
+
+**G**
+
+CONCRETO CON MUROS
+
+ 
+
+COLOREADO.
+
+Y VENTANAS DE PVC O
+
+TEMPLE O AGUA.
+
+FIERRO FUNDIDO
+
+EMPOTRAR.
+
+ 
+
+DE MADERA TIPO CON-
+
+ 
+
+ 
+
+MADERA CORRIENTE
+
+ 
+
+O GRANITO.
+
+ 
+
+ 
+
+TRAPLACADA O SIMILAR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**86,73**
+
+26,57
+
+38,32
+
+22,73
+
+44,32
+
+7,67
+
+14,05
+
+ 
+
+MADERA CORRIENTE
+
+SIN TECHO
+
+CEMENTO PULIDO,
+
+MADERA RUSTICA.
+
+PINTADO EN LADRILLO
+
+SIN APARATOS
+
+SIN INSTALACION
+
+**H**
+
+ 
+
+ 
+
+LADRILLO CORRIENTE,
+
+ 
+
+RUSTICO, PLACA DE
+
+SANITARIOS.
+
+ELECTRICA NI
+
+ 
+
+ 
+
+ 
+
+ENTABLADO CORRIENTE.
+
+ 
+
+CONCRETO O SIMILAR.
+
+ 
+
+SANITARIA.
+
+ 
+
+**44,79**
+
+0,00
+
+14,75
+
+11,36
+
+17,73
+
+0,00
+
+0,00
+
+ 
+
+MADERA RUSTICA
+
+ 
+
+TIERRA COMPACTADA
+
+SIN PUERTAS NI
+
+SIN REVESTIMIENTOS
+
+ 
+
+ 
+
+**I**
+
+ 
+
+ 
+
+ 
+
+VENTANAS.
+
+EN LADRILLO,ADOBE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O SIMILAR.
+
+ 
+
+ 
+
+ 
+
+**17,91**
+
+...
+
+3,24
+
+0,00
+
+...
+
+0,00
+
+...
+
+ 
+
+CAÑA GUAYAQUIL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**J**
+
+PONA O PINTOC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**7,17**
+
+...
+
+0,00
+
+...
+
+...
+
+...
+
+...
+
+ 
+
+ 
+
+EN EDIFICIOS AUMENTAR EL VALOR POR M2 EN 5 % A PARTIR DEL 5 PISO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EL VALOR UNITARIO POR M2 PARA UNA EDIFICACION DETERMINADA, SE OBTIENE SUMANDO LOS VALORES SELECCIONADOS DE UNA DE LAS 7 COLUMAS DEL CUADRO, DE ACUERDO A SUS
+
+CARACTERISTICAS PREDOMINANTES.
+
+ 
+
+ 
+
+LA DEMARCACION TERRITORIAL CONSIGNADA ES DE USO EXCLUSIVO PARA LA APLICACIÓN DEL PRESENTE CUADRO.
+
+ABARCA LAS LOCALIDADES UBICADAS EN EL TERRITORIO COMPRENDIDO ENTRE LOS LIMITES CON EL ECUADOR, COLOMBIA, BRASIL, BOLIVIA Y LA CURVA DE NIVEL DE 1500 m.s.n.m. DE LA
+
+VERTIENTE ORIENTAL DE LOS ANDES QUE PARTIENDO DE LA FRONTERA CON EL ECUADOR CONTINUA HASTA SU CONFLUENCIA CON EL RIO NOVA, AFLUENTE DEL SAN ALEJANDRO, EN DONDE
+
+ASCIENDE HASTA LA COTA 2000 CONTINUA POR ESTA HACIA EL SUR HASTA SU CONFLUENCIA CON EL SANABENI AFLUENTE DEL ENE, DE ESTE PUNTO BAJA HASTA LA COTA 1500 POR LA QUE
+
+CONTINUA HASTA LA FRONTERA CON BOLIVIA.
+
+ 
+
+  
+
+**ANEXO 02  
+**
+
+**METODOLOGÍA PARA LA DETERMINACIÓN DE LA BASE IMPONIBLE DE LAS INSTALACIONES FIJAS Y PERMANENTES PARA EL CÁLCULO DEL IMPUESTO PREDIAL  
+**
+
+      Para la determinación de la base imponible de las instalaciones fijas y permanentes para el cálculo del impuesto predial, se tomará como metodología lo señalado en el Reglamento Nacional de Tasaciones del Perú en su Título II, Capítulo D y Artículo II.D.32.  
+
+     “Las edificaciones con características o usos especiales, las obras complementarias, las instalaciones fijas y permanentes, así como las construcciones inconclusas**se valorizarán de acuerdo a los elementos que las conforman** , y la depreciación por antigüedad y estado de conservación será estimada por el perito en concordancia con las características y vida útil de dichas obras”.  
+
+     “Para el caso de valuaciones reglamentarias se aplicará el factor de oficialización vigente conforme a lo estipulado en el artículo II.A.07”
+
+     Se deberá tener en cuenta que para identificar a las instalaciones fijas y permanentes, éstas deben constituirse como partes integrantes del predio, que no puedan ser separadas sin alterar, deteriorar o destruir la edificación.
+
+     Asimismo para la determinación del valor de las construcciones especiales, cuyas características constructivas presenten tijerales de 1 o 2 aguas, techos parabólicos, semicirculares, horizontales, etc., que posean como elemento estructural la madera y/o metálicos, se aplicará la metodología establecida en el presente anexo, siempre y cuando posean la condición de una instalación fija y permanente. Las citadas valorizaciones deberán contener los parámetros constructivos que la conforman tales como la cimentación, columnas, vigas, tabiquería, cobertura, pisos, puertas y ventanas, baños, instalaciones eléctricas y sanitarias
+
+     **Metodología.-  
+**
+
+      Para la determinación del valor de las edificaciones con características especiales, de las obras complementarias e instalaciones fijas y permanentes, se deberán efectuar los correspondientes análisis de costos unitarios de cada una de las partidas que conforman la instalación, considerando exclusivamente su costo directo, no debiendo incluirse los gastos generales, utilidad e impuestos.  
+
+     Los valores resultantes deben estar referidos al 31 de octubre del año anterior.
+
+     La resultante del valor obtenido se multiplicará por el**FACTOR DE OFICIALIZACIÓN: Fo = 0,68** .
