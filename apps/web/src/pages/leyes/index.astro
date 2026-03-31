@@ -1,0 +1,214 @@
+---
+import { readFileSync, readdirSync } from 'node:fs'
+import { join } from 'node:path'
+import Layout from '../../layouts/Layout.astro'
+
+interface LeyFrontmatter {
+  titulo: string
+  identificador: string
+  rango: string
+  fechaPublicacion: string
+  estado: string
+}
+
+function parseFrontmatter(content: string): LeyFrontmatter {
+  const parts = content.split('---')
+  const yamlBlock = parts[1] ?? ''
+  const result: Record<string, string> = {}
+  for (const line of yamlBlock.split('\n')) {
+    const match = line.match(/^(\w+):\s*"?([^"]*)"?\s*$/)
+    if (match) {
+      result[match[1]] = match[2].trim()
+    }
+  }
+  return result as unknown as LeyFrontmatter
+}
+
+const leyesDir = join(process.cwd(), '../../leyes/pe')
+const files = readdirSync(leyesDir).filter((f) => f.endsWith('.md'))
+
+const leyes = files.map((filename) => {
+  const content = readFileSync(join(leyesDir, filename), 'utf-8')
+  return parseFrontmatter(content)
+}).sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'))
+
+const rangoLabels: Record<string, string> = {
+  constitucion: 'Constitución',
+  ley: 'Ley',
+  'decreto-legislativo': 'Decreto Legislativo',
+  'decreto-urgencia': 'Decreto de Urgencia',
+  'decreto-supremo': 'Decreto Supremo',
+}
+---
+
+<Layout title="Normas — Legalize PE" description="Listado de normas legales peruanas disponibles en Legalize PE">
+  <main>
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="/">Inicio</a>
+        <span>/</span>
+        <span>Normas</span>
+      </nav>
+
+      <header class="page-header">
+        <h1>Normas disponibles</h1>
+        <p class="subtitle">
+          {leyes.length} norma{leyes.length !== 1 ? 's' : ''} de legislación nacional peruana
+        </p>
+      </header>
+
+      <ul class="leyes-list">
+        {leyes.map((ley) => (
+          <li>
+            <a href={`/leyes/${ley.identificador}`} class="ley-card">
+              <div class="ley-card-main">
+                <span class="ley-titulo">{ley.titulo}</span>
+                <div class="ley-meta">
+                  <span class="badge badge-rango">
+                    {rangoLabels[ley.rango] ?? ley.rango}
+                  </span>
+                  {ley.estado === 'vigente' && (
+                    <span class="badge badge-vigente">Vigente</span>
+                  )}
+                  <span class="fecha">{ley.fechaPublicacion}</span>
+                </div>
+              </div>
+              <span class="ley-arrow" aria-hidden="true">&rarr;</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb span:not(:last-child) {
+    color: var(--color-border);
+  }
+
+  .page-header {
+    margin-bottom: 2.5rem;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    color: var(--color-text-muted);
+  }
+
+  .leyes-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .ley-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    transition: border-color 0.15s, background 0.15s;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .ley-card:hover {
+    border-color: var(--color-accent);
+    background: #141414f0;
+    text-decoration: none;
+  }
+
+  .ley-card-main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+
+  .ley-titulo {
+    font-weight: 500;
+    font-size: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .ley-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  .badge-rango {
+    background: #27272a;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+  }
+
+  .badge-vigente {
+    background: #14532d;
+    color: #86efac;
+    border: 1px solid #166534;
+  }
+
+  .fecha {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .ley-arrow {
+    color: var(--color-text-muted);
+    font-size: 1.1rem;
+    flex-shrink: 0;
+    transition: color 0.15s, transform 0.15s;
+  }
+
+  .ley-card:hover .ley-arrow {
+    color: var(--color-accent);
+    transform: translateX(3px);
+  }
+
+  @media (max-width: 640px) {
+    .ley-titulo {
+      white-space: normal;
+    }
+  }
+</style>
