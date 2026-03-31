@@ -1,5 +1,10 @@
-import { chromium, Browser, Page } from 'playwright'
-import type { ScraperConfig, ScrapedLaw, ScrapeResult, ScrapeError } from './types'
+import { type Browser, type Page, chromium } from 'playwright'
+import type {
+  ScrapeError,
+  ScrapeResult,
+  ScrapedLaw,
+  ScraperConfig,
+} from './types'
 
 const DEFAULT_CONFIG: Partial<ScraperConfig> = {
   baseUrl: 'https://spij.minjus.gob.pe',
@@ -10,7 +15,7 @@ const DEFAULT_CONFIG: Partial<ScraperConfig> = {
 
 export async function scrape(
   identifiers: string[],
-  config: Partial<ScraperConfig> = {}
+  config: Partial<ScraperConfig> = {},
 ): Promise<ScrapeResult> {
   const cfg = { ...DEFAULT_CONFIG, ...config } as ScraperConfig
   const laws: ScrapedLaw[] = []
@@ -64,7 +69,7 @@ export async function scrape(
 async function scrapeLaw(
   page: Page,
   identifier: string,
-  config: ScraperConfig
+  config: ScraperConfig,
 ): Promise<ScrapedLaw> {
   // TODO: Implement actual SPIJ scraping logic
   // This will require reverse-engineering SPIJ's search and navigation
