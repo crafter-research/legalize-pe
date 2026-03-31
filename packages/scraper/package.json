@@ -10,6 +10,8 @@
     "scrape:direct": "tsx src/scrape-direct.ts",
     "scrape:simple": "tsx src/scrape-simple.ts",
     "scrape:content": "tsx src/scrape-content.ts",
+    "scrape:click": "tsx src/scrape-click.ts",
+    "scrape:refs": "tsx src/scrape-refs.ts",
     "dev": "tsx watch src/index.ts",
     "build": "tsup src/index.ts --format esm --dts",
     "typecheck": "tsc --noEmit",
