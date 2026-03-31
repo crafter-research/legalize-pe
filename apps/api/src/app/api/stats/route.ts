@@ -1,13 +1,15 @@
-import { NextResponse } from 'next/server'
 import { db, schema } from '@/db'
-import { sql, desc } from 'drizzle-orm'
+import { desc, sql } from 'drizzle-orm'
+import { NextResponse } from 'next/server'
 
 export async function GET() {
   try {
     const [totalResult, porTipo, porJurisdiccion, ultimaActualizacion] =
       await Promise.all([
         // Total normas
-        db.select({ count: sql<number>`count(*)` }).from(schema.normas),
+        db
+          .select({ count: sql<number>`count(*)` })
+          .from(schema.normas),
 
         // Por tipo (rango)
         db
@@ -44,14 +46,15 @@ export async function GET() {
         total: totalResult[0]?.count ?? 0,
         porTipo,
         porJurisdiccion,
-        ultimaActualizacion: ultimaActualizacion[0]?.ultimaActualizacion ?? null,
+        ultimaActualizacion:
+          ultimaActualizacion[0]?.ultimaActualizacion ?? null,
       },
     })
   } catch (error) {
     console.error('Error fetching stats:', error)
     return NextResponse.json(
       { error: 'Error al obtener las estadísticas' },
-      { status: 500 }
+      { status: 500 },
     )
   }
 }

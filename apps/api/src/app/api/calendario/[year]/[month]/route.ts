@@ -1,29 +1,26 @@
-import { NextRequest, NextResponse } from 'next/server'
 import { db, schema } from '@/db'
-import { sql, and, gte, lt } from 'drizzle-orm'
+import { and, gte, lt, sql } from 'drizzle-orm'
+import { type NextRequest, NextResponse } from 'next/server'
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: Promise<{ year: string; month: string }> }
+  { params }: { params: Promise<{ year: string; month: string }> },
 ) {
   const { year, month } = await params
 
   // Validate year and month
-  const yearNum = parseInt(year)
-  const monthNum = parseInt(month)
+  const yearNum = Number.parseInt(year)
+  const monthNum = Number.parseInt(month)
 
   if (
-    isNaN(yearNum) ||
-    isNaN(monthNum) ||
+    Number.isNaN(yearNum) ||
+    Number.isNaN(monthNum) ||
     monthNum < 1 ||
     monthNum > 12 ||
     yearNum < 1900 ||
     yearNum > 2100
   ) {
-    return NextResponse.json(
-      { error: 'Año o mes inválido' },
-      { status: 400 }
-    )
+    return NextResponse.json({ error: 'Año o mes inválido' }, { status: 400 })
   }
 
   const monthStr = month.padStart(2, '0')
@@ -45,8 +42,8 @@ export async function GET(
       .where(
         and(
           gte(schema.normas.fechaPublicacion, startDate),
-          lt(schema.normas.fechaPublicacion, endDate)
-        )
+          lt(schema.normas.fechaPublicacion, endDate),
+        ),
       )
       .groupBy(schema.normas.fechaPublicacion)
       .orderBy(schema.normas.fechaPublicacion)
@@ -66,7 +63,7 @@ export async function GET(
     console.error('Error fetching calendar:', error)
     return NextResponse.json(
       { error: 'Error al obtener el calendario' },
-      { status: 500 }
+      { status: 500 },
     )
   }
 }

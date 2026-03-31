@@ -1,5 +1,5 @@
 import { sql } from 'drizzle-orm'
-import { text, integer, sqliteTable, index } from 'drizzle-orm/sqlite-core'
+import { index, integer, sqliteTable, text } from 'drizzle-orm/sqlite-core'
 
 export const normas = sqliteTable(
   'normas',
@@ -26,7 +26,7 @@ export const normas = sqliteTable(
     index('idx_rango').on(table.rango),
     index('idx_estado').on(table.estado),
     index('idx_fecha_publicacion').on(table.fechaPublicacion),
-  ]
+  ],
 )
 
 export type Norma = typeof normas.$inferSelect

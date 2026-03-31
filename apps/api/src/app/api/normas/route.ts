@@ -1,6 +1,6 @@
-import { NextRequest, NextResponse } from 'next/server'
 import { db, schema } from '@/db'
-import { eq, like, and, gte, lte, inArray, sql, desc } from 'drizzle-orm'
+import { and, desc, eq, gte, inArray, like, lte, sql } from 'drizzle-orm'
+import { type NextRequest, NextResponse } from 'next/server'
 
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams
@@ -12,8 +12,11 @@ export async function GET(request: NextRequest) {
   const estado = searchParams.get('estado')
   const desde = searchParams.get('desde')
   const hasta = searchParams.get('hasta')
-  const limit = Math.min(parseInt(searchParams.get('limit') || '20'), 100)
-  const offset = parseInt(searchParams.get('offset') || '0')
+  const limit = Math.min(
+    Number.parseInt(searchParams.get('limit') || '20'),
+    100,
+  )
+  const offset = Number.parseInt(searchParams.get('offset') || '0')
 
   try {
     // Build conditions
@@ -21,7 +24,7 @@ export async function GET(request: NextRequest) {
 
     if (q) {
       conditions.push(
-        sql`(${schema.normas.titulo} LIKE ${'%' + q + '%'} OR ${schema.normas.contenido} LIKE ${'%' + q + '%'})`
+        sql`(${schema.normas.titulo} LIKE ${`%${q}%`} OR ${schema.normas.contenido} LIKE ${`%${q}%`})`,
       )
     }
 
@@ -86,7 +89,7 @@ export async function GET(request: NextRequest) {
     console.error('Error fetching normas:', error)
     return NextResponse.json(
       { error: 'Error al obtener las normas' },
-      { status: 500 }
+      { status: 500 },
     )
   }
 }

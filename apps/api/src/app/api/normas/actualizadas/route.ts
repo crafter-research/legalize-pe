@@ -1,16 +1,19 @@
-import { NextRequest, NextResponse } from 'next/server'
 import { db, schema } from '@/db'
-import { gte, desc, sql } from 'drizzle-orm'
+import { desc, gte, sql } from 'drizzle-orm'
+import { type NextRequest, NextResponse } from 'next/server'
 
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams
   const desde = searchParams.get('desde')
-  const limit = Math.min(parseInt(searchParams.get('limit') || '50'), 100)
+  const limit = Math.min(
+    Number.parseInt(searchParams.get('limit') || '50'),
+    100,
+  )
 
   if (!desde) {
     return NextResponse.json(
       { error: 'Parámetro "desde" es requerido (YYYY-MM-DD)' },
-      { status: 400 }
+      { status: 400 },
     )
   }
 
@@ -18,7 +21,7 @@ export async function GET(request: NextRequest) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(desde)) {
     return NextResponse.json(
       { error: 'Formato de fecha inválido. Use YYYY-MM-DD' },
-      { status: 400 }
+      { status: 400 },
     )
   }
 
@@ -48,7 +51,7 @@ export async function GET(request: NextRequest) {
     console.error('Error fetching updated normas:', error)
     return NextResponse.json(
       { error: 'Error al obtener las normas actualizadas' },
-      { status: 500 }
+      { status: 500 },
     )
   }
 }

@@ -1,10 +1,10 @@
-import { NextRequest, NextResponse } from 'next/server'
 import { db, schema } from '@/db'
 import { eq } from 'drizzle-orm'
+import { type NextRequest, NextResponse } from 'next/server'
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: Promise<{ id: string }> }
+  { params }: { params: Promise<{ id: string }> },
 ) {
   const { id } = await params
 
@@ -18,7 +18,7 @@ export async function GET(
     if (norma.length === 0) {
       return NextResponse.json(
         { error: 'Norma no encontrada' },
-        { status: 404 }
+        { status: 404 },
       )
     }
 
@@ -29,7 +29,7 @@ export async function GET(
     console.error('Error fetching norma:', error)
     return NextResponse.json(
       { error: 'Error al obtener la norma' },
-      { status: 500 }
+      { status: 500 },
     )
   }
 }
