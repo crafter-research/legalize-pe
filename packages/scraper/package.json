@@ -5,17 +5,20 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
+    "scrape:mvp": "tsx src/scrape-mvp.ts",
+    "scrape:browser": "tsx src/scrape-with-browser.ts",
+    "scrape:direct": "tsx src/scrape-direct.ts",
+    "scrape:simple": "tsx src/scrape-simple.ts",
+    "scrape:content": "tsx src/scrape-content.ts",
     "dev": "tsx watch src/index.ts",
     "build": "tsup src/index.ts --format esm --dts",
     "typecheck": "tsc --noEmit",
     "test": "vitest"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.32.1",
     "cheerio": "^1.0.0",
-    "playwright": "^1.49.1",
-    "simple-git": "^3.27.0",
-    "@legalize-pe/parser": "workspace:*"
+    "domhandler": "^5.0.3",
+    "simple-git": "^3.27.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
