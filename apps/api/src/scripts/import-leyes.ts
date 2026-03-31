@@ -1,0 +1,130 @@
+#!/usr/bin/env tsx
+/**
+ * Import laws from markdown files into the database
+ */
+
+import { readdir, readFile } from 'node:fs/promises'
+import { join, dirname } from 'node:path'
+import { fileURLToPath } from 'node:url'
+import { db, schema } from '../db'
+import { eq } from 'drizzle-orm'
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const LEYES_DIR = join(__dirname, '../../../../leyes/pe')
+
+interface Frontmatter {
+  titulo: string
+  identificador: string
+  pais: string
+  jurisdiccion: string
+  rango: string
+  sector?: string
+  fechaPublicacion: string
+  fechaVigencia?: string
+  ultimaActualizacion?: string
+  estado: string
+  fuente?: string
+  diarioOficial?: string
+}
+
+function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: string } {
+  const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
+  if (!match) {
+    throw new Error('Invalid frontmatter format')
+  }
+
+  const [, yamlContent, body] = match
+  const frontmatter: Record<string, string> = {}
+
+  for (const line of yamlContent!.split('\n')) {
+    const colonIndex = line.indexOf(':')
+    if (colonIndex > 0) {
+      const key = line.slice(0, colonIndex).trim()
+      let value = line.slice(colonIndex + 1).trim()
+      // Remove quotes
+      if ((value.startsWith('"') && value.endsWith('"')) ||
+          (value.startsWith("'") && value.endsWith("'"))) {
+        value = value.slice(1, -1)
+      }
+      frontmatter[key] = value
+    }
+  }
+
+  return {
+    frontmatter: frontmatter as unknown as Frontmatter,
+    body: body!.trim(),
+  }
+}
+
+async function importLaw(filePath: string): Promise<boolean> {
+  const content = await readFile(filePath, 'utf-8')
+  const { frontmatter, body } = parseFrontmatter(content)
+
+  // Check if law already exists
+  const existing = await db
+    .select()
+    .from(schema.normas)
+    .where(eq(schema.normas.identificador, frontmatter.identificador))
+    .limit(1)
+
+  const normaData = {
+    identificador: frontmatter.identificador,
+    titulo: frontmatter.titulo,
+    pais: frontmatter.pais || 'pe',
+    jurisdiccion: frontmatter.jurisdiccion,
+    rango: frontmatter.rango,
+    sector: frontmatter.sector || null,
+    fechaPublicacion: frontmatter.fechaPublicacion,
+    fechaVigencia: frontmatter.fechaVigencia || null,
+    ultimaActualizacion: frontmatter.ultimaActualizacion || null,
+    estado: frontmatter.estado || 'vigente',
+    fuente: frontmatter.fuente || null,
+    diarioOficial: frontmatter.diarioOficial || 'El Peruano',
+    contenido: body,
+  }
+
+  if (existing.length > 0) {
+    // Update existing
+    await db
+      .update(schema.normas)
+      .set(normaData)
+      .where(eq(schema.normas.identificador, frontmatter.identificador))
+    console.log(`  ✓ Updated: ${frontmatter.identificador}`)
+  } else {
+    // Insert new
+    await db.insert(schema.normas).values(normaData)
+    console.log(`  ✓ Inserted: ${frontmatter.identificador}`)
+  }
+
+  return true
+}
+
+async function main() {
+  console.log('📚 Importing laws from markdown files...\n')
+
+  const files = await readdir(LEYES_DIR)
+  const mdFiles = files.filter(f => f.endsWith('.md'))
+
+  console.log(`Found ${mdFiles.length} law files\n`)
+
+  let success = 0
+  let failed = 0
+
+  for (const file of mdFiles) {
+    try {
+      await importLaw(join(LEYES_DIR, file))
+      success++
+    } catch (error) {
+      const msg = error instanceof Error ? error.message : String(error)
+      console.error(`  ✗ Failed: ${file} - ${msg}`)
+      failed++
+    }
+  }
+
+  console.log('\n─────────────────────────')
+  console.log(`✅ Imported: ${success}`)
+  console.log(`❌ Failed: ${failed}`)
+  console.log('─────────────────────────')
+}
+
+main().catch(console.error)
