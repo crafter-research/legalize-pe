@@ -32,6 +32,7 @@ coverage/
 # Scraper
 packages/scraper/logs/
 packages/scraper/pendientes/
+leyes/**/.screenshots/
 
 # Database
 *.db
