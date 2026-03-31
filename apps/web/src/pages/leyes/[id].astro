@@ -1,0 +1,346 @@
+---
+import { readFileSync, readdirSync } from 'node:fs'
+import { join } from 'node:path'
+import Layout from '../../layouts/Layout.astro'
+
+interface LeyFrontmatter {
+  titulo: string
+  identificador: string
+  pais: string
+  jurisdiccion: string
+  rango: string
+  fechaPublicacion: string
+  ultimaActualizacion: string
+  estado: string
+  fuente: string
+  diarioOficial: string
+}
+
+function parseFrontmatter(content: string): { meta: LeyFrontmatter; body: string } {
+  const parts = content.split(/^---\s*$/m)
+  // parts[0] is empty, parts[1] is yaml, parts[2+] is body
+  const yamlBlock = parts[1] ?? ''
+  const body = parts.slice(2).join('---').trim()
+  const result: Record<string, string> = {}
+  for (const line of yamlBlock.split('\n')) {
+    const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
+    if (match) {
+      result[match[1]] = match[2].trim()
+    }
+  }
+  return { meta: result as unknown as LeyFrontmatter, body }
+}
+
+const leyesDir = join(process.cwd(), '../../leyes/pe')
+
+export function getStaticPaths() {
+  const dir = join(process.cwd(), '../../leyes/pe')
+  const files = readdirSync(dir).filter((f) => f.endsWith('.md'))
+  return files.map((filename) => {
+    const content = readFileSync(join(dir, filename), 'utf-8')
+    const parts = content.split(/^---\s*$/m)
+    const yamlBlock = parts[1] ?? ''
+    const result: Record<string, string> = {}
+    for (const line of yamlBlock.split('\n')) {
+      const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
+      if (match) {
+        result[match[1]] = match[2].trim()
+      }
+    }
+    return {
+      params: { id: result['identificador'] ?? filename.replace('.md', '') },
+      props: { filename },
+    }
+  })
+}
+
+const { id } = Astro.params
+const { filename } = Astro.props as { filename: string }
+
+const rawContent = readFileSync(join(leyesDir, filename), 'utf-8')
+const { meta, body } = parseFrontmatter(rawContent)
+
+const rangoLabels: Record<string, string> = {
+  constitucion: 'Constitución',
+  ley: 'Ley',
+  'decreto-legislativo': 'Decreto Legislativo',
+  'decreto-urgencia': 'Decreto de Urgencia',
+  'decreto-supremo': 'Decreto Supremo',
+}
+
+const rawContentEscaped = JSON.stringify(rawContent)
+---
+
+<Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
+  <main>
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="/">Inicio</a>
+        <span>/</span>
+        <a href="/leyes">Normas</a>
+        <span>/</span>
+        <span>{id}</span>
+      </nav>
+
+      <div class="page-top">
+        <div class="page-header">
+          <h1>{meta.titulo}</h1>
+          <div class="meta-badges">
+            <span class="badge badge-rango">
+              {rangoLabels[meta.rango] ?? meta.rango}
+            </span>
+            {meta.estado === 'vigente' && (
+              <span class="badge badge-vigente">Vigente</span>
+            )}
+          </div>
+          <dl class="meta-grid">
+            <div>
+              <dt>Publicacion</dt>
+              <dd>{meta.fechaPublicacion}</dd>
+            </div>
+            <div>
+              <dt>Ultima actualizacion</dt>
+              <dd>{meta.ultimaActualizacion}</dd>
+            </div>
+            {meta.diarioOficial && (
+              <div>
+                <dt>Diario Oficial</dt>
+                <dd>{meta.diarioOficial}</dd>
+              </div>
+            )}
+            {meta.fuente && (
+              <div>
+                <dt>Fuente</dt>
+                <dd>
+                  <a href={meta.fuente} target="_blank" rel="noopener">
+                    SPIJ / Minjus &nearr;
+                  </a>
+                </dd>
+              </div>
+            )}
+          </dl>
+        </div>
+
+        <div class="action-buttons">
+          <button id="btn-copy" class="btn btn-primary" type="button">
+            Copiar Markdown
+          </button>
+          <button id="btn-download" class="btn btn-secondary" type="button">
+            Descargar .md
+          </button>
+        </div>
+      </div>
+
+      <div class="content-box">
+        <pre class="law-body">{body}</pre>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<script define:vars={{ rawContent: rawContentEscaped, filename }}>
+  const raw = JSON.parse(rawContent)
+
+  const btnCopy = document.getElementById('btn-copy')
+  const btnDownload = document.getElementById('btn-download')
+
+  btnCopy?.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(raw)
+      btnCopy.textContent = 'Copiado!'
+      setTimeout(() => {
+        btnCopy.textContent = 'Copiar Markdown'
+      }, 2000)
+    } catch {
+      btnCopy.textContent = 'Error al copiar'
+      setTimeout(() => {
+        btnCopy.textContent = 'Copiar Markdown'
+      }, 2000)
+    }
+  })
+
+  btnDownload?.addEventListener('click', () => {
+    const blob = new Blob([raw], { type: 'text/markdown;charset=utf-8' })
+    const url = URL.createObjectURL(blob)
+    const anchor = document.createElement('a')
+    anchor.href = url
+    anchor.download = filename
+    document.body.appendChild(anchor)
+    anchor.click()
+    document.body.removeChild(anchor)
+    URL.revokeObjectURL(url)
+  })
+</script>
+
+<style>
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb span:not(:last-child) {
+    color: var(--color-border);
+  }
+
+  .page-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .page-header {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .page-header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+    line-height: 1.3;
+  }
+
+  .meta-badges {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  .badge-rango {
+    background: #27272a;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+  }
+
+  .badge-vigente {
+    background: #14532d;
+    color: #86efac;
+    border: 1px solid #166534;
+  }
+
+  .meta-grid {
+    display: flex;
+    gap: 1.5rem 2rem;
+    flex-wrap: wrap;
+  }
+
+  .meta-grid div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .meta-grid dt {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+
+  .meta-grid dd {
+    font-size: 0.9rem;
+    color: var(--color-text);
+  }
+
+  .action-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.6rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: all 0.2s;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  .btn-primary {
+    background: var(--color-accent);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    background: var(--color-accent-hover);
+  }
+
+  .btn-secondary {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+  }
+
+  .btn-secondary:hover {
+    background: var(--color-border);
+  }
+
+  .content-box {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .law-body {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    line-height: 1.75;
+    color: var(--color-text);
+    background: none;
+    border: none;
+    border-radius: 0;
+    padding: 1.5rem;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  @media (max-width: 640px) {
+    .page-top {
+      flex-direction: column;
+    }
+
+    .action-buttons {
+      flex-direction: row;
+      width: 100%;
+    }
+
+    .btn {
+      flex: 1;
+    }
+  }
+</style>
