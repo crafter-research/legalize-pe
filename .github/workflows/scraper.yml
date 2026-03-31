@@ -1,0 +1,71 @@
+name: Scraper
+
+on:
+  workflow_dispatch:
+    inputs:
+      laws:
+        description: 'Comma-separated list of law identifiers to scrape (e.g., "ley-26702,dleg-295")'
+        required: false
+        type: string
+      full_sync:
+        description: 'Run full sync of all laws'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  scrape:
+    name: Scrape Laws
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Playwright browsers
+        run: pnpm --filter @legalize-pe/scraper exec playwright install chromium
+
+      - name: Build packages
+        run: pnpm build
+
+      - name: Run scraper
+        run: pnpm --filter @legalize-pe/scraper start
+        env:
+          LAWS_TO_SCRAPE: ${{ inputs.laws }}
+          FULL_SYNC: ${{ inputs.full_sync }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add leyes/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update laws from SPIJ
+
+            Scraped at: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+            Co-Authored-By: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+            git push
+          fi
+
+      - name: Update database
+        run: |
+          echo "TODO: Sync with Turso database"
+        env:
+          TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
