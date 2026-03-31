@@ -9,7 +9,7 @@ import type { LawMetadata, ParseOptions, ParseResult } from './types'
 export function parseHtmlToMarkdown(
   html: string,
   metadata: LawMetadata,
-  options: ParseOptions = {}
+  options: ParseOptions = {},
 ): ParseResult {
   const $ = cheerio.load(html)
 
@@ -57,10 +57,7 @@ function convertToMarkdown(html: string): string {
   return cleanMarkdown(markdown)
 }
 
-function processElement(
-  $: cheerio.CheerioAPI,
-  element: Element
-): string {
+function processElement($: cheerio.CheerioAPI, element: Element): string {
   const $el = $(element)
   const tagName = element.tagName?.toLowerCase()
 
@@ -80,38 +77,39 @@ function processElement(
     case 'p':
       return `${$el.text().trim()}\n\n`
     case 'ul':
-      return (
-        $el
-          .find('li')
-          .map((_, li) => `- ${$(li).text().trim()}`)
-          .get()
-          .join('\n') + '\n\n'
-      )
+      return `${$el
+        .find('li')
+        .map((_, li) => `- ${$(li).text().trim()}`)
+        .get()
+        .join('\n')}\n\n`
     case 'ol':
-      return (
-        $el
-          .find('li')
-          .map((i, li) => `${i + 1}. ${$(li).text().trim()}`)
-          .get()
-          .join('\n') + '\n\n'
-      )
+      return `${$el
+        .find('li')
+        .map((i, li) => `${i + 1}. ${$(li).text().trim()}`)
+        .get()
+        .join('\n')}\n\n`
     case 'table':
-      return convertTable($, $el) + '\n\n'
+      return `${convertTable($, $el)}\n\n`
     case 'div':
     case 'section':
-    case 'article':
+    case 'article': {
       let content = ''
       $el.children().each((_, child) => {
         content += processElement($, child)
       })
       return content
-    default:
+    }
+    default: {
       const text = $el.text().trim()
       return text ? `${text}\n\n` : ''
+    }
   }
 }
 
-function convertTable($: cheerio.CheerioAPI, $table: cheerio.Cheerio<Element>): string {
+function convertTable(
+  $: cheerio.CheerioAPI,
+  $table: cheerio.Cheerio<Element>,
+): string {
   const rows: string[][] = []
 
   $table.find('tr').each((_, tr) => {
