@@ -1,5 +1,39 @@
 ---
+import { readFileSync, readdirSync } from 'node:fs'
+import { join } from 'node:path'
 import Layout from '../layouts/Layout.astro'
+
+interface LeyCard {
+  titulo: string
+  identificador: string
+  rango: string
+  estado: string
+}
+
+function parseLeyCard(content: string): LeyCard {
+  const parts = content.split(/^---\s*$/m)
+  const yamlBlock = parts[1] ?? ''
+  const result: Record<string, string> = {}
+  for (const line of yamlBlock.split('\n')) {
+    const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
+    if (match) result[match[1]] = match[2].trim()
+  }
+  return result as unknown as LeyCard
+}
+
+const leyesDir = join(process.cwd(), '../../leyes/pe')
+const leyFiles = readdirSync(leyesDir).filter((f) => f.endsWith('.md'))
+const leyes = leyFiles
+  .map((f) => parseLeyCard(readFileSync(join(leyesDir, f), 'utf-8')))
+  .sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'))
+
+const rangoLabels: Record<string, string> = {
+  constitucion: 'Constitución',
+  ley: 'Ley',
+  'decreto-legislativo': 'D. Legislativo',
+  'decreto-urgencia': 'D. Urgencia',
+  'decreto-supremo': 'D. Supremo',
+}
 
 const jurisdicciones = [
   { nombre: 'Nacional', codigo: 'pe/', normas: '—' },
@@ -84,6 +118,9 @@ const endpoints = [
           <a href="https://github.com/crafter-research/legalize-pe" class="btn btn-primary">
             Ver en GitHub
           </a>
+          <a href="/leyes" class="btn btn-secondary">
+            Ver normas
+          </a>
           <a href="#api" class="btn btn-secondary">
             API Docs
           </a>
@@ -130,6 +167,34 @@ ls leyes/pe-lima/</code></pre>
           <code>pe-&#123;region&#125;</code> para legislación regional,
           <code>pe-&#123;region&#125;-&#123;provincia&#125;</code> para ordenanzas municipales.
         </p>
+      </div>
+    </section>
+
+    <!-- Laws -->
+    <section class="section section-alt" id="normas">
+      <div class="container">
+        <h2>Normas disponibles</h2>
+        <p class="section-intro">
+          {leyes.length} normas de legislación nacional peruana, disponibles como ficheros Markdown.
+        </p>
+        <div class="leyes-grid">
+          {leyes.map((ley) => (
+            <a href={`/leyes/${ley.identificador}`} class="ley-card">
+              <div class="ley-card-top">
+                <span class="badge badge-rango">
+                  {rangoLabels[ley.rango] ?? ley.rango}
+                </span>
+                {ley.estado === 'vigente' && (
+                  <span class="badge badge-vigente">Vigente</span>
+                )}
+              </div>
+              <span class="ley-titulo">{ley.titulo}</span>
+            </a>
+          ))}
+        </div>
+        <div class="leyes-footer">
+          <a href="/leyes" class="btn btn-secondary">Ver todas las normas &rarr;</a>
+        </div>
       </div>
     </section>
 
@@ -453,6 +518,75 @@ curl "https://legalize.crafter.ing/api/normas/por-fecha/2024-03-15"</code></pre>
   .footer-credit {
     color: var(--color-text-muted);
     font-size: 0.9rem;
+  }
+
+  /* Laws section */
+  .section-intro {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .leyes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+  }
+
+  .ley-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+    padding: 1.125rem 1.25rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    transition: border-color 0.15s;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .ley-card:hover {
+    border-color: var(--color-accent);
+    text-decoration: none;
+  }
+
+  .ley-card-top {
+    display: flex;
+    gap: 0.375rem;
+    flex-wrap: wrap;
+  }
+
+  .ley-titulo {
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.4;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    border-radius: 999px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  .badge-rango {
+    background: #27272a;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+  }
+
+  .badge-vigente {
+    background: #14532d;
+    color: #86efac;
+    border: 1px solid #166534;
+  }
+
+  .leyes-footer {
+    margin-top: 1.5rem;
+    text-align: center;
   }
 
   @media (max-width: 640px) {
