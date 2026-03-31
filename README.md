@@ -7,7 +7,7 @@ Normas del [SPIJ](https://spij.minjus.gob.pe) (Sistema Peruano de Información J
 ## Inicio rápido
 
 ```bash
-git clone https://github.com/crafter-station/legalize-pe.git
+git clone https://github.com/crafter-research/legalize-pe.git
 cd legalize-pe
 
 # ¿Qué dice el Artículo 2 de la Constitución hoy?
@@ -112,7 +112,7 @@ Cada reforma es un commit independiente con la fecha oficial de publicación com
 
 ## Contribuir
 
-¿Has encontrado un error en un texto consolidado? ¿Falta alguna reforma? Abre un [issue](https://github.com/crafter-station/legalize-pe/issues) indicando el nombre de la ley, el artículo y la fuente oficial con la versión correcta.
+¿Has encontrado un error en un texto consolidado? ¿Falta alguna reforma? Abre un [issue](https://github.com/crafter-research/legalize-pe/issues) indicando el nombre de la ley, el artículo y la fuente oficial con la versión correcta.
 
 ## Licencia
 
