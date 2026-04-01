@@ -6,9 +6,9 @@ Legislación peruana como repositorio Git. Cada ley es un fichero Markdown, cada
 
 | Categoría | Cantidad |
 |-----------|----------|
-| Leyes principales | 64 |
+| Leyes principales | 67 |
 | Reformas constitucionales | 31 |
-| **Total de normas** | **95** |
+| **Total de normas** | **98** |
 
 ## Inicio rápido
 
