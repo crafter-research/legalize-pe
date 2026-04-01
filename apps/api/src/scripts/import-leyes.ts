@@ -3,7 +3,7 @@
  * Import laws from markdown files into the database
  */
 
-import { readdir, readFile } from 'node:fs/promises'
+import { readdir, readFile, stat } from 'node:fs/promises'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { db, schema } from '../db'
@@ -99,24 +99,43 @@ async function importLaw(filePath: string): Promise<boolean> {
   return true
 }
 
+async function getMdFiles(dir: string): Promise<string[]> {
+  const entries = await readdir(dir)
+  const files: string[] = []
+
+  for (const entry of entries) {
+    const fullPath = join(dir, entry)
+    const stats = await stat(fullPath)
+
+    if (stats.isDirectory()) {
+      const subFiles = await getMdFiles(fullPath)
+      files.push(...subFiles)
+    } else if (entry.endsWith('.md')) {
+      files.push(fullPath)
+    }
+  }
+
+  return files
+}
+
 async function main() {
   console.log('📚 Importing laws from markdown files...\n')
 
-  const files = await readdir(LEYES_DIR)
-  const mdFiles = files.filter(f => f.endsWith('.md'))
+  const mdFiles = await getMdFiles(LEYES_DIR)
 
   console.log(`Found ${mdFiles.length} law files\n`)
 
   let success = 0
   let failed = 0
 
-  for (const file of mdFiles) {
+  for (const filePath of mdFiles) {
+    const fileName = filePath.replace(LEYES_DIR + '/', '')
     try {
-      await importLaw(join(LEYES_DIR, file))
+      await importLaw(filePath)
       success++
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error)
-      console.error(`  ✗ Failed: ${file} - ${msg}`)
+      console.error(`  ✗ Failed: ${fileName} - ${msg}`)
       failed++
     }
   }
