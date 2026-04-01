@@ -37,3 +37,4 @@ leyes/**/.screenshots/
 # Database
 *.db
 *.db-journal
+.vercel
