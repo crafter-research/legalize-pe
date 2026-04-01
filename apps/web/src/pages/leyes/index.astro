@@ -25,7 +25,7 @@ function parseFrontmatter(content: string): LeyFrontmatter {
 }
 
 const leyesDir = join(process.cwd(), '../../leyes/pe')
-const files = readdirSync(leyesDir).filter((f) => f.endsWith('.md'))
+const files = readdirSync(leyesDir).filter((f) => f.endsWith('.md') && !f.startsWith('HISTORIAL'))
 
 const leyes = files.map((filename) => {
   const content = readFileSync(join(leyesDir, filename), 'utf-8')
@@ -35,13 +35,18 @@ const leyes = files.map((filename) => {
 const rangoLabels: Record<string, string> = {
   constitucion: 'Constitución',
   ley: 'Ley',
+  'ley-organica': 'Ley Orgánica',
   'decreto-legislativo': 'Decreto Legislativo',
   'decreto-urgencia': 'Decreto de Urgencia',
   'decreto-supremo': 'Decreto Supremo',
+  reglamento: 'Reglamento',
 }
+
+// Get unique rangos for filter
+const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
 ---
 
-<Layout title="Normas — Legalize PE" description="Listado de normas legales peruanas disponibles en Legalize PE">
+<Layout title="Normas — Legalize PE" description="Busca y explora la legislación peruana. Encuentra leyes, decretos legislativos, decretos supremos y más.">
   <main>
     <div class="container">
       <nav class="breadcrumb">
@@ -51,15 +56,78 @@ const rangoLabels: Record<string, string> = {
       </nav>
 
       <header class="page-header">
-        <h1>Normas disponibles</h1>
+        <h1>Buscar normas legales</h1>
         <p class="subtitle">
-          {leyes.length} norma{leyes.length !== 1 ? 's' : ''} de legislación nacional peruana
+          Explora {leyes.length} normas de legislación peruana
         </p>
       </header>
 
-      <ul class="leyes-list">
+      <!-- Search Section -->
+      <section class="search-section">
+        <div class="search-box">
+          <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="m21 21-4.3-4.3"></path>
+          </svg>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Buscar por nombre, tema o palabra clave..."
+            autocomplete="off"
+          />
+          <button type="button" id="clear-search" class="clear-btn" aria-label="Limpiar búsqueda" style="display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M18 6 6 18"></path>
+              <path d="m6 6 12 12"></path>
+            </svg>
+          </button>
+        </div>
+
+        <div class="filters">
+          <div class="filter-group">
+            <label for="filter-tipo">Tipo de norma</label>
+            <select id="filter-tipo">
+              <option value="">Todas</option>
+              {uniqueRangos.map(rango => (
+                <option value={rango}>{rangoLabels[rango] ?? rango}</option>
+              ))}
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="filter-estado">Estado</label>
+            <select id="filter-estado">
+              <option value="">Todos</option>
+              <option value="vigente">Vigente</option>
+              <option value="derogada">Derogada</option>
+              <option value="modificada">Modificada</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="search-results-info" class="results-info">
+          Mostrando <span id="results-count">{leyes.length}</span> normas
+        </div>
+      </section>
+
+      <!-- Examples -->
+      <div id="search-examples" class="search-examples">
+        <span class="examples-label">Ejemplos:</span>
+        <button type="button" class="example-chip" data-query="código civil">Código Civil</button>
+        <button type="button" class="example-chip" data-query="trabajo">Trabajo</button>
+        <button type="button" class="example-chip" data-query="constitución">Constitución</button>
+        <button type="button" class="example-chip" data-query="penal">Penal</button>
+        <button type="button" class="example-chip" data-query="tributario">Tributario</button>
+      </div>
+
+      <!-- Laws List -->
+      <ul class="leyes-list" id="leyes-list">
         {leyes.map((ley) => (
-          <li>
+          <li
+            data-titulo={ley.titulo.toLowerCase()}
+            data-identificador={ley.identificador.toLowerCase()}
+            data-rango={ley.rango}
+            data-estado={ley.estado}
+          >
             <a href={`/leyes/${ley.identificador}`} class="ley-card">
               <div class="ley-card-main">
                 <span class="ley-titulo">{ley.titulo}</span>
@@ -78,9 +146,123 @@ const rangoLabels: Record<string, string> = {
           </li>
         ))}
       </ul>
+
+      <!-- No results message -->
+      <div id="no-results" class="no-results" style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.3-4.3"></path>
+          <path d="M8 8l6 6"></path>
+          <path d="M14 8l-6 6"></path>
+        </svg>
+        <p>No se encontraron normas con esos criterios</p>
+        <button type="button" id="clear-filters" class="btn-secondary">Limpiar filtros</button>
+      </div>
     </div>
   </main>
 </Layout>
+
+<script>
+  const searchInput = document.getElementById('search-input') as HTMLInputElement
+  const clearBtn = document.getElementById('clear-search') as HTMLButtonElement
+  const filterTipo = document.getElementById('filter-tipo') as HTMLSelectElement
+  const filterEstado = document.getElementById('filter-estado') as HTMLSelectElement
+  const leyesList = document.getElementById('leyes-list') as HTMLUListElement
+  const resultsCount = document.getElementById('results-count') as HTMLSpanElement
+  const noResults = document.getElementById('no-results') as HTMLDivElement
+  const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement
+  const examplesSection = document.getElementById('search-examples') as HTMLDivElement
+  const exampleChips = document.querySelectorAll('.example-chip')
+
+  function normalizeText(text: string): string {
+    return text
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Remove accents
+  }
+
+  function filterLeyes() {
+    const query = normalizeText(searchInput.value.trim())
+    const tipo = filterTipo.value
+    const estado = filterEstado.value
+
+    const items = leyesList.querySelectorAll('li')
+    let visibleCount = 0
+
+    items.forEach((item) => {
+      const titulo = normalizeText(item.dataset.titulo || '')
+      const identificador = normalizeText(item.dataset.identificador || '')
+      const itemRango = item.dataset.rango || ''
+      const itemEstado = item.dataset.estado || ''
+
+      const matchesQuery = !query || titulo.includes(query) || identificador.includes(query)
+      const matchesTipo = !tipo || itemRango === tipo
+      const matchesEstado = !estado || itemEstado === estado
+
+      if (matchesQuery && matchesTipo && matchesEstado) {
+        item.style.display = ''
+        visibleCount++
+      } else {
+        item.style.display = 'none'
+      }
+    })
+
+    resultsCount.textContent = visibleCount.toString()
+    noResults.style.display = visibleCount === 0 ? 'flex' : 'none'
+    leyesList.style.display = visibleCount === 0 ? 'none' : ''
+
+    // Show/hide clear button
+    clearBtn.style.display = searchInput.value ? 'flex' : 'none'
+
+    // Hide examples when searching
+    examplesSection.style.display = (query || tipo || estado) ? 'none' : 'flex'
+  }
+
+  function clearSearch() {
+    searchInput.value = ''
+    filterTipo.value = ''
+    filterEstado.value = ''
+    filterLeyes()
+    searchInput.focus()
+  }
+
+  // Event listeners
+  searchInput.addEventListener('input', filterLeyes)
+  filterTipo.addEventListener('change', filterLeyes)
+  filterEstado.addEventListener('change', filterLeyes)
+  clearBtn.addEventListener('click', clearSearch)
+  clearFiltersBtn.addEventListener('click', clearSearch)
+
+  // Example chips
+  exampleChips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      searchInput.value = (chip as HTMLButtonElement).dataset.query || ''
+      filterLeyes()
+    })
+  })
+
+  // Keyboard shortcut: Ctrl/Cmd + K to focus search
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault()
+      searchInput.focus()
+      searchInput.select()
+    }
+    // Escape to clear
+    if (e.key === 'Escape' && document.activeElement === searchInput) {
+      clearSearch()
+    }
+  })
+
+  // Read query parameter from URL on page load
+  const urlParams = new URLSearchParams(window.location.search)
+  const queryFromUrl = urlParams.get('q')
+  if (queryFromUrl) {
+    searchInput.value = queryFromUrl
+    filterLeyes()
+    searchInput.focus()
+  }
+</script>
 
 <style>
   .container {
@@ -103,7 +285,7 @@ const rangoLabels: Record<string, string> = {
   }
 
   .page-header {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
   }
 
   .page-header h1 {
@@ -117,6 +299,156 @@ const rangoLabels: Record<string, string> = {
     color: var(--color-text-muted);
   }
 
+  /* Search Section */
+  .search-section {
+    margin-bottom: 1.5rem;
+  }
+
+  .search-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 1rem;
+    color: var(--color-text-muted);
+    pointer-events: none;
+  }
+
+  #search-input {
+    width: 100%;
+    padding: 0.875rem 2.75rem 0.875rem 2.75rem;
+    font-size: 1rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    color: var(--color-text);
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  #search-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  #search-input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.1);
+  }
+
+  .clear-btn {
+    position: absolute;
+    right: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: var(--color-border);
+    border: none;
+    border-radius: 6px;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .clear-btn:hover {
+    background: var(--color-text-muted);
+    color: var(--color-bg);
+  }
+
+  /* Filters */
+  .filters {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.375rem;
+  }
+
+  .filter-group label {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .filter-group select {
+    padding: 0.5rem 2rem 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    color: var(--color-text);
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    min-width: 150px;
+  }
+
+  .filter-group select:focus {
+    outline: none;
+    border-color: var(--color-accent);
+  }
+
+  .results-info {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+
+  #results-count {
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  /* Example chips */
+  .search-examples {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-secondary);
+    border-radius: 10px;
+    border: 1px solid var(--color-border);
+  }
+
+  .examples-label {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-right: 0.25rem;
+  }
+
+  .example-chip {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.8rem;
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .example-chip:hover {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #000;
+  }
+
+  /* Laws List */
   .leyes-list {
     list-style: none;
     display: flex;
@@ -206,9 +538,58 @@ const rangoLabels: Record<string, string> = {
     transform: translateX(3px);
   }
 
+  /* No results */
+  .no-results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 3rem 1rem;
+    text-align: center;
+    color: var(--color-text-muted);
+  }
+
+  .no-results svg {
+    opacity: 0.5;
+  }
+
+  .no-results p {
+    font-size: 1rem;
+  }
+
+  .btn-secondary {
+    padding: 0.625rem 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--color-text-muted);
+    background: var(--color-border);
+  }
+
   @media (max-width: 640px) {
     .ley-titulo {
       white-space: normal;
+    }
+
+    .filters {
+      flex-direction: column;
+    }
+
+    .filter-group select {
+      width: 100%;
+    }
+
+    .search-examples {
+      flex-wrap: wrap;
     }
   }
 </style>
