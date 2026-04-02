@@ -133,12 +133,25 @@ const htmlContent = await marked(body)
         </div>
       </div>
 
+      <section class="version-history">
+        <button id="history-toggle" class="history-toggle-btn">
+          <span>Historial de versiones</span>
+          <span id="history-count"></span>
+          <svg class="chevron" width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+          </svg>
+        </button>
+        <div id="history-content" class="history-content" hidden>
+          <div id="history-list"></div>
+        </div>
+      </section>
+
       <article class="content-box prose" set:html={htmlContent} />
     </div>
   </main>
 </Layout>
 
-<script define:vars={{ rawContent: rawContentEscaped, filename }}>
+<script define:vars={{ rawContent: rawContentEscaped, filename, identificador: id }}>
   const raw = JSON.parse(rawContent)
 
   const btnCopy = document.getElementById('btn-copy')
@@ -169,6 +182,50 @@ const htmlContent = await marked(body)
     anchor.click()
     document.body.removeChild(anchor)
     URL.revokeObjectURL(url)
+  })
+
+  // Version History
+  const API_BASE = 'http://localhost:3001'
+  const toggleBtn = document.getElementById('history-toggle')
+  const content = document.getElementById('history-content')
+  const historyList = document.getElementById('history-list')
+  const countSpan = document.getElementById('history-count')
+  let loaded = false
+
+  toggleBtn?.addEventListener('click', async () => {
+    const isHidden = content.hidden
+    content.hidden = !isHidden
+    toggleBtn.classList.toggle('expanded', isHidden)
+
+    if (isHidden && !loaded) {
+      historyList.innerHTML = '<p class="loading">Cargando historial...</p>'
+      try {
+        const res = await fetch(`${API_BASE}/api/normas/${identificador}/history`)
+        const { data } = await res.json()
+        loaded = true
+        countSpan.textContent = `(${data.length})`
+
+        if (data.length === 0) {
+          historyList.innerHTML = '<p class="no-history">Sin historial de versiones</p>'
+          return
+        }
+
+        historyList.innerHTML = data.map((commit, i) => `
+          <div class="history-item">
+            <div class="commit-info">
+              <span class="commit-date">${new Date(commit.authorDate).toLocaleDateString('es-PE')}</span>
+              <span class="commit-message">${commit.message}</span>
+            </div>
+            <div class="commit-actions">
+              <a href="/leyes/${identificador}/version/${commit.sha}" class="btn-small">Ver</a>
+              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].sha}&to=${commit.sha}" class="btn-small btn-outline">Comparar</a>` : ''}
+            </div>
+          </div>
+        `).join('')
+      } catch (err) {
+        historyList.innerHTML = '<p class="error">Error al cargar el historial</p>'
+      }
+    }
   })
 </script>
 
@@ -401,6 +458,144 @@ const htmlContent = await marked(body)
     margin: 2rem 0;
   }
 
+  /* Version History */
+  .version-history {
+    margin-bottom: 2rem;
+  }
+
+  .history-toggle-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 0.875rem 1rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .history-toggle-btn:hover {
+    background: var(--color-border);
+  }
+
+  .history-toggle-btn .chevron {
+    margin-left: auto;
+    transition: transform 0.2s;
+  }
+
+  .history-toggle-btn.expanded .chevron {
+    transform: rotate(180deg);
+  }
+
+  #history-count {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+
+  .history-content {
+    margin-top: 1rem;
+  }
+
+  #history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .history-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.875rem 1rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    transition: background 0.2s;
+  }
+
+  .history-item:hover {
+    background: #27272a;
+  }
+
+  .commit-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .commit-date {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+  }
+
+  .commit-message {
+    font-size: 0.9rem;
+    color: var(--color-text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .commit-actions {
+    display: flex;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .btn-small {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.4rem 0.875rem;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    background: #ffffff;
+    color: #000000;
+    text-decoration: none;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+  }
+
+  .btn-small:hover {
+    background: #cccccc;
+  }
+
+  .btn-outline {
+    background: transparent;
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+  }
+
+  .btn-outline:hover {
+    background: var(--color-border);
+    color: var(--color-text);
+  }
+
+  .loading,
+  .no-history,
+  .error {
+    padding: 1.5rem;
+    text-align: center;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  .error {
+    color: #ef4444;
+  }
+
   @media (max-width: 640px) {
     .page-top {
       flex-direction: column;
@@ -412,6 +607,23 @@ const htmlContent = await marked(body)
     }
 
     .btn {
+      flex: 1;
+    }
+
+    .history-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .commit-info {
+      width: 100%;
+    }
+
+    .commit-actions {
+      width: 100%;
+    }
+
+    .btn-small {
       flex: 1;
     }
   }

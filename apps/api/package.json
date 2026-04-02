@@ -15,6 +15,7 @@
     "db:import": "tsx src/scripts/import-leyes.ts"
   },
   "dependencies": {
+    "@legalize-pe/git": "workspace:*",
     "@libsql/client": "^0.14.0",
     "drizzle-orm": "^0.38.3",
     "next": "^15.1.3",
