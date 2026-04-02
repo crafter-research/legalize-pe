@@ -1,7 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "pnpm install --filter @legalize-pe/web...",
-  "buildCommand": "pnpm --filter @legalize-pe/web build",
+  "buildCommand": "cd apps/web && pnpm install && pnpm build",
   "outputDirectory": "apps/web/.vercel/output",
-  "framework": "astro"
+  "framework": null
 }
