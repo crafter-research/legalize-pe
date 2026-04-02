@@ -1,5 +1,5 @@
 import type { APIRoute } from 'astro'
-import { GitService } from '@legalize-pe/git'
+import { createGitService } from '@legalize-pe/git'
 import path from 'node:path'
 
 export const prerender = false
@@ -18,7 +18,7 @@ export const GET: APIRoute = async ({ params, url }) => {
 
   try {
     const repoPath = path.join(process.cwd(), '..', '..')
-    const gitService = new GitService(repoPath)
+    const gitService = createGitService(repoPath)
     const diff = await gitService.getDiff(id, fromHash, toHash)
 
     return new Response(JSON.stringify({ data: diff }), {
