@@ -66,6 +66,9 @@ importers:
       '@astrojs/vercel':
         specifier: ^8
         version: 8.2.11(astro@5.18.1(@types/node@24.12.0)(@vercel/functions@3.4.3)(rollup@4.60.1)(tsx@4.21.0)(typescript@5.9.3)(yaml@2.8.3))(next@15.5.14(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)(rollup@4.60.1)
+      '@legalize-pe/git':
+        specifier: workspace:*
+        version: link:../../packages/git
       astro:
         specifier: ^5.1.1
         version: 5.18.1(@types/node@24.12.0)(@vercel/functions@3.4.3)(rollup@4.60.1)(tsx@4.21.0)(typescript@5.9.3)(yaml@2.8.3)
@@ -2380,7 +2383,6 @@ packages:
 
   libsql@0.4.7:
     resolution: {integrity: sha512-T9eIRCs6b0J1SHKYIvD8+KCJMcWZ900iZyxdnSCdqxN12Z1ijzT+jY5nrk72Jw4B0HGzms2NgpryArlJqvc3Lw==}
-    cpu: [x64, arm64, wasm32]
     os: [darwin, linux, win32]
 
   lilconfig@3.1.3:
