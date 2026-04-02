@@ -10,8 +10,8 @@
     "typecheck": "astro check && tsc --noEmit"
   },
   "dependencies": {
-    "@astrojs/node": "^9.5.5",
     "@astrojs/sitemap": "^3.7.2",
+    "@astrojs/vercel": "^8",
     "astro": "^5.1.1",
     "marked": "^17.0.5"
   },
