@@ -14,16 +14,28 @@ let content = ''
 let authorDate = ''
 let message = ''
 let error = ''
+let latestCommit = ''
 
 try {
-  const res = await fetch(`${Astro.url.origin}/api/normas/${id}/at/${commit}`)
-  if (!res.ok) {
+  const [versionRes, historyRes] = await Promise.all([
+    fetch(`${Astro.url.origin}/api/normas/${id}/at/${commit}`),
+    fetch(`${Astro.url.origin}/api/normas/${id}/history`)
+  ])
+
+  if (!versionRes.ok) {
     throw new Error('Failed to fetch version')
   }
-  const { data } = await res.json()
+  const { data } = await versionRes.json()
   content = data.content
   authorDate = data.authorDate
   message = data.message
+
+  if (historyRes.ok) {
+    const historyData = await historyRes.json()
+    if (historyData.data && historyData.data.length > 0) {
+      latestCommit = historyData.data[0].hash
+    }
+  }
 } catch (e) {
   error = 'No se pudo cargar esta versión'
 }
@@ -52,7 +64,7 @@ const formattedDate = authorDate ? new Date(authorDate).toLocaleDateString('es-P
 ---
 
 <Layout title={`${meta.titulo ?? id} — Versión ${commit.slice(0, 7)}`}>
-  <main>
+  <main id="main-content">
     <div class="container">
       <nav class="breadcrumb">
         <a href="/">Inicio</a>
@@ -75,9 +87,20 @@ const formattedDate = authorDate ? new Date(authorDate).toLocaleDateString('es-P
             <div class="version-info">
               <span class="version-label">Versión histórica</span>
               <span class="version-date">{formattedDate}</span>
+              <span class="version-hash">{commit.slice(0, 7)}</span>
             </div>
             <p class="version-message">{message.split('\n')[0]}</p>
-            <a href={`/leyes/${id}`} class="btn btn-secondary">Ver versión actual</a>
+            <div class="version-actions">
+              {latestCommit && latestCommit !== commit && (
+                <a href={`/leyes/${id}/diff?from=${commit}&to=${latestCommit}`} class="btn btn-outline-accent">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 3v18M3 12h18"/>
+                  </svg>
+                  Ver qué cambió desde esta versión
+                </a>
+              )}
+              <a href={`/leyes/${id}`} class="btn btn-secondary">Ver versión actual</a>
+            </div>
           </div>
 
           <div class="page-header">
@@ -145,10 +168,43 @@ const formattedDate = authorDate ? new Date(authorDate).toLocaleDateString('es-P
     font-weight: 500;
   }
 
+  .version-hash {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: #a5a5c0;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+
   .version-message {
     color: var(--color-text-muted);
     font-size: 0.9rem;
     margin: 0;
+  }
+
+  .version-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+  }
+
+  .btn-outline-accent {
+    background: transparent;
+    border: 1px solid var(--color-accent);
+    color: var(--color-accent);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .btn-outline-accent:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  .btn-outline-accent svg {
+    flex-shrink: 0;
   }
 
   .page-header h1 {

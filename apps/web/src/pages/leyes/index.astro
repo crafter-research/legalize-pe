@@ -47,7 +47,7 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
 ---
 
 <Layout title="Normas — Legalize PE" description="Busca y explora la legislación peruana. Encuentra leyes, decretos legislativos, decretos supremos y más.">
-  <main>
+  <main id="main-content">
     <div class="container">
       <nav class="breadcrumb">
         <a href="/">Inicio</a>
@@ -72,8 +72,9 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
           <input
             type="text"
             id="search-input"
-            placeholder="Buscar por nombre, tema o palabra clave..."
+            placeholder="Ley 26702, Código Civil, DLeg 1310..."
             autocomplete="off"
+            aria-label="Buscar normas legales"
           />
           <button type="button" id="clear-search" class="clear-btn" aria-label="Limpiar búsqueda" style="display: none;">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">

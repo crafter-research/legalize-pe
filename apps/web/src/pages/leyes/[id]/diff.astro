@@ -31,7 +31,7 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
 ---
 
 <Layout title={`Comparar versiones — ${id}`}>
-  <main>
+  <main id="main-content">
     <div class="container">
       <nav class="breadcrumb">
         <a href="/">Inicio</a>
@@ -73,21 +73,32 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
             </div>
           </div>
 
-          <div class="diff-content">
+          <div class="diff-content" role="region" aria-label="Cambios en el código">
             {diff.hunks.length === 0 ? (
-              <p class="no-changes">Sin cambios en esta comparación</p>
+              <div class="no-changes">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M9 12l2 2 4-4"/>
+                  <circle cx="12" cy="12" r="10"/>
+                </svg>
+                <p>Sin cambios en esta comparación</p>
+                <span class="no-changes-hint">Las versiones seleccionadas son idénticas para este archivo.</span>
+              </div>
             ) : (
               diff.hunks.map((hunk) => (
-                <div class="diff-hunk">
-                  <div class="hunk-header">
+                <div class="diff-hunk" role="group" aria-label={`Bloque de cambios: líneas ${hunk.oldStart}-${hunk.oldStart + hunk.oldLines}`}>
+                  <div class="hunk-header" aria-hidden="true">
                     @@ -{hunk.oldStart},{hunk.oldLines} +{hunk.newStart},{hunk.newLines} @@
                   </div>
-                  <div class="hunk-lines">
+                  <div class="hunk-lines" role="list">
                     {hunk.lines.map((line) => (
-                      <div class={`diff-line diff-${line.type}`}>
-                        <span class="line-num line-num-old">{line.oldLine ?? ''}</span>
-                        <span class="line-num line-num-new">{line.newLine ?? ''}</span>
-                        <span class="line-prefix">{line.type === 'add' ? '+' : line.type === 'del' ? '-' : ' '}</span>
+                      <div
+                        class={`diff-line diff-${line.type}`}
+                        role="listitem"
+                        aria-label={line.type === 'add' ? 'Línea añadida' : line.type === 'del' ? 'Línea eliminada' : 'Línea sin cambios'}
+                      >
+                        <span class="line-num line-num-old" aria-hidden="true">{line.oldLine ?? ''}</span>
+                        <span class="line-num line-num-new" aria-hidden="true">{line.newLine ?? ''}</span>
+                        <span class="line-prefix" aria-hidden="true">{line.type === 'add' ? '+' : line.type === 'del' ? '-' : ' '}</span>
                         <span class="line-content">{line.content}</span>
                       </div>
                     ))}
@@ -298,9 +309,40 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
   }
 
   .no-changes {
-    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 3rem 2rem;
     text-align: center;
     color: var(--color-text-muted);
+  }
+
+  .no-changes svg {
+    opacity: 0.5;
+    color: #22c55e;
+  }
+
+  .no-changes p {
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  .no-changes-hint {
+    font-size: 0.85rem;
+    opacity: 0.7;
+  }
+
+  /* Accessibility: Add visual indicators beyond color */
+  .diff-del .line-content {
+    text-decoration: line-through;
+    text-decoration-color: rgba(239, 68, 68, 0.6);
+  }
+
+  .diff-add .line-content {
+    border-left: 2px solid #22c55e;
+    padding-left: 0.5rem;
+    margin-left: -0.5rem;
   }
 
   @media (max-width: 640px) {

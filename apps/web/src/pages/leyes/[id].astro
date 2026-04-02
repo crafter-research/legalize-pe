@@ -74,7 +74,7 @@ const htmlContent = await marked(body)
 ---
 
 <Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
-  <main>
+  <main id="main-content">
     <div class="container">
       <nav class="breadcrumb">
         <a href="/">Inicio</a>
@@ -134,14 +134,18 @@ const htmlContent = await marked(body)
       </div>
 
       <section class="version-history">
-        <button id="history-toggle" class="history-toggle-btn">
+        <button id="history-toggle" class="history-toggle-btn" aria-expanded="false" aria-controls="history-content">
+          <svg class="history-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/>
+            <polyline points="12 6 12 12 16 14"/>
+          </svg>
           <span>Historial de versiones</span>
-          <span id="history-count"></span>
-          <svg class="chevron" width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+          <span id="history-count" class="history-count-badge"></span>
+          <svg class="chevron" width="20" height="20" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
         </button>
-        <div id="history-content" class="history-content" hidden>
+        <div id="history-content" class="history-content" hidden aria-hidden="true">
           <div id="history-list"></div>
         </div>
       </section>
@@ -191,9 +195,24 @@ const htmlContent = await marked(body)
   const countSpan = document.getElementById('history-count')
   let loaded = false
 
+  // Load history count on page load
+  async function loadHistoryCount() {
+    try {
+      const res = await fetch(`/api/normas/${identificador}/history`)
+      const { data } = await res.json()
+      if (data && data.length > 0) {
+        countSpan.textContent = data.length
+        countSpan.classList.add('visible')
+      }
+    } catch {}
+  }
+  loadHistoryCount()
+
   toggleBtn?.addEventListener('click', async () => {
     const isHidden = content.hidden
     content.hidden = !isHidden
+    content.setAttribute('aria-hidden', String(!isHidden))
+    toggleBtn.setAttribute('aria-expanded', String(isHidden))
     toggleBtn.classList.toggle('expanded', isHidden)
 
     if (isHidden && !loaded) {
@@ -202,27 +221,41 @@ const htmlContent = await marked(body)
         const res = await fetch(`/api/normas/${identificador}/history`)
         const { data } = await res.json()
         loaded = true
-        countSpan.textContent = `(${data.length})`
 
-        if (data.length === 0) {
-          historyList.innerHTML = '<p class="no-history">Sin historial de versiones</p>'
+        if (!data || data.length === 0) {
+          historyList.innerHTML = `
+            <div class="empty-state">
+              <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
+              <p>Esta norma aún no tiene historial de cambios registrados.</p>
+              <span class="empty-hint">El historial se genera cuando se registran modificaciones oficiales.</span>
+            </div>
+          `
           return
         }
 
+        const latestHash = data[0].hash
         historyList.innerHTML = data.map((commit, i) => `
           <div class="history-item">
             <div class="commit-info">
-              <span class="commit-date">${new Date(commit.authorDate).toLocaleDateString('es-PE')}</span>
+              <span class="commit-date">${new Date(commit.authorDate).toLocaleDateString('es-PE', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
               <span class="commit-message">${commit.subject}</span>
             </div>
             <div class="commit-actions">
-              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small">Ver</a>
-              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline">Comparar</a>` : ''}
+              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small" title="Ver esta versión">Ver</a>
+              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline" title="Comparar con versión anterior">Comparar</a>` : '<span class="btn-small btn-disabled" title="Versión inicial">Inicial</span>'}
             </div>
           </div>
         `).join('')
       } catch (err) {
-        historyList.innerHTML = '<p class="error">Error al cargar el historial</p>'
+        historyList.innerHTML = `
+          <div class="error-state">
+            <p>Error al cargar el historial</p>
+            <button onclick="location.reload()" class="btn-small">Reintentar</button>
+          </div>
+        `
       }
     }
   })
@@ -491,9 +524,25 @@ const htmlContent = await marked(body)
     transform: rotate(180deg);
   }
 
-  #history-count {
+  .history-icon {
     color: var(--color-text-muted);
-    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+
+  .history-count-badge {
+    display: none;
+    background: var(--color-accent);
+    color: #000;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    min-width: 1.5rem;
+    text-align: center;
+  }
+
+  .history-count-badge.visible {
+    display: inline-block;
   }
 
   .history-content {
@@ -582,17 +631,56 @@ const htmlContent = await marked(body)
     color: var(--color-text);
   }
 
-  .loading,
-  .no-history,
-  .error {
+  .loading {
     padding: 1.5rem;
     text-align: center;
     color: var(--color-text-muted);
     font-size: 0.9rem;
   }
 
-  .error {
+  .empty-state,
+  .error-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    color: var(--color-text-muted);
+    background: var(--color-bg-secondary);
+    border: 1px dashed var(--color-border);
+    border-radius: 8px;
+  }
+
+  .empty-state svg {
+    opacity: 0.5;
+  }
+
+  .empty-state p,
+  .error-state p {
+    font-size: 0.9rem;
+    margin: 0;
+  }
+
+  .empty-hint {
+    font-size: 0.8rem;
+    opacity: 0.7;
+  }
+
+  .error-state {
+    border-color: rgba(239, 68, 68, 0.3);
+  }
+
+  .error-state p {
     color: #ef4444;
+  }
+
+  .btn-disabled {
+    background: transparent;
+    color: var(--color-text-muted);
+    border: 1px dashed var(--color-border);
+    cursor: default;
+    opacity: 0.6;
   }
 
   @media (max-width: 640px) {
