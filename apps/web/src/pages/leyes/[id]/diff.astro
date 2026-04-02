@@ -1,74 +1,36 @@
 ---
-export const prerender = false
-
 import Layout from '../../../layouts/Layout.astro'
 
+export const prerender = false
+
 const { id } = Astro.params
+const url = new URL(Astro.request.url)
+const fromHash = url.searchParams.get('from')
+const toHash = url.searchParams.get('to')
 
-if (!id) {
-  return Astro.redirect('/404')
-}
-
-const from = Astro.url.searchParams.get('from')
-const to = Astro.url.searchParams.get('to')
-
-if (!from || !to) {
+if (!id || !fromHash || !toHash) {
   return Astro.redirect(`/leyes/${id}`)
 }
 
-const API_BASE = 'http://localhost:3001'
-let data: {
-  from: {
-    sha: string
-    message: string
-    authorDate: string
-  }
-  to: {
-    sha: string
-    message: string
-    authorDate: string
-  }
-  stats: {
-    insertions: number
-    deletions: number
-  }
-  hunks: Array<{
-    oldStart: number
-    oldLines: number
-    newStart: number
-    newLines: number
-    lines: string[]
-  }>
-} | null = null
-
-let metadata: { titulo: string } = { titulo: id ?? 'Sin título' }
+let diff = null
+let error = ''
 
 try {
-  const res = await fetch(`${API_BASE}/api/normas/${id}/diff?from=${from}&to=${to}`)
+  const res = await fetch(`${Astro.url.origin}/api/normas/${id}/diff?from=${fromHash}&to=${toHash}`)
   if (!res.ok) {
-    return Astro.redirect('/404')
+    throw new Error('Failed to fetch diff')
   }
-  const json = await res.json()
-  data = json.data
-
-  // Fetch current version to get metadata
-  const metaRes = await fetch(`${API_BASE}/api/normas/${id}`)
-  if (metaRes.ok) {
-    const metaJson = await metaRes.json()
-    if (metaJson.data?.titulo) {
-      metadata = { titulo: metaJson.data.titulo }
-    }
-  }
-} catch (err) {
-  return Astro.redirect('/404')
+  const { data } = await res.json()
+  diff = data
+} catch (e) {
+  error = 'No se pudo cargar la comparación'
 }
 
-if (!data) {
-  return Astro.redirect('/404')
-}
+const fromDate = diff?.fromDate ? new Date(diff.fromDate).toLocaleDateString('es-PE') : ''
+const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') : ''
 ---
 
-<Layout title={`Comparar versiones - ${metadata.titulo} — Legalize PE`} description={`Comparación de versiones de ${metadata.titulo}`}>
+<Layout title={`Comparar versiones — ${id}`}>
   <main>
     <div class="container">
       <nav class="breadcrumb">
@@ -78,82 +40,77 @@ if (!data) {
         <span>/</span>
         <a href={`/leyes/${id}`}>{id}</a>
         <span>/</span>
-        <span>Comparar versiones</span>
+        <span>Comparar</span>
       </nav>
 
-      <header class="diff-header">
-        <h1>Comparar versiones</h1>
-        <p class="diff-title">{metadata.titulo}</p>
-        <a href={`/leyes/${id}`} class="btn-back">
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
-          </svg>
-          Volver a {id}
-        </a>
-      </header>
-
-      <div class="diff-stats">
-        <div class="stats-row">
-          <span class="stat-label">Cambios:</span>
-          <div class="stat-values">
-            <span class="additions">+{data.stats.insertions}</span>
-            <span class="deletions">-{data.stats.deletions}</span>
-          </div>
+      {error ? (
+        <div class="error-box">
+          <p>{error}</p>
+          <a href={`/leyes/${id}`} class="btn btn-primary">Volver a la norma</a>
         </div>
-      </div>
-
-      <div class="diff-dates">
-        <div class="date-box date-from">
-          <div class="date-label">Desde</div>
-          <div class="date-value">{new Date(data.from.authorDate).toLocaleDateString('es-PE', { dateStyle: 'long' })}</div>
-          <div class="commit-msg">{data.from.message}</div>
-        </div>
-        <svg class="arrow-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M5 12h14M12 5l7 7-7 7"/>
-        </svg>
-        <div class="date-box date-to">
-          <div class="date-label">Hasta</div>
-          <div class="date-value">{new Date(data.to.authorDate).toLocaleDateString('es-PE', { dateStyle: 'long' })}</div>
-          <div class="commit-msg">{data.to.message}</div>
-        </div>
-      </div>
-
-      <div class="diff-content">
-        {data.hunks.length === 0 ? (
-          <div class="no-changes">
-            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-              <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
-            </svg>
-            <p>No hay diferencias entre estas versiones</p>
-          </div>
-        ) : (
-          data.hunks.map(hunk => (
-            <div class="hunk">
-              <div class="hunk-header">
-                @@ -{hunk.oldStart},{hunk.oldLines} +{hunk.newStart},{hunk.newLines} @@
+      ) : diff && (
+        <>
+          <div class="diff-header">
+            <h1>Comparación de versiones</h1>
+            <div class="diff-meta">
+              <div class="diff-version diff-from">
+                <span class="version-label">Anterior</span>
+                <span class="version-hash">{fromHash.slice(0, 7)}</span>
+                <span class="version-date">{fromDate}</span>
               </div>
-              <div class="hunk-lines">
-                {hunk.lines.map(line => {
-                  const type = line.startsWith('+') ? 'addition' : line.startsWith('-') ? 'deletion' : 'context'
-                  return (
-                    <div class={`line line-${type}`}>
-                      <span class="line-marker">{line[0] || ' '}</span>
-                      <span class="line-content">{line.slice(1)}</span>
-                    </div>
-                  )
-                })}
+              <svg class="arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+              <div class="diff-version diff-to">
+                <span class="version-label">Nueva</span>
+                <span class="version-hash">{toHash.slice(0, 7)}</span>
+                <span class="version-date">{toDate}</span>
               </div>
             </div>
-          ))
-        )}
-      </div>
+            <div class="diff-stats">
+              <span class="stat stat-add">+{diff.stats.additions} líneas</span>
+              <span class="stat stat-del">-{diff.stats.deletions} líneas</span>
+            </div>
+          </div>
+
+          <div class="diff-content">
+            {diff.hunks.length === 0 ? (
+              <p class="no-changes">Sin cambios en esta comparación</p>
+            ) : (
+              diff.hunks.map((hunk) => (
+                <div class="diff-hunk">
+                  <div class="hunk-header">
+                    @@ -{hunk.oldStart},{hunk.oldLines} +{hunk.newStart},{hunk.newLines} @@
+                  </div>
+                  <div class="hunk-lines">
+                    {hunk.lines.map((line) => (
+                      <div class={`diff-line diff-${line.type}`}>
+                        <span class="line-num line-num-old">{line.oldLine ?? ''}</span>
+                        <span class="line-num line-num-new">{line.newLine ?? ''}</span>
+                        <span class="line-prefix">{line.type === 'add' ? '+' : line.type === 'del' ? '-' : ' '}</span>
+                        <span class="line-content">{line.content}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))
+            )}
+          </div>
+
+          <div class="diff-actions">
+            <a href={`/leyes/${id}/version/${fromHash}`} class="btn btn-secondary">Ver versión anterior</a>
+            <a href={`/leyes/${id}/version/${toHash}`} class="btn btn-secondary">Ver versión nueva</a>
+            <a href={`/leyes/${id}`} class="btn btn-primary">Ver versión actual</a>
+          </div>
+        </>
+      )}
     </div>
   </main>
 </Layout>
 
 <style>
   .container {
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 2rem 1.5rem 4rem;
   }
@@ -165,10 +122,7 @@ if (!data) {
     font-size: 0.875rem;
     color: var(--color-text-muted);
     margin-bottom: 2rem;
-  }
-
-  .breadcrumb span:not(:last-child) {
-    color: var(--color-border);
+    flex-wrap: wrap;
   }
 
   .diff-header {
@@ -176,262 +130,192 @@ if (!data) {
   }
 
   .diff-header h1 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-bottom: 0.5rem;
-    line-height: 1.3;
-  }
-
-  .diff-title {
-    font-size: 1rem;
-    color: var(--color-text-muted);
     margin-bottom: 1.25rem;
   }
 
-  .btn-back {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    border-radius: 6px;
-    font-size: 0.85rem;
-    font-weight: 500;
-    color: var(--color-text);
-    text-decoration: none;
-    transition: all 0.2s;
-  }
-
-  .btn-back:hover {
-    background: var(--color-border);
-    text-decoration: none;
-  }
-
-  .diff-stats {
-    padding: 1rem 1.25rem;
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-    margin-bottom: 1.5rem;
-  }
-
-  .stats-row {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-  }
-
-  .stat-label {
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: var(--color-text-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .stat-values {
-    display: flex;
-    gap: 1rem;
-    font-family: var(--font-mono);
-    font-size: 0.9rem;
-    font-weight: 600;
-  }
-
-  .additions {
-    color: #22c55e;
-  }
-
-  .deletions {
-    color: #ef4444;
-  }
-
-  .diff-dates {
+  .diff-meta {
     display: flex;
     align-items: center;
     gap: 1.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     flex-wrap: wrap;
   }
 
-  .date-box {
-    flex: 1;
-    min-width: 250px;
-    padding: 1rem 1.25rem;
-    border-radius: 8px;
+  .diff-version {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
     background: var(--color-bg-secondary);
     border: 1px solid var(--color-border);
+    border-radius: 8px;
   }
 
-  .date-from {
-    border-left: 3px solid #ef4444;
-  }
-
-  .date-to {
-    border-left: 3px solid #22c55e;
-  }
-
-  .date-label {
+  .version-label {
     font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--color-text-muted);
     font-weight: 600;
-    margin-bottom: 0.5rem;
-  }
-
-  .date-value {
-    font-size: 0.95rem;
-    color: var(--color-text);
-    font-weight: 500;
-    margin-bottom: 0.5rem;
-  }
-
-  .commit-msg {
-    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
     color: var(--color-text-muted);
-    font-style: italic;
   }
 
-  .arrow-icon {
+  .version-hash {
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    color: var(--color-text);
+  }
+
+  .version-date {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+
+  .arrow {
     color: var(--color-text-muted);
     flex-shrink: 0;
   }
 
-  .diff-content {
+  .diff-stats {
     display: flex;
-    flex-direction: column;
     gap: 1rem;
   }
 
-  .no-changes {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 4rem 2rem;
-    text-align: center;
-    color: var(--color-text-muted);
-  }
-
-  .no-changes svg {
-    margin-bottom: 1rem;
-    opacity: 0.5;
-  }
-
-  .no-changes p {
-    font-size: 1rem;
-  }
-
-  .hunk {
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-    overflow: hidden;
-  }
-
-  .hunk-header {
-    padding: 0.5rem 1rem;
-    background: #18181b;
-    border-bottom: 1px solid var(--color-border);
-    font-family: var(--font-mono);
-    font-size: 0.8rem;
-    color: var(--color-text-muted);
+  .stat {
+    font-size: 0.875rem;
     font-weight: 500;
   }
 
-  .hunk-lines {
-    background: #000000;
+  .stat-add { color: #22c55e; }
+  .stat-del { color: #ef4444; }
+
+  .diff-content {
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 2rem;
   }
 
-  .line {
-    display: flex;
-    font-family: var(--font-mono);
-    font-size: 0.85rem;
-    line-height: 1.6;
-    border-bottom: 1px solid #0f0f10;
+  .diff-hunk {
+    border-bottom: 1px solid var(--color-border);
   }
 
-  .line:last-child {
+  .diff-hunk:last-child {
     border-bottom: none;
   }
 
-  .line-marker {
-    display: inline-block;
-    width: 2rem;
-    flex-shrink: 0;
-    padding: 0.25rem 0.5rem;
-    text-align: center;
-    user-select: none;
-    font-weight: 600;
+  .hunk-header {
+    background: #1a1a2e;
+    color: #a5a5c0;
+    padding: 0.5rem 1rem;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
   }
+
+  .hunk-lines {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+
+  .diff-line {
+    display: flex;
+    white-space: pre-wrap;
+    word-break: break-all;
+  }
+
+  .diff-context { background: var(--color-bg); }
+  .diff-add { background: rgba(34, 197, 94, 0.15); }
+  .diff-del { background: rgba(239, 68, 68, 0.15); }
+
+  .line-num {
+    width: 3.5rem;
+    padding: 0 0.5rem;
+    text-align: right;
+    color: var(--color-text-muted);
+    user-select: none;
+    flex-shrink: 0;
+    border-right: 1px solid var(--color-border);
+  }
+
+  .line-prefix {
+    width: 1.5rem;
+    text-align: center;
+    flex-shrink: 0;
+    user-select: none;
+  }
+
+  .diff-add .line-prefix { color: #22c55e; }
+  .diff-del .line-prefix { color: #ef4444; }
 
   .line-content {
     flex: 1;
-    padding: 0.25rem 1rem 0.25rem 0.5rem;
-    white-space: pre-wrap;
-    word-break: break-word;
+    padding: 0 0.5rem;
   }
 
-  .line-addition {
-    background: rgba(34, 197, 94, 0.1);
+  .diff-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
   }
 
-  .line-addition .line-marker {
-    background: rgba(34, 197, 94, 0.2);
-    color: #22c55e;
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.6rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: all 0.2s;
+    text-decoration: none;
   }
 
-  .line-deletion {
-    background: rgba(239, 68, 68, 0.1);
+  .btn-primary {
+    background: #ffffff;
+    color: #000000;
   }
 
-  .line-deletion .line-marker {
-    background: rgba(239, 68, 68, 0.2);
-    color: #ef4444;
+  .btn-primary:hover { background: #cccccc; }
+
+  .btn-secondary {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
   }
 
-  .line-context {
+  .btn-secondary:hover { background: var(--color-border); }
+
+  .error-box {
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+
+  .error-box p {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .no-changes {
+    padding: 2rem;
+    text-align: center;
     color: var(--color-text-muted);
   }
 
-  .line-context .line-marker {
-    color: var(--color-text-muted);
-    opacity: 0.4;
-  }
-
-  @media (max-width: 768px) {
-    .diff-dates {
+  @media (max-width: 640px) {
+    .diff-meta {
       flex-direction: column;
+      align-items: flex-start;
     }
 
-    .arrow-icon {
+    .arrow {
       transform: rotate(90deg);
     }
 
-    .date-box {
-      width: 100%;
-    }
-
-    .line {
+    .line-num {
+      width: 2.5rem;
       font-size: 0.75rem;
-    }
-
-    .line-marker {
-      width: 1.5rem;
-      padding: 0.25rem 0.25rem;
-    }
-
-    .line-content {
-      padding: 0.25rem 0.5rem 0.25rem 0.25rem;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .stats-row {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.5rem;
     }
   }
 </style>

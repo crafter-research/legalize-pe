@@ -83,10 +83,10 @@ importers:
   packages/git:
     dependencies:
       lru-cache:
-        specifier: ^10.0.0
-        version: 10.4.3
+        specifier: ^11.2.7
+        version: 11.2.7
       simple-git:
-        specifier: ^3.27.0
+        specifier: ^3.33.0
         version: 3.33.0
     devDependencies:
       '@types/node':
@@ -98,9 +98,6 @@ importers:
       typescript:
         specifier: ^5.7.2
         version: 5.9.3
-      vitest:
-        specifier: ^2.1.8
-        version: 2.1.9(@types/node@22.19.15)
 
   packages/parser:
     dependencies:

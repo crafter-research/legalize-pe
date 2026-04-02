@@ -185,7 +185,6 @@ const htmlContent = await marked(body)
   })
 
   // Version History
-  const API_BASE = 'http://localhost:3001'
   const toggleBtn = document.getElementById('history-toggle')
   const content = document.getElementById('history-content')
   const historyList = document.getElementById('history-list')
@@ -200,7 +199,7 @@ const htmlContent = await marked(body)
     if (isHidden && !loaded) {
       historyList.innerHTML = '<p class="loading">Cargando historial...</p>'
       try {
-        const res = await fetch(`${API_BASE}/api/normas/${identificador}/history`)
+        const res = await fetch(`/api/normas/${identificador}/history`)
         const { data } = await res.json()
         loaded = true
         countSpan.textContent = `(${data.length})`
@@ -214,11 +213,11 @@ const htmlContent = await marked(body)
           <div class="history-item">
             <div class="commit-info">
               <span class="commit-date">${new Date(commit.authorDate).toLocaleDateString('es-PE')}</span>
-              <span class="commit-message">${commit.message}</span>
+              <span class="commit-message">${commit.subject}</span>
             </div>
             <div class="commit-actions">
-              <a href="/leyes/${identificador}/version/${commit.sha}" class="btn-small">Ver</a>
-              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].sha}&to=${commit.sha}" class="btn-small btn-outline">Comparar</a>` : ''}
+              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small">Ver</a>
+              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline">Comparar</a>` : ''}
             </div>
           </div>
         `).join('')

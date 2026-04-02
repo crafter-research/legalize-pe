@@ -1,281 +1,218 @@
-import { simpleGit, type SimpleGit, type DefaultLogFields } from "simple-git";
-import type { CommitInfo, DiffResult, FileVersion, DiffHunk } from "./types.js";
-import {
-  historyCache,
-  contentCache,
-  diffCache,
-  historyCacheKey,
-  contentCacheKey,
-  diffCacheKey,
-} from "./cache.js";
+import { simpleGit, type SimpleGit } from 'simple-git'
+import { historyCache, contentCache, diffCache } from './cache.js'
+import type { CommitInfo, FileVersion, DiffResult, DiffHunk } from './types.js'
 
-/**
- * Service for interacting with git repository to retrieve law file history
- */
+interface LogEntry {
+  hash: string
+  shortHash: string
+  authorDate: string
+  commitDate: string
+  message: string
+  subject: string
+}
+
 export class GitService {
-  private git: SimpleGit;
-  private repoPath: string;
+  private git: SimpleGit
+  private repoPath: string
 
   constructor(repoPath: string) {
-    this.repoPath = repoPath;
-    this.git = simpleGit(repoPath);
+    this.repoPath = repoPath
+    this.git = simpleGit(repoPath)
   }
 
-  /**
-   * Get the file path for a law by its identificador
-   */
   private getFilePath(identificador: string): string {
-    return `leyes/pe/${identificador}.md`;
+    return `leyes/pe/${identificador}.md`
   }
 
-  /**
-   * Check if a law file has any git history
-   */
   async hasHistory(identificador: string): Promise<boolean> {
-    const filePath = this.getFilePath(identificador);
     try {
-      const log = await this.git.log({ file: filePath, maxCount: 1 });
-      return log.total > 0;
-    } catch (error) {
-      return false;
+      const filePath = this.getFilePath(identificador)
+      const log = await this.git.log({ file: filePath, maxCount: 1 })
+      return log.total > 0
+    } catch {
+      return false
     }
   }
 
-  /**
-   * Get the commit history for a law file
-   * Uses --follow to track file renames
-   */
   async getHistory(identificador: string): Promise<CommitInfo[]> {
-    const cacheKey = historyCacheKey(identificador);
-    const cached = historyCache.get(cacheKey);
-    if (cached) {
-      return cached;
-    }
+    const cacheKey = `history:${identificador}`
+    const cached = historyCache.get(cacheKey) as CommitInfo[] | undefined
+    if (cached) return cached
 
-    const filePath = this.getFilePath(identificador);
+    const filePath = this.getFilePath(identificador)
 
-    try {
-      // Use --follow to track file renames
-      const log = await this.git.log([
-        "--follow",
-        "--",
-        filePath,
-      ]);
+    const log = await this.git.log({
+      file: filePath,
+      format: {
+        hash: '%H',
+        shortHash: '%h',
+        authorDate: '%aI',
+        commitDate: '%cI',
+        message: '%B',
+        subject: '%s',
+      },
+    })
 
-      const commits: CommitInfo[] = await Promise.all(
-        log.all.map(async (commit: DefaultLogFields) => {
-          // Get the files modified in this commit
-          const diffSummary = await this.git.diffSummary([
-            `${commit.hash}^`,
-            commit.hash,
-          ]);
+    const commits: CommitInfo[] = log.all.map((commit) => {
+      const entry = commit as unknown as LogEntry
+      return {
+        hash: entry.hash,
+        shortHash: entry.shortHash || entry.hash.slice(0, 7),
+        authorDate: entry.authorDate,
+        commitDate: entry.commitDate,
+        message: entry.message,
+        subject: entry.subject || entry.message.split('\n')[0] || '',
+      }
+    })
 
-          return {
-            sha: commit.hash,
-            message: commit.message,
-            // Use authorDate (real publication date) not commitDate
-            authorDate: new Date(commit.date),
-            files: diffSummary.files.map((f) => f.file),
-          };
-        }),
-      );
-
-      historyCache.set(cacheKey, commits);
-      return commits;
-    } catch (error) {
-      throw new Error(
-        `Failed to get history for ${identificador}: ${error instanceof Error ? error.message : String(error)}`,
-      );
-    }
+    historyCache.set(cacheKey, commits)
+    return commits
   }
 
-  /**
-   * Get the content of a law file at a specific commit
-   */
-  async getContentAtCommit(
-    identificador: string,
-    commitSha: string,
-  ): Promise<FileVersion> {
-    const cacheKey = contentCacheKey(identificador, commitSha);
-    const cached = contentCache.get(cacheKey);
-    if (cached) {
-      return cached;
+  async getContentAtCommit(identificador: string, commitHash: string): Promise<FileVersion> {
+    const cacheKey = `content:${identificador}:${commitHash}`
+    const cached = contentCache.get(cacheKey) as FileVersion | undefined
+    if (cached) return cached
+
+    const filePath = this.getFilePath(identificador)
+
+    const content = await this.git.show([`${commitHash}:${filePath}`])
+
+    const log = await this.git.log({
+      maxCount: 1,
+      from: commitHash,
+      to: commitHash,
+      format: {
+        authorDate: '%aI',
+        message: '%B',
+      },
+    })
+
+    const commit = log.latest as unknown as { authorDate: string; message: string } | undefined
+    const result: FileVersion = {
+      hash: commitHash,
+      authorDate: commit?.authorDate ?? '',
+      content,
+      message: commit?.message ?? '',
     }
 
-    const filePath = this.getFilePath(identificador);
-
-    try {
-      // Get file content at the specified commit
-      const content = await this.git.show([`${commitSha}:${filePath}`]);
-
-      // Get commit info using direct git log command for specific commit
-      const log = await this.git.log(["-1", commitSha]);
-
-      if (log.all.length === 0) {
-        throw new Error(`Commit ${commitSha} not found`);
-      }
-
-      const commit = log.all[0];
-      if (!commit) {
-        throw new Error(`Commit ${commitSha} not found`);
-      }
-
-      const diffSummary = await this.git.diffSummary([
-        `${commitSha}^`,
-        commitSha,
-      ]);
-
-      const result: FileVersion = {
-        content,
-        commit: {
-          sha: commit.hash,
-          message: commit.message,
-          authorDate: new Date(commit.date),
-          files: diffSummary.files.map((f) => f.file),
-        },
-      };
-
-      contentCache.set(cacheKey, result);
-      return result;
-    } catch (error) {
-      throw new Error(
-        `Failed to get content at commit ${commitSha} for ${identificador}: ${error instanceof Error ? error.message : String(error)}`,
-      );
-    }
+    contentCache.set(cacheKey, result)
+    return result
   }
 
-  /**
-   * Parse unified diff output into hunks
-   */
+  async getDiff(identificador: string, fromHash: string, toHash: string): Promise<DiffResult> {
+    const cacheKey = `diff:${identificador}:${fromHash}:${toHash}`
+    const cached = diffCache.get(cacheKey) as DiffResult | undefined
+    if (cached) return cached
+
+    const filePath = this.getFilePath(identificador)
+
+    const diff = await this.git.diff([fromHash, toHash, '--', filePath])
+
+    const [fromLog, toLog] = await Promise.all([
+      this.git.log({
+        maxCount: 1,
+        from: fromHash,
+        to: fromHash,
+        format: { authorDate: '%aI' },
+      }),
+      this.git.log({
+        maxCount: 1,
+        from: toHash,
+        to: toHash,
+        format: { authorDate: '%aI' },
+      }),
+    ])
+
+    const fromCommit = fromLog.latest as unknown as { authorDate: string } | undefined
+    const toCommit = toLog.latest as unknown as { authorDate: string } | undefined
+
+    const hunks = this.parseDiff(diff)
+    const stats = this.calculateStats(hunks)
+
+    const result: DiffResult = {
+      fromHash,
+      toHash,
+      fromDate: fromCommit?.authorDate ?? '',
+      toDate: toCommit?.authorDate ?? '',
+      hunks,
+      stats,
+    }
+
+    diffCache.set(cacheKey, result)
+    return result
+  }
+
   private parseDiff(diffOutput: string): DiffHunk[] {
-    const hunks: DiffHunk[] = [];
-    const lines = diffOutput.split("\n");
+    const hunks: DiffHunk[] = []
+    const lines = diffOutput.split('\n')
 
-    let currentHunk: DiffHunk | null = null;
+    let currentHunk: DiffHunk | null = null
+    let oldLine = 0
+    let newLine = 0
 
     for (const line of lines) {
-      // Match hunk header: @@ -oldStart,oldLines +newStart,newLines @@
-      const hunkHeaderMatch = /^@@ -(\d+),?(\d*) \+(\d+),?(\d*) @@/.exec(line);
+      const hunkMatch = line.match(/^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/)
 
-      if (hunkHeaderMatch) {
-        // Save previous hunk if exists
-        if (currentHunk) {
-          hunks.push(currentHunk);
-        }
+      if (hunkMatch) {
+        if (currentHunk) hunks.push(currentHunk)
 
-        // Parse new hunk header
-        const oldStart = Number.parseInt(hunkHeaderMatch[1] ?? "0", 10);
-        const oldLines = hunkHeaderMatch[2] ? Number.parseInt(hunkHeaderMatch[2], 10) : 1;
-        const newStart = Number.parseInt(hunkHeaderMatch[3] ?? "0", 10);
-        const newLines = hunkHeaderMatch[4] ? Number.parseInt(hunkHeaderMatch[4], 10) : 1;
+        const oldStart = hunkMatch[1]
+        const newStart = hunkMatch[3]
+        if (!oldStart || !newStart) continue
+
+        oldLine = parseInt(oldStart, 10)
+        newLine = parseInt(newStart, 10)
 
         currentHunk = {
-          oldStart,
-          oldLines,
-          newStart,
-          newLines,
+          oldStart: oldLine,
+          oldLines: parseInt(hunkMatch[2] ?? '1', 10),
+          newStart: newLine,
+          newLines: parseInt(hunkMatch[4] ?? '1', 10),
           lines: [],
-        };
-      } else if (currentHunk && (line.startsWith("+") || line.startsWith("-") || line.startsWith(" "))) {
-        // Add line to current hunk
-        currentHunk.lines.push(line);
+        }
+        continue
+      }
+
+      if (!currentHunk) continue
+
+      if (line.startsWith('+') && !line.startsWith('+++')) {
+        currentHunk.lines.push({
+          type: 'add',
+          content: line.slice(1),
+          newLine: newLine++,
+        })
+      } else if (line.startsWith('-') && !line.startsWith('---')) {
+        currentHunk.lines.push({
+          type: 'del',
+          content: line.slice(1),
+          oldLine: oldLine++,
+        })
+      } else if (line.startsWith(' ')) {
+        currentHunk.lines.push({
+          type: 'context',
+          content: line.slice(1),
+          oldLine: oldLine++,
+          newLine: newLine++,
+        })
       }
     }
 
-    // Save last hunk
-    if (currentHunk) {
-      hunks.push(currentHunk);
-    }
-
-    return hunks;
+    if (currentHunk) hunks.push(currentHunk)
+    return hunks
   }
 
-  /**
-   * Get the diff between two commits for a law file
-   */
-  async getDiff(
-    identificador: string,
-    fromCommit: string,
-    toCommit: string,
-  ): Promise<DiffResult> {
-    const cacheKey = diffCacheKey(identificador, fromCommit, toCommit);
-    const cached = diffCache.get(cacheKey);
-    if (cached) {
-      return cached;
+  private calculateStats(hunks: DiffHunk[]): { additions: number; deletions: number } {
+    let additions = 0
+    let deletions = 0
+
+    for (const hunk of hunks) {
+      for (const line of hunk.lines) {
+        if (line.type === 'add') additions++
+        if (line.type === 'del') deletions++
+      }
     }
 
-    const filePath = this.getFilePath(identificador);
-
-    try {
-      // Get commit info for both commits using direct git log command
-      const [fromLog, toLog] = await Promise.all([
-        this.git.log(["-1", fromCommit]),
-        this.git.log(["-1", toCommit]),
-      ]);
-
-      if (fromLog.all.length === 0) {
-        throw new Error(`From commit ${fromCommit} not found`);
-      }
-      if (toLog.all.length === 0) {
-        throw new Error(`To commit ${toCommit} not found`);
-      }
-
-      const fromCommitData = fromLog.all[0];
-      const toCommitData = toLog.all[0];
-
-      if (!fromCommitData || !toCommitData) {
-        throw new Error("Commit data not found");
-      }
-
-      // Get diff with file-specific stats
-      const diffOutput = await this.git.diff([
-        fromCommit,
-        toCommit,
-        "--",
-        filePath,
-      ]);
-
-      // Get diff summary for stats
-      const diffSummary = await this.git.diffSummary([
-        fromCommit,
-        toCommit,
-        "--",
-        filePath,
-      ]);
-
-      // Get files for each commit
-      const [fromDiffSummary, toDiffSummary] = await Promise.all([
-        this.git.diffSummary([`${fromCommit}^`, fromCommit]),
-        this.git.diffSummary([`${toCommit}^`, toCommit]),
-      ]);
-
-      const result: DiffResult = {
-        from: {
-          sha: fromCommitData.hash,
-          message: fromCommitData.message,
-          authorDate: new Date(fromCommitData.date),
-          files: fromDiffSummary.files.map((f) => f.file),
-        },
-        to: {
-          sha: toCommitData.hash,
-          message: toCommitData.message,
-          authorDate: new Date(toCommitData.date),
-          files: toDiffSummary.files.map((f) => f.file),
-        },
-        hunks: this.parseDiff(diffOutput),
-        stats: {
-          filesChanged: diffSummary.files.length,
-          insertions: diffSummary.insertions,
-          deletions: diffSummary.deletions,
-        },
-      };
-
-      diffCache.set(cacheKey, result);
-      return result;
-    } catch (error) {
-      throw new Error(
-        `Failed to get diff from ${fromCommit} to ${toCommit} for ${identificador}: ${error instanceof Error ? error.message : String(error)}`,
-      );
-    }
+    return { additions, deletions }
   }
 }
