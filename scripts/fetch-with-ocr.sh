@@ -146,6 +146,86 @@ fetch_with_ocr "dleg-1033" "01033" "Ley de Organización y Funciones del INDECOP
 
 fetch_with_ocr "dleg-702" "00702" "Ley de Telecomunicaciones" "decreto-legislativo" "1991-11-05" "DecretosLegislativos" && ((success++)) || ((failed++))
 
+# More Decretos Legislativos
+fetch_with_ocr "dleg-1353" "01353" "Decreto Legislativo que crea la Autoridad Nacional de Transparencia" "decreto-legislativo" "2017-01-07" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+fetch_with_ocr "dleg-1438" "01438" "Decreto Legislativo del Sistema Nacional de Abastecimiento" "decreto-legislativo" "2018-09-16" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+fetch_with_ocr "dleg-767" "00767" "Ley Orgánica del Poder Judicial" "decreto-legislativo" "1991-12-04" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+# More Leyes
+fetch_with_ocr "ley-27291" "27291" "Ley que permite utilización de medios electrónicos" "ley" "2000-06-24" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-29381" "29381" "Ley de Organización y Funciones del MTPE" "ley" "2009-06-16" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27444" "27444" "Ley del Procedimiento Administrativo General" "ley" "2001-04-11" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-26887" "26887" "Ley General de Sociedades" "ley" "1997-12-09" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27809" "27809" "Ley General del Sistema Concursal" "ley" "2002-08-08" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-29571" "29571" "Código de Protección y Defensa del Consumidor" "ley" "2010-09-02" "Leyes" && ((success++)) || ((failed++))
+
+# Tax and Finance
+fetch_with_ocr "ley-26702" "26702" "Ley General del Sistema Financiero y del Sistema de Seguros" "ley" "1996-12-09" "Leyes" && ((success++)) || ((failed++))
+
+# Labor
+fetch_with_ocr "ley-29497" "29497" "Nueva Ley Procesal del Trabajo" "ley" "2010-01-15" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-28806" "28806" "Ley General de Inspección del Trabajo" "ley" "2006-07-22" "Leyes" && ((success++)) || ((failed++))
+
+# Constitutional
+fetch_with_ocr "ley-28237" "28237" "Código Procesal Constitucional" "ley" "2004-05-31" "Leyes" && ((success++)) || ((failed++))
+
+# Environment
+fetch_with_ocr "ley-27446" "27446" "Ley del Sistema Nacional de Evaluación del Impacto Ambiental" "ley" "2001-04-23" "Leyes" && ((success++)) || ((failed++))
+
+# Competition
+fetch_with_ocr "dleg-1034" "01034" "Ley de Represión de Conductas Anticompetitivas" "decreto-legislativo" "2008-06-25" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+# Public contracts
+fetch_with_ocr "ley-30225" "30225" "Ley de Contrataciones del Estado" "ley" "2014-07-11" "Leyes" && ((success++)) || ((failed++))
+
+# Mining
+fetch_with_ocr "ley-28090" "28090" "Ley que regula el Cierre de Minas" "ley" "2003-10-14" "Leyes" && ((success++)) || ((failed++))
+
+# Electricity
+fetch_with_ocr "ley-28832" "28832" "Ley para Asegurar el Desarrollo Eficiente de la Generación Eléctrica" "ley" "2006-07-23" "Leyes" && ((success++)) || ((failed++))
+
+# Data protection
+fetch_with_ocr "ley-29733" "29733" "Ley de Protección de Datos Personales" "ley" "2011-07-03" "Leyes" && ((success++)) || ((failed++))
+
+# Criminal procedure
+fetch_with_ocr "dleg-957" "00957" "Nuevo Código Procesal Penal" "decreto-legislativo" "2004-07-29" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+# Civil procedure
+fetch_with_ocr "dleg-768" "00768" "Código Procesal Civil" "decreto-legislativo" "1993-03-04" "DecretosLegislativos" && ((success++)) || ((failed++))
+
+# More important laws
+fetch_with_ocr "ley-26636" "26636" "Ley Procesal del Trabajo" "ley" "1996-06-24" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27157" "27157" "Ley de Regularización de Edificaciones" "ley" "1999-07-20" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27287" "27287" "Ley de Títulos Valores" "ley" "2000-06-19" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27287" "27287" "Ley de Títulos Valores" "ley" "2000-06-19" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-26842" "26842" "Ley General de Salud" "ley" "1997-07-20" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-28044" "28044" "Ley General de Educación" "ley" "2003-07-29" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27783" "27783" "Ley de Bases de la Descentralización" "ley" "2002-07-20" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27867" "27867" "Ley Orgánica de Gobiernos Regionales" "ley" "2002-11-18" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27972" "27972" "Ley Orgánica de Municipalidades" "ley" "2003-05-27" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-28411" "28411" "Ley General del Sistema Nacional de Presupuesto" "ley" "2004-12-08" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-27785" "27785" "Ley Orgánica del Sistema Nacional de Control y CGR" "ley" "2002-07-23" "Leyes" && ((success++)) || ((failed++))
+
+fetch_with_ocr "ley-28716" "28716" "Ley de Control Interno de las Entidades del Estado" "ley" "2006-04-18" "Leyes" && ((success++)) || ((failed++))
+
 echo ""
 echo "================================================"
 echo "✅ Success: $success"
