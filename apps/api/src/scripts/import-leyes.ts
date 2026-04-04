@@ -20,11 +20,17 @@ interface Frontmatter {
   rango: string
   sector?: string
   fechaPublicacion: string
+  fechaPromulgacion?: string
   fechaVigencia?: string
   ultimaActualizacion?: string
   estado: string
   fuente?: string
+  fuenteAlternativa?: string
   diarioOficial?: string
+  sumilla?: string
+  materias?: string[] | string
+  spijId?: string
+  disclaimer?: boolean
 }
 
 function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: string } {
@@ -67,6 +73,20 @@ async function importLaw(filePath: string): Promise<boolean> {
     .where(eq(schema.normas.identificador, frontmatter.identificador))
     .limit(1)
 
+  // Strip markdown for plain text search
+  const plainText = body
+    .replace(/^#+\s+/gm, '') // Remove headings
+    .replace(/\*\*([^*]+)\*\*/g, '$1') // Remove bold
+    .replace(/\*([^*]+)\*/g, '$1') // Remove italic
+    .replace(/>\s*/g, '') // Remove blockquotes
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove links
+    .replace(/\n{2,}/g, '\n') // Collapse newlines
+
+  // Handle materias as JSON
+  const materias = Array.isArray(frontmatter.materias)
+    ? JSON.stringify(frontmatter.materias)
+    : frontmatter.materias || null
+
   const normaData = {
     identificador: frontmatter.identificador,
     titulo: frontmatter.titulo,
@@ -75,12 +95,18 @@ async function importLaw(filePath: string): Promise<boolean> {
     rango: frontmatter.rango,
     sector: frontmatter.sector || null,
     fechaPublicacion: frontmatter.fechaPublicacion,
+    fechaPromulgacion: frontmatter.fechaPromulgacion || null,
     fechaVigencia: frontmatter.fechaVigencia || null,
     ultimaActualizacion: frontmatter.ultimaActualizacion || null,
     estado: frontmatter.estado || 'vigente',
     fuente: frontmatter.fuente || null,
+    fuenteAlternativa: frontmatter.fuenteAlternativa || null,
     diarioOficial: frontmatter.diarioOficial || 'El Peruano',
+    sumilla: frontmatter.sumilla || null,
+    materias,
+    spijId: frontmatter.spijId || null,
     contenido: body,
+    contenidoTexto: plainText,
   }
 
   if (existing.length > 0) {
