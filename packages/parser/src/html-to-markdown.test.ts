@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest'
+import { describe, expect, it } from 'vitest'
 import { parseHtmlToMarkdown } from './html-to-markdown'
 import type { LawMetadata } from './types'
 
@@ -102,7 +102,8 @@ describe('parseHtmlToMarkdown', () => {
 
   describe('list conversion', () => {
     it('converts unordered lists to markdown', () => {
-      const html = '<ul><li>Item uno</li><li>Item dos</li><li>Item tres</li></ul>'
+      const html =
+        '<ul><li>Item uno</li><li>Item dos</li><li>Item tres</li></ul>'
       const result = parseHtmlToMarkdown(html, defaultMetadata)
 
       expect(result.content).toContain('- Item uno')
@@ -227,8 +228,12 @@ describe('parseHtmlToMarkdown', () => {
       const result = parseHtmlToMarkdown(html, defaultMetadata)
 
       expect(result.content).toContain('## TÍTULO PRELIMINAR')
-      expect(result.content).toContain('Artículo I.- La ley se deroga sólo por otra ley.')
-      expect(result.content).toContain('Artículo II.- La ley no ampara el abuso del derecho.')
+      expect(result.content).toContain(
+        'Artículo I.- La ley se deroga sólo por otra ley.',
+      )
+      expect(result.content).toContain(
+        'Artículo II.- La ley no ampara el abuso del derecho.',
+      )
     })
 
     it('handles constitution-style structure', () => {
@@ -248,9 +253,15 @@ describe('parseHtmlToMarkdown', () => {
 
       expect(result.content).toContain('# Constitución Política del Perú')
       expect(result.content).toContain('# CONSTITUCIÓN POLÍTICA DEL PERÚ')
-      expect(result.content).toContain('## TÍTULO I - DE LA PERSONA Y DE LA SOCIEDAD')
-      expect(result.content).toContain('### CAPÍTULO I - DERECHOS FUNDAMENTALES')
-      expect(result.content).toContain('Artículo 1.- La defensa de la persona humana')
+      expect(result.content).toContain(
+        '## TÍTULO I - DE LA PERSONA Y DE LA SOCIEDAD',
+      )
+      expect(result.content).toContain(
+        '### CAPÍTULO I - DERECHOS FUNDAMENTALES',
+      )
+      expect(result.content).toContain(
+        'Artículo 1.- La defensa de la persona humana',
+      )
     })
 
     it('handles code structure with numbered articles', () => {
@@ -264,8 +275,12 @@ describe('parseHtmlToMarkdown', () => {
       const result = parseHtmlToMarkdown(html, defaultMetadata)
 
       expect(result.content).toContain('## LIBRO I - DERECHO DE LAS PERSONAS')
-      expect(result.content).toContain('### SECCIÓN PRIMERA - PERSONAS NATURALES')
-      expect(result.content).toContain('#### TÍTULO I - PRINCIPIO DE LA PERSONA')
+      expect(result.content).toContain(
+        '### SECCIÓN PRIMERA - PERSONAS NATURALES',
+      )
+      expect(result.content).toContain(
+        '#### TÍTULO I - PRINCIPIO DE LA PERSONA',
+      )
       expect(result.content).toContain('Artículo 1.-')
       expect(result.content).toContain('Artículo 2.-')
     })
@@ -288,7 +303,8 @@ describe('parseHtmlToMarkdown', () => {
     })
 
     it('handles special characters in content', () => {
-      const html = '<p>El artículo 1° establece que "el Estado" & las instituciones...</p>'
+      const html =
+        '<p>El artículo 1° establece que "el Estado" & las instituciones...</p>'
       const result = parseHtmlToMarkdown(html, defaultMetadata)
 
       expect(result.content).toContain('El artículo 1°')

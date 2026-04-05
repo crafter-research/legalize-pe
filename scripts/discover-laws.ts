@@ -9,13 +9,14 @@
  */
 
 import { execSync } from 'node:child_process'
-import { writeFile, readFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { readFile, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_FILE = join(__dirname, '../data/discovered-laws.json')
-const AGENT_BROWSER = '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
+const AGENT_BROWSER =
+  '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
 
 interface DiscoveredLaw {
   spijId: string
@@ -27,7 +28,10 @@ interface DiscoveredLaw {
 
 function exec(cmd: string): string {
   try {
-    return execSync(cmd, { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 }).trim()
+    return execSync(cmd, {
+      encoding: 'utf-8',
+      maxBuffer: 10 * 1024 * 1024,
+    }).trim()
   } catch (error) {
     console.error(`Command failed: ${cmd}`)
     throw error
@@ -39,7 +43,7 @@ function ab(cmd: string): string {
 }
 
 function wait(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 async function login(): Promise<void> {
@@ -62,7 +66,7 @@ async function getCategories(): Promise<string[]> {
 
   // Find and click the legislation by topic button
   const lines = snapshot.split('\n')
-  const categoryBtn = lines.find(l => l.includes('LEGISLACIÓN POR MATERIA'))
+  const categoryBtn = lines.find((l) => l.includes('LEGISLACIÓN POR MATERIA'))
   if (!categoryBtn) {
     throw new Error('Could not find LEGISLACIÓN POR MATERIA button')
   }
@@ -83,7 +87,12 @@ async function getCategories(): Promise<string[]> {
   for (const line of categoryLines) {
     // Match lines like: - link "ADOPCIÓN" [ref=e11]
     const match = line.match(/link "([^"]+)" \[ref=(\w+)\]/)
-    if (match && !match[1].includes('DECRETO') && !match[1].includes('LEY') && !match[1].includes('RESOLUC')) {
+    if (
+      match &&
+      !match[1].includes('DECRETO') &&
+      !match[1].includes('LEY') &&
+      !match[1].includes('RESOLUC')
+    ) {
       categories.push(match[2]) // Store ref
     }
   }
@@ -92,7 +101,10 @@ async function getCategories(): Promise<string[]> {
   return categories
 }
 
-async function extractLawsFromCategory(categoryRef: string, categoryName: string): Promise<DiscoveredLaw[]> {
+async function extractLawsFromCategory(
+  categoryRef: string,
+  categoryName: string,
+): Promise<DiscoveredLaw[]> {
   console.log(`\n📜 Processing category: ${categoryName}`)
 
   ab(`click @${categoryRef}`)
@@ -104,18 +116,21 @@ async function extractLawsFromCategory(categoryRef: string, categoryName: string
   // Extract all detallenorma links
   const laws: DiscoveredLaw[] = []
   const linkRegex = /href="#\/detallenorma\/(H\d+)"[^>]*>([^<]+)/g
-  let match
+  let match: RegExpExecArray | null = linkRegex.exec(html)
 
-  while ((match = linkRegex.exec(html)) !== null) {
+  while (match !== null) {
     const spijId = match[1]
     const title = match[2].trim()
 
     // Try to extract law identifier from title (LEY N° XXXXX, DECRETO LEGISLATIVO N° XXX, etc.)
-    const identifierMatch = title.match(/(LEY|DECRETO\s+LEGISLATIVO|DECRETO\s+SUPREMO|DECRETO\s+DE\s+URGENCIA|RESOLUC[IÓO]N)[^°]*N[°º]\s*(\d+[-\d]*)/i)
+    const identifierMatch = title.match(
+      /(LEY|DECRETO\s+LEGISLATIVO|DECRETO\s+SUPREMO|DECRETO\s+DE\s+URGENCIA|RESOLUC[IÓO]N)[^°]*N[°º]\s*(\d+[-\d]*)/i,
+    )
 
     let identifier = ''
     if (identifierMatch) {
-      const type = identifierMatch[1].toLowerCase()
+      const type = identifierMatch[1]
+        .toLowerCase()
         .replace('decreto legislativo', 'dleg')
         .replace('decreto supremo', 'ds')
         .replace('decreto de urgencia', 'du')
@@ -129,8 +144,9 @@ async function extractLawsFromCategory(categoryRef: string, categoryName: string
       title,
       identifier,
       category: categoryName,
-      url: `https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/${spijId}`
+      url: `https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/${spijId}`,
     })
+    match = linkRegex.exec(html)
   }
 
   console.log(`   Found ${laws.length} laws`)
@@ -164,10 +180,12 @@ async function main() {
 
     // Parse categories from snapshot
     const categoryLines = categorySnapshot.split('\n')
-    const categories: Array<{ref: string, name: string}> = []
+    const categories: Array<{ ref: string; name: string }> = []
 
     for (const line of categoryLines) {
-      const match = line.match(/link "([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s,\-]+)" \[ref=(\w+)\]/)
+      const match = line.match(
+        /link "([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s,\-]+)" \[ref=(\w+)\]/,
+      )
       if (match) {
         const name = match[1]
         const ref = match[2]
@@ -197,17 +215,16 @@ async function main() {
       discoveredAt: new Date().toISOString(),
       totalLaws: allLaws.length,
       categoriesProcessed: categoriesToProcess.length,
-      laws: allLaws
+      laws: allLaws,
     }
 
     // Create data directory if needed
     await execSync(`mkdir -p ${dirname(OUTPUT_FILE)}`)
     await writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2))
 
-    console.log('\n' + '═'.repeat(50))
+    console.log(`\n${'═'.repeat(50)}`)
     console.log(`✅ Discovered ${allLaws.length} laws`)
     console.log(`📁 Saved to ${OUTPUT_FILE}`)
-
   } finally {
     // Close browser
     try {

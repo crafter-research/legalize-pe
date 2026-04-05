@@ -118,23 +118,19 @@ export function convertHtmlToMarkdown(html: string): string {
         return text
       }
       case 'ul':
-        return (
-          $node
-            .find('> li')
-            .map((_, li) => `- ${processChildren($(li)).trim()}`)
-            .get()
-            .join('\n') + '\n\n'
-        )
+        return `${$node
+          .find('> li')
+          .map((_, li) => `- ${processChildren($(li)).trim()}`)
+          .get()
+          .join('\n')}\n\n`
       case 'ol':
-        return (
-          $node
-            .find('> li')
-            .map((i, li) => `${i + 1}. ${processChildren($(li)).trim()}`)
-            .get()
-            .join('\n') + '\n\n'
-        )
+        return `${$node
+          .find('> li')
+          .map((i, li) => `${i + 1}. ${processChildren($(li)).trim()}`)
+          .get()
+          .join('\n')}\n\n`
       case 'table':
-        return convertTable($, $node) + '\n\n'
+        return `${convertTable($, $node)}\n\n`
       case 'span':
       case 'font':
       case 'div':
@@ -144,9 +140,7 @@ export function convertHtmlToMarkdown(html: string): string {
     }
   }
 
-  function processChildren(
-    $parent: cheerio.Cheerio<AnyNode>,
-  ): string {
+  function processChildren($parent: cheerio.Cheerio<AnyNode>): string {
     let result = ''
     $parent.contents().each((_, child) => {
       if (child.type === 'text') {

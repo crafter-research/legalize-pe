@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-codigos-penales.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -180,7 +180,7 @@ async function fetchLaw(spijId: string): Promise<SpijLaw> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
@@ -250,21 +250,28 @@ ${content}
   console.log(`   📝 Saved: ${filePath}`)
 }
 
-async function tryFetchWithId(law: (typeof CODIGOS_PENALES)[0], spijId: string): Promise<boolean> {
+async function tryFetchWithId(
+  law: (typeof CODIGOS_PENALES)[0],
+  spijId: string,
+): Promise<boolean> {
   try {
     console.log(`   Trying ID: ${spijId}`)
     const spijData = await fetchLaw(spijId)
 
     // Verify this is the right law
     const text = (spijData.sumilla || '') + (spijData.titulo || '')
-    if (text.toLowerCase().includes(law.searchTerm.toLowerCase().split(' ')[0])) {
+    if (
+      text.toLowerCase().includes(law.searchTerm.toLowerCase().split(' ')[0])
+    ) {
       await saveLaw(law, spijData, spijId)
       return true
     }
     console.log(`   ⚠️  ID ${spijId} does not match expected content`)
     return false
   } catch (error) {
-    console.log(`   ❌ ID ${spijId} failed: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ ID ${spijId} failed: ${error instanceof Error ? error.message : error}`,
+    )
     return false
   }
 }
@@ -319,13 +326,15 @@ async function main() {
       }
     } catch (error) {
       failed++
-      console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+      console.log(
+        `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+      )
     }
 
     await new Promise((r) => setTimeout(r, 1000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

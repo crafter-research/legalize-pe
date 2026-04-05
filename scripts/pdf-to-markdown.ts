@@ -4,10 +4,10 @@
  * Usage: npx tsx scripts/pdf-to-markdown.ts <pdf-url-or-path> [output-file]
  */
 
-import { writeFile, readFile, mkdir } from 'node:fs/promises'
-import { join, dirname, basename } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { existsSync } from 'node:fs'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
+import { basename, dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { PDFParse } from 'pdf-parse'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -25,7 +25,8 @@ async function fetchPdf(url: string): Promise<Buffer> {
 
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
       Accept: 'application/pdf',
     },
   })
@@ -54,25 +55,27 @@ async function loadPdf(source: string): Promise<Buffer> {
 }
 
 function cleanText(text: string): string {
-  return text
-    // Normalize line endings
-    .replace(/\r\n/g, '\n')
-    .replace(/\r/g, '\n')
-    // Remove excessive whitespace
-    .replace(/[ \t]+/g, ' ')
-    // Clean up multiple newlines (but preserve paragraph breaks)
-    .replace(/\n{4,}/g, '\n\n\n')
-    // Remove leading/trailing whitespace from lines
-    .split('\n')
-    .map(line => line.trim())
-    .join('\n')
-    // Remove empty lines at start/end
-    .trim()
+  return (
+    text
+      // Normalize line endings
+      .replace(/\r\n/g, '\n')
+      .replace(/\r/g, '\n')
+      // Remove excessive whitespace
+      .replace(/[ \t]+/g, ' ')
+      // Clean up multiple newlines (but preserve paragraph breaks)
+      .replace(/\n{4,}/g, '\n\n\n')
+      // Remove leading/trailing whitespace from lines
+      .split('\n')
+      .map((line) => line.trim())
+      .join('\n')
+      // Remove empty lines at start/end
+      .trim()
+  )
 }
 
 function detectArticles(text: string): string {
   // Detect article patterns and format them as headings
-  let formatted = text
+  const formatted = text
     // "Artículo X." or "Artículo X.-" or "ARTÍCULO X"
     .replace(/^(Art[íi]culo\s+\d+[°º]?\.?-?\s*)/gim, '\n\n## $1')
     // "TÍTULO X" or "Título X"
@@ -84,7 +87,10 @@ function detectArticles(text: string): string {
     // "SECCIÓN X"
     .replace(/^(SECCI[ÓO]N\s+[IVXLCDM\d]+\.?-?\s*)/gim, '\n\n### $1')
     // "DISPOSICIONES" sections
-    .replace(/^(DISPOSICIONES\s+(?:COMPLEMENTARIAS|TRANSITORIAS|FINALES|DEROGATORIAS)[^\n]*)/gim, '\n\n# $1')
+    .replace(
+      /^(DISPOSICIONES\s+(?:COMPLEMENTARIAS|TRANSITORIAS|FINALES|DEROGATORIAS)[^\n]*)/gim,
+      '\n\n# $1',
+    )
 
   return formatted
 }
@@ -101,9 +107,12 @@ function textToMarkdown(text: string): string {
   return md
 }
 
-export async function pdfToMarkdown(
-  source: string,
-): Promise<{ text: string; markdown: string; pages: number; metadata: PdfMetadata }> {
+export async function pdfToMarkdown(source: string): Promise<{
+  text: string
+  markdown: string
+  pages: number
+  metadata: PdfMetadata
+}> {
   const pdfBuffer = await loadPdf(source)
 
   console.log(`📝 Parsing PDF (${(pdfBuffer.length / 1024).toFixed(1)} KB)...`)
@@ -114,7 +123,7 @@ export async function pdfToMarkdown(
 
   // Get text content
   const textResult = await parser.getText()
-  const text = textResult.pages.map(p => p.text).join('\n\n')
+  const text = textResult.pages.map((p) => p.text).join('\n\n')
 
   // Get metadata
   const infoResult = await parser.getInfo()
@@ -154,7 +163,7 @@ export function createFrontmatter(options: {
   materias?: string[]
 }): string {
   const materiasYaml = options.materias
-    ? `[${options.materias.map(m => `"${m}"`).join(', ')}]`
+    ? `[${options.materias.map((m) => `"${m}"`).join(', ')}]`
     : '[]'
 
   return `---
@@ -204,16 +213,24 @@ Environment variables for metadata:
 
     console.log('\n📊 PDF Metadata:')
     if (result.metadata.title) console.log(`   Title: ${result.metadata.title}`)
-    if (result.metadata.author) console.log(`   Author: ${result.metadata.author}`)
-    if (result.metadata.subject) console.log(`   Subject: ${result.metadata.subject}`)
+    if (result.metadata.author)
+      console.log(`   Author: ${result.metadata.author}`)
+    if (result.metadata.subject)
+      console.log(`   Subject: ${result.metadata.subject}`)
 
     if (outputFile) {
       // Create frontmatter from env vars or defaults
       const frontmatter = createFrontmatter({
-        titulo: process.env.TITLE || result.metadata.title || basename(source, '.pdf'),
-        identificador: process.env.ID || basename(source, '.pdf').toLowerCase().replace(/\s+/g, '-'),
+        titulo:
+          process.env.TITLE ||
+          result.metadata.title ||
+          basename(source, '.pdf'),
+        identificador:
+          process.env.ID ||
+          basename(source, '.pdf').toLowerCase().replace(/\s+/g, '-'),
         rango: process.env.RANGO || 'norma',
-        fechaPublicacion: process.env.FECHA || new Date().toISOString().split('T')[0],
+        fechaPublicacion:
+          process.env.FECHA || new Date().toISOString().split('T')[0],
         fuente: source.startsWith('http') ? source : '',
         sumilla: process.env.SUMILLA || result.metadata.subject || '',
       })
@@ -236,15 +253,16 @@ ${result.markdown}
       console.log(`   Size: ${(fullMarkdown.length / 1024).toFixed(1)} KB`)
     } else {
       // Print to stdout
-      console.log('\n' + '═'.repeat(50))
+      console.log(`\n${'═'.repeat(50)}`)
       console.log(result.markdown.slice(0, 2000))
       if (result.markdown.length > 2000) {
         console.log(`\n... (${result.markdown.length - 2000} more characters)`)
       }
     }
-
   } catch (error) {
-    console.error(`\n❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.error(
+      `\n❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     process.exit(1)
   }
 }

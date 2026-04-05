@@ -4,10 +4,10 @@
  * Usage: npx tsx scripts/fetch-leyes-congreso-pdf.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { existsSync } from 'node:fs'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { PDFParse } from 'pdf-parse'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -15,10 +15,8 @@ const OUTPUT_DIR = join(__dirname, '../leyes/pe')
 
 // Law numbers to fetch (available on Congress site, not in our repo)
 const LAW_NUMBERS = [
-  // Batch 4 - Try more 27xxx numbers (good success rate)
-  27051, 27052, 27053, 27054, 27055, 27056, 27057, 27058, 27059, 27060,
-  27061, 27062, 27063, 27064, 27065, 27066, 27067, 27068, 27069, 27070,
-  27100, 27101, 27102, 27103, 27104, 27105, 27106, 27107, 27108, 27109,
+  // Generate range 27110-27500
+  ...Array.from({ length: 391 }, (_, i) => 27110 + i),
 ]
 
 function cleanText(text: string): string {
@@ -28,7 +26,7 @@ function cleanText(text: string): string {
     .replace(/[ \t]+/g, ' ')
     .replace(/\n{4,}/g, '\n\n\n')
     .split('\n')
-    .map(line => line.trim())
+    .map((line) => line.trim())
     .join('\n')
     .trim()
 }
@@ -40,7 +38,10 @@ function detectArticles(text: string): string {
     .replace(/^(CAP[ÍI]TULO\s+[IVXLCDM\d]+\.?-?\s*)/gim, '\n\n## $1')
     .replace(/^(SUBCAP[ÍI]TULO\s+[IVXLCDM\d]+\.?-?\s*)/gim, '\n\n### $1')
     .replace(/^(SECCI[ÓO]N\s+[IVXLCDM\d]+\.?-?\s*)/gim, '\n\n### $1')
-    .replace(/^(DISPOSICIONES\s+(?:COMPLEMENTARIAS|TRANSITORIAS|FINALES|DEROGATORIAS)[^\n]*)/gim, '\n\n# $1')
+    .replace(
+      /^(DISPOSICIONES\s+(?:COMPLEMENTARIAS|TRANSITORIAS|FINALES|DEROGATORIAS)[^\n]*)/gim,
+      '\n\n# $1',
+    )
 }
 
 function extractLawTitle(text: string, numero: number): string {
@@ -65,7 +66,8 @@ async function fetchPdf(url: string): Promise<Buffer | null> {
   try {
     const response = await fetch(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'User-Agent':
+          'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
         Accept: 'application/pdf',
       },
     })
@@ -81,13 +83,15 @@ async function fetchPdf(url: string): Promise<Buffer | null> {
   }
 }
 
-async function processPdf(buffer: Buffer): Promise<{ text: string; pages: number } | null> {
+async function processPdf(
+  buffer: Buffer,
+): Promise<{ text: string; pages: number } | null> {
   try {
     const parser = new PDFParse({ data: buffer })
     await parser.load()
 
     const textResult = await parser.getText()
-    const text = textResult.pages.map(p => p.text).join('\n\n')
+    const text = textResult.pages.map((p) => p.text).join('\n\n')
     const pages = textResult.pages.length
 
     await parser.destroy()
@@ -125,7 +129,9 @@ async function processLaw(numero: number): Promise<boolean> {
     return false
   }
 
-  console.log(`   📝 Parsed: ${result.pages} pages, ${result.text.length} chars`)
+  console.log(
+    `   📝 Parsed: ${result.pages} pages, ${result.text.length} chars`,
+  )
 
   // Clean and format text
   let markdown = cleanText(result.text)
@@ -166,7 +172,9 @@ ${markdown}
 `
 
   await writeFile(filePath, fullMarkdown, 'utf-8')
-  console.log(`   ✅ Saved: ley-${numero}.md (${(fullMarkdown.length / 1024).toFixed(1)} KB)`)
+  console.log(
+    `   ✅ Saved: ley-${numero}.md (${(fullMarkdown.length / 1024).toFixed(1)} KB)`,
+  )
   return true
 }
 
@@ -195,10 +203,10 @@ async function main() {
       failed++
     }
     // Rate limiting
-    await new Promise(r => setTimeout(r, 2000))
+    await new Promise((r) => setTimeout(r, 2000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`⏭️  Skipped: ${skipped}`)
   console.log(`❌ Failed: ${failed}`)

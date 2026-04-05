@@ -7,8 +7,10 @@ import { execSync } from 'node:child_process'
 import { writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
-const AB = '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
-const OUTPUT_DIR = '/Users/shiara/Documents/personal-projects/legalize-pe/leyes/pe'
+const AB =
+  '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
+const OUTPUT_DIR =
+  '/Users/shiara/Documents/personal-projects/legalize-pe/leyes/pe'
 
 interface Law {
   id: string
@@ -19,20 +21,104 @@ interface Law {
 }
 
 const LAWS: Law[] = [
-  { id: 'ley-27815', name: 'Ley del Código de Ética de la Función Pública', search: '27815', rango: 'ley', date: '2002-08-13' },
-  { id: 'ley-28024', name: 'Ley que regula la gestión de intereses en la administración pública', search: '28024', rango: 'ley', date: '2003-07-12' },
-  { id: 'ley-26771', name: 'Ley de Nepotismo', search: '26771', rango: 'ley', date: '1997-04-15' },
-  { id: 'ley-27693', name: 'Ley que crea la Unidad de Inteligencia Financiera', search: '27693', rango: 'ley', date: '2002-04-12' },
-  { id: 'dleg-650', name: 'TUO de la Ley de Compensación por Tiempo de Servicios', search: '650', rango: 'decreto-legislativo', date: '1991-07-24' },
-  { id: 'dleg-713', name: 'Descansos Remunerados de los Trabajadores', search: '713', rango: 'decreto-legislativo', date: '1991-11-08' },
-  { id: 'dleg-688', name: 'Ley de Consolidación de Beneficios Sociales', search: '688', rango: 'decreto-legislativo', date: '1991-11-05' },
-  { id: 'dleg-892', name: 'Participación de los Trabajadores en las Utilidades', search: '892', rango: 'decreto-legislativo', date: '1996-11-11' },
-  { id: 'ley-25129', name: 'Ley de Asignación Familiar', search: '25129', rango: 'ley', date: '1989-12-06' },
-  { id: 'ley-27735', name: 'Ley de Gratificaciones para Trabajadores', search: '27735', rango: 'ley', date: '2002-05-28' },
-  { id: 'ley-29414', name: 'Ley que establece los derechos de las personas usuarias de los servicios de salud', search: '29414', rango: 'ley', date: '2009-10-02' },
-  { id: 'ley-29944', name: 'Ley de Reforma Magisterial', search: '29944', rango: 'ley', date: '2012-11-25' },
-  { id: 'ley-30512', name: 'Ley de Institutos y Escuelas de Educación Superior', search: '30512', rango: 'ley', date: '2016-11-02' },
-  { id: 'ley-29325', name: 'Ley del Sistema Nacional de Evaluación y Fiscalización Ambiental', search: '29325', rango: 'ley', date: '2009-03-05' },
+  {
+    id: 'ley-27815',
+    name: 'Ley del Código de Ética de la Función Pública',
+    search: '27815',
+    rango: 'ley',
+    date: '2002-08-13',
+  },
+  {
+    id: 'ley-28024',
+    name: 'Ley que regula la gestión de intereses en la administración pública',
+    search: '28024',
+    rango: 'ley',
+    date: '2003-07-12',
+  },
+  {
+    id: 'ley-26771',
+    name: 'Ley de Nepotismo',
+    search: '26771',
+    rango: 'ley',
+    date: '1997-04-15',
+  },
+  {
+    id: 'ley-27693',
+    name: 'Ley que crea la Unidad de Inteligencia Financiera',
+    search: '27693',
+    rango: 'ley',
+    date: '2002-04-12',
+  },
+  {
+    id: 'dleg-650',
+    name: 'TUO de la Ley de Compensación por Tiempo de Servicios',
+    search: '650',
+    rango: 'decreto-legislativo',
+    date: '1991-07-24',
+  },
+  {
+    id: 'dleg-713',
+    name: 'Descansos Remunerados de los Trabajadores',
+    search: '713',
+    rango: 'decreto-legislativo',
+    date: '1991-11-08',
+  },
+  {
+    id: 'dleg-688',
+    name: 'Ley de Consolidación de Beneficios Sociales',
+    search: '688',
+    rango: 'decreto-legislativo',
+    date: '1991-11-05',
+  },
+  {
+    id: 'dleg-892',
+    name: 'Participación de los Trabajadores en las Utilidades',
+    search: '892',
+    rango: 'decreto-legislativo',
+    date: '1996-11-11',
+  },
+  {
+    id: 'ley-25129',
+    name: 'Ley de Asignación Familiar',
+    search: '25129',
+    rango: 'ley',
+    date: '1989-12-06',
+  },
+  {
+    id: 'ley-27735',
+    name: 'Ley de Gratificaciones para Trabajadores',
+    search: '27735',
+    rango: 'ley',
+    date: '2002-05-28',
+  },
+  {
+    id: 'ley-29414',
+    name: 'Ley que establece los derechos de las personas usuarias de los servicios de salud',
+    search: '29414',
+    rango: 'ley',
+    date: '2009-10-02',
+  },
+  {
+    id: 'ley-29944',
+    name: 'Ley de Reforma Magisterial',
+    search: '29944',
+    rango: 'ley',
+    date: '2012-11-25',
+  },
+  {
+    id: 'ley-30512',
+    name: 'Ley de Institutos y Escuelas de Educación Superior',
+    search: '30512',
+    rango: 'ley',
+    date: '2016-11-02',
+  },
+  {
+    id: 'ley-29325',
+    name: 'Ley del Sistema Nacional de Evaluación y Fiscalización Ambiental',
+    search: '29325',
+    rango: 'ley',
+    date: '2009-03-05',
+  },
 ]
 
 function ab(cmd: string, timeout = 30000): string {
@@ -42,14 +128,15 @@ function ab(cmd: string, timeout = 30000): string {
       maxBuffer: 50 * 1024 * 1024,
       timeout,
     }).trim()
-  } catch (error: any) {
-    if (error.stdout) return error.stdout.toString().trim()
+  } catch (error: unknown) {
+    const e = error as { stdout?: Buffer }
+    if (e.stdout) return e.stdout.toString().trim()
     return ''
   }
 }
 
 function wait(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 async function login(): Promise<boolean> {
@@ -80,7 +167,9 @@ async function login(): Promise<boolean> {
   ab(`fill @${passMatch[1]} "123456"`)
 
   // Click the second INGRESAR button (form submit)
-  const btnMatches = [...snapshot.matchAll(/button "INGRESAR"[^[]*\[ref=(\w+)\]/g)]
+  const btnMatches = [
+    ...snapshot.matchAll(/button "INGRESAR"[^[]*\[ref=(\w+)\]/g),
+  ]
   if (btnMatches.length > 1) {
     ab(`click @${btnMatches[1][1]}`)
   }
@@ -127,7 +216,9 @@ async function searchAndExtractLaw(law: Law): Promise<string | null> {
     snapshot = ab('snapshot -i')
 
     // Find law link with detallenorma
-    const lawLinkMatch = snapshot.match(/link[^[]*detallenorma[^[]*\[ref=(\w+)\]/)
+    const lawLinkMatch = snapshot.match(
+      /link[^[]*detallenorma[^[]*\[ref=(\w+)\]/,
+    )
     if (!lawLinkMatch) {
       console.log('   ❌ No se encontraron resultados')
       return null
@@ -148,7 +239,9 @@ async function searchAndExtractLaw(law: Law): Promise<string | null> {
     console.log('   ❌ Texto muy corto o vacío')
     return null
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return null
   }
 }
@@ -208,7 +301,7 @@ async function main() {
     ab('close')
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Éxito: ${success}`)
   console.log(`❌ Fallidas: ${failed}`)
 }

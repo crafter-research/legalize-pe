@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-leyes-lpderecho.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -31,7 +31,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2016-04-21',
     materias: ['penal', 'compliance', 'responsabilidad corporativa'],
-    sumilla: 'Ley de responsabilidad penal de empresas por delitos de corrupción, lavado de activos y otros',
+    sumilla:
+      'Ley de responsabilidad penal de empresas por delitos de corrupción, lavado de activos y otros',
   },
   // Digital
   {
@@ -41,7 +42,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2018-09-13',
     materias: ['digital', 'gobierno', 'tecnología'],
-    sumilla: 'Marco de gobernanza del gobierno digital, interoperabilidad y gestión de datos',
+    sumilla:
+      'Marco de gobernanza del gobierno digital, interoperabilidad y gestión de datos',
   },
   // Laboral - CTS
   {
@@ -51,7 +53,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-supremo',
     fechaPublicacion: '1997-03-01',
     materias: ['laboral', 'CTS', 'beneficios sociales'],
-    sumilla: 'Regula la CTS como beneficio social de previsión de contingencias',
+    sumilla:
+      'Regula la CTS como beneficio social de previsión de contingencias',
   },
   // Laboral - Descansos
   {
@@ -71,7 +74,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2002-05-28',
     materias: ['laboral', 'gratificaciones', 'fiestas patrias', 'navidad'],
-    sumilla: 'Gratificaciones por Fiestas Patrias y Navidad para trabajadores del régimen privado',
+    sumilla:
+      'Gratificaciones por Fiestas Patrias y Navidad para trabajadores del régimen privado',
   },
   // Laboral - Utilidades
   {
@@ -81,7 +85,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '1996-11-11',
     materias: ['laboral', 'utilidades', 'beneficios'],
-    sumilla: 'Derecho de los trabajadores a participar en las utilidades de la empresa',
+    sumilla:
+      'Derecho de los trabajadores a participar en las utilidades de la empresa',
   },
   // Educación
   {
@@ -91,7 +96,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2012-11-25',
     materias: ['educación', 'docentes', 'magisterio'],
-    sumilla: 'Carrera pública magisterial, formación, evaluación y remuneración docente',
+    sumilla:
+      'Carrera pública magisterial, formación, evaluación y remuneración docente',
   },
   // Función Pública - CAS
   {
@@ -101,7 +107,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2008-06-28',
     materias: ['laboral', 'función pública', 'CAS'],
-    sumilla: 'Régimen especial de contratación administrativa de servicios en el sector público',
+    sumilla:
+      'Régimen especial de contratación administrativa de servicios en el sector público',
   },
   // Función Pública - Servicio Civil
   {
@@ -111,7 +118,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2013-07-04',
     materias: ['función pública', 'servicio civil', 'SERVIR'],
-    sumilla: 'Régimen único y exclusivo para personas que prestan servicios en entidades públicas',
+    sumilla:
+      'Régimen único y exclusivo para personas que prestan servicios en entidades públicas',
   },
   // Contrataciones del Estado
   {
@@ -121,7 +129,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-supremo',
     fechaPublicacion: '2019-03-13',
     materias: ['contrataciones', 'estado', 'OSCE'],
-    sumilla: 'Normas para contratación de bienes, servicios y obras por entidades públicas',
+    sumilla:
+      'Normas para contratación de bienes, servicios y obras por entidades públicas',
   },
   // Inspección del Trabajo
   {
@@ -141,7 +150,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2012-04-19',
     materias: ['penal', 'lavado de activos', 'crimen organizado'],
-    sumilla: 'Tipifica y sanciona el delito de lavado de activos y delitos conexos',
+    sumilla:
+      'Tipifica y sanciona el delito de lavado de activos y delitos conexos',
   },
   // Procedimiento Administrativo
   {
@@ -151,7 +161,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
     rango: 'decreto-supremo',
     fechaPublicacion: '2019-01-25',
     materias: ['administrativo', 'procedimiento', 'silencio administrativo'],
-    sumilla: 'Normas comunes para actuaciones de entidades públicas y derechos de los administrados',
+    sumilla:
+      'Normas comunes para actuaciones de entidades públicas y derechos de los administrados',
   },
   // Protección al Consumidor
   {
@@ -178,7 +189,8 @@ const LEYES_LPDERECHO: LawDefinition[] = [
 async function fetchLawContent(url: string): Promise<string> {
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
       Accept: 'text/html,application/xhtml+xml',
     },
   })
@@ -191,8 +203,10 @@ async function fetchLawContent(url: string): Promise<string> {
 
   // Extract main content
   // LP Derecho uses entry-content class for the law content
-  const contentMatch = html.match(/<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i)
-    || html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
+  const contentMatch =
+    html.match(
+      /<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i,
+    ) || html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
 
   if (!contentMatch) {
     // Try getting the whole body
@@ -207,7 +221,7 @@ async function fetchLawContent(url: string): Promise<string> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     // Remove scripts and styles
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
@@ -215,7 +229,10 @@ function htmlToMarkdown(html: string): string {
     .replace(/<aside[^>]*>[\s\S]*?<\/aside>/gi, '')
     .replace(/<footer[^>]*>[\s\S]*?<\/footer>/gi, '')
     // Remove ads and social sharing
-    .replace(/<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '')
+    .replace(
+      /<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi,
+      '',
+    )
     // Headers
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
     .replace(/<h2[^>]*>(.*?)<\/h2>/gi, '## $1\n\n')
@@ -288,7 +305,9 @@ ${content}
 
   const filePath = join(OUTPUT_DIR, `${law.id}.md`)
   await writeFile(filePath, markdown, 'utf-8')
-  console.log(`   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+  console.log(
+    `   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+  )
 }
 
 async function processLaw(law: LawDefinition): Promise<boolean> {
@@ -308,7 +327,9 @@ async function processLaw(law: LawDefinition): Promise<boolean> {
     console.log('   ✅ Success')
     return true
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return false
   }
 }
@@ -334,7 +355,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 2000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

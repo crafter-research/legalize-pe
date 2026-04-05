@@ -5,7 +5,7 @@
  */
 
 import { writeFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -61,7 +61,10 @@ async function getToken(): Promise<string> {
   return data.token
 }
 
-async function fetchLaw(token: string, spijId: string): Promise<SpijLaw | null> {
+async function fetchLaw(
+  token: string,
+  spijId: string,
+): Promise<SpijLaw | null> {
   try {
     const response = await fetch(`${SPIJ_API_BASE}/detallenorma/${spijId}`, {
       headers: {
@@ -82,7 +85,7 @@ async function fetchLaw(token: string, spijId: string): Promise<SpijLaw | null> 
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
@@ -120,7 +123,8 @@ function extractTitle(sumilla: string): string {
 }
 
 async function saveLaw(spijId: string, spijData: SpijLaw): Promise<void> {
-  const title = 'Ley que dispone la reestructuración del Sistema Nacional de Pensiones del Decreto Ley 19990'
+  const title =
+    'Ley que dispone la reestructuración del Sistema Nacional de Pensiones del Decreto Ley 19990'
   const content = htmlToMarkdown(spijData.textoCompleto)
 
   const frontmatter = `---
@@ -164,9 +168,8 @@ async function main() {
       console.log(`   Title: ${extractTitle(law.sumilla)}`)
       await saveLaw(spijId, law)
       return
-    } else {
-      console.log('   ❌ Not found')
     }
+    console.log('   ❌ Not found')
 
     // Rate limiting
     await new Promise((r) => setTimeout(r, 500))

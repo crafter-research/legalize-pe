@@ -3,10 +3,10 @@
  * Direct Scraper - Navigate directly to each law's page
  */
 
-import { mkdir, writeFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../../../leyes/pe')
@@ -114,7 +114,9 @@ async function scrapeLaw(law: (typeof LAWS)[0]): Promise<boolean> {
     const dateMatch = pageText.match(
       /Fecha de Publicación:\s*(\d+\s+de\s+\w+\s+de\s+\d{4})/,
     )
-    const fechaPublicacion = dateMatch ? parseDateSpanish(dateMatch[1] || '') : ''
+    const fechaPublicacion = dateMatch
+      ? parseDateSpanish(dateMatch[1] || '')
+      : ''
 
     // Extract sector
     const sectorMatch = pageText.match(/Sector:\s*([^\n]+)/)
@@ -156,7 +158,7 @@ diarioOficial: "El Peruano"
 
 function convertToMarkdown(html: string, title: string): string {
   // Basic HTML to Markdown conversion
-  let md = `# ${title}\n\n`
+  const md = `# ${title}\n\n`
 
   // Remove scripts and styles
   let content = html
@@ -196,7 +198,9 @@ function convertToMarkdown(html: string, title: string): string {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number.parseInt(code)))
+    .replace(/&#(\d+);/g, (_, code) =>
+      String.fromCharCode(Number.parseInt(code)),
+    )
 
   // Clean up whitespace
   content = content
@@ -204,7 +208,7 @@ function convertToMarkdown(html: string, title: string): string {
     .replace(/[ \t]+/g, ' ')
     .trim()
 
-  return md + content + '\n'
+  return `${md + content}\n`
 }
 
 async function main() {

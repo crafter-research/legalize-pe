@@ -9,13 +9,14 @@
  */
 
 import { execSync } from 'node:child_process'
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_FILE = join(__dirname, '../data/spij-ids.json')
-const AGENT_BROWSER = '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
+const AGENT_BROWSER =
+  '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
 
 interface SpijLawId {
   spijId: string
@@ -29,16 +30,17 @@ function ab(cmd: string): string {
     return execSync(`${AGENT_BROWSER} ${cmd}`, {
       encoding: 'utf-8',
       maxBuffer: 10 * 1024 * 1024,
-      timeout: 30000
+      timeout: 30000,
     }).trim()
-  } catch (error: any) {
-    if (error.stdout) return error.stdout.toString().trim()
+  } catch (error: unknown) {
+    const e = error as { stdout?: Buffer }
+    if (e.stdout) return e.stdout.toString().trim()
     throw error
   }
 }
 
 function wait(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 async function login(): Promise<void> {
@@ -53,16 +55,23 @@ async function login(): Promise<void> {
   console.log('✅ Logged in')
 }
 
-async function extractIdsFromCategory(categoryName: string): Promise<SpijLawId[]> {
+async function extractIdsFromCategory(
+  categoryName: string,
+): Promise<SpijLawId[]> {
   const laws: SpijLawId[] = []
 
   console.log(`\n📂 Processing: ${categoryName}`)
 
   // Get the page HTML to extract all law links with their hrefs
-  const evalResult = ab(`eval "JSON.stringify(Array.from(document.querySelectorAll('a[href*=detallenorma]')).map(a => ({ href: a.getAttribute('href'), text: a.textContent.trim() })))"`)
+  const evalResult = ab(
+    `eval "JSON.stringify(Array.from(document.querySelectorAll('a[href*=detallenorma]')).map(a => ({ href: a.getAttribute('href'), text: a.textContent.trim() })))"`,
+  )
 
   try {
-    const links = JSON.parse(evalResult) as Array<{ href: string; text: string }>
+    const links = JSON.parse(evalResult) as Array<{
+      href: string
+      text: string
+    }>
 
     for (const link of links) {
       // Extract SPIJ ID from href like "#/detallenorma/H682716"
@@ -71,11 +80,14 @@ async function extractIdsFromCategory(categoryName: string): Promise<SpijLawId[]
         const spijId = match[1]
 
         // Extract identifier from text like "LEY N° 27594" or "DECRETO LEGISLATIVO N° 1291"
-        const idMatch = link.text.match(/(LEY|DECRETO\s+LEGISLATIVO|DECRETO\s+SUPREMO|DECRETO\s+DE\s+URGENCIA|RESOLUC[IÓO]N)[^°º]*N[°º]\s*([\d\-]+)/i)
+        const idMatch = link.text.match(
+          /(LEY|DECRETO\s+LEGISLATIVO|DECRETO\s+SUPREMO|DECRETO\s+DE\s+URGENCIA|RESOLUC[IÓO]N)[^°º]*N[°º]\s*([\d\-]+)/i,
+        )
 
         let identifier = ''
         if (idMatch) {
-          const type = idMatch[1].toLowerCase()
+          const type = idMatch[1]
+            .toLowerCase()
             .replace(/\s+/g, '-')
             .replace('decreto-legislativo', 'dleg')
             .replace('decreto-supremo', 'ds')
@@ -88,7 +100,7 @@ async function extractIdsFromCategory(categoryName: string): Promise<SpijLawId[]
           spijId,
           identifier,
           title: link.text,
-          category: categoryName
+          category: categoryName,
         })
       }
     }
@@ -121,7 +133,9 @@ async function main() {
     // Extract category refs and names
     const categories: Array<{ ref: string; name: string }> = []
     for (const line of lines) {
-      const match = line.match(/link "([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s,\-]+)" \[ref=(\w+)\]/)
+      const match = line.match(
+        /link "([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s,\-]+)" \[ref=(\w+)\]/,
+      )
       if (match) {
         const name = match[1]
         const ref = match[2]
@@ -145,11 +159,11 @@ async function main() {
       'CONSTITUCIONAL',
       'TRIBUTACIÓN',
       'PROCEDIMIENTO ADMINISTRATIVO',
-      'CONTRATACIONES Y ADQUISICIONES DEL ESTADO'
+      'CONTRATACIONES Y ADQUISICIONES DEL ESTADO',
     ]
 
     for (const cat of categories) {
-      if (priorityCategories.some(p => cat.name.includes(p))) {
+      if (priorityCategories.some((p) => cat.name.includes(p))) {
         try {
           // Click on category
           ab(`click @${cat.ref}`)
@@ -161,7 +175,9 @@ async function main() {
 
           // Go back to category list
           const backSnapshot = ab('snapshot -i')
-          const backMatch = backSnapshot.match(/button "[^"]*Volver[^"]*" \[ref=(\w+)\]/)
+          const backMatch = backSnapshot.match(
+            /button "[^"]*Volver[^"]*" \[ref=(\w+)\]/,
+          )
           if (backMatch) {
             ab(`click @${backMatch[1]}`)
             await wait(2000)
@@ -178,21 +194,22 @@ async function main() {
     const data = {
       extractedAt: new Date().toISOString(),
       totalLaws: allLaws.length,
-      laws: allLaws
+      laws: allLaws,
     }
 
     await writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2))
 
-    console.log('\n' + '═'.repeat(50))
+    console.log(`\n${'═'.repeat(50)}`)
     console.log(`✅ Extracted ${allLaws.length} SPIJ IDs`)
     console.log(`📁 Saved to ${OUTPUT_FILE}`)
 
     // Print sample for verification
     console.log('\n📋 Sample laws:')
     for (const law of allLaws.slice(0, 10)) {
-      console.log(`   ${law.spijId}: ${law.identifier || 'N/A'} - ${law.title.substring(0, 60)}...`)
+      console.log(
+        `   ${law.spijId}: ${law.identifier || 'N/A'} - ${law.title.substring(0, 60)}...`,
+      )
     }
-
   } finally {
     try {
       ab('close')

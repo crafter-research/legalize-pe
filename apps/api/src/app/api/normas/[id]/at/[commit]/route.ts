@@ -1,6 +1,6 @@
+import path from 'node:path'
 import { GitService } from '@legalize-pe/git'
 import { type NextRequest, NextResponse } from 'next/server'
-import path from 'node:path'
 
 export async function GET(
   request: NextRequest,

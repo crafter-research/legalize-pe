@@ -4,7 +4,7 @@
  */
 
 import { readFile, writeFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -27,7 +27,8 @@ const CODIGOS: CodigoPenal[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '1991-04-08',
     textFile: 'codigo-penal.txt',
-    fuente: 'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/771198DA8AB8D48A052577BD006EABC3/$FILE/DLeg_635.pdf',
+    fuente:
+      'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/771198DA8AB8D48A052577BD006EABC3/$FILE/DLeg_635.pdf',
   },
   {
     id: 'dleg-957',
@@ -35,7 +36,8 @@ const CODIGOS: CodigoPenal[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2004-07-29',
     textFile: 'ncpp.txt',
-    fuente: 'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/0CF515CB9C1E6BF2052577BD006ECE85/$FILE/DLeg_957.pdf',
+    fuente:
+      'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/0CF515CB9C1E6BF2052577BD006ECE85/$FILE/DLeg_957.pdf',
   },
   {
     id: 'dleg-654',
@@ -43,7 +45,8 @@ const CODIGOS: CodigoPenal[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '1991-08-02',
     textFile: 'cep.txt',
-    fuente: 'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/D27846E9F259B76C052577BD006EC164/$FILE/DLeg_654.pdf',
+    fuente:
+      'https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/D27846E9F259B76C052577BD006EC164/$FILE/DLeg_654.pdf',
   },
   {
     id: 'dleg-1094',
@@ -59,7 +62,8 @@ const CODIGOS: CodigoPenal[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2017-01-07',
     textFile: 'crpa-1348.txt',
-    fuente: 'https://spijweb.minjus.gob.pe/wp-content/uploads/2020/08/DECRETO_LEGISLATIVO_1348.pdf',
+    fuente:
+      'https://spijweb.minjus.gob.pe/wp-content/uploads/2020/08/DECRETO_LEGISLATIVO_1348.pdf',
   },
 ]
 
@@ -99,11 +103,13 @@ ${content}
       await writeFile(outputPath, markdown, 'utf-8')
       console.log(`   ✅ Saved: ${outputPath}`)
     } catch (error) {
-      console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+      console.log(
+        `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+      )
     }
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log('✅ Done!')
 }
 

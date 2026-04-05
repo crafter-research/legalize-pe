@@ -32,7 +32,7 @@ export interface SpijLoginResponse {
 }
 
 let cachedToken: string | null = null
-let tokenExpiry: number = 0
+let tokenExpiry = 0
 
 /**
  * Get authentication token for SPIJ API

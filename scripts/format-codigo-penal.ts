@@ -4,7 +4,7 @@
  */
 
 import { readFile, writeFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -61,19 +61,34 @@ async function main() {
   content = content.replace(/^(SECCION [IVXLCDM]+)/gm, '\n\n#### $1')
 
   // SUB CAPITULO / SUBCAPITULO
-  content = content.replace(/([^\n])(SUB ?CAPITULO [IVXLCDM]+)/g, '$1\n\n#### $2')
+  content = content.replace(
+    /([^\n])(SUB ?CAPITULO [IVXLCDM]+)/g,
+    '$1\n\n#### $2',
+  )
   content = content.replace(/^(SUB ?CAPITULO [IVXLCDM]+)/gm, '\n\n#### $1')
 
   // 4. Format articles
   // "Artículo 108.-" → line break before, bold
-  content = content.replace(/([^\n])(Artículo \d+(-[A-Z])?\.?-)/g, '$1\n\n**$2**')
+  content = content.replace(
+    /([^\n])(Artículo \d+(-[A-Z])?\.?-)/g,
+    '$1\n\n**$2**',
+  )
   content = content.replace(/^(Artículo \d+(-[A-Z])?\.?-)/gm, '\n\n**$1**')
 
   // 5. Format modification annotations
   // "(*) Artículo modificado por..." → line break, italic
-  content = content.replace(/\(\*\)\s*(Artículo|Numeral|Literal|Inciso|Párrafo)/g, '\n\n> (*) $1')
-  content = content.replace(/\(\*\)\s*(De conformidad|Mediante|Conforme)/g, '\n\n> (*) $1')
-  content = content.replace(/\(\*\)\s*(modificado|incorporado|derogado)/gi, '\n\n> (*) $1')
+  content = content.replace(
+    /\(\*\)\s*(Artículo|Numeral|Literal|Inciso|Párrafo)/g,
+    '\n\n> (*) $1',
+  )
+  content = content.replace(
+    /\(\*\)\s*(De conformidad|Mediante|Conforme)/g,
+    '\n\n> (*) $1',
+  )
+  content = content.replace(
+    /\(\*\)\s*(modificado|incorporado|derogado)/gi,
+    '\n\n> (*) $1',
+  )
 
   // 6. Format LIBRO (Book)
   content = content.replace(/([^\n])(LIBRO [IVXLCDM]+)/g, '$1\n\n# $2')

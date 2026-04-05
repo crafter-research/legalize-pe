@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-laws.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -203,7 +203,7 @@ async function fetchLaw(spijId: string): Promise<SpijLaw> {
 
 function htmlToMarkdown(html: string): string {
   // Simple HTML to Markdown conversion
-  let md = html
+  const md = html
     // Remove scripts and styles
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
@@ -302,14 +302,16 @@ async function main() {
       console.log('   ✅ Success')
     } catch (error) {
       failed++
-      console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+      console.log(
+        `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+      )
     }
 
     // Rate limiting
     await new Promise((r) => setTimeout(r, 1000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

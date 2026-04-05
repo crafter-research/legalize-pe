@@ -3,12 +3,12 @@
  * Standalone script to import laws into local SQLite database
  */
 
-import { readdir, readFile, stat } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { readFile, readdir, stat } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { createClient } from '@libsql/client'
-import { drizzle } from 'drizzle-orm/libsql'
 import { eq, sql } from 'drizzle-orm'
+import { drizzle } from 'drizzle-orm/libsql'
 import { index, integer, sqliteTable, text } from 'drizzle-orm/sqlite-core'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -16,33 +16,30 @@ const LEYES_DIR = join(__dirname, '../leyes/pe')
 const DB_PATH = join(__dirname, '../local.db')
 
 // Schema definition
-const normas = sqliteTable(
-  'normas',
-  {
-    id: integer('id').primaryKey({ autoIncrement: true }),
-    identificador: text('identificador').notNull().unique(),
-    titulo: text('titulo').notNull(),
-    pais: text('pais').notNull().default('pe'),
-    jurisdiccion: text('jurisdiccion').notNull(),
-    rango: text('rango').notNull(),
-    sector: text('sector'),
-    fechaPublicacion: text('fecha_publicacion').notNull(),
-    fechaPromulgacion: text('fecha_promulgacion'),
-    fechaVigencia: text('fecha_vigencia'),
-    ultimaActualizacion: text('ultima_actualizacion'),
-    estado: text('estado').notNull().default('vigente'),
-    fuente: text('fuente'),
-    fuenteAlternativa: text('fuente_alternativa'),
-    diarioOficial: text('diario_oficial').default('El Peruano'),
-    sumilla: text('sumilla'),
-    materias: text('materias'),
-    spijId: text('spij_id'),
-    contenido: text('contenido').notNull(),
-    contenidoTexto: text('contenido_texto'),
-    createdAt: text('created_at').default(sql`(datetime('now'))`),
-    updatedAt: text('updated_at').default(sql`(datetime('now'))`),
-  },
-)
+const normas = sqliteTable('normas', {
+  id: integer('id').primaryKey({ autoIncrement: true }),
+  identificador: text('identificador').notNull().unique(),
+  titulo: text('titulo').notNull(),
+  pais: text('pais').notNull().default('pe'),
+  jurisdiccion: text('jurisdiccion').notNull(),
+  rango: text('rango').notNull(),
+  sector: text('sector'),
+  fechaPublicacion: text('fecha_publicacion').notNull(),
+  fechaPromulgacion: text('fecha_promulgacion'),
+  fechaVigencia: text('fecha_vigencia'),
+  ultimaActualizacion: text('ultima_actualizacion'),
+  estado: text('estado').notNull().default('vigente'),
+  fuente: text('fuente'),
+  fuenteAlternativa: text('fuente_alternativa'),
+  diarioOficial: text('diario_oficial').default('El Peruano'),
+  sumilla: text('sumilla'),
+  materias: text('materias'),
+  spijId: text('spij_id'),
+  contenido: text('contenido').notNull(),
+  contenidoTexto: text('contenido_texto'),
+  createdAt: text('created_at').default(sql`(datetime('now'))`),
+  updatedAt: text('updated_at').default(sql`(datetime('now'))`),
+})
 
 const client = createClient({
   url: `file:${DB_PATH}`,
@@ -71,7 +68,10 @@ interface Frontmatter {
   disclaimer?: boolean
 }
 
-function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: string } {
+function parseFrontmatter(content: string): {
+  frontmatter: Frontmatter
+  body: string
+} {
   const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
   if (!match) {
     throw new Error('Invalid frontmatter format')
@@ -80,13 +80,15 @@ function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: st
   const [, yamlContent, body] = match
   const frontmatter: Record<string, string> = {}
 
-  for (const line of yamlContent!.split('\n')) {
+  for (const line of (yamlContent ?? '').split('\n')) {
     const colonIndex = line.indexOf(':')
     if (colonIndex > 0) {
       const key = line.slice(0, colonIndex).trim()
       let value = line.slice(colonIndex + 1).trim()
-      if ((value.startsWith('"') && value.endsWith('"')) ||
-          (value.startsWith("'") && value.endsWith("'"))) {
+      if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
         value = value.slice(1, -1)
       }
       frontmatter[key] = value
@@ -95,7 +97,7 @@ function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: st
 
   return {
     frontmatter: frontmatter as unknown as Frontmatter,
-    body: body!.trim(),
+    body: body?.trim(),
   }
 }
 
@@ -188,7 +190,7 @@ async function main() {
   let failed = 0
 
   for (const filePath of mdFiles) {
-    const fileName = filePath.replace(LEYES_DIR + '/', '')
+    const fileName = filePath.replace(`${LEYES_DIR}/`, '')
     try {
       await importLaw(filePath)
       success++

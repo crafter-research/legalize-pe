@@ -5,13 +5,14 @@
  */
 
 import { execSync } from 'node:child_process'
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../leyes/pe')
-const AGENT_BROWSER = '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
+const AGENT_BROWSER =
+  '/Users/shiara/Documents/personal-projects/agent-browser/bin/agent-browser-darwin-arm64'
 
 interface LeyFaltante {
   id: string
@@ -32,7 +33,8 @@ const LEYES_FALTANTES: LeyFaltante[] = [
   },
   {
     id: 'ley-28024',
-    nombre: 'Ley que regula la gestión de intereses en la administración pública',
+    nombre:
+      'Ley que regula la gestión de intereses en la administración pública',
     busqueda: 'Ley 28024',
     rango: 'ley',
     fechaPublicacion: '2003-07-12',
@@ -97,7 +99,8 @@ const LEYES_FALTANTES: LeyFaltante[] = [
   // Salud
   {
     id: 'ley-29414',
-    nombre: 'Ley que establece los derechos de las personas usuarias de los servicios de salud',
+    nombre:
+      'Ley que establece los derechos de las personas usuarias de los servicios de salud',
     busqueda: 'Ley 29414',
     rango: 'ley',
     fechaPublicacion: '2009-10-02',
@@ -135,8 +138,9 @@ function ab(cmd: string): string {
       timeout: 60000,
     })
     return result.trim()
-  } catch (error: any) {
-    if (error.stdout) return error.stdout.toString().trim()
+  } catch (error: unknown) {
+    const e = error as { stdout?: Buffer }
+    if (e.stdout) return e.stdout.toString().trim()
     throw error
   }
 }
@@ -188,7 +192,9 @@ async function searchAndExtract(ley: LeyFaltante): Promise<string | null> {
     const resultsSnapshot = ab('snapshot -i')
 
     // Find law link with SPIJ ID
-    const lawMatch = resultsSnapshot.match(/link[^[]*detallenorma\/(H\d+)[^[]*\[ref=(\w+)\]/)
+    const lawMatch = resultsSnapshot.match(
+      /link[^[]*detallenorma\/(H\d+)[^[]*\[ref=(\w+)\]/,
+    )
     if (lawMatch) {
       const spijId = lawMatch[1]
       console.log(`   Found SPIJ ID: ${spijId}`)
@@ -198,7 +204,9 @@ async function searchAndExtract(ley: LeyFaltante): Promise<string | null> {
       await wait(4000)
 
       // Extract content
-      const content = ab('eval "document.querySelector(\'.contenido-norma, .texto-norma, article, main\')?.innerText || document.body.innerText"')
+      const content = ab(
+        'eval "document.querySelector(\'.contenido-norma, .texto-norma, article, main\')?.innerText || document.body.innerText"',
+      )
 
       if (content && content.length > 500) {
         return content
@@ -213,7 +221,9 @@ async function searchAndExtract(ley: LeyFaltante): Promise<string | null> {
 
     return null
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return null
   }
 }
@@ -272,7 +282,9 @@ async function main() {
         }
       } catch (error) {
         failed++
-        console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+        console.log(
+          `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+        )
       }
 
       await wait(2000)
@@ -285,7 +297,7 @@ async function main() {
     }
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

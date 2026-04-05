@@ -3,11 +3,11 @@
  * Import laws from markdown files into the database
  */
 
-import { readdir, readFile, stat } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { readFile, readdir, stat } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { db, schema } from '../db'
 import { eq } from 'drizzle-orm'
+import { db, schema } from '../db'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const LEYES_DIR = join(__dirname, '../../../../leyes/pe')
@@ -33,7 +33,10 @@ interface Frontmatter {
   disclaimer?: boolean
 }
 
-function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: string } {
+function parseFrontmatter(content: string): {
+  frontmatter: Frontmatter
+  body: string
+} {
   const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
   if (!match) {
     throw new Error('Invalid frontmatter format')
@@ -42,14 +45,16 @@ function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: st
   const [, yamlContent, body] = match
   const frontmatter: Record<string, string> = {}
 
-  for (const line of yamlContent!.split('\n')) {
+  for (const line of (yamlContent ?? '').split('\n')) {
     const colonIndex = line.indexOf(':')
     if (colonIndex > 0) {
       const key = line.slice(0, colonIndex).trim()
       let value = line.slice(colonIndex + 1).trim()
       // Remove quotes
-      if ((value.startsWith('"') && value.endsWith('"')) ||
-          (value.startsWith("'") && value.endsWith("'"))) {
+      if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
         value = value.slice(1, -1)
       }
       frontmatter[key] = value
@@ -58,7 +63,7 @@ function parseFrontmatter(content: string): { frontmatter: Frontmatter; body: st
 
   return {
     frontmatter: frontmatter as unknown as Frontmatter,
-    body: body!.trim(),
+    body: body?.trim(),
   }
 }
 
@@ -155,7 +160,7 @@ async function main() {
   let failed = 0
 
   for (const filePath of mdFiles) {
-    const fileName = filePath.replace(LEYES_DIR + '/', '')
+    const fileName = filePath.replace(`${LEYES_DIR}/`, '')
     try {
       await importLaw(filePath)
       success++

@@ -5,10 +5,10 @@
  */
 
 import { execSync } from 'node:child_process'
-import { writeFile, readFile, rm } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { existsSync } from 'node:fs'
+import { readFile, rm, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const PDF_PATH = join(__dirname, '../temp-ley-29903.pdf')
@@ -39,11 +39,16 @@ async function main() {
 
     try {
       // Try with convert (ImageMagick)
-      execSync(`convert -density 300 "${PDF_PATH}" "${OUTPUT_DIR}/page-%03d.png"`, {
-        stdio: 'inherit',
-      })
+      execSync(
+        `convert -density 300 "${PDF_PATH}" "${OUTPUT_DIR}/page-%03d.png"`,
+        {
+          stdio: 'inherit',
+        },
+      )
     } catch (error2) {
-      console.log('❌ Could not convert PDF. Please install ImageMagick or poppler-utils')
+      console.log(
+        '❌ Could not convert PDF. Please install ImageMagick or poppler-utils',
+      )
       return
     }
   }
@@ -68,7 +73,7 @@ async function main() {
         encoding: 'utf-8',
         maxBuffer: 10 * 1024 * 1024,
       })
-      fullText += text + '\n\n---\n\n'
+      fullText += `${text}\n\n---\n\n`
     } catch (error) {
       console.log(`  ❌ Error processing ${file}`)
     }
@@ -109,7 +114,7 @@ ${fullText}
     console.log('Could not clean up temp files')
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log('✅ Done!')
 }
 

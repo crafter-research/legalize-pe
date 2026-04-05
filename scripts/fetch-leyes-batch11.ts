@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-leyes-batch11.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -29,7 +29,11 @@ const LEYES_BATCH11: LawDefinition[] = [
     url: 'https://lpderecho.pe/tuo-ley-transparencia-acceso-informacion-publica-ley-27806-actualizada/',
     rango: 'decreto-supremo',
     fechaPublicacion: '2019-12-11',
-    materias: ['transparencia', 'acceso a la información', 'administración pública'],
+    materias: [
+      'transparencia',
+      'acceso a la información',
+      'administración pública',
+    ],
     sumilla: 'Promueve la transparencia de los actos del Estado',
   },
   // Reglamento transparencia
@@ -79,7 +83,11 @@ const LEYES_BATCH11: LawDefinition[] = [
     url: 'https://lpderecho.pe/ley-bases-carrera-administrativa-decreto-legislativo-276/',
     rango: 'decreto-legislativo',
     fechaPublicacion: '1984-03-24',
-    materias: ['función pública', 'carrera administrativa', 'servidores públicos'],
+    materias: [
+      'función pública',
+      'carrera administrativa',
+      'servidores públicos',
+    ],
     sumilla: 'Regula la carrera administrativa del sector público',
   },
   // Reglamento carrera administrativa
@@ -177,7 +185,8 @@ const LEYES_BATCH11: LawDefinition[] = [
 async function fetchLawContent(url: string): Promise<string> {
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
       Accept: 'text/html,application/xhtml+xml',
     },
   })
@@ -189,8 +198,9 @@ async function fetchLawContent(url: string): Promise<string> {
   const html = await response.text()
 
   const contentMatch =
-    html.match(/<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i) ||
-    html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
+    html.match(
+      /<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i,
+    ) || html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
 
   if (!contentMatch) {
     const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/i)
@@ -204,13 +214,16 @@ async function fetchLawContent(url: string): Promise<string> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<nav[^>]*>[\s\S]*?<\/nav>/gi, '')
     .replace(/<aside[^>]*>[\s\S]*?<\/aside>/gi, '')
     .replace(/<footer[^>]*>[\s\S]*?<\/footer>/gi, '')
-    .replace(/<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '')
+    .replace(
+      /<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi,
+      '',
+    )
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
     .replace(/<h2[^>]*>(.*?)<\/h2>/gi, '## $1\n\n')
     .replace(/<h3[^>]*>(.*?)<\/h3>/gi, '### $1\n\n')
@@ -273,7 +286,9 @@ ${content}
 
   const filePath = join(OUTPUT_DIR, `${law.id}.md`)
   await writeFile(filePath, markdown, 'utf-8')
-  console.log(`   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+  console.log(
+    `   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+  )
 }
 
 async function processLaw(law: LawDefinition): Promise<boolean> {
@@ -293,7 +308,9 @@ async function processLaw(law: LawDefinition): Promise<boolean> {
     console.log('   ✅ Success')
     return true
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return false
   }
 }
@@ -319,7 +336,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 12000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

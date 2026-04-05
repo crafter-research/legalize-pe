@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-leyes-importantes.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -67,7 +67,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2016-04-21',
     materias: ['penal', 'compliance', 'responsabilidad corporativa'],
-    sumilla: 'Ley de responsabilidad penal de empresas por delitos de corrupción, lavado de activos y otros',
+    sumilla:
+      'Ley de responsabilidad penal de empresas por delitos de corrupción, lavado de activos y otros',
   },
   {
     id: 'ley-27693',
@@ -77,7 +78,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2002-04-12',
     materias: ['lavado de activos', 'financiero', 'UIF'],
-    sumilla: 'Ley que crea la UIF para prevenir y detectar el lavado de activos',
+    sumilla:
+      'Ley que crea la UIF para prevenir y detectar el lavado de activos',
   },
   {
     id: 'ley-27815',
@@ -87,7 +89,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2002-08-13',
     materias: ['función pública', 'ética', 'anticorrupción'],
-    sumilla: 'Principios, deberes y prohibiciones éticas de los servidores públicos',
+    sumilla:
+      'Principios, deberes y prohibiciones éticas de los servidores públicos',
   },
   {
     id: 'ley-28024',
@@ -107,7 +110,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '1997-04-15',
     materias: ['función pública', 'prohibiciones', 'anticorrupción'],
-    sumilla: 'Prohíbe el ejercicio de la facultad de nombramiento de personal en favor de parientes',
+    sumilla:
+      'Prohíbe el ejercicio de la facultad de nombramiento de personal en favor de parientes',
   },
   // Digital
   {
@@ -118,7 +122,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2018-09-13',
     materias: ['digital', 'gobierno', 'tecnología'],
-    sumilla: 'Marco de gobernanza del gobierno digital, interoperabilidad y gestión de datos',
+    sumilla:
+      'Marco de gobernanza del gobierno digital, interoperabilidad y gestión de datos',
   },
   // Salud
   {
@@ -129,7 +134,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2009-11-26',
     materias: ['salud', 'medicamentos', 'DIGEMID'],
-    sumilla: 'Regula la fabricación, importación, registro y comercialización de productos farmacéuticos',
+    sumilla:
+      'Regula la fabricación, importación, registro y comercialización de productos farmacéuticos',
   },
   {
     id: 'ley-29414',
@@ -139,7 +145,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2009-10-02',
     materias: ['salud', 'derechos', 'pacientes'],
-    sumilla: 'Derechos de acceso, información, atención y protección en servicios de salud',
+    sumilla:
+      'Derechos de acceso, información, atención y protección en servicios de salud',
   },
   // Laboral
   {
@@ -150,7 +157,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '1991-07-24',
     materias: ['laboral', 'CTS', 'beneficios sociales'],
-    sumilla: 'Regula la CTS como beneficio social de previsión de contingencias',
+    sumilla:
+      'Regula la CTS como beneficio social de previsión de contingencias',
   },
   {
     id: 'dleg-713',
@@ -170,7 +178,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '1996-11-11',
     materias: ['laboral', 'utilidades', 'beneficios'],
-    sumilla: 'Derecho de los trabajadores a participar en las utilidades de la empresa',
+    sumilla:
+      'Derecho de los trabajadores a participar en las utilidades de la empresa',
   },
   {
     id: 'ley-27735',
@@ -180,7 +189,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2002-05-28',
     materias: ['laboral', 'gratificaciones', 'fiestas patrias', 'navidad'],
-    sumilla: 'Gratificaciones por Fiestas Patrias y Navidad para trabajadores del régimen privado',
+    sumilla:
+      'Gratificaciones por Fiestas Patrias y Navidad para trabajadores del régimen privado',
   },
   {
     id: 'ley-25129',
@@ -190,7 +200,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '1989-12-06',
     materias: ['laboral', 'beneficios', 'familia'],
-    sumilla: 'Asignación familiar mensual para trabajadores con hijos menores o estudiantes',
+    sumilla:
+      'Asignación familiar mensual para trabajadores con hijos menores o estudiantes',
   },
   // Educación
   {
@@ -201,7 +212,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2012-11-25',
     materias: ['educación', 'docentes', 'magisterio'],
-    sumilla: 'Carrera pública magisterial, formación, evaluación y remuneración docente',
+    sumilla:
+      'Carrera pública magisterial, formación, evaluación y remuneración docente',
   },
   {
     id: 'ley-30512',
@@ -211,7 +223,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2016-11-02',
     materias: ['educación', 'institutos', 'educación técnica'],
-    sumilla: 'Regulación de institutos técnicos y escuelas de educación superior',
+    sumilla:
+      'Regulación de institutos técnicos y escuelas de educación superior',
   },
   // Ambiental
   {
@@ -222,7 +235,8 @@ const LEYES_IMPORTANTES: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2009-03-05',
     materias: ['ambiental', 'OEFA', 'fiscalización'],
-    sumilla: 'Sistema de evaluación, supervisión y fiscalización ambiental - OEFA',
+    sumilla:
+      'Sistema de evaluación, supervisión y fiscalización ambiental - OEFA',
   },
 ]
 
@@ -260,7 +274,10 @@ interface SearchResult {
   dispositivoLegal: string
 }
 
-async function searchLaw(searchTerm: string, numero?: string): Promise<SearchResult[]> {
+async function searchLaw(
+  searchTerm: string,
+  numero?: string,
+): Promise<SearchResult[]> {
   const token = await getToken()
 
   // Try advanced search first
@@ -331,7 +348,7 @@ async function fetchLaw(spijId: string): Promise<SpijLaw> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
@@ -361,7 +378,11 @@ function htmlToMarkdown(html: string): string {
   return md
 }
 
-async function saveLaw(law: LawDefinition, spijData: SpijLaw, spijId: string): Promise<void> {
+async function saveLaw(
+  law: LawDefinition,
+  spijData: SpijLaw,
+  spijId: string,
+): Promise<void> {
   const content = htmlToMarkdown(spijData.textoCompleto)
   const materiasYaml = law.materias.map((m) => `"${m}"`).join(', ')
 
@@ -391,7 +412,9 @@ ${content}
 
   const filePath = join(OUTPUT_DIR, `${law.id}.md`)
   await writeFile(filePath, markdown, 'utf-8')
-  console.log(`   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+  console.log(
+    `   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+  )
 }
 
 async function processLaw(law: LawDefinition): Promise<boolean> {
@@ -418,7 +441,8 @@ async function processLaw(law: LawDefinition): Promise<boolean> {
         const spijData = await fetchLaw(result.id)
 
         // Verify it matches
-        const text = `${spijData.sumilla || ''} ${spijData.titulo || ''}`.toLowerCase()
+        const text =
+          `${spijData.sumilla || ''} ${spijData.titulo || ''}`.toLowerCase()
         const searchWords = law.searchTerm.toLowerCase().split(' ')
         const matches = searchWords.filter((w) => text.includes(w)).length
 
@@ -435,7 +459,9 @@ async function processLaw(law: LawDefinition): Promise<boolean> {
     console.log('   ❌ No matching result found')
     return false
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return false
   }
 }
@@ -461,7 +487,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 1500))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

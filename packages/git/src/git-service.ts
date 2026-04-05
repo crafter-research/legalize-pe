@@ -1,6 +1,6 @@
-import { simpleGit, type SimpleGit } from 'simple-git'
-import { historyCache, contentCache, diffCache } from './cache.js'
-import type { CommitInfo, FileVersion, DiffResult, DiffHunk } from './types.js'
+import { type SimpleGit, simpleGit } from 'simple-git'
+import { contentCache, diffCache, historyCache } from './cache.js'
+import type { CommitInfo, DiffHunk, DiffResult, FileVersion } from './types.js'
 
 interface LogEntry {
   hash: string
@@ -69,7 +69,10 @@ export class GitService {
     return commits
   }
 
-  async getContentAtCommit(identificador: string, commitHash: string): Promise<FileVersion> {
+  async getContentAtCommit(
+    identificador: string,
+    commitHash: string,
+  ): Promise<FileVersion> {
     const cacheKey = `content:${identificador}:${commitHash}`
     const cached = contentCache.get(cacheKey) as FileVersion | undefined
     if (cached) return cached
@@ -88,7 +91,9 @@ export class GitService {
       },
     })
 
-    const commit = log.latest as unknown as { authorDate: string; message: string } | undefined
+    const commit = log.latest as unknown as
+      | { authorDate: string; message: string }
+      | undefined
     const result: FileVersion = {
       hash: commitHash,
       authorDate: commit?.authorDate ?? '',
@@ -100,7 +105,11 @@ export class GitService {
     return result
   }
 
-  async getDiff(identificador: string, fromHash: string, toHash: string): Promise<DiffResult> {
+  async getDiff(
+    identificador: string,
+    fromHash: string,
+    toHash: string,
+  ): Promise<DiffResult> {
     const cacheKey = `diff:${identificador}:${fromHash}:${toHash}`
     const cached = diffCache.get(cacheKey) as DiffResult | undefined
     if (cached) return cached
@@ -124,8 +133,12 @@ export class GitService {
       }),
     ])
 
-    const fromCommit = fromLog.latest as unknown as { authorDate: string } | undefined
-    const toCommit = toLog.latest as unknown as { authorDate: string } | undefined
+    const fromCommit = fromLog.latest as unknown as
+      | { authorDate: string }
+      | undefined
+    const toCommit = toLog.latest as unknown as
+      | { authorDate: string }
+      | undefined
 
     const hunks = this.parseDiff(diff)
     const stats = this.calculateStats(hunks)
@@ -152,7 +165,9 @@ export class GitService {
     let newLine = 0
 
     for (const line of lines) {
-      const hunkMatch = line.match(/^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/)
+      const hunkMatch = line.match(
+        /^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/,
+      )
 
       if (hunkMatch) {
         if (currentHunk) hunks.push(currentHunk)
@@ -161,14 +176,14 @@ export class GitService {
         const newStart = hunkMatch[3]
         if (!oldStart || !newStart) continue
 
-        oldLine = parseInt(oldStart, 10)
-        newLine = parseInt(newStart, 10)
+        oldLine = Number.parseInt(oldStart, 10)
+        newLine = Number.parseInt(newStart, 10)
 
         currentHunk = {
           oldStart: oldLine,
-          oldLines: parseInt(hunkMatch[2] ?? '1', 10),
+          oldLines: Number.parseInt(hunkMatch[2] ?? '1', 10),
           newStart: newLine,
-          newLines: parseInt(hunkMatch[4] ?? '1', 10),
+          newLines: Number.parseInt(hunkMatch[4] ?? '1', 10),
           lines: [],
         }
         continue
@@ -202,7 +217,10 @@ export class GitService {
     return hunks
   }
 
-  private calculateStats(hunks: DiffHunk[]): { additions: number; deletions: number } {
+  private calculateStats(hunks: DiffHunk[]): {
+    additions: number
+    deletions: number
+  } {
     let additions = 0
     let deletions = 0
 

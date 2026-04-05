@@ -3,10 +3,10 @@
  * Final Scraper - Navigate SPIJ using known refs from interactive testing
  */
 
-import { mkdir, writeFile } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../../../leyes/pe')
@@ -80,7 +80,10 @@ function sleep(ms: number): void {
   execSync(`sleep ${ms / 1000}`)
 }
 
-async function scrapeLaw(law: (typeof LAWS)[0], index: number): Promise<boolean> {
+async function scrapeLaw(
+  law: (typeof LAWS)[0],
+  index: number,
+): Promise<boolean> {
   console.log(`\n📜 [${index + 1}/${LAWS.length}] ${law.name}`)
   console.log('   ─────────────────────────────────────')
 
@@ -185,13 +188,18 @@ async function main() {
 
   // Take snapshot to verify we're on the homepage with laws
   const homeSnapshot = exec('agent-browser snapshot -i')
-  console.log('✓ On homepage. Laws visible:', homeSnapshot.includes('CONSTITUCION'))
+  console.log(
+    '✓ On homepage. Laws visible:',
+    homeSnapshot.includes('CONSTITUCION'),
+  )
 
   let successful = 0
   let failed = 0
 
   for (let i = 0; i < LAWS.length; i++) {
-    const success = await scrapeLaw(LAWS[i]!, i)
+    const law = LAWS[i]
+    if (!law) continue
+    const success = await scrapeLaw(law, i)
     if (success) {
       successful++
     } else {

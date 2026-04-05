@@ -4,8 +4,8 @@
  * Usage: npx tsx scripts/fetch-leyes-batch5.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -30,7 +30,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2000-06-19',
     materias: ['comercial', 'títulos valores', 'letra de cambio', 'pagaré'],
-    sumilla: 'Regula los títulos valores: letras, pagarés, cheques, acciones, etc.',
+    sumilla:
+      'Regula los títulos valores: letras, pagarés, cheques, acciones, etc.',
   },
   // Transparencia
   {
@@ -50,7 +51,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '1997-11-13',
     materias: ['procesal', 'conciliación', 'MARC'],
-    sumilla: 'Establece la conciliación extrajudicial como mecanismo alternativo',
+    sumilla:
+      'Establece la conciliación extrajudicial como mecanismo alternativo',
   },
   {
     id: 'ds-017-2021-jus',
@@ -69,7 +71,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2008-06-28',
     materias: ['arbitraje', 'MARC', 'resolución de conflictos'],
-    sumilla: 'Ley de Arbitraje vigente que regula el arbitraje nacional e internacional',
+    sumilla:
+      'Ley de Arbitraje vigente que regula el arbitraje nacional e internacional',
   },
   // Garantía Mobiliaria
   {
@@ -79,7 +82,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2018-09-09',
     materias: ['civil', 'garantías', 'mobiliario', 'crédito'],
-    sumilla: 'Nuevo régimen de garantía mobiliaria para impulsar el acceso al crédito',
+    sumilla:
+      'Nuevo régimen de garantía mobiliaria para impulsar el acceso al crédito',
   },
   // Extinción de Dominio
   {
@@ -89,7 +93,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'decreto-legislativo',
     fechaPublicacion: '2018-08-04',
     materias: ['penal', 'extinción de dominio', 'anticorrupción'],
-    sumilla: 'Regula la extinción de dominio de bienes de origen o destino ilícito',
+    sumilla:
+      'Regula la extinción de dominio de bienes de origen o destino ilícito',
   },
   {
     id: 'ds-007-2019-jus-extincion',
@@ -128,7 +133,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'resolucion',
     fechaPublicacion: '2012-05-18',
     materias: ['registral', 'SUNARP', 'propiedad'],
-    sumilla: 'Reglamento general de los registros públicos administrados por SUNARP',
+    sumilla:
+      'Reglamento general de los registros públicos administrados por SUNARP',
   },
   // Protección de Datos Personales
   {
@@ -138,7 +144,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2011-07-03',
     materias: ['digital', 'datos personales', 'privacidad'],
-    sumilla: 'Protege el derecho fundamental de las personas a sus datos personales',
+    sumilla:
+      'Protege el derecho fundamental de las personas a sus datos personales',
   },
   // Reglamento de Protección de Datos - actualizado 2024
   {
@@ -148,7 +155,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'decreto-supremo',
     fechaPublicacion: '2024-09-20',
     materias: ['digital', 'datos personales', 'privacidad', 'reglamento'],
-    sumilla: 'Nuevo reglamento de la Ley 29733 de protección de datos personales',
+    sumilla:
+      'Nuevo reglamento de la Ley 29733 de protección de datos personales',
   },
   // Ley del Notariado
   {
@@ -188,7 +196,8 @@ const LEYES_BATCH5: LawDefinition[] = [
     rango: 'ley',
     fechaPublicacion: '2011-07-22',
     materias: ['ambiental', 'forestal', 'fauna', 'biodiversidad'],
-    sumilla: 'Regula la gestión sostenible de los recursos forestales y de fauna',
+    sumilla:
+      'Regula la gestión sostenible de los recursos forestales y de fauna',
   },
   // Ley General del Ambiente
   {
@@ -325,7 +334,8 @@ const LEYES_BATCH5: LawDefinition[] = [
 async function fetchLawContent(url: string): Promise<string> {
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
       Accept: 'text/html,application/xhtml+xml',
     },
   })
@@ -337,8 +347,9 @@ async function fetchLawContent(url: string): Promise<string> {
   const html = await response.text()
 
   const contentMatch =
-    html.match(/<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i) ||
-    html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
+    html.match(
+      /<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i,
+    ) || html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
 
   if (!contentMatch) {
     const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/i)
@@ -352,13 +363,16 @@ async function fetchLawContent(url: string): Promise<string> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<nav[^>]*>[\s\S]*?<\/nav>/gi, '')
     .replace(/<aside[^>]*>[\s\S]*?<\/aside>/gi, '')
     .replace(/<footer[^>]*>[\s\S]*?<\/footer>/gi, '')
-    .replace(/<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '')
+    .replace(
+      /<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi,
+      '',
+    )
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
     .replace(/<h2[^>]*>(.*?)<\/h2>/gi, '## $1\n\n')
     .replace(/<h3[^>]*>(.*?)<\/h3>/gi, '### $1\n\n')
@@ -421,7 +435,9 @@ ${content}
 
   const filePath = join(OUTPUT_DIR, `${law.id}.md`)
   await writeFile(filePath, markdown, 'utf-8')
-  console.log(`   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+  console.log(
+    `   📝 Saved: ${law.id}.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+  )
 }
 
 async function processLaw(law: LawDefinition): Promise<boolean> {
@@ -441,7 +457,9 @@ async function processLaw(law: LawDefinition): Promise<boolean> {
     console.log('   ✅ Success')
     return true
   } catch (error) {
-    console.log(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+    )
     return false
   }
 }
@@ -467,7 +485,7 @@ async function main() {
     await new Promise((r) => setTimeout(r, 4000))
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log(`✅ Success: ${success}`)
   console.log(`❌ Failed: ${failed}`)
 }

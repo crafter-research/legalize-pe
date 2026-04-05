@@ -5,8 +5,8 @@
  * Usage: npx tsx scripts/fetch-ley-30939.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -74,7 +74,7 @@ async function fetchLaw(spijId: string, token: string): Promise<SpijLaw> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
@@ -112,7 +112,10 @@ function extractTitle(sumilla: string): string {
 }
 
 async function saveLaw(spijData: SpijLaw): Promise<void> {
-  const title = extractTitle(spijData.sumilla) || spijData.titulo || 'Ley que establece el Régimen Especial de Jubilación Anticipada para Desempleados en el SPP'
+  const title =
+    extractTitle(spijData.sumilla) ||
+    spijData.titulo ||
+    'Ley que establece el Régimen Especial de Jubilación Anticipada para Desempleados en el SPP'
   const content = htmlToMarkdown(spijData.textoCompleto)
 
   const frontmatter = `---
@@ -157,25 +160,32 @@ async function main() {
       const spijData = await fetchLaw(spijId, token)
 
       // Verify it's the right law
-      if (spijData.codigoNorma?.includes('30939') || spijData.sumilla?.includes('30939') || spijData.titulo?.includes('30939')) {
+      if (
+        spijData.codigoNorma?.includes('30939') ||
+        spijData.sumilla?.includes('30939') ||
+        spijData.titulo?.includes('30939')
+      ) {
         console.log('✅ Found the correct law!')
         await saveLaw(spijData)
         success = true
         break
-      } else {
-        console.log('⚠️  This is not Ley 30939, trying next ID...')
       }
+      console.log('⚠️  This is not Ley 30939, trying next ID...')
     } catch (error) {
-      console.log(`❌ Error with ${spijId}: ${error instanceof Error ? error.message : error}`)
+      console.log(
+        `❌ Error with ${spijId}: ${error instanceof Error ? error.message : error}`,
+      )
     }
   }
 
   if (!success) {
-    console.log('\n❌ Could not fetch Ley 30939. Please provide the correct SPIJ ID.')
+    console.log(
+      '\n❌ Could not fetch Ley 30939. Please provide the correct SPIJ ID.',
+    )
     process.exit(1)
   }
 
-  console.log('\n' + '═'.repeat(50))
+  console.log(`\n${'═'.repeat(50)}`)
   console.log('✅ Done!')
 }
 

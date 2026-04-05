@@ -1,5 +1,5 @@
-import { historyCache, contentCache, diffCache } from './cache.js'
-import type { CommitInfo, FileVersion, DiffResult, DiffHunk } from './types.js'
+import { contentCache, diffCache, historyCache } from './cache.js'
+import type { CommitInfo, DiffHunk, DiffResult, FileVersion } from './types.js'
 
 const GITHUB_REPO = 'crafter-research/legalize-pe'
 const GITHUB_API = 'https://api.github.com'
@@ -65,7 +65,10 @@ export class GitHubService {
     return commits
   }
 
-  async getContentAtCommit(identificador: string, commitHash: string): Promise<FileVersion> {
+  async getContentAtCommit(
+    identificador: string,
+    commitHash: string,
+  ): Promise<FileVersion> {
     const cacheKey = `content:${identificador}:${commitHash}`
     const cached = contentCache.get(cacheKey) as FileVersion | undefined
     if (cached) return cached
@@ -84,7 +87,10 @@ export class GitHubService {
       throw new Error(`GitHub API error: ${contentRes.status}`)
     }
 
-    const contentData = (await contentRes.json()) as { content: string; encoding: string }
+    const contentData = (await contentRes.json()) as {
+      content: string
+      encoding: string
+    }
     const content = Buffer.from(contentData.content, 'base64').toString('utf-8')
 
     const commitUrl = `${GITHUB_API}/repos/${GITHUB_REPO}/commits/${commitHash}`
@@ -114,7 +120,11 @@ export class GitHubService {
     return result
   }
 
-  async getDiff(identificador: string, fromHash: string, toHash: string): Promise<DiffResult> {
+  async getDiff(
+    identificador: string,
+    fromHash: string,
+    toHash: string,
+  ): Promise<DiffResult> {
     const cacheKey = `diff:${identificador}:${fromHash}:${toHash}`
     const cached = diffCache.get(cacheKey) as DiffResult | undefined
     if (cached) return cached
@@ -151,7 +161,9 @@ export class GitHubService {
       fromHash,
       toHash,
       fromDate: compareData.base_commit?.commit?.author?.date ?? '',
-      toDate: compareData.commits?.[compareData.commits.length - 1]?.commit?.author?.date ?? '',
+      toDate:
+        compareData.commits?.[compareData.commits.length - 1]?.commit?.author
+          ?.date ?? '',
       hunks,
       stats: {
         additions: file?.additions ?? 0,
@@ -172,7 +184,9 @@ export class GitHubService {
     let newLine = 0
 
     for (const line of lines) {
-      const hunkMatch = line.match(/^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/)
+      const hunkMatch = line.match(
+        /^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@/,
+      )
 
       if (hunkMatch) {
         if (currentHunk) hunks.push(currentHunk)
@@ -181,14 +195,14 @@ export class GitHubService {
         const newStart = hunkMatch[3]
         if (!oldStart || !newStart) continue
 
-        oldLine = parseInt(oldStart, 10)
-        newLine = parseInt(newStart, 10)
+        oldLine = Number.parseInt(oldStart, 10)
+        newLine = Number.parseInt(newStart, 10)
 
         currentHunk = {
           oldStart: oldLine,
-          oldLines: parseInt(hunkMatch[2] ?? '1', 10),
+          oldLines: Number.parseInt(hunkMatch[2] ?? '1', 10),
           newStart: newLine,
-          newLines: parseInt(hunkMatch[4] ?? '1', 10),
+          newLines: Number.parseInt(hunkMatch[4] ?? '1', 10),
           lines: [],
         }
         continue

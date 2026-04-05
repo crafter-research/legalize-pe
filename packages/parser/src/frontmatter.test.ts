@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest'
+import { describe, expect, it } from 'vitest'
 import { generateFrontmatter } from './frontmatter'
 import type { LawMetadata } from './types'
 
@@ -73,7 +73,12 @@ describe('generateFrontmatter', () => {
   })
 
   it('handles different estados', () => {
-    const estados: LawMetadata['estado'][] = ['vigente', 'derogado', 'modificado', 'pendiente-revision']
+    const estados: LawMetadata['estado'][] = [
+      'vigente',
+      'derogado',
+      'modificado',
+      'pendiente-revision',
+    ]
 
     for (const estado of estados) {
       const metadata: LawMetadata = {

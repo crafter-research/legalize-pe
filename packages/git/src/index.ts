@@ -1,6 +1,12 @@
 export { GitService } from './git-service.js'
 export { GitHubService } from './github-service.js'
-export type { CommitInfo, FileVersion, DiffResult, DiffHunk, DiffLine } from './types.js'
+export type {
+  CommitInfo,
+  FileVersion,
+  DiffResult,
+  DiffHunk,
+  DiffLine,
+} from './types.js'
 
 export function createGitService(repoPath?: string) {
   // Use GitHubService in production (serverless), GitService locally

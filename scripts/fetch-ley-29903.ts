@@ -5,8 +5,8 @@
  * Usage: npx tsx scripts/fetch-ley-29903.ts
  */
 
-import { writeFile, mkdir } from 'node:fs/promises'
-import { join, dirname } from 'node:path'
+import { mkdir, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -74,13 +74,16 @@ async function getToken(): Promise<string> {
 async function searchLaw(query: string): Promise<SearchResult> {
   const token = await getToken()
 
-  const response = await fetch(`${SPIJ_API_BASE}/busqueda?texto=${encodeURIComponent(query)}&pagina=1&porPagina=20`, {
-    headers: {
-      Authorization: `Bearer ${token}`,
-      'Content-Type': 'application/json',
-      Referer: 'https://spij.minjus.gob.pe/',
+  const response = await fetch(
+    `${SPIJ_API_BASE}/busqueda?texto=${encodeURIComponent(query)}&pagina=1&porPagina=20`,
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        'Content-Type': 'application/json',
+        Referer: 'https://spij.minjus.gob.pe/',
+      },
     },
-  })
+  )
 
   if (!response.ok) {
     throw new Error(`Search failed: ${response.status}`)
@@ -108,7 +111,7 @@ async function fetchLaw(spijId: string): Promise<SpijLaw> {
 }
 
 function htmlToMarkdown(html: string): string {
-  let md = html
+  const md = html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
@@ -149,7 +152,7 @@ async function saveLaw(
   lawId: string,
   spijData: SpijLaw,
   name: string,
-  fechaPublicacion: string
+  fechaPublicacion: string,
 ): Promise<void> {
   const title = name || extractTitle(spijData.sumilla) || spijData.titulo
   const content = htmlToMarkdown(spijData.textoCompleto)
@@ -204,9 +207,11 @@ async function main() {
       const lawData = await fetchLaw(spijId)
 
       // Check if this is Ley 29903
-      if (lawData.codigoNorma?.includes('29903') ||
-          lawData.titulo?.includes('29903') ||
-          lawData.sumilla?.includes('29903')) {
+      if (
+        lawData.codigoNorma?.includes('29903') ||
+        lawData.titulo?.includes('29903') ||
+        lawData.sumilla?.includes('29903')
+      ) {
         console.log(`✅ Found Ley 29903 with SPIJ ID: ${spijId}`)
         console.log(`   Title: ${extractTitle(lawData.sumilla)}`)
 
@@ -214,15 +219,15 @@ async function main() {
           'ley-29903',
           lawData,
           'Ley de Reforma del Sistema Privado de Pensiones',
-          '2012-07-19'
+          '2012-07-19',
         )
 
-        console.log('\n' + '═'.repeat(50))
+        console.log(`\n${'═'.repeat(50)}`)
         console.log('✅ Success!')
         return
       }
     } catch (error) {
-      console.log(`   ❌ Not found or error`)
+      console.log('   ❌ Not found or error')
     }
 
     // Rate limiting
@@ -246,14 +251,16 @@ async function main() {
       (item) =>
         item.codigoNorma?.includes('29903') ||
         item.titulo?.includes('29903') ||
-        item.sumilla?.includes('29903')
+        item.sumilla?.includes('29903'),
     )
 
     if (!ley29903) {
       console.log('❌ Ley 29903 not found in search results')
       console.log('\n📋 Available results:')
       for (const item of searchResults.items.slice(0, 5)) {
-        console.log(`   ${item.codigoNorma}: ${item.titulo?.substring(0, 60) || item.sumilla?.substring(0, 60)}`)
+        console.log(
+          `   ${item.codigoNorma}: ${item.titulo?.substring(0, 60) || item.sumilla?.substring(0, 60)}`,
+        )
       }
       return
     }
@@ -269,13 +276,15 @@ async function main() {
       'ley-29903',
       lawData,
       'Ley de Reforma del Sistema Privado de Pensiones',
-      ley29903.fechaPublicacion || '2012-07-19'
+      ley29903.fechaPublicacion || '2012-07-19',
     )
 
-    console.log('\n' + '═'.repeat(50))
+    console.log(`\n${'═'.repeat(50)}`)
     console.log('✅ Success!')
   } catch (error) {
-    console.log(`❌ Search API failed: ${error instanceof Error ? error.message : error}`)
+    console.log(
+      `❌ Search API failed: ${error instanceof Error ? error.message : error}`,
+    )
   }
 }
 
