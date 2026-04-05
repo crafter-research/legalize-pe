@@ -15,11 +15,10 @@ const OUTPUT_DIR = join(__dirname, '../leyes/pe')
 
 // Law numbers to fetch (available on Congress site, not in our repo)
 const LAW_NUMBERS = [
-  // Batch 3 - Newer laws (more likely to have text)
-  29200, 29250, 29300, 29350, 29400,
-  29450, 29500, 29550, 29600, 29650,
-  29700, 29750, 29800, 29850, 29900,
-  29950, 30000, 30050, 30100, 30150,
+  // Batch 4 - Try more 27xxx numbers (good success rate)
+  27051, 27052, 27053, 27054, 27055, 27056, 27057, 27058, 27059, 27060,
+  27061, 27062, 27063, 27064, 27065, 27066, 27067, 27068, 27069, 27070,
+  27100, 27101, 27102, 27103, 27104, 27105, 27106, 27107, 27108, 27109,
 ]
 
 function cleanText(text: string): string {
