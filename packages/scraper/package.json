@@ -8,7 +8,7 @@
     "scrape": "tsx src/scrape-final.ts",
     "scrape:direct": "tsx src/scrape-direct.ts",
     "dev": "tsx watch src/index.ts",
-    "build": "tsup src/index.ts --format esm --dts",
+    "build": "tsup src/index.ts --format esm --dts --external playwright",
     "typecheck": "tsc --noEmit",
     "test": "vitest"
   },
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
+    "playwright": "^1.59.1",
     "tsup": "^8.3.5",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2",
