@@ -1,0 +1,326 @@
+{
+  "version": "1.0",
+  "actualizacion": "2026-04-05",
+  "normas": [
+    {
+      "identificador": "constitucion-1993",
+      "titulo": "Constitución Política del Perú de 1993",
+      "rango": "constitucion",
+      "fechaPublicacion": "1993-12-29",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/constitucion-politica-peru-actualizada/"],
+      "materias": ["constitucional"],
+      "sumilla": "Norma fundamental del Estado Peruano"
+    },
+    {
+      "identificador": "codigo-civil",
+      "titulo": "Código Civil",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1984-07-25",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-civil-peruano-actualizado/"],
+      "materias": ["civil"],
+      "sumilla": "Decreto Legislativo 295 - Código Civil"
+    },
+    {
+      "identificador": "codigo-penal",
+      "titulo": "Código Penal",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1991-04-08",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-penal-peruano-actualizado/"],
+      "materias": ["penal"],
+      "sumilla": "Decreto Legislativo 635 - Código Penal"
+    },
+    {
+      "identificador": "codigo-procesal-civil",
+      "titulo": "Código Procesal Civil",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1993-04-23",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-procesal-civil-actualizado/"],
+      "materias": ["procesal civil"],
+      "sumilla": "Decreto Legislativo 768 - Código Procesal Civil"
+    },
+    {
+      "identificador": "codigo-procesal-penal",
+      "titulo": "Nuevo Código Procesal Penal",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2004-07-29",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/"],
+      "materias": ["procesal penal"],
+      "sumilla": "Decreto Legislativo 957 - Nuevo Código Procesal Penal"
+    },
+    {
+      "identificador": "ley-9024",
+      "titulo": "Código de Procedimientos Penales",
+      "rango": "ley",
+      "fechaPublicacion": "1940-03-23",
+      "estado": "verificado",
+      "fuentes": ["https://hrlibrary.umn.edu/research/Peru-Codigo%20de%20Procedimientos%20Penales.pdf"],
+      "materias": ["procesal penal"],
+      "sumilla": "Código de Procedimientos Penales de 1940 (parcialmente vigente)"
+    },
+    {
+      "identificador": "ds-133-2013-ef-codigo-tributario",
+      "titulo": "TUO del Código Tributario",
+      "rango": "decreto-supremo",
+      "fechaPublicacion": "2013-06-22",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-tributario-decreto-supremo-133-2013-ef/"],
+      "materias": ["tributario"],
+      "sumilla": "Decreto Supremo 133-2013-EF - TUO del Código Tributario"
+    },
+    {
+      "identificador": "codigo-comercio",
+      "titulo": "Código de Comercio",
+      "rango": "ley",
+      "fechaPublicacion": "1902-02-15",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-de-comercio-del-peru/"],
+      "materias": ["comercial"],
+      "sumilla": "Código de Comercio de 1902"
+    },
+    {
+      "identificador": "ley-27337",
+      "titulo": "Código de los Niños y Adolescentes",
+      "rango": "ley",
+      "fechaPublicacion": "2000-08-07",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-ninos-adolescentes-ley-27337/"],
+      "materias": ["familia", "menores"],
+      "sumilla": "Ley 27337 - Código de los Niños y Adolescentes"
+    },
+    {
+      "identificador": "codigo-procesal-constitucional",
+      "titulo": "Código Procesal Constitucional",
+      "rango": "ley",
+      "fechaPublicacion": "2021-07-23",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-procesal-constitucional-ley-31307/"],
+      "materias": ["constitucional", "procesal"],
+      "sumilla": "Ley 31307 - Nuevo Código Procesal Constitucional"
+    },
+    {
+      "identificador": "dleg-1348",
+      "titulo": "Código de Responsabilidad Penal de Adolescentes",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2017-01-07",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-responsabilidad-penal-adolescentes-decreto-legislativo-1348/"],
+      "materias": ["penal", "menores"],
+      "sumilla": "Decreto Legislativo 1348 - Código de Responsabilidad Penal de Adolescentes"
+    },
+    {
+      "identificador": "ley-29571-codigo-consumidor",
+      "titulo": "Código de Protección y Defensa del Consumidor",
+      "rango": "ley",
+      "fechaPublicacion": "2010-09-02",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571/"],
+      "materias": ["consumidor", "INDECOPI"],
+      "sumilla": "Ley 29571 - Código de Protección y Defensa del Consumidor"
+    },
+    {
+      "identificador": "ley-27815",
+      "titulo": "Ley del Código de Ética de la Función Pública",
+      "rango": "ley",
+      "fechaPublicacion": "2002-08-13",
+      "estado": "verificado",
+      "fuentes": ["https://idehpucp.pucp.edu.pe/images/documentos/anticorrupcion/normativa/ley27815_actual.pdf"],
+      "materias": ["función pública", "ética", "anticorrupción"],
+      "sumilla": "Ley 27815 - Código de Ética de la Función Pública"
+    },
+    {
+      "identificador": "ley-27444",
+      "titulo": "Ley del Procedimiento Administrativo General",
+      "rango": "ley",
+      "fechaPublicacion": "2001-04-11",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-procedimiento-administrativo-27444/"],
+      "materias": ["administrativo"],
+      "sumilla": "Ley 27444 - Ley del Procedimiento Administrativo General"
+    },
+    {
+      "identificador": "ley-26887",
+      "titulo": "Ley General de Sociedades",
+      "rango": "ley",
+      "fechaPublicacion": "1997-12-09",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-general-sociedades-26887-actualizada/"],
+      "materias": ["societario", "comercial"],
+      "sumilla": "Ley 26887 - Ley General de Sociedades"
+    },
+    {
+      "identificador": "dleg-728",
+      "titulo": "Ley de Productividad y Competitividad Laboral",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1997-03-27",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/texto-unico-ordenado-decreto-legislativo-728-ley-productividad-competitividad-laboral/"],
+      "materias": ["laboral"],
+      "sumilla": "TUO del Decreto Legislativo 728"
+    },
+    {
+      "identificador": "ley-29497",
+      "titulo": "Nueva Ley Procesal del Trabajo",
+      "rango": "ley",
+      "fechaPublicacion": "2010-01-15",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/nueva-ley-procesal-trabajo-29497-actualizada/"],
+      "materias": ["laboral", "procesal"],
+      "sumilla": "Ley 29497 - Nueva Ley Procesal del Trabajo"
+    },
+    {
+      "identificador": "ley-30364",
+      "titulo": "Ley para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres y los Integrantes del Grupo Familiar",
+      "rango": "ley",
+      "fechaPublicacion": "2015-11-23",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-30364-prevenir-sancionar-erradicar-violencia-mujeres-integrantes-grupo-familiar/"],
+      "materias": ["violencia", "familia", "género"],
+      "sumilla": "Ley 30364 - Ley de violencia familiar y de género"
+    },
+    {
+      "identificador": "ley-30225-tuo",
+      "titulo": "TUO de la Ley de Contrataciones del Estado",
+      "rango": "decreto-supremo",
+      "fechaPublicacion": "2019-03-13",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/aprueban-tuo-ley-30225-ley-contrataciones-estado/"],
+      "materias": ["contrataciones", "estado"],
+      "sumilla": "TUO de la Ley 30225 - Ley de Contrataciones del Estado"
+    },
+    {
+      "identificador": "ley-27806",
+      "titulo": "Ley de Transparencia y Acceso a la Información Pública",
+      "rango": "ley",
+      "fechaPublicacion": "2002-08-03",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-transparencia-acceso-informacion-publica-ley-27806/"],
+      "materias": ["transparencia", "información pública"],
+      "sumilla": "Ley 27806 - Ley de Transparencia y Acceso a la Información Pública"
+    },
+    {
+      "identificador": "ley-29733",
+      "titulo": "Ley de Protección de Datos Personales",
+      "rango": "ley",
+      "fechaPublicacion": "2011-07-03",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-proteccion-datos-personales-29733/"],
+      "materias": ["datos personales", "privacidad"],
+      "sumilla": "Ley 29733 - Ley de Protección de Datos Personales"
+    },
+    {
+      "identificador": "ley-30096",
+      "titulo": "Ley de Delitos Informáticos",
+      "rango": "ley",
+      "fechaPublicacion": "2013-10-22",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-delitos-informaticos-ley-30096/"],
+      "materias": ["penal", "informático"],
+      "sumilla": "Ley 30096 - Ley de Delitos Informáticos"
+    },
+    {
+      "identificador": "ley-27287",
+      "titulo": "Ley de Títulos Valores",
+      "rango": "ley",
+      "fechaPublicacion": "2000-06-19",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-titulos-valores-27287/"],
+      "materias": ["comercial", "títulos valores"],
+      "sumilla": "Ley 27287 - Ley de Títulos Valores"
+    },
+    {
+      "identificador": "dleg-1049",
+      "titulo": "Decreto Legislativo del Notariado",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2008-06-26",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/decreto-legislativo-notariado-1049/"],
+      "materias": ["notarial"],
+      "sumilla": "Decreto Legislativo 1049 - Ley del Notariado"
+    },
+    {
+      "identificador": "ley-26702",
+      "titulo": "Ley General del Sistema Financiero y del Sistema de Seguros",
+      "rango": "ley",
+      "fechaPublicacion": "1996-12-09",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-general-sistema-financiero-seguros-26702/"],
+      "materias": ["bancario", "financiero", "seguros"],
+      "sumilla": "Ley 26702 - Ley General del Sistema Financiero"
+    },
+    {
+      "identificador": "ley-28611",
+      "titulo": "Ley General del Ambiente",
+      "rango": "ley",
+      "fechaPublicacion": "2005-10-15",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-general-ambiente-28611/"],
+      "materias": ["ambiental"],
+      "sumilla": "Ley 28611 - Ley General del Ambiente"
+    },
+    {
+      "identificador": "ley-29783",
+      "titulo": "Ley de Seguridad y Salud en el Trabajo",
+      "rango": "ley",
+      "fechaPublicacion": "2011-08-20",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-seguridad-salud-trabajo-29783/"],
+      "materias": ["laboral", "seguridad"],
+      "sumilla": "Ley 29783 - Ley de Seguridad y Salud en el Trabajo"
+    },
+    {
+      "identificador": "ley-28015",
+      "titulo": "Ley de Promoción y Formalización de la MYPE",
+      "rango": "ley",
+      "fechaPublicacion": "2003-07-03",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-promocion-mypes-28015/"],
+      "materias": ["laboral", "empresarial", "MYPE"],
+      "sumilla": "Ley 28015 - Ley MYPE"
+    },
+    {
+      "identificador": "dleg-1071",
+      "titulo": "Decreto Legislativo que norma el Arbitraje",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2008-06-28",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/decreto-legislativo-norma-arbitraje-1071/"],
+      "materias": ["arbitraje"],
+      "sumilla": "Decreto Legislativo 1071 - Ley de Arbitraje"
+    },
+    {
+      "identificador": "ley-26872",
+      "titulo": "Ley de Conciliación",
+      "rango": "ley",
+      "fechaPublicacion": "1997-11-13",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-conciliacion-26872/"],
+      "materias": ["conciliación", "MARC"],
+      "sumilla": "Ley 26872 - Ley de Conciliación"
+    },
+    {
+      "identificador": "ley-30057",
+      "titulo": "Ley del Servicio Civil",
+      "rango": "ley",
+      "fechaPublicacion": "2013-07-04",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/ley-servicio-civil-ley-30057-actualizada/"],
+      "materias": ["función pública", "servicio civil"],
+      "sumilla": "Ley 30057 - Ley del Servicio Civil"
+    },
+    {
+      "identificador": "dleg-1057",
+      "titulo": "Decreto Legislativo que regula el Régimen CAS",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2008-06-28",
+      "estado": "verificado",
+      "fuentes": ["https://lpderecho.pe/decreto-regimen-especial-contratacion-administrativa-servicios-cas-decreto-legislativo-1057-actualizado/"],
+      "materias": ["laboral", "función pública", "CAS"],
+      "sumilla": "Decreto Legislativo 1057 - Régimen CAS"
+    }
+  ]
+}
