@@ -63,7 +63,7 @@ function parseFrontmatter(content: string): {
 
   return {
     frontmatter: frontmatter as unknown as Frontmatter,
-    body: body?.trim(),
+    body: body?.trim() ?? '',
   }
 }
 
