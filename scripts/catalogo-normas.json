@@ -524,7 +524,7 @@
       "titulo": "Bono Familiar Universal",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-06-30",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-urgencia-076-2020/"
       ],
@@ -539,7 +539,7 @@
       "titulo": "Medidas para prevenir propagación del COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-14",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-urgencia-016-2020/"
       ],
@@ -554,7 +554,7 @@
       "titulo": "Medidas extraordinarias para reactivación económica",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-06-18",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-urgencia-070-2020/"
       ],
@@ -569,7 +569,7 @@
       "titulo": "Reactiva Perú extensión",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-11-01",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
         "https://lpderecho.pe/decreto-urgencia-127-2020/"
       ],
@@ -584,7 +584,7 @@
       "titulo": "Medidas para destrabar procesos de inversión pública",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2019-12-30",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-urgencia-044-2019/"
       ],
