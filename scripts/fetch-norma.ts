@@ -124,20 +124,18 @@ async function fetchNorma(
 
   // Try each source
   for (const source of allSources) {
-    // Try with each URL
-    for (const url of urls) {
-      console.log(`   Trying ${source.name}${url ? ` (${url.slice(0, 50)}...)` : ''}`)
-      const result = await source.fetch(entry.identificador, url)
-      if (result && result.content.length > 500) {
-        console.log(`   ✅ ${source.name}: ${result.content.length} chars, ${result.garbled} garbled`)
-        return result
-      }
+    // First try without URL (for sources that can build their own like Congress, Gob.pe)
+    console.log(`   Trying ${source.name} (auto-URL)`)
+    const autoResult = await source.fetch(entry.identificador)
+    if (autoResult && autoResult.content.length > 500) {
+      console.log(`   ✅ ${source.name}: ${autoResult.content.length} chars, ${autoResult.garbled} garbled`)
+      return autoResult
     }
 
-    // Try without URL (for sources that can build their own)
-    if (urls.length === 0) {
-      console.log(`   Trying ${source.name} (auto-URL)`)
-      const result = await source.fetch(entry.identificador)
+    // Then try with each catalog URL
+    for (const url of urls) {
+      console.log(`   Trying ${source.name} (${url.slice(0, 50)}...)`)
+      const result = await source.fetch(entry.identificador, url)
       if (result && result.content.length > 500) {
         console.log(`   ✅ ${source.name}: ${result.content.length} chars, ${result.garbled} garbled`)
         return result

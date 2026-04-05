@@ -8,8 +8,12 @@
       "rango": "constitucion",
       "fechaPublicacion": "1993-12-29",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/constitucion-politica-peru-actualizada/"],
-      "materias": ["constitucional"],
+      "fuentes": [
+        "https://lpderecho.pe/constitucion-politica-peru-actualizada/"
+      ],
+      "materias": [
+        "constitucional"
+      ],
       "sumilla": "Norma fundamental del Estado Peruano"
     },
     {
@@ -18,8 +22,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1984-07-25",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-civil-peruano-actualizado/"],
-      "materias": ["civil"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-civil-peruano-actualizado/"
+      ],
+      "materias": [
+        "civil"
+      ],
       "sumilla": "Decreto Legislativo 295 - Código Civil"
     },
     {
@@ -28,8 +36,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-04-08",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-penal-peruano-actualizado/"],
-      "materias": ["penal"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-penal-peruano-actualizado/"
+      ],
+      "materias": [
+        "penal"
+      ],
       "sumilla": "Decreto Legislativo 635 - Código Penal"
     },
     {
@@ -38,8 +50,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1993-04-23",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-procesal-civil-actualizado/"],
-      "materias": ["procesal civil"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-procesal-civil-actualizado/"
+      ],
+      "materias": [
+        "procesal civil"
+      ],
       "sumilla": "Decreto Legislativo 768 - Código Procesal Civil"
     },
     {
@@ -48,8 +64,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2004-07-29",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/"],
-      "materias": ["procesal penal"],
+      "fuentes": [
+        "https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/"
+      ],
+      "materias": [
+        "procesal penal"
+      ],
       "sumilla": "Decreto Legislativo 957 - Nuevo Código Procesal Penal"
     },
     {
@@ -58,8 +78,12 @@
       "rango": "ley",
       "fechaPublicacion": "1940-03-23",
       "estado": "verificado",
-      "fuentes": ["https://hrlibrary.umn.edu/research/Peru-Codigo%20de%20Procedimientos%20Penales.pdf"],
-      "materias": ["procesal penal"],
+      "fuentes": [
+        "https://hrlibrary.umn.edu/research/Peru-Codigo%20de%20Procedimientos%20Penales.pdf"
+      ],
+      "materias": [
+        "procesal penal"
+      ],
       "sumilla": "Código de Procedimientos Penales de 1940 (parcialmente vigente)"
     },
     {
@@ -68,8 +92,12 @@
       "rango": "decreto-supremo",
       "fechaPublicacion": "2013-06-22",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-tributario-decreto-supremo-133-2013-ef/"],
-      "materias": ["tributario"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-tributario-decreto-supremo-133-2013-ef/"
+      ],
+      "materias": [
+        "tributario"
+      ],
       "sumilla": "Decreto Supremo 133-2013-EF - TUO del Código Tributario"
     },
     {
@@ -78,8 +106,12 @@
       "rango": "ley",
       "fechaPublicacion": "1902-02-15",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-de-comercio-del-peru/"],
-      "materias": ["comercial"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-de-comercio-del-peru/"
+      ],
+      "materias": [
+        "comercial"
+      ],
       "sumilla": "Código de Comercio de 1902"
     },
     {
@@ -88,8 +120,13 @@
       "rango": "ley",
       "fechaPublicacion": "2000-08-07",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-ninos-adolescentes-ley-27337/"],
-      "materias": ["familia", "menores"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-ninos-adolescentes-ley-27337/"
+      ],
+      "materias": [
+        "familia",
+        "menores"
+      ],
       "sumilla": "Ley 27337 - Código de los Niños y Adolescentes"
     },
     {
@@ -98,8 +135,13 @@
       "rango": "ley",
       "fechaPublicacion": "2021-07-23",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-procesal-constitucional-ley-31307/"],
-      "materias": ["constitucional", "procesal"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-procesal-constitucional-ley-31307/"
+      ],
+      "materias": [
+        "constitucional",
+        "procesal"
+      ],
       "sumilla": "Ley 31307 - Nuevo Código Procesal Constitucional"
     },
     {
@@ -108,8 +150,13 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2017-01-07",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-responsabilidad-penal-adolescentes-decreto-legislativo-1348/"],
-      "materias": ["penal", "menores"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-responsabilidad-penal-adolescentes-decreto-legislativo-1348/"
+      ],
+      "materias": [
+        "penal",
+        "menores"
+      ],
       "sumilla": "Decreto Legislativo 1348 - Código de Responsabilidad Penal de Adolescentes"
     },
     {
@@ -118,8 +165,13 @@
       "rango": "ley",
       "fechaPublicacion": "2010-09-02",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571/"],
-      "materias": ["consumidor", "INDECOPI"],
+      "fuentes": [
+        "https://lpderecho.pe/codigo-de-proteccion-y-defensa-del-consumidor-ley-29571/"
+      ],
+      "materias": [
+        "consumidor",
+        "INDECOPI"
+      ],
       "sumilla": "Ley 29571 - Código de Protección y Defensa del Consumidor"
     },
     {
@@ -128,8 +180,14 @@
       "rango": "ley",
       "fechaPublicacion": "2002-08-13",
       "estado": "verificado",
-      "fuentes": ["https://idehpucp.pucp.edu.pe/images/documentos/anticorrupcion/normativa/ley27815_actual.pdf"],
-      "materias": ["función pública", "ética", "anticorrupción"],
+      "fuentes": [
+        "https://idehpucp.pucp.edu.pe/images/documentos/anticorrupcion/normativa/ley27815_actual.pdf"
+      ],
+      "materias": [
+        "función pública",
+        "ética",
+        "anticorrupción"
+      ],
       "sumilla": "Ley 27815 - Código de Ética de la Función Pública"
     },
     {
@@ -138,8 +196,12 @@
       "rango": "ley",
       "fechaPublicacion": "2001-04-11",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-procedimiento-administrativo-27444/"],
-      "materias": ["administrativo"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-procedimiento-administrativo-27444/"
+      ],
+      "materias": [
+        "administrativo"
+      ],
       "sumilla": "Ley 27444 - Ley del Procedimiento Administrativo General"
     },
     {
@@ -148,8 +210,13 @@
       "rango": "ley",
       "fechaPublicacion": "1997-12-09",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-general-sociedades-26887-actualizada/"],
-      "materias": ["societario", "comercial"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-general-sociedades-26887-actualizada/"
+      ],
+      "materias": [
+        "societario",
+        "comercial"
+      ],
       "sumilla": "Ley 26887 - Ley General de Sociedades"
     },
     {
@@ -158,8 +225,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1997-03-27",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/texto-unico-ordenado-decreto-legislativo-728-ley-productividad-competitividad-laboral/"],
-      "materias": ["laboral"],
+      "fuentes": [
+        "https://lpderecho.pe/texto-unico-ordenado-decreto-legislativo-728-ley-productividad-competitividad-laboral/"
+      ],
+      "materias": [
+        "laboral"
+      ],
       "sumilla": "TUO del Decreto Legislativo 728"
     },
     {
@@ -168,8 +239,13 @@
       "rango": "ley",
       "fechaPublicacion": "2010-01-15",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/nueva-ley-procesal-trabajo-29497-actualizada/"],
-      "materias": ["laboral", "procesal"],
+      "fuentes": [
+        "https://lpderecho.pe/nueva-ley-procesal-trabajo-29497-actualizada/"
+      ],
+      "materias": [
+        "laboral",
+        "procesal"
+      ],
       "sumilla": "Ley 29497 - Nueva Ley Procesal del Trabajo"
     },
     {
@@ -178,8 +254,14 @@
       "rango": "ley",
       "fechaPublicacion": "2015-11-23",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-30364-prevenir-sancionar-erradicar-violencia-mujeres-integrantes-grupo-familiar/"],
-      "materias": ["violencia", "familia", "género"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-30364-prevenir-sancionar-erradicar-violencia-mujeres-integrantes-grupo-familiar/"
+      ],
+      "materias": [
+        "violencia",
+        "familia",
+        "género"
+      ],
       "sumilla": "Ley 30364 - Ley de violencia familiar y de género"
     },
     {
@@ -188,8 +270,13 @@
       "rango": "decreto-supremo",
       "fechaPublicacion": "2019-03-13",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/aprueban-tuo-ley-30225-ley-contrataciones-estado/"],
-      "materias": ["contrataciones", "estado"],
+      "fuentes": [
+        "https://lpderecho.pe/aprueban-tuo-ley-30225-ley-contrataciones-estado/"
+      ],
+      "materias": [
+        "contrataciones",
+        "estado"
+      ],
       "sumilla": "TUO de la Ley 30225 - Ley de Contrataciones del Estado"
     },
     {
@@ -198,8 +285,13 @@
       "rango": "ley",
       "fechaPublicacion": "2002-08-03",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-transparencia-acceso-informacion-publica-ley-27806/"],
-      "materias": ["transparencia", "información pública"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-transparencia-acceso-informacion-publica-ley-27806/"
+      ],
+      "materias": [
+        "transparencia",
+        "información pública"
+      ],
       "sumilla": "Ley 27806 - Ley de Transparencia y Acceso a la Información Pública"
     },
     {
@@ -208,8 +300,13 @@
       "rango": "ley",
       "fechaPublicacion": "2011-07-03",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-proteccion-datos-personales-29733/"],
-      "materias": ["datos personales", "privacidad"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-proteccion-datos-personales-29733/"
+      ],
+      "materias": [
+        "datos personales",
+        "privacidad"
+      ],
       "sumilla": "Ley 29733 - Ley de Protección de Datos Personales"
     },
     {
@@ -218,8 +315,13 @@
       "rango": "ley",
       "fechaPublicacion": "2013-10-22",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-delitos-informaticos-ley-30096/"],
-      "materias": ["penal", "informático"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-delitos-informaticos-ley-30096/"
+      ],
+      "materias": [
+        "penal",
+        "informático"
+      ],
       "sumilla": "Ley 30096 - Ley de Delitos Informáticos"
     },
     {
@@ -228,8 +330,13 @@
       "rango": "ley",
       "fechaPublicacion": "2000-06-19",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-titulos-valores-27287/"],
-      "materias": ["comercial", "títulos valores"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-titulos-valores-27287/"
+      ],
+      "materias": [
+        "comercial",
+        "títulos valores"
+      ],
       "sumilla": "Ley 27287 - Ley de Títulos Valores"
     },
     {
@@ -238,8 +345,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2008-06-26",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/decreto-legislativo-notariado-1049/"],
-      "materias": ["notarial"],
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-notariado-1049/"
+      ],
+      "materias": [
+        "notarial"
+      ],
       "sumilla": "Decreto Legislativo 1049 - Ley del Notariado"
     },
     {
@@ -248,8 +359,14 @@
       "rango": "ley",
       "fechaPublicacion": "1996-12-09",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-general-sistema-financiero-seguros-26702/"],
-      "materias": ["bancario", "financiero", "seguros"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-general-sistema-financiero-seguros-26702/"
+      ],
+      "materias": [
+        "bancario",
+        "financiero",
+        "seguros"
+      ],
       "sumilla": "Ley 26702 - Ley General del Sistema Financiero"
     },
     {
@@ -258,8 +375,12 @@
       "rango": "ley",
       "fechaPublicacion": "2005-10-15",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-general-ambiente-28611/"],
-      "materias": ["ambiental"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-general-ambiente-28611/"
+      ],
+      "materias": [
+        "ambiental"
+      ],
       "sumilla": "Ley 28611 - Ley General del Ambiente"
     },
     {
@@ -268,8 +389,13 @@
       "rango": "ley",
       "fechaPublicacion": "2011-08-20",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-seguridad-salud-trabajo-29783/"],
-      "materias": ["laboral", "seguridad"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-seguridad-salud-trabajo-29783/"
+      ],
+      "materias": [
+        "laboral",
+        "seguridad"
+      ],
       "sumilla": "Ley 29783 - Ley de Seguridad y Salud en el Trabajo"
     },
     {
@@ -278,8 +404,14 @@
       "rango": "ley",
       "fechaPublicacion": "2003-07-03",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-promocion-mypes-28015/"],
-      "materias": ["laboral", "empresarial", "MYPE"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-promocion-mypes-28015/"
+      ],
+      "materias": [
+        "laboral",
+        "empresarial",
+        "MYPE"
+      ],
       "sumilla": "Ley 28015 - Ley MYPE"
     },
     {
@@ -288,8 +420,12 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2008-06-28",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/decreto-legislativo-norma-arbitraje-1071/"],
-      "materias": ["arbitraje"],
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-norma-arbitraje-1071/"
+      ],
+      "materias": [
+        "arbitraje"
+      ],
       "sumilla": "Decreto Legislativo 1071 - Ley de Arbitraje"
     },
     {
@@ -298,8 +434,13 @@
       "rango": "ley",
       "fechaPublicacion": "1997-11-13",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-conciliacion-26872/"],
-      "materias": ["conciliación", "MARC"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-conciliacion-26872/"
+      ],
+      "materias": [
+        "conciliación",
+        "MARC"
+      ],
       "sumilla": "Ley 26872 - Ley de Conciliación"
     },
     {
@@ -308,8 +449,13 @@
       "rango": "ley",
       "fechaPublicacion": "2013-07-04",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/ley-servicio-civil-ley-30057-actualizada/"],
-      "materias": ["función pública", "servicio civil"],
+      "fuentes": [
+        "https://lpderecho.pe/ley-servicio-civil-ley-30057-actualizada/"
+      ],
+      "materias": [
+        "función pública",
+        "servicio civil"
+      ],
       "sumilla": "Ley 30057 - Ley del Servicio Civil"
     },
     {
@@ -318,9 +464,533 @@
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2008-06-28",
       "estado": "verificado",
-      "fuentes": ["https://lpderecho.pe/decreto-regimen-especial-contratacion-administrativa-servicios-cas-decreto-legislativo-1057-actualizado/"],
-      "materias": ["laboral", "función pública", "CAS"],
+      "fuentes": [
+        "https://lpderecho.pe/decreto-regimen-especial-contratacion-administrativa-servicios-cas-decreto-legislativo-1057-actualizado/"
+      ],
+      "materias": [
+        "laboral",
+        "función pública",
+        "CAS"
+      ],
       "sumilla": "Decreto Legislativo 1057 - Régimen CAS"
+    },
+    {
+      "identificador": "du-026-2020",
+      "titulo": "Medidas Extraordinarias en materia económica y financiera COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-03-15",
+      "estado": "error",
+      "fuentes": [
+        "https://www.pj.gob.pe/wps/wcm/connect/32524f804e6d2f45b142b5b4ea4fd967/du026.pdf?MOD=AJPERES"
+      ],
+      "materias": [
+        "covid",
+        "financiero"
+      ],
+      "sumilla": "Medidas financieras COVID-19"
+    },
+    {
+      "identificador": "du-027-2020",
+      "titulo": "Medidas adicionales para el sector educación COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-03-16",
+      "estado": "error",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-027-2020/"
+      ],
+      "materias": [
+        "covid",
+        "educación"
+      ],
+      "sumilla": "Medidas educación COVID-19"
+    },
+    {
+      "identificador": "du-038-2020",
+      "titulo": "Suspensión temporal de CTS COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-04-14",
+      "estado": "error",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-038-2020/"
+      ],
+      "materias": [
+        "covid",
+        "laboral"
+      ],
+      "sumilla": "Suspensión temporal CTS"
+    },
+    {
+      "identificador": "du-076-2020",
+      "titulo": "Bono Familiar Universal",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-06-30",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-076-2020/"
+      ],
+      "materias": [
+        "covid",
+        "social"
+      ],
+      "sumilla": "Bono Familiar Universal"
+    },
+    {
+      "identificador": "du-016-2020",
+      "titulo": "Medidas para prevenir propagación del COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-03-14",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-016-2020/"
+      ],
+      "materias": [
+        "covid",
+        "salud"
+      ],
+      "sumilla": "Prevención propagación COVID-19"
+    },
+    {
+      "identificador": "du-070-2020",
+      "titulo": "Medidas extraordinarias para reactivación económica",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-06-18",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-070-2020/"
+      ],
+      "materias": [
+        "covid",
+        "económico"
+      ],
+      "sumilla": "Reactivación económica COVID-19"
+    },
+    {
+      "identificador": "du-127-2020",
+      "titulo": "Reactiva Perú extensión",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-11-01",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-127-2020/"
+      ],
+      "materias": [
+        "covid",
+        "financiero"
+      ],
+      "sumilla": "Extensión Reactiva Perú"
+    },
+    {
+      "identificador": "du-044-2019",
+      "titulo": "Medidas para destrabar procesos de inversión pública",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2019-12-30",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-044-2019/"
+      ],
+      "materias": [
+        "inversión",
+        "presupuesto"
+      ],
+      "sumilla": "Destrabe inversión pública"
+    },
+    {
+      "identificador": "du-003-2017",
+      "titulo": "Aseguramiento en Salud",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2017-01-31",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-003-2017/"
+      ],
+      "materias": [
+        "salud"
+      ],
+      "sumilla": "Aseguramiento universal en salud"
+    },
+    {
+      "identificador": "du-029-2020",
+      "titulo": "Medidas complementarias para mitigar efectos COVID-19 en trabajadores",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-03-20",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-029-2020/"
+      ],
+      "materias": [
+        "covid",
+        "laboral"
+      ],
+      "sumilla": "Suspensión perfecta de labores COVID"
+    },
+    {
+      "identificador": "du-034-2020",
+      "titulo": "Subsidio a planilla de empleadores del sector privado",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-04-01",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-034-2020/"
+      ],
+      "materias": [
+        "covid",
+        "laboral"
+      ],
+      "sumilla": "Subsidio a planilla COVID"
+    },
+    {
+      "identificador": "du-025-2020",
+      "titulo": "Medidas urgentes para reforzar el sistema de vigilancia y respuesta sanitaria COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-03-11",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-urgencia-025-2020/"
+      ],
+      "materias": [
+        "covid",
+        "salud"
+      ],
+      "sumilla": "Vigilancia sanitaria COVID-19"
+    },
+    {
+      "identificador": "dleg-771",
+      "titulo": "Ley Marco del Sistema Tributario Nacional",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1993-12-31",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-771-ley-marco-sistema-tributario-nacional/"
+      ],
+      "materias": [
+        "tributario"
+      ],
+      "sumilla": "Marco del sistema tributario"
+    },
+    {
+      "identificador": "dleg-776",
+      "titulo": "Ley de Tributación Municipal",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1993-12-31",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-776-ley-tributacion-municipal/"
+      ],
+      "materias": [
+        "tributario",
+        "municipal"
+      ],
+      "sumilla": "Tributación municipal"
+    },
+    {
+      "identificador": "dleg-821",
+      "titulo": "Ley Orgánica de la SUNAT",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1996-04-23",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-821-ley-organica-sunat/"
+      ],
+      "materias": [
+        "tributario",
+        "institucional"
+      ],
+      "sumilla": "SUNAT orgánica"
+    },
+    {
+      "identificador": "dleg-650",
+      "titulo": "Compensación por Tiempo de Servicios",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1991-07-24",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-650-compensacion-tiempo-servicios/"
+      ],
+      "materias": [
+        "laboral"
+      ],
+      "sumilla": "CTS"
+    },
+    {
+      "identificador": "dleg-688",
+      "titulo": "Ley de Consolidación de Beneficios Sociales",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1991-11-05",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-688-ley-consolidacion-beneficios-sociales/"
+      ],
+      "materias": [
+        "laboral"
+      ],
+      "sumilla": "Seguro de vida y beneficios sociales"
+    },
+    {
+      "identificador": "dleg-689",
+      "titulo": "Ley de Contratación de Trabajadores Extranjeros",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1991-11-05",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-689-contratacion-trabajadores-extranjeros/"
+      ],
+      "materias": [
+        "laboral",
+        "migración"
+      ],
+      "sumilla": "Contratación de extranjeros"
+    },
+    {
+      "identificador": "dleg-854",
+      "titulo": "Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "1996-10-01",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-854-jornada-de-trabajo/"
+      ],
+      "materias": [
+        "laboral"
+      ],
+      "sumilla": "Jornada de trabajo y sobretiempo"
+    },
+    {
+      "identificador": "dleg-1013",
+      "titulo": "Ley de Creación del Ministerio del Ambiente",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2008-05-14",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1013-creacion-ministerio-ambiente/"
+      ],
+      "materias": [
+        "ambiental",
+        "institucional"
+      ],
+      "sumilla": "Creación del MINAM"
+    },
+    {
+      "identificador": "dleg-1192",
+      "titulo": "Ley Marco de Adquisición y Expropiación de Inmuebles",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2015-08-23",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1192-adquisicion-expropiacion-inmuebles/"
+      ],
+      "materias": [
+        "propiedad",
+        "infraestructura"
+      ],
+      "sumilla": "Expropiación para infraestructura"
+    },
+    {
+      "identificador": "dleg-1440",
+      "titulo": "Sistema Nacional de Presupuesto Público",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2018-09-16",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1440-sistema-nacional-presupuesto-publico/"
+      ],
+      "materias": [
+        "presupuesto",
+        "Estado"
+      ],
+      "sumilla": "Sistema de presupuesto público"
+    },
+    {
+      "identificador": "dleg-1441",
+      "titulo": "Sistema Nacional de Tesorería",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2018-09-16",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1441-sistema-nacional-tesoreria/"
+      ],
+      "materias": [
+        "tesorería",
+        "Estado"
+      ],
+      "sumilla": "Sistema de tesorería"
+    },
+    {
+      "identificador": "dleg-1442",
+      "titulo": "Sistema Nacional de Endeudamiento Público",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2018-09-16",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1442-sistema-nacional-endeudamiento-publico/"
+      ],
+      "materias": [
+        "deuda pública",
+        "Estado"
+      ],
+      "sumilla": "Sistema de endeudamiento público"
+    },
+    {
+      "identificador": "dleg-1149",
+      "titulo": "Ley de la Policía Nacional del Perú",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2012-12-11",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1149-ley-policia-nacional-peru/"
+      ],
+      "materias": [
+        "seguridad",
+        "PNP"
+      ],
+      "sumilla": "Ley orgánica PNP"
+    },
+    {
+      "identificador": "dleg-1186",
+      "titulo": "Ley de Uso de la Fuerza por la PNP",
+      "rango": "decreto-legislativo",
+      "fechaPublicacion": "2015-08-16",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-legislativo-1186-uso-fuerza-pnp/"
+      ],
+      "materias": [
+        "seguridad",
+        "PNP"
+      ],
+      "sumilla": "Uso de la fuerza policial"
+    },
+    {
+      "identificador": "ley-29158",
+      "titulo": "Ley Orgánica del Poder Ejecutivo",
+      "rango": "ley",
+      "fechaPublicacion": "2007-12-20",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-organica-poder-ejecutivo-29158/"
+      ],
+      "materias": [
+        "administrativo",
+        "Estado"
+      ],
+      "sumilla": "LOPE - base del Poder Ejecutivo"
+    },
+    {
+      "identificador": "ley-29230",
+      "titulo": "Ley de Obras por Impuestos",
+      "rango": "ley",
+      "fechaPublicacion": "2008-05-20",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-obras-por-impuestos-29230/"
+      ],
+      "materias": [
+        "inversión",
+        "tributario"
+      ],
+      "sumilla": "Obras por impuestos"
+    },
+    {
+      "identificador": "ley-31572",
+      "titulo": "Ley del Teletrabajo",
+      "rango": "ley",
+      "fechaPublicacion": "2022-09-11",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-teletrabajo-31572/"
+      ],
+      "materias": [
+        "laboral"
+      ],
+      "sumilla": "Regulación del teletrabajo"
+    },
+    {
+      "identificador": "ley-30709",
+      "titulo": "Ley que prohíbe la Discriminación Remunerativa",
+      "rango": "ley",
+      "fechaPublicacion": "2017-12-27",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-30709-prohibe-discriminacion-remunerativa/"
+      ],
+      "materias": [
+        "laboral",
+        "género"
+      ],
+      "sumilla": "Igualdad salarial hombre/mujer"
+    },
+    {
+      "identificador": "ley-30947",
+      "titulo": "Ley de Salud Mental",
+      "rango": "ley",
+      "fechaPublicacion": "2019-05-22",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-salud-mental-30947/"
+      ],
+      "materias": [
+        "salud"
+      ],
+      "sumilla": "Ley de salud mental"
+    },
+    {
+      "identificador": "ley-31814",
+      "titulo": "Ley que promueve el uso de la Inteligencia Artificial",
+      "rango": "ley",
+      "fechaPublicacion": "2023-07-11",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-promueve-uso-inteligencia-artificial-31814/"
+      ],
+      "materias": [
+        "tecnología",
+        "IA"
+      ],
+      "sumilla": "Primera ley de IA del Perú"
+    },
+    {
+      "identificador": "ley-32108",
+      "titulo": "Ley que modifica la Ley contra el Crimen Organizado",
+      "rango": "ley",
+      "fechaPublicacion": "2024-07-10",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/ley-32108-modifica-ley-crimen-organizado/"
+      ],
+      "materias": [
+        "penal",
+        "seguridad"
+      ],
+      "sumilla": "Modifica Ley 30077 crimen organizado"
+    },
+    {
+      "identificador": "dl-25593",
+      "titulo": "Ley de Relaciones Colectivas de Trabajo",
+      "rango": "decreto-ley",
+      "fechaPublicacion": "1992-07-02",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-ley-25593-ley-relaciones-colectivas-trabajo/"
+      ],
+      "materias": [
+        "laboral",
+        "sindical"
+      ],
+      "sumilla": "Relaciones colectivas y sindicatos"
+    },
+    {
+      "identificador": "dl-25868",
+      "titulo": "Ley de Creación de INDECOPI",
+      "rango": "decreto-ley",
+      "fechaPublicacion": "1992-11-24",
+      "estado": "pendiente",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-ley-25868-creacion-indecopi/"
+      ],
+      "materias": [
+        "competencia",
+        "institucional"
+      ],
+      "sumilla": "Creación de INDECOPI"
     }
   ]
 }

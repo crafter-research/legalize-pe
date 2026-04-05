@@ -5,7 +5,7 @@
 export interface NormaCatalogEntry {
   identificador: string
   titulo: string
-  rango: 'constitucion' | 'ley' | 'decreto-legislativo' | 'decreto-ley' | 'decreto-supremo' | 'resolucion' | 'otro'
+  rango: 'constitucion' | 'ley' | 'decreto-legislativo' | 'decreto-ley' | 'decreto-supremo' | 'decreto-urgencia' | 'resolucion' | 'otro'
   fechaPublicacion: string
   estado: 'pendiente' | 'descargado' | 'verificado' | 'error'
   fuentes: string[]

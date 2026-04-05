@@ -160,7 +160,9 @@ export const genericPdfSource: LawSource = {
   name: 'Generic PDF',
   priority: 3,
   async fetch(id: string, url?: string): Promise<FetchResult | null> {
-    if (!url?.endsWith('.pdf')) return null
+    // Accept any PDF URL or URLs with MOD=AJPERES (PJ pattern)
+    if (!url) return null
+    if (!url.endsWith('.pdf') && !url.includes('MOD=AJPERES')) return null
 
     try {
       const response = await fetch(url, {
@@ -172,12 +174,19 @@ export const genericPdfSource: LawSource = {
       if (!response.ok) return null
 
       const buffer = Buffer.from(await response.arrayBuffer())
+
+      // Skip PDFs larger than 5MB (likely scanned images)
+      if (buffer.length > 5 * 1024 * 1024) return null
+
       const parser = new PDFParse({ data: buffer })
       await parser.load()
       const textResult = await parser.getText()
       const text = textResult.pages.map((p: { text: string }) => p.text).join('\n\n')
       const pages = textResult.pages.length
       await parser.destroy()
+
+      // Skip if text extraction yields too little (scanned PDF)
+      if (text.length < 1000) return null
 
       const content = formatPdfText(text)
       const garbled = countGarbled(content)
@@ -196,7 +205,7 @@ export const genericPdfSource: LawSource = {
   },
 }
 
-// Build Congress URL from identifier
+// Build Congress/El Peruano URL from identifier
 function buildCongressUrl(id: string): string | null {
   // Extract law number from identifier
   const match = id.match(/ley-(\d+)/)
@@ -204,13 +213,32 @@ function buildCongressUrl(id: string): string | null {
     return `https://www.leyes.congreso.gob.pe/Documentos/Leyes/${match[1]}.pdf`
   }
 
-  const dlMatch = id.match(/dl(?:eg)?-(\d+)/)
+  const dlegMatch = id.match(/dleg-(\d+)/)
+  if (dlegMatch) {
+    return `https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/${dlegMatch[1]}.pdf`
+  }
+
+  // Decreto de Urgencia - try El Peruano format
+  const duMatch = id.match(/du-(\d+)-(\d+)/)
+  if (duMatch) {
+    return `https://busquedas.elperuano.pe/download/url/decreto-de-urgencia-${duMatch[1]}-${duMatch[2]}`
+  }
+
+  // Decreto Ley
+  const dlMatch = id.match(/dl-(\d+)/)
   if (dlMatch) {
-    return `https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/${dlMatch[1]}.pdf`
+    return `https://www.leyes.congreso.gob.pe/Documentos/DecretosLeyes/${dlMatch[1]}.pdf`
+  }
+
+  // Decreto Supremo - try SPIJ pattern
+  const dsMatch = id.match(/ds-(\d+)-(\d+)-(\w+)/)
+  if (dsMatch) {
+    return null // DS URLs are complex, rely on catalog URLs
   }
 
   return null
 }
+
 
 // All sources in priority order
 export const allSources: LawSource[] = [
