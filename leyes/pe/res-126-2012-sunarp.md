@@ -4,14 +4,14 @@ identificador: "res-126-2012-sunarp"
 pais: "pe"
 jurisdiccion: "pe"
 rango: "resolucion"
-fechaPublicacion: "2012-05-18"
+fechaPublicacion: "2012-05-17"
 ultimaActualizacion: "2026-04-04"
 estado: "vigente"
 fuente: "https://lpderecho.pe/texto-unico-ordenado-reglamento-general-registros-publicos-resolucion-126-2012-sunarp-sn/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Reglamento general de los registros públicos administrados por SUNARP"
-materias: ["registral", "SUNARP", "propiedad"]
+sumilla: "TUO del Reglamento de Registros Públicos"
+materias: ["registros públicos", "SUNARP", "reglamento"]
 disclaimer: true
 ---
 
