@@ -497,7 +497,7 @@
       "fechaPublicacion": "2020-03-16",
       "estado": "error",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-complementarias-destinadas-a-reforzar-el-sist-decreto-de-urgencia-n-027-2020-1865024-1/"
+        "https://busquedas.elperuano.pe/dispositivo/NL/1865024-1"
       ],
       "materias": [
         "covid",
@@ -525,9 +525,9 @@
       "titulo": "Medidas complementarias para el sector turismo FAE-TURISMO",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-06-30",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-dicta-medidas-complementarias-destin-decreto-de-urgencia-n-076-2020-1869172-2/"
+        "https://lpderecho.pe/crean-fondo-apoyo-empresarial-mypes-sector-turismo-decreto-urgencia-76-2020/"
       ],
       "materias": [
         "covid",
@@ -541,9 +541,9 @@
       "titulo": "Medidas en materia de Recursos Humanos del Sector Público",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-01-26",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/dispositivo/NL/1848575-1"
+        "https://lpderecho.pe/prohiben-contratacion-personal-bajo-regimen-276-decreto-urgencia-16-2020/"
       ],
       "materias": [
         "función pública",
@@ -556,9 +556,9 @@
       "titulo": "Medidas extraordinarias para la reactivación económica y atención de la población",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-06-18",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-para-la-reactivacion-economica-y-atencio-decreto-de-urgencia-no-070-2020-1868397-1/"
+        "https://lpderecho.pe/gobierno-autorizo-transferir-fondos-financiar-reconstruccion-construccion-colegios-decreto-urgencia-70-2020/"
       ],
       "materias": [
         "covid",
@@ -601,9 +601,9 @@
       "titulo": "Continuidad de proyectos de inversión y anticorrupción",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2017-01-31",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/download/url/decreto-de-urgencia-que-asegura-la-continuidad-de-proyectos-decreto-de-urgencia-n-003-2017-1485019-1"
+        "https://lpderecho.pe/ejecutivo-extiende-mes-vigencia-decreto-urgencia-003/"
       ],
       "materias": [
         "inversión",
@@ -616,9 +616,9 @@
       "titulo": "Medidas complementarias de financiamiento para MYPE y económicas COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-20",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-complementarias-destinadas-al-financiamiento-decreto-de-urgencia-n-029-2020-1865087-1/"
+        "https://lpderecho.pe/coronavirus-dictan-medidas-para-financiamiento-de-las-micro-y-pequenas-empresas-du-29-2020/"
       ],
       "materias": [
         "covid",
@@ -632,9 +632,9 @@
       "titulo": "Retiro extraordinario del fondo de pensiones AFP",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-04-01",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-establece-el-retiro-extraordinario-d-decreto-de-urgencia-no-034-2020-1865286-1/"
+        "https://lpderecho.pe/procedimiento-retiro-extraordinario-fondos-afp-establecido-du-34-2020/"
       ],
       "materias": [
         "covid",
@@ -650,7 +650,7 @@
       "fechaPublicacion": "2020-03-11",
       "estado": "error",
       "fuentes": [
-        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-urgentes-y-excepcionales-destinadas-a-reforza-decreto-de-urgencia-n-025-2020-1863981-1/"
+        "https://busquedas.elperuano.pe/dispositivo/NL/1863981-1"
       ],
       "materias": [
         "covid",
@@ -694,7 +694,7 @@
       "fechaPublicacion": "1996-04-23",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-821-ley-organica-sunat/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00821.pdf"
       ],
       "materias": [
         "tributario",
@@ -721,9 +721,9 @@
       "titulo": "Ley de Consolidación de Beneficios Sociales",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-11-05",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-688-ley-consolidacion-beneficios-sociales/"
+        "https://lpderecho.pe/ley-consolidacion-beneficios-sociales-decreto-legislativo-688/"
       ],
       "materias": [
         "laboral"
@@ -735,9 +735,9 @@
       "titulo": "Ley de Contratación de Trabajadores Extranjeros",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-11-05",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-689-contratacion-trabajadores-extranjeros/"
+        "https://lpderecho.pe/ley-contratacion-trabajadores-extranjeros-decreto-legislativo-689/"
       ],
       "materias": [
         "laboral",
@@ -766,7 +766,7 @@
       "fechaPublicacion": "2008-05-14",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1013-creacion-ministerio-ambiente/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01013.pdf"
       ],
       "materias": [
         "ambiental",
@@ -796,7 +796,7 @@
       "fechaPublicacion": "2018-09-16",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1440-sistema-nacional-presupuesto-publico/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01440.pdf"
       ],
       "materias": [
         "presupuesto",
@@ -811,7 +811,7 @@
       "fechaPublicacion": "2018-09-16",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1441-sistema-nacional-tesoreria/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01441.pdf"
       ],
       "materias": [
         "tesorería",
@@ -826,7 +826,7 @@
       "fechaPublicacion": "2018-09-16",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1442-sistema-nacional-endeudamiento-publico/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01442.pdf"
       ],
       "materias": [
         "deuda pública",
@@ -886,7 +886,7 @@
       "fechaPublicacion": "2008-05-20",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/ley-obras-por-impuestos-29230/"
+        "https://www.leyes.congreso.gob.pe/Documentos/Leyes/29230.pdf"
       ],
       "materias": [
         "inversión",
@@ -899,9 +899,9 @@
       "titulo": "Ley del Teletrabajo",
       "rango": "ley",
       "fechaPublicacion": "2022-09-11",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-teletrabajo-31572/"
+        "https://lpderecho.pe/publican-ley-31572-ley-del-teletrabajo/"
       ],
       "materias": [
         "laboral"
