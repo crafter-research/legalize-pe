@@ -1,0 +1,133 @@
+---
+titulo: "Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo"
+identificador: "dleg-854"
+pais: "pe"
+jurisdiccion: "pe"
+rango: "decreto-legislativo"
+fechaPublicacion: "1996-10-01"
+ultimaActualizacion: "2026-04-05"
+estado: "vigente"
+fuente: "https://lpderecho.pe/tuo-ley-jornada-trabajo-horario-trabajo-sobretiempo-decreto-supremo-007-2002-tr/"
+fuenteAlternativa: "https://spij.minjus.gob.pe/"
+diarioOficial: "El Peruano"
+sumilla: "Jornada de trabajo y sobretiempo"
+materias: ["laboral"]
+disclaimer: true
+---
+
+# Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo
+
+Inicio ** Laboral ** TUO de la Ley de jornada de trabajo, horario y trabajo en...- Laboral
+- Legislación
+- Normas legales
+# TUO de la Ley de jornada de trabajo, horario y trabajo en sobretiempo (Decreto Supremo 007-2002-TR) [actualizado 2021]
+Por LP • Pasión por el Derecho -                  2 noviembre, 2021                                            La **Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo** fue aprobada mediante el **Decreto Legislativo 854**, publicada en el diario oficial *El Peruano* el 1 de octubre de 1996. Posteriormente, el 4 de julio de 2002, se publicó el** Texto Único Ordenado** de dicha norma, aprobado mediante el **Decreto Supremo 007-2002-TR**.
+El Reglamento de esta ley fue aprobado mediante el Decreto Supremo 008-2002-TR, publicado también el 4 de julio de 2002.
+Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F** y le aparecerá un recuadro para que lo escriba.
+El texto de la norma está actualizado al mes de noviembre de 2021.
+- Revise también el **Reglamento del TUO de la Ley de jornada de trabajo, horario y trabajo en sobretiempo (Decreto Supremo 008-2002-TR)**
+- Revise también el **TUO del Decreto Legislativo 728 (Decreto Supremo 003-97-TR)**
+- Revise también la **Ley del Servicio Civil (Ley 30057)**
+- Revise también la **Ley de seguridad y salud en el trabajo (Ley 29783)**
+- Revise también la **Nueva Ley Procesal del Trabajo (Ley 29497)**
+- Revise también la **Ley General de Inspección del Trabajo (Ley 28806)**
+- Revise también el **TUO de la Ley de relaciones colectivas de trabajo (Decreto Supremo 010-2003-TR)**
+- Revise también el **Reglamento de la Ley de relaciones colectivas de trabajo (Decreto Supremo 011-92-TR)**
+### **TEXTO ÚNICO ORDENADO DEL DECRETO LEGISLATIVO Nº 854, LEY DE JORNADA DE TRABAJO, HORARIO Y TRABAJO EN SOBRETIEMPO, ****MODIFICADO POR LEY Nº 27671**
+**EL PRESIDENTE DE LA REPÚBLICA**
+**CONSIDERANDO:**
+Que, la Ley Nº 27671, ha modificado numerosos artículos del Decreto Legislativo Nº 854, Jornada de Trabajo, Horario y Trabajo en Sobretiempo, así como incorporado articulado al mismo;
+Que, es necesario contar con un único texto que contenga de modo integral la regulación relativa a la Jornada, Horario y Trabajo en Sobretiempo, a fin que se cuente con un texto armónico sobre la materia;
+De conformidad con el inciso 8) del Artículo 118 de la Constitución Política del Perú;
+**DECRETA:**
+**Artículo 1.-** Aprobar el Texto Único Ordenado del Decreto Legislativo Nº 854, modificado por Ley Nº 27671, Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo, que consta de IV Títulos, trece (13) artículos y una (1) disposición complementaria.
+**Artículo 2.-** El presente Decreto Supremo entrará en vigencia a partir del día siguiente de su publicación en el Diario Oficial El Peruano, sin perjuicio de la vigencia que corresponde al Decreto Legislativo Nº 854 y Ley Nº 27671.
+Dado en la Casa de Gobierno, en Lima, a los tres días del mes de julio del año dos mil dos.
+**ALEJANDRO TOLEDO**
+Presidente de la República
+**FERNANDO VILLARÁN DE LA PUENTE**
+Ministro de Trabajo y Promoción del Empleo
+### **TEXTO ÚNICO ORDENADO DEL DECRETO LEGISLATIVO Nº 854, LEY DE JORNADA DE TRABAJO, HORARIO Y TRABAJO EN SOBRETIEMPO MODIFICADO POR LEY Nº 27671**
+**TÍTULO I**
+**DE LA JORNADA DE TRABAJO**
+**JORNADA ORDINARIA**
+**Artículo 1.-** La jornada ordinaria de trabajo para varones y mujeres mayores de edad es de ocho (8) horas diarias o cuarenta y ocho (48) horas semanales como máximo.
+Se puede establecer por Ley, convenio o decisión unilateral del empleador una jornada menor a las máximas ordinarias.
+La jornada de trabajo de los menores de edad se regula por la ley de la materia.
+El incumplimiento de la jornada máxima de trabajo será considerada una infracción de tercer grado, de conformidad con el Decreto Legislativo Nº 910, Ley General de Inspección de Trabajo y Defensa del Trabajador, y sus normas reglamentarias.
+**FACULTADES DEL EMPLEADOR &#8211; PROCEDIMIENTOS**
+**Artículo 2.-** El procedimiento para la modificación de jornadas, horarios y turnos se sujetará a lo siguiente:
+**1.-** El empleador está facultado para efectuar las siguientes modificaciones:
+**a)** Establecer la jornada ordinaria de trabajo, diaria o semanal.
+**b)** Establecer jornadas compensatorias de trabajo de tal forma que en algunos días la jornada ordinaria sea mayor y en otras menor de ocho (8) horas, sin que en ningún caso la jornada ordinaria exceda en promedio de cuarenta y ocho (48) horas por semana.
+**c)** Reducir o ampliar el número de días de la jornada semanal del trabajo, encontrándose autorizado a prorratear las horas dentro de los restantes días de la semana, considerándose las horas prorrateadas como parte de la jornada ordinaria de trabajo, en cuyo caso ésta no podrá exceder en promedio de cuarenta y ocho (48) horas semanales.  En caso de jornadas acumulativas o atípicas, el promedio de horas trabajadas en el período correspondiente no puede superar dicho máximo.
+**d)** Establecer, con la salvedad del Artículo 9 de la presente Ley, turnos de trabajo fijos o rotativos, los que pueden variar con el tiempo según las necesidades del centro de trabajo.
+**e)** Establecer y modificar horarios de trabajo.
+**2.-** Consulta y negociación obligatoria con los trabajadores involucrados en la medida.
+El empleador, previamente a la adopción de alguna de las medidas señaladas en el numeral 1 del presente artículo, debe comunicar con ocho (8) días de anticipación al sindicato, o a falta de éste a los representantes de los trabajadores, o en su defecto, a los trabajadores afectados, la medida a adoptarse y los motivos que la sustentan.
+Dentro de este plazo, el sindicato, o a falta de éste los representantes de los trabajadores, o en su defecto, los trabajadores afectados, pueden solicitar al empleador la realización de una reunión a fin de plantear una medida distinta a la propuesta, debiendo el empleador señalar la fecha y hora de la realización de la misma. A falta de acuerdo, el empleador está facultado a introducir la medida propuesta, sin perjuicio del derecho de los trabajadores a impugnar tal acto ante la Autoridad Administrativa de Trabajo a que se refiere el párrafo siguiente.
+Dentro de los diez (10) días siguientes a la adopción de la medida, la parte laboral tiene el derecho de impugnar la medida ante la Autoridad Administrativa de Trabajo para que se pronuncie sobre la procedencia de la medida en un plazo no mayor de diez (10) días hábiles, en base a los argumentos y evidencias que propongan las partes.
+**JORNADAS MENORES A OCHO HORAS**
+**Artículo 3.-** En centros de trabajo en que rijan jornadas menores a ocho (8) horas diarias o cuarenta y ocho (48) horas a la semana, el empleador podrá extenderlas unilateralmente hasta dichos límites, incrementando la remuneración en función al tiempo adicional. Para tal efecto se observará el criterio de remuneración ordinaria contenido en el Artículo 12 de la presente Ley.
+**REGÍMENES ATÍPICOS DE JORNADAS DE TRABAJO Y DESCANSO**
+**Artículo 4.-** En los centros de trabajo en los que existan regímenes alternativos, acumulativos o atípicos de jornadas de trabajo y descanso, en razón de la naturaleza especial de las actividades de la empresa, el promedio de horas trabajadas en el período correspondiente no puede superar los máximos a que se refiere el Artículo 1.
+**TRABAJADORES NO COMPRENDIDOS EN LA JORNADA MÁXIMA**
+**Artículo 5.- **No se encuentran comprendidos en la jornada máxima los trabajadores de dirección, los que no se encuentran sujetos a fiscalización inmediata y los que prestan servicios intermitentes de espera, vigilancia o custodia.
+**TÍTULO II**
+**DEL HORARIO DE TRABAJO**
+**DEFINICIÓN &#8211; FACULTAD DEL EMPLEADOR**
+**Artículo 6.-** Es facultad del empleador establecer el horario de trabajo, entendiéndose por tal la hora de ingreso y salida, sin perjuicio de lo establecido en el Artículo 2 inciso d). Igualmente está facultado a modificar el horario de trabajo sin alterar el número de horas trabajadas.  Si la modificación colectiva de horario es mayor a una hora y la mayoría de los trabajadores no estuviera de acuerdo, podrán acudir a la Autoridad Administrativa de Trabajo para que se pronuncie sobre la procedencia de la medida en un plazo no mayor de diez (10) días hábiles, en base a los argumentos y evidencias que se propongan las partes. La resolución es apelable dentro del tercer día.
+Si la modificación tiene carácter individual, la impugnación de la medida por el trabajador se efectuará conforme a las disposiciones de la Ley Orgánica del Poder Judicial.
+**TRABAJO EN HORARIO CORRIDO &#8211; REFRIGERIO**
+**Artículo 7.- **En el caso de trabajo en horario corrido, el trabajador tiene derecho a tomar sus alimentos de acuerdo a lo que establezca el empleador en cada centro de trabajo, salvo convenio en contrario. El tiempo dedicado al refrigerio no podrá ser inferior a cuarenta y cinco (45) minutos. El tiempo de refrigerio no forma parte de la jornada ni horario de trabajo, salvo que por convenio colectivo se disponga algo distinto.
+**TÍTULO III**
+**TRABAJO NOCTURNO**
+**JORNADA NOCTURNA**
+**Artículo 8.-** En los centros de trabajo en que las labores se organicen por turnos que comprenda jornadas en horario nocturno, éstos deberán, en lo posible, ser rotativos. El trabajador que labora en horario nocturno no podrá percibir una remuneración semanal, quincenal o mensual inferior a la remuneración mínima mensual vigente a la fecha de pago con una sobretasa del treinta y cinco por ciento (35%) de ésta.
+Se entiende por jornada nocturna el tiempo trabajado entre las 10:00 p.m. y 6:00 a.m.
+**TÍTULO IV**
+**SOBRETIEMPO**
+**CARACTERÍSTICAS**
+**Artículo 9.- **El trabajo en sobretiempo es voluntario, tanto en su otorgamiento como en su prestación.
+Nadie puede ser obligado a trabajar horas extras, salvo en los casos justificados en que la labor resulte indispensable a consecuencia de un hecho fortuito o fuerza mayor que ponga en peligro inminente a las personas o los bienes del centro de trabajo o la continuidad de la actividad productiva.
+La imposición del trabajo en sobretiempo será considerada infracción administrativa de tercer grado, de conformidad con el Decreto Legislativo Nº 910, Ley General de Inspección del Trabajo y Defensa del Trabajador, y sus normas reglamentarias. Igualmente, el empleador infractor deberá pagar al trabajador una indemnización equivalente al 100% del valor de la hora extra, cuando éste demuestre que le fue impuesta.
+La autoridad administrativa de trabajo dispondrá la realización de inspecciones en forma permanente con el objeto de velar por el estricto cumplimiento del pago de las horas extras laboradas.
+No obstante, en caso de acreditarse una prestación de servicios en calidad de sobretiempo aun cuando no hubiera disposición expresa del empleador, se entenderá que ésta ha sido otorgada tácitamente, por lo que procede el pago de la remuneración correspondiente por el sobretiempo trabajado.
+**PAGO**
+**Artículo 10.-** El tiempo trabajado que exceda a la jornada diaria o semanal se considera sobretiempo y se abona con un recargo a convenir, que para las dos primeras horas no podrá ser inferior al veinticinco por ciento (25%) por hora calculado sobre la remuneración percibida por el trabajador en función del valor hora correspondiente y treinta y cinco por ciento (35%) para las horas restantes.
+El sobretiempo puede ocurrir antes de la hora de ingreso o de la hora de salida establecidas. Cuando el sobretiempo es menor a una hora se pagará la parte proporcional del recargo horario.
+Cuando el sobretiempo se realiza en forma previa o posterior a la jornada prestada en horario nocturno, el valor de la hora extra trabajada se calcula sobre la base del valor de la remuneración establecida para la jornada nocturna.
+El empleador y el trabajador podrán acordar compensar el trabajo prestado en sobretiempo con el otorgamiento de períodos equivalentes de descanso.
+El trabajo prestado en el día de descanso semanal obligatorio o de feriado no laborable se regula por el Decreto Legislativo Nº 713 o norma que lo sustituya.
+La falta de pago del trabajo en sobretiempo será igualmente considerada una infracción de tercer grado, de conformidad con el Decreto Legislativo Nº 910, Ley General de Inspección del Trabajo y Defensa del Trabajador, y sus normas reglamentarias.
+**REGISTRO**
+**Artículo 10 &#8211; A.-** El empleador está obligado a registrar el trabajo prestado en sobretiempo mediante la utilización de medios técnicos o manuales seguros y confiables. La deficiencia en el sistema de registro no impedirá el pago del trabajo realizado en sobretiempo, si el trabajador acredita mediante otros medios su real y efectiva realización.
+**REMUNERACIÓN ORDINARIA**
+**Artículo 11.-** Se entiende por remuneración ordinaria aquella que, conforme a lo previsto por el Artículo 39 del Texto Único Ordenado del Decreto Legislativo Nº 728, perciba el trabajador, semanal, quincenal o mensualmente, según corresponda, en dinero o en especie, incluido el valor de la alimentación.
+No se incluyen las remuneraciones complementarias de naturaleza variable o imprecisa, así como aquellas otras de periodicidad distinta a la semanal, quincenal o mensual, según corresponda.
+**VALOR HORA**
+**Artículo 12.-** Para efectos de calcular el recargo o sobretasa, el valor de hora es igual a la remuneración de un día dividida entre el número de horas de la jornada del respectivo trabajador.
+**ÓRGANO CONTROLADOR**
+**Artículo 13.-** Encárguese al Ministerio de Trabajo y Promoción del Empleo velar por el estricto cumplimiento de las disposiciones legales sobre la materia de la presente Ley, y ejercerá su función sancionadora en caso de verificarse su incumplimiento en las visitas de inspección correspondientes.
+**DISPOSICIONES COMPLEMENTARIAS Y FINALES**
+**Primera.-** Los regímenes o sistemas de trabajo especiales se rigen por sus propias normas en lo que no se opongan a la presente ley.
+Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
+Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+**** #### MÁS LEÍDOS
+Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
+14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026                            #### LO ÚLTIMO
+**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026

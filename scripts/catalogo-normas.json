@@ -479,9 +479,10 @@
       "titulo": "Medidas Extraordinarias en materia económica y financiera COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-15",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://www.pj.gob.pe/wps/wcm/connect/32524f804e6d2f45b142b5b4ea4fd967/du026.pdf?MOD=AJPERES"
+        "https://lpderecho.pe/establecen-nuevas-medidas-prevenir-contagio-coronavirus-du-26-2020",
+        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-establece-diversas-medidas-excepcion-decreto-de-urgencia-n-026-2020-1864948-1/"
       ],
       "materias": [
         "covid",
@@ -491,72 +492,73 @@
     },
     {
       "identificador": "du-027-2020",
-      "titulo": "Medidas adicionales para el sector educación COVID-19",
+      "titulo": "Medidas complementarias para reforzar vigilancia sanitaria y respuesta COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-16",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-027-2020/"
-      ],
-      "materias": [
-        "covid",
-        "educación"
-      ],
-      "sumilla": "Medidas educación COVID-19"
-    },
-    {
-      "identificador": "du-038-2020",
-      "titulo": "Suspensión temporal de CTS COVID-19",
-      "rango": "decreto-urgencia",
-      "fechaPublicacion": "2020-04-14",
-      "estado": "error",
-      "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-038-2020/"
-      ],
-      "materias": [
-        "covid",
-        "laboral"
-      ],
-      "sumilla": "Suspensión temporal CTS"
-    },
-    {
-      "identificador": "du-076-2020",
-      "titulo": "Bono Familiar Universal",
-      "rango": "decreto-urgencia",
-      "fechaPublicacion": "2020-06-30",
-      "estado": "error",
-      "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-076-2020/"
-      ],
-      "materias": [
-        "covid",
-        "social"
-      ],
-      "sumilla": "Bono Familiar Universal"
-    },
-    {
-      "identificador": "du-016-2020",
-      "titulo": "Medidas para prevenir propagación del COVID-19",
-      "rango": "decreto-urgencia",
-      "fechaPublicacion": "2020-03-14",
-      "estado": "error",
-      "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-016-2020/"
+        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-complementarias-destinadas-a-reforzar-el-sist-decreto-de-urgencia-n-027-2020-1865024-1/"
       ],
       "materias": [
         "covid",
         "salud"
       ],
-      "sumilla": "Prevención propagación COVID-19"
+      "sumilla": "Reforzar vigilancia sanitaria COVID-19"
+    },
+    {
+      "identificador": "du-038-2020",
+      "titulo": "Suspensión perfecta de labores COVID-19",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-04-14",
+      "estado": "descargado",
+      "fuentes": [
+        "https://lpderecho.pe/decreto-regula-suspension-perfecta-labores-decreto-urgencia-038-2020/"
+      ],
+      "materias": [
+        "covid",
+        "laboral"
+      ],
+      "sumilla": "Suspensión perfecta de labores COVID"
+    },
+    {
+      "identificador": "du-076-2020",
+      "titulo": "Medidas complementarias para el sector turismo FAE-TURISMO",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-06-30",
+      "estado": "error",
+      "fuentes": [
+        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-dicta-medidas-complementarias-destin-decreto-de-urgencia-n-076-2020-1869172-2/"
+      ],
+      "materias": [
+        "covid",
+        "turismo",
+        "MYPE"
+      ],
+      "sumilla": "FAE-TURISMO financiamiento MYPE turismo"
+    },
+    {
+      "identificador": "du-016-2020",
+      "titulo": "Medidas en materia de Recursos Humanos del Sector Público",
+      "rango": "decreto-urgencia",
+      "fechaPublicacion": "2020-01-26",
+      "estado": "error",
+      "fuentes": [
+        "https://busquedas.elperuano.pe/dispositivo/NL/1848575-1"
+      ],
+      "materias": [
+        "función pública",
+        "recursos humanos"
+      ],
+      "sumilla": "Recursos humanos sector público"
     },
     {
       "identificador": "du-070-2020",
-      "titulo": "Medidas extraordinarias para reactivación económica",
+      "titulo": "Medidas extraordinarias para la reactivación económica y atención de la población",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-06-18",
       "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-070-2020/"
+        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-para-la-reactivacion-economica-y-atencio-decreto-de-urgencia-no-070-2020-1868397-1/"
       ],
       "materias": [
         "covid",
@@ -581,71 +583,74 @@
     },
     {
       "identificador": "du-044-2019",
-      "titulo": "Medidas para destrabar procesos de inversión pública",
+      "titulo": "Medidas para fortalecer la protección de salud y vida de los trabajadores",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2019-12-30",
-      "estado": "error",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-044-2019/"
+        "https://lpderecho.pe/establecen-medidas-fortalecer-proteccion-salud-vida-trabajadores-d-u-44-2019/"
       ],
       "materias": [
-        "inversión",
-        "presupuesto"
+        "laboral",
+        "seguridad"
       ],
-      "sumilla": "Destrabe inversión pública"
+      "sumilla": "Protección salud y vida trabajadores"
     },
     {
       "identificador": "du-003-2017",
-      "titulo": "Aseguramiento en Salud",
+      "titulo": "Continuidad de proyectos de inversión y anticorrupción",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2017-01-31",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-003-2017/"
+        "https://busquedas.elperuano.pe/download/url/decreto-de-urgencia-que-asegura-la-continuidad-de-proyectos-decreto-de-urgencia-n-003-2017-1485019-1"
       ],
       "materias": [
-        "salud"
+        "inversión",
+        "anticorrupción"
       ],
-      "sumilla": "Aseguramiento universal en salud"
+      "sumilla": "Continuidad proyectos inversión y anticorrupción"
     },
     {
       "identificador": "du-029-2020",
-      "titulo": "Medidas complementarias para mitigar efectos COVID-19 en trabajadores",
+      "titulo": "Medidas complementarias de financiamiento para MYPE y económicas COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-20",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-029-2020/"
+        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-complementarias-destinadas-al-financiamiento-decreto-de-urgencia-n-029-2020-1865087-1/"
       ],
       "materias": [
         "covid",
-        "laboral"
+        "financiero",
+        "MYPE"
       ],
-      "sumilla": "Suspensión perfecta de labores COVID"
+      "sumilla": "Financiamiento MYPE COVID-19"
     },
     {
       "identificador": "du-034-2020",
-      "titulo": "Subsidio a planilla de empleadores del sector privado",
+      "titulo": "Retiro extraordinario del fondo de pensiones AFP",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-04-01",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-034-2020/"
+        "https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-establece-el-retiro-extraordinario-d-decreto-de-urgencia-no-034-2020-1865286-1/"
       ],
       "materias": [
         "covid",
-        "laboral"
+        "pensiones",
+        "AFP"
       ],
-      "sumilla": "Subsidio a planilla COVID"
+      "sumilla": "Retiro extraordinario AFP COVID"
     },
     {
       "identificador": "du-025-2020",
-      "titulo": "Medidas urgentes para reforzar el sistema de vigilancia y respuesta sanitaria COVID-19",
+      "titulo": "Medidas urgentes y excepcionales para reforzar vigilancia sanitaria COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-11",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-urgencia-025-2020/"
+        "https://busquedas.elperuano.pe/normaslegales/dictan-medidas-urgentes-y-excepcionales-destinadas-a-reforza-decreto-de-urgencia-n-025-2020-1863981-1/"
       ],
       "materias": [
         "covid",
@@ -658,9 +663,9 @@
       "titulo": "Ley Marco del Sistema Tributario Nacional",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1993-12-31",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-771-ley-marco-sistema-tributario-nacional/"
+        "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00771.pdf"
       ],
       "materias": [
         "tributario"
@@ -672,9 +677,9 @@
       "titulo": "Ley de Tributación Municipal",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1993-12-31",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-776-ley-tributacion-municipal/"
+        "https://lpderecho.pe/texto-unico-ordenado-ley-tributacion-municipal/"
       ],
       "materias": [
         "tributario",
@@ -687,7 +692,7 @@
       "titulo": "Ley Orgánica de la SUNAT",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1996-04-23",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-821-ley-organica-sunat/"
       ],
@@ -702,9 +707,9 @@
       "titulo": "Compensación por Tiempo de Servicios",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-07-24",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-650-compensacion-tiempo-servicios/"
+        "https://lpderecho.pe/tuo-ley-de-compensacion-por-tiempo-de-servicios-ds-1-97-tr/"
       ],
       "materias": [
         "laboral"
@@ -716,7 +721,7 @@
       "titulo": "Ley de Consolidación de Beneficios Sociales",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-11-05",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-688-ley-consolidacion-beneficios-sociales/"
       ],
@@ -730,7 +735,7 @@
       "titulo": "Ley de Contratación de Trabajadores Extranjeros",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1991-11-05",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-689-contratacion-trabajadores-extranjeros/"
       ],
@@ -745,9 +750,9 @@
       "titulo": "Ley de Jornada de Trabajo, Horario y Trabajo en Sobretiempo",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1996-10-01",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-854-jornada-de-trabajo/"
+        "https://lpderecho.pe/tuo-ley-jornada-trabajo-horario-trabajo-sobretiempo-decreto-supremo-007-2002-tr/"
       ],
       "materias": [
         "laboral"
@@ -759,7 +764,7 @@
       "titulo": "Ley de Creación del Ministerio del Ambiente",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2008-05-14",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-1013-creacion-ministerio-ambiente/"
       ],
@@ -774,9 +779,9 @@
       "titulo": "Ley Marco de Adquisición y Expropiación de Inmuebles",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2015-08-23",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1192-adquisicion-expropiacion-inmuebles/"
+        "https://lpderecho.pe/texto-unico-ordenado-decreto-legislativo-1192-que-aprueba-la-ley-marco-de-adquisicion-y-expropiacion-inmuebles-decreto-supremo-015-2020-vivienda/"
       ],
       "materias": [
         "propiedad",
@@ -789,7 +794,7 @@
       "titulo": "Sistema Nacional de Presupuesto Público",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-1440-sistema-nacional-presupuesto-publico/"
       ],
@@ -804,7 +809,7 @@
       "titulo": "Sistema Nacional de Tesorería",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-1441-sistema-nacional-tesoreria/"
       ],
@@ -819,7 +824,7 @@
       "titulo": "Sistema Nacional de Endeudamiento Público",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/decreto-legislativo-1442-sistema-nacional-endeudamiento-publico/"
       ],
@@ -834,9 +839,9 @@
       "titulo": "Ley de la Policía Nacional del Perú",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2012-12-11",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1149-ley-policia-nacional-peru/"
+        "https://lpderecho.pe/texto-unico-ordenado-ley-carrera-situacion-personal-policia-nacional-peru-decreto-supremo-006-2024-in/"
       ],
       "materias": [
         "seguridad",
@@ -849,9 +854,9 @@
       "titulo": "Ley de Uso de la Fuerza por la PNP",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2015-08-16",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-legislativo-1186-uso-fuerza-pnp/"
+        "https://lpderecho.pe/decreto-legislativo-1186-regula-uso-fuerza-policial-actualizado/"
       ],
       "materias": [
         "seguridad",
@@ -864,9 +869,9 @@
       "titulo": "Ley Orgánica del Poder Ejecutivo",
       "rango": "ley",
       "fechaPublicacion": "2007-12-20",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-organica-poder-ejecutivo-29158/"
+        "https://lpderecho.pe/ley-organica-poder-ejecutivo-ley-29158-actualizado/"
       ],
       "materias": [
         "administrativo",
@@ -879,7 +884,7 @@
       "titulo": "Ley de Obras por Impuestos",
       "rango": "ley",
       "fechaPublicacion": "2008-05-20",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/ley-obras-por-impuestos-29230/"
       ],
@@ -894,7 +899,7 @@
       "titulo": "Ley del Teletrabajo",
       "rango": "ley",
       "fechaPublicacion": "2022-09-11",
-      "estado": "pendiente",
+      "estado": "error",
       "fuentes": [
         "https://lpderecho.pe/ley-teletrabajo-31572/"
       ],
@@ -908,9 +913,9 @@
       "titulo": "Ley que prohíbe la Discriminación Remunerativa",
       "rango": "ley",
       "fechaPublicacion": "2017-12-27",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-30709-prohibe-discriminacion-remunerativa/"
+        "https://lpderecho.pe/ley-30709-prohibe-discriminacion-remunerativa-varones-mujeres/"
       ],
       "materias": [
         "laboral",
@@ -923,9 +928,9 @@
       "titulo": "Ley de Salud Mental",
       "rango": "ley",
       "fechaPublicacion": "2019-05-22",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-salud-mental-30947/"
+        "https://lpderecho.pe/publican-ley-30947-ley-salud-mental/"
       ],
       "materias": [
         "salud"
@@ -937,9 +942,9 @@
       "titulo": "Ley que promueve el uso de la Inteligencia Artificial",
       "rango": "ley",
       "fechaPublicacion": "2023-07-11",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-promueve-uso-inteligencia-artificial-31814/"
+        "https://lpderecho.pe/ley-31814-promueven-uso-inteligencia-artificial-favor-desarrollo-economico-social-pais/"
       ],
       "materias": [
         "tecnología",
@@ -952,9 +957,9 @@
       "titulo": "Ley que modifica la Ley contra el Crimen Organizado",
       "rango": "ley",
       "fechaPublicacion": "2024-07-10",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/ley-32108-modifica-ley-crimen-organizado/"
+        "https://lpderecho.pe/ley-32108-congreso-aprueba-modificaciones-claves-legislacion-de-crimen-organizado/"
       ],
       "materias": [
         "penal",
@@ -967,9 +972,9 @@
       "titulo": "Ley de Relaciones Colectivas de Trabajo",
       "rango": "decreto-ley",
       "fechaPublicacion": "1992-07-02",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-ley-25593-ley-relaciones-colectivas-trabajo/"
+        "https://lpderecho.pe/texto-unico-ordenado-ley-relaciones-colectivas-trabajo-decreto-supremo-010-2003-tr-actualizado/"
       ],
       "materias": [
         "laboral",
@@ -982,9 +987,9 @@
       "titulo": "Ley de Creación de INDECOPI",
       "rango": "decreto-ley",
       "fechaPublicacion": "1992-11-24",
-      "estado": "pendiente",
+      "estado": "descargado",
       "fuentes": [
-        "https://lpderecho.pe/decreto-ley-25868-creacion-indecopi/"
+        "https://lpderecho.pe/ley-organizacion-funciones-indecopi-instituto-nacional-defensa-competencia-proteccion-propiedad-intelectual-decreto-ley-25868/"
       ],
       "materias": [
         "competencia",
