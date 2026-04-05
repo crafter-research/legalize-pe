@@ -648,7 +648,7 @@
       "titulo": "Medidas urgentes y excepcionales para reforzar vigilancia sanitaria COVID-19",
       "rango": "decreto-urgencia",
       "fechaPublicacion": "2020-03-11",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://busquedas.elperuano.pe/dispositivo/NL/1863981-1"
       ],
@@ -663,7 +663,7 @@
       "titulo": "Ley Marco del Sistema Tributario Nacional",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1993-12-31",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00771.pdf"
       ],
@@ -692,7 +692,7 @@
       "titulo": "Ley Orgánica de la SUNAT",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "1996-04-23",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00821.pdf"
       ],
@@ -764,7 +764,7 @@
       "titulo": "Ley de Creación del Ministerio del Ambiente",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2008-05-14",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01013.pdf"
       ],
@@ -794,7 +794,7 @@
       "titulo": "Sistema Nacional de Presupuesto Público",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01440.pdf"
       ],
@@ -809,7 +809,7 @@
       "titulo": "Sistema Nacional de Tesorería",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01441.pdf"
       ],
@@ -824,7 +824,7 @@
       "titulo": "Sistema Nacional de Endeudamiento Público",
       "rango": "decreto-legislativo",
       "fechaPublicacion": "2018-09-16",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/01442.pdf"
       ],
@@ -884,7 +884,7 @@
       "titulo": "Ley de Obras por Impuestos",
       "rango": "ley",
       "fechaPublicacion": "2008-05-20",
-      "estado": "error",
+      "estado": "verificado",
       "fuentes": [
         "https://www.leyes.congreso.gob.pe/Documentos/Leyes/29230.pdf"
       ],
