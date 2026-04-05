@@ -1,21 +1,21 @@
 ---
-titulo: "Código Procesal Civil"
+titulo: "Código Procesal Civil Peruano"
 identificador: "codigo-procesal-civil"
 pais: "pe"
 jurisdiccion: "pe"
 rango: "decreto-legislativo"
-fechaPublicacion: "1993-04-22"
+fechaPublicacion: "1993-04-23"
 ultimaActualizacion: "2026-04-04"
 estado: "vigente"
 fuente: "https://lpderecho.pe/codigo-procesal-civil-actualizado/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Código Procesal Civil - Decreto Legislativo 768"
-materias: ["procesal", "civil", "proceso judicial"]
+sumilla: "Código Procesal Civil actualizado"
+materias: ["procesal", "civil", "demanda", "proceso"]
 disclaimer: true
 ---
 
-# Código Procesal Civil
+# Código Procesal Civil Peruano
 
 Inicio ** Legislación ** Código Procesal Civil peruano (actualizado 2025)- Legislación
 - Legislación Básica

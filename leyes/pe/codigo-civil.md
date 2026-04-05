@@ -1,21 +1,21 @@
 ---
-titulo: "Código Civil"
+titulo: "Código Civil Peruano"
 identificador: "codigo-civil"
 pais: "pe"
 jurisdiccion: "pe"
 rango: "decreto-legislativo"
-fechaPublicacion: "1984-07-24"
+fechaPublicacion: "1984-07-25"
 ultimaActualizacion: "2026-04-04"
 estado: "vigente"
 fuente: "https://lpderecho.pe/codigo-civil-peruano-realmente-actualizado/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Código Civil del Perú - Decreto Legislativo 295"
-materias: ["civil", "contratos", "familia", "sucesiones"]
+sumilla: "Código Civil del Perú actualizado"
+materias: ["civil", "personas", "contratos", "obligaciones"]
 disclaimer: true
 ---
 
-# Código Civil
+# Código Civil Peruano
 
 Inicio ** Civil ** Código Civil peruano - Civil
 - Cursos

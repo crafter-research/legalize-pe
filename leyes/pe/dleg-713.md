@@ -1,5 +1,5 @@
 ---
-titulo: "Descansos Remunerados de los Trabajadores"
+titulo: "Ley de Descansos Remunerados"
 identificador: "dleg-713"
 pais: "pe"
 jurisdiccion: "pe"
@@ -10,12 +10,12 @@ estado: "vigente"
 fuente: "https://lpderecho.pe/consolidan-legislacion-descansos-remunerados-trabajadores-actividad-privada-decreto-legislativo-713/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Vacaciones, feriados y descanso semanal obligatorio"
+sumilla: "Consolida legislación sobre descansos remunerados"
 materias: ["laboral", "vacaciones", "descansos"]
 disclaimer: true
 ---
 
-# Descansos Remunerados de los Trabajadores
+# Ley de Descansos Remunerados
 
 Inicio ** Laboral ** Ley que regula los descansos remunerados en el régimen laboral privado (Decreto...- Laboral
 - Legislación

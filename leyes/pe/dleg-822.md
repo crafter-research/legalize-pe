@@ -10,7 +10,7 @@ estado: "vigente"
 fuente: "https://lpderecho.pe/ley-sobre-derecho-autor-decreto-legislativo-822-actualizada/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Protección de obras literarias, artísticas y derechos conexos"
+sumilla: "Protege las obras literarias y artísticas"
 materias: ["propiedad intelectual", "derechos de autor", "INDECOPI"]
 disclaimer: true
 ---

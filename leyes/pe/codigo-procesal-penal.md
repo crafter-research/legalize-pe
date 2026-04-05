@@ -10,8 +10,8 @@ estado: "vigente"
 fuente: "https://lpderecho.pe/nuevo-codigo-procesal-penal-peruano-actualizado/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Nuevo Código Procesal Penal - Decreto Legislativo 957"
-materias: ["procesal", "penal", "proceso judicial"]
+sumilla: "Código Procesal Penal actualizado"
+materias: ["procesal", "penal", "proceso penal"]
 disclaimer: true
 ---
 

@@ -10,8 +10,8 @@ estado: "vigente"
 fuente: "https://lpderecho.pe/ley-penal-tributaria-actualizada/"
 fuenteAlternativa: "https://spij.minjus.gob.pe/"
 diarioOficial: "El Peruano"
-sumilla: "Tipifica los delitos tributarios y establece sus sanciones"
-materias: ["penal", "tributario", "defraudación tributaria"]
+sumilla: "Tipifica los delitos tributarios"
+materias: ["tributario", "penal", "delitos tributarios"]
 disclaimer: true
 ---
 
