@@ -3,6 +3,7 @@
  */
 
 import * as cheerio from 'cheerio'
+import type { AnyNode, Element } from 'domhandler'
 
 export interface LawMetadata {
   titulo: string
@@ -71,14 +72,15 @@ export function convertHtmlToMarkdown(html: string): string {
   // Process the content
   let markdown = ''
 
-  function processNode(node: cheerio.Element): string {
+  function processNode(node: AnyNode): string {
     const $node = $(node)
-    const tagName = node.tagName?.toLowerCase() || ''
 
     // Handle text nodes
     if (node.type === 'text') {
       return $(node).text()
     }
+
+    const tagName = 'tagName' in node ? node.tagName?.toLowerCase() || '' : ''
 
     // Handle different HTML elements
     switch (tagName) {
@@ -143,14 +145,14 @@ export function convertHtmlToMarkdown(html: string): string {
   }
 
   function processChildren(
-    $parent: cheerio.Cheerio<cheerio.Element>,
+    $parent: cheerio.Cheerio<AnyNode>,
   ): string {
     let result = ''
     $parent.contents().each((_, child) => {
       if (child.type === 'text') {
         result += $(child).text()
       } else if (child.type === 'tag') {
-        result += processNode(child as cheerio.Element)
+        result += processNode(child)
       }
     })
     return result
@@ -161,7 +163,7 @@ export function convertHtmlToMarkdown(html: string): string {
     .contents()
     .each((_, child) => {
       if (child.type === 'tag') {
-        markdown += processNode(child as cheerio.Element)
+        markdown += processNode(child)
       } else if (child.type === 'text') {
         const text = $(child).text().trim()
         if (text) {
@@ -176,7 +178,7 @@ export function convertHtmlToMarkdown(html: string): string {
 
 function convertTable(
   $: cheerio.CheerioAPI,
-  $table: cheerio.Cheerio<cheerio.Element>,
+  $table: cheerio.Cheerio<AnyNode>,
 ): string {
   const rows: string[][] = []
 

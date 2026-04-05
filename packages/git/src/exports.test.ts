@@ -5,7 +5,6 @@ import type {
   FileVersion,
   DiffResult,
   DiffHunk,
-  DiffStats,
 } from "./index.js";
 
 describe("Package Exports", () => {
@@ -15,18 +14,21 @@ describe("Package Exports", () => {
   });
 
   it("should have correct TypeScript types", () => {
-    // This test just verifies that types are importable
     const commitInfo: CommitInfo = {
-      sha: "abc123",
+      hash: "abc123",
+      shortHash: "abc",
+      authorDate: "2024-01-01",
+      commitDate: "2024-01-01",
       message: "test",
-      authorDate: new Date(),
-      files: [],
+      subject: "test",
     };
     expect(commitInfo).toBeDefined();
 
     const fileVersion: FileVersion = {
+      hash: "abc123",
+      authorDate: "2024-01-01",
       content: "test content",
-      commit: commitInfo,
+      message: "test",
     };
     expect(fileVersion).toBeDefined();
 
@@ -39,18 +41,16 @@ describe("Package Exports", () => {
     };
     expect(diffHunk).toBeDefined();
 
-    const diffStats: DiffStats = {
-      filesChanged: 1,
-      insertions: 1,
-      deletions: 1,
-    };
-    expect(diffStats).toBeDefined();
-
     const diffResult: DiffResult = {
-      from: commitInfo,
-      to: commitInfo,
+      fromHash: "abc123",
+      toHash: "def456",
+      fromDate: "2024-01-01",
+      toDate: "2024-01-02",
       hunks: [diffHunk],
-      stats: diffStats,
+      stats: {
+        additions: 1,
+        deletions: 1,
+      },
     };
     expect(diffResult).toBeDefined();
   });

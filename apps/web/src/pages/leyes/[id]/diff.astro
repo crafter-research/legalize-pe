@@ -1,6 +1,10 @@
 ---
 import Layout from '../../../layouts/Layout.astro'
 
+interface DiffLine { type: string; content: string; oldLine?: number; newLine?: number }
+interface DiffHunk { oldStart: number; oldLines: number; newStart: number; newLines: number; lines: DiffLine[] }
+interface DiffData { fromHash: string; toHash: string; fromDate: string; toDate: string; hunks: DiffHunk[]; stats: { additions: number; deletions: number } }
+
 export const prerender = false
 
 const { id } = Astro.params
@@ -12,7 +16,7 @@ if (!id || !fromHash || !toHash) {
   return Astro.redirect(`/leyes/${id}`)
 }
 
-let diff = null
+let diff: DiffData | null = null
 let error = ''
 
 try {
