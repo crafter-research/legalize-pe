@@ -10,7 +10,7 @@
     "dev": "tsx watch src/index.ts",
     "build": "tsup src/index.ts --format esm --dts --external playwright",
     "typecheck": "tsc --noEmit",
-    "test": "vitest"
+    "test": "vitest --passWithNoTests"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
