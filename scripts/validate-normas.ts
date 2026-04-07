@@ -140,7 +140,9 @@ async function validateFile(filePath: string): Promise<ValidationResult> {
 
     // Warn about excessive garbled characters (don't fail, just warn)
     if (result.stats.garbled > 50) {
-      result.warnings.push(`Too many garbled characters: ${result.stats.garbled}`)
+      result.warnings.push(
+        `Too many garbled characters: ${result.stats.garbled}`,
+      )
     }
 
     // Warning for codes with few articles
