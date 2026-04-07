@@ -1,0 +1,710 @@
+---
+import Layout from '../layouts/Layout.astro'
+
+const BASE_URL = 'https://legalize.crafter.ing'
+
+const endpoints = [
+  {
+    method: 'GET',
+    path: '/api/normas',
+    description: 'Listar y buscar normas',
+    params: [
+      { name: 'q', type: 'string', desc: 'Búsqueda por texto (título, contenido)' },
+      { name: 'rango', type: 'string', desc: 'Filtrar por rango (ley, decreto-legislativo, etc.)' },
+      { name: 'estado', type: 'string', desc: 'Filtrar por estado (vigente, derogado)' },
+      { name: 'limit', type: 'number', desc: 'Límite de resultados (default: 20, max: 100)' },
+      { name: 'offset', type: 'number', desc: 'Offset para paginación' },
+    ],
+    example: `curl "${BASE_URL}/api/normas?q=bancos&limit=5"`,
+    response: `{
+  "data": [
+    {
+      "identificador": "ley-26702",
+      "titulo": "Ley General del Sistema Financiero",
+      "rango": "ley",
+      "estado": "vigente",
+      "fechaPublicacion": "1996-12-09"
+    }
+  ],
+  "total": 15,
+  "limit": 5,
+  "offset": 0
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/normas/:id',
+    description: 'Obtener norma por identificador',
+    params: [
+      { name: 'id', type: 'string', desc: 'Identificador único de la norma (ej: ley-26702)' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/dleg-295"`,
+    response: `{
+  "identificador": "dleg-295",
+  "titulo": "Código Civil",
+  "rango": "decreto-legislativo",
+  "estado": "vigente",
+  "fechaPublicacion": "1984-07-25",
+  "contenido": "# Código Civil\n\n## Título Preliminar..."
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/normas/:id/history',
+    description: 'Historial de cambios de una norma',
+    params: [
+      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/dleg-295/history"`,
+    response: `{
+  "commits": [
+    {
+      "hash": "abc123",
+      "date": "2024-01-15T10:30:00Z",
+      "message": "Actualización Art. 140",
+      "author": "Sistema SPIJ"
+    }
+  ]
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/normas/:id/diff',
+    description: 'Diferencias entre versiones',
+    params: [
+      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
+      { name: 'from', type: 'string', desc: 'Commit inicial (opcional)' },
+      { name: 'to', type: 'string', desc: 'Commit final (opcional, default: HEAD)' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/dleg-295/diff?from=abc123"`,
+    response: `{
+  "diff": "- Texto anterior\n+ Texto nuevo",
+  "from": "abc123",
+  "to": "def456"
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/normas/por-fecha/:fecha',
+    description: 'Normas publicadas en una fecha específica',
+    params: [
+      { name: 'fecha', type: 'string', desc: 'Fecha en formato YYYY-MM-DD' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/por-fecha/2024-01-15"`,
+    response: `{
+  "fecha": "2024-01-15",
+  "normas": [...]
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/normas/actualizadas',
+    description: 'Normas modificadas recientemente',
+    params: [
+      { name: 'days', type: 'number', desc: 'Días hacia atrás (default: 7)' },
+      { name: 'limit', type: 'number', desc: 'Límite de resultados' },
+    ],
+    example: `curl "${BASE_URL}/api/normas/actualizadas?days=30"`,
+    response: `{
+  "normas": [...],
+  "desde": "2024-01-01"
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/calendario/:year/:month',
+    description: 'Calendario de publicaciones',
+    params: [
+      { name: 'year', type: 'number', desc: 'Año (ej: 2024)' },
+      { name: 'month', type: 'number', desc: 'Mes (1-12)' },
+    ],
+    example: `curl "${BASE_URL}/api/calendario/2024/1"`,
+    response: `{
+  "year": 2024,
+  "month": 1,
+  "days": {
+    "15": { "count": 5 },
+    "16": { "count": 3 }
+  }
+}`
+  },
+  {
+    method: 'GET',
+    path: '/api/stats',
+    description: 'Estadísticas generales',
+    params: [],
+    example: `curl "${BASE_URL}/api/stats"`,
+    response: `{
+  "totalNormas": 1500,
+  "porRango": {
+    "ley": 450,
+    "decreto-legislativo": 320
+  },
+  "ultimaActualizacion": "2024-01-20T15:30:00Z"
+}`
+  },
+]
+---
+
+<Layout title="API para Desarrolladores — Legalize PE">
+  <main id="main-content">
+    <!-- Header -->
+    <header class="header">
+      <div class="container">
+        <nav class="nav" aria-label="Navegación principal">
+          <a href="/" class="nav-brand">Legalize PE</a>
+          <div class="nav-links">
+            <a href="/leyes">Normas</a>
+            <a href="/developers" class="active" aria-current="page">Developers</a>
+            <a href="https://github.com/crafter-research/legalize-pe" target="_blank" rel="noopener">GitHub<span class="sr-only"> (abre en nueva ventana)</span></a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container">
+        <h1>API para Desarrolladores</h1>
+        <p class="tagline">
+          Accede a toda la legislación peruana mediante nuestra API REST gratuita o clonando el repositorio Git.
+        </p>
+      </div>
+    </section>
+
+    <!-- Quick Start -->
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Inicio rápido</h2>
+
+        <div class="quick-grid">
+          <div class="quick-card">
+            <h3>API REST</h3>
+            <p>Consulta normas, busca por texto y obtén historial de cambios.</p>
+            <pre><code>curl "https://legalize.crafter.ing/api/normas?q=laboral"</code></pre>
+          </div>
+
+          <div class="quick-card">
+            <h3>Repositorio Git</h3>
+            <p>Clona el repositorio y accede a todas las normas como archivos Markdown.</p>
+            <pre><code>git clone https://github.com/crafter-research/legalize-pe.git
+cd legalize-pe/leyes/pe
+cat constitucion-1993.md</code></pre>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Base URL -->
+    <section class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">URL Base</h2>
+        <div class="info-box">
+          <code class="base-url">{BASE_URL}/api</code>
+          <p>Todas las respuestas son en formato JSON. No se requiere autenticación.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Endpoints -->
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Endpoints</h2>
+
+        <div class="endpoints">
+          {endpoints.map((ep, i) => (
+            <div class="endpoint" id={`endpoint-${i}`}>
+              <div class="endpoint-header">
+                <span class="method">{ep.method}</span>
+                <code class="path">{ep.path}</code>
+              </div>
+              <p class="endpoint-desc">{ep.description}</p>
+
+              {ep.params.length > 0 && (
+                <div class="params">
+                  <h4>Parámetros</h4>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Nombre</th>
+                        <th>Tipo</th>
+                        <th>Descripción</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {ep.params.map((p) => (
+                        <tr>
+                          <td><code>{p.name}</code></td>
+                          <td>{p.type}</td>
+                          <td>{p.desc}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              <div class="example">
+                <h4>Ejemplo</h4>
+                <pre><code>{ep.example}</code></pre>
+              </div>
+
+              <div class="response">
+                <h4>Respuesta</h4>
+                <pre><code>{ep.response}</code></pre>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Git Structure -->
+    <section class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Estructura del Repositorio</h2>
+
+        <pre class="tree"><code>legalize-pe/
+├── leyes/
+│   └── pe/                    # Legislación nacional
+│       ├── constitucion-1993.md
+│       ├── dleg-295.md        # Código Civil
+│       ├── dleg-635.md        # Código Penal
+│       ├── ley-26702.md       # Ley de Bancos
+│       └── ...
+├── apps/
+│   ├── api/                   # API REST (Next.js)
+│   └── web/                   # Sitio web (Astro)
+└── packages/
+    ├── git/                   # Utilidades Git
+    └── scraper/               # Scraper de SPIJ</code></pre>
+
+        <h3>Formato de los archivos</h3>
+        <p>Cada norma es un archivo Markdown con frontmatter YAML:</p>
+
+        <pre><code>---
+titulo: "Código Civil"
+identificador: "dleg-295"
+rango: "decreto-legislativo"
+fechaPublicacion: "1984-07-25"
+estado: "vigente"
+fuente: "https://spij.minjus.gob.pe/..."
+---
+
+# Código Civil
+
+## Título Preliminar
+
+**Artículo I.- Abrogación de la ley**
+La ley se deroga sólo por otra ley...</code></pre>
+      </div>
+    </section>
+
+    <!-- Historial Git -->
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Historial de Cambios con Git</h2>
+        <p class="section-desc">Cada modificación a una norma queda registrada como un commit. Puedes ver el historial completo de cualquier ley:</p>
+
+        <pre><code># Ver historial de cambios
+git log --oneline -- leyes/pe/dleg-295.md
+
+# Ver cambios específicos
+git show abc123 -- leyes/pe/dleg-295.md
+
+# Comparar versiones
+git diff abc123..def456 -- leyes/pe/dleg-295.md
+
+# Ver estado en una fecha específica (usando reflog)
+git show "HEAD@&#123;YYYY-MM-DD&#125;":leyes/pe/dleg-295.md</code></pre>
+      </div>
+    </section>
+
+    <!-- Rate Limits -->
+    <section class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Límites y Uso</h2>
+
+        <div class="limits-grid">
+          <div class="limit-card">
+            <h3>Sin autenticación</h3>
+            <p>No necesitas API key para usar la API.</p>
+          </div>
+          <div class="limit-card">
+            <h3>Rate Limit</h3>
+            <p>100 requests por minuto por IP.</p>
+          </div>
+          <div class="limit-card">
+            <h3>Caché</h3>
+            <p>Respuestas cacheadas por 5 minutos.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Licencia -->
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Licencia y Atribución</h2>
+        <div class="license-content">
+          <p>
+            El contenido de las normas es de <strong>dominio público</strong> según el Artículo 9 del
+            Decreto Legislativo 822 (Ley sobre el Derecho de Autor).
+          </p>
+          <p>
+            El código fuente está bajo licencia <strong>MIT</strong>. Puedes usar, modificar y distribuir
+            libremente tanto el código como los datos.
+          </p>
+          <p>
+            Fuente original: <a href="https://spij.minjus.gob.pe" target="_blank" rel="noopener">SPIJ<span class="sr-only"> (abre en nueva ventana)</span></a>
+            (Sistema Peruano de Información Jurídica) del Ministerio de Justicia y
+            <a href="https://diariooficial.elperuano.pe" target="_blank" rel="noopener">Diario Oficial El Peruano<span class="sr-only"> (abre en nueva ventana)</span></a>.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container footer-content">
+        <div class="footer-brand">
+          <strong>Legalize PE</strong>
+          <span>por <a href="https://www.crafterstation.com" target="_blank" rel="noopener">Crafter Station<span class="sr-only"> (abre en nueva ventana)</span></a></span>
+        </div>
+        <nav class="footer-links" aria-label="Enlaces del pie de página">
+          <a href="/leyes">Normas</a>
+          <a href="/developers" aria-current="page">Developers</a>
+          <a href="https://github.com/crafter-research/legalize-pe" target="_blank" rel="noopener">GitHub<span class="sr-only"> (abre en nueva ventana)</span></a>
+        </nav>
+      </div>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  /* Header */
+  .header {
+    border-bottom: 1px solid var(--color-border);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    background: var(--color-bg);
+    z-index: 100;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav-brand {
+    font-weight: 700;
+    font-size: 1.1rem;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.9rem;
+  }
+
+  .nav-links a {
+    color: var(--color-text-muted);
+  }
+
+  .nav-links a:hover,
+  .nav-links a.active {
+    color: var(--color-text);
+  }
+
+  /* Hero */
+  .hero {
+    padding: 3rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .hero h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+  }
+
+  .tagline {
+    color: var(--color-text-muted);
+    font-size: 1.1rem;
+    max-width: 600px;
+  }
+
+  /* Sections */
+  .section {
+    padding: 3rem 0;
+  }
+
+  .section-alt {
+    background: #0a0a0a;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+  }
+
+  .section-desc {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  /* Quick Start */
+  .quick-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .quick-card {
+    padding: 1.5rem;
+    background: #0a0a0a;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+  }
+
+  .quick-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .quick-card p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Info Box */
+  .info-box {
+    padding: 1.5rem;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+  }
+
+  .base-url {
+    font-size: 1.25rem;
+    background: #1a1a1a;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    display: inline-block;
+    margin-bottom: 0.75rem;
+  }
+
+  .info-box p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin: 0;
+  }
+
+  /* Endpoints */
+  .endpoints {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .endpoint {
+    padding: 1.5rem;
+    background: #0a0a0a;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+  }
+
+  .endpoint-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .method {
+    background: #1a472a;
+    color: #4ade80;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+
+  .path {
+    font-size: 1rem;
+    background: transparent;
+    padding: 0;
+  }
+
+  .endpoint-desc {
+    color: var(--color-text-muted);
+    margin-bottom: 1.25rem;
+  }
+
+  .endpoint h4 {
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .params {
+    margin-bottom: 1.25rem;
+  }
+
+  .params table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+
+  .params th {
+    text-align: left;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    font-weight: 500;
+  }
+
+  .params td {
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .params tr:last-child td {
+    border-bottom: none;
+  }
+
+  .example,
+  .response {
+    margin-bottom: 1rem;
+  }
+
+  .example pre,
+  .response pre {
+    margin: 0;
+    font-size: 0.8rem;
+  }
+
+  /* Tree */
+  .tree {
+    background: #0a0a0a;
+  }
+
+  .tree + h3 {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+  }
+
+  .tree + h3 + p {
+    color: var(--color-text-muted);
+    margin-bottom: 1rem;
+  }
+
+  /* Limits */
+  .limits-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  .limit-card {
+    padding: 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .limit-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.375rem;
+  }
+
+  .limit-card p {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    margin: 0;
+  }
+
+  /* License */
+  .license-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .license-content p {
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  /* Footer */
+  footer {
+    padding: 2rem 0;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-brand {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    font-size: 0.875rem;
+  }
+
+  .footer-brand span {
+    color: var(--color-text-muted);
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.875rem;
+  }
+
+  .footer-links a {
+    color: var(--color-text-muted);
+  }
+
+  .footer-links a:hover {
+    color: var(--color-text);
+  }
+
+  @media (max-width: 640px) {
+    .hero h1 {
+      font-size: 1.75rem;
+    }
+
+    .limits-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .footer-content {
+      flex-direction: column;
+      gap: 1rem;
+      text-align: center;
+    }
+
+    .nav-links {
+      gap: 1rem;
+      font-size: 0.8rem;
+    }
+  }
+</style>
