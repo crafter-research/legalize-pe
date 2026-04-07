@@ -10,7 +10,7 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import type { ValidationResult, NormaCatalog } from './lib/types'
+import type { NormaCatalog, ValidationResult } from './lib/types'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const LEYES_DIR = join(__dirname, '../leyes/pe')
@@ -58,14 +58,16 @@ function parseFrontmatter(content: string): Record<string, unknown> | null {
         value = value
           .slice(1, -1)
           .split(',')
-          .map(v => v.trim().replace(/^["']|["']$/g, ''))
+          .map((v) => v.trim().replace(/^["']|["']$/g, ''))
       }
       // Handle booleans
       else if (value === 'true') value = true
       else if (value === 'false') value = false
       // Handle quoted strings
-      else if ((value.startsWith('"') && value.endsWith('"')) ||
-               (value.startsWith("'") && value.endsWith("'"))) {
+      else if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
         value = value.slice(1, -1)
       }
 
@@ -123,7 +125,10 @@ async function validateFile(filePath: string): Promise<ValidationResult> {
     }
 
     // Validate rango
-    if (frontmatter.rango && !VALID_RANGOS.includes(frontmatter.rango as string)) {
+    if (
+      frontmatter.rango &&
+      !VALID_RANGOS.includes(frontmatter.rango as string)
+    ) {
       result.warnings.push(`Unknown rango: ${frontmatter.rango}`)
     }
 
@@ -140,12 +145,21 @@ async function validateFile(filePath: string): Promise<ValidationResult> {
     }
 
     // Warning for codes with few articles
-    if (frontmatter.identificador?.toString().includes('codigo') && result.stats.articles < 10) {
-      result.warnings.push(`Code file has very few articles: ${result.stats.articles}`)
+    if (
+      frontmatter.identificador?.toString().includes('codigo') &&
+      result.stats.articles < 10
+    ) {
+      result.warnings.push(
+        `Code file has very few articles: ${result.stats.articles}`,
+      )
     }
 
     // Warning for HTML remnants
-    if (body.includes('</div>') || body.includes('</span>') || body.includes('class="')) {
+    if (
+      body.includes('</div>') ||
+      body.includes('</span>') ||
+      body.includes('class="')
+    ) {
       result.warnings.push('Body contains HTML remnants')
     }
 
@@ -153,10 +167,11 @@ async function validateFile(filePath: string): Promise<ValidationResult> {
     if (body.includes('Ã') || body.includes('Â')) {
       result.warnings.push('Possible UTF-8 encoding issues')
     }
-
   } catch (error) {
     result.valid = false
-    result.errors.push(`Error reading file: ${error instanceof Error ? error.message : error}`)
+    result.errors.push(
+      `Error reading file: ${error instanceof Error ? error.message : error}`,
+    )
   }
 
   return result
@@ -167,14 +182,16 @@ async function main() {
   const args = process.argv.slice(2)
   const verbose = args.includes('--verbose')
   const fix = args.includes('--fix')
-  const singleFile = args.find(a => a.endsWith('.md'))
+  const singleFile = args.find((a) => a.endsWith('.md'))
 
   console.log('🔍 Legalize PE - Law Validator')
   console.log('═'.repeat(50))
 
   if (singleFile) {
     // Validate single file
-    const filePath = singleFile.startsWith('/') ? singleFile : join(LEYES_DIR, singleFile)
+    const filePath = singleFile.startsWith('/')
+      ? singleFile
+      : join(LEYES_DIR, singleFile)
     console.log(`\nValidating: ${filePath}\n`)
 
     const result = await validateFile(filePath)
@@ -184,7 +201,7 @@ async function main() {
 
   // Validate all files
   const files = await readdir(LEYES_DIR)
-  const mdFiles = files.filter(f => f.endsWith('.md'))
+  const mdFiles = files.filter((f) => f.endsWith('.md'))
 
   console.log(`\n📋 Validating ${mdFiles.length} files...\n`)
 
@@ -219,7 +236,7 @@ async function main() {
   console.log(`❌ Invalid: ${invalid}`)
 
   if (invalidFiles.length > 0) {
-    console.log(`\nInvalid files:`)
+    console.log('\nInvalid files:')
     for (const file of invalidFiles) {
       console.log(`  - ${file}`)
     }
@@ -227,14 +244,14 @@ async function main() {
 
   // Update catalog if --fix
   if (fix && invalidFiles.length > 0) {
-    console.log(`\nUpdating catalog...`)
+    console.log('\nUpdating catalog...')
     try {
       const catalogContent = await readFile(CATALOG_PATH, 'utf-8')
       const catalog: NormaCatalog = JSON.parse(catalogContent)
 
       for (const file of invalidFiles) {
         const id = file.replace('.md', '')
-        const entry = catalog.normas.find(n => n.identificador === id)
+        const entry = catalog.normas.find((n) => n.identificador === id)
         if (entry) {
           entry.estado = 'error'
         }
@@ -251,7 +268,11 @@ async function main() {
   process.exit(invalid > 0 ? 1 : 0)
 }
 
-function printResult(file: string, result: ValidationResult, detailed: boolean) {
+function printResult(
+  file: string,
+  result: ValidationResult,
+  detailed: boolean,
+) {
   const status = result.valid ? '✅' : '❌'
   const stats = `${result.stats.chars} chars, ${result.stats.articles} art, ${result.stats.garbled} garbled`
 

@@ -25,7 +25,10 @@ function htmlToMarkdown(html: string): string {
     .replace(/<nav[^>]*>[\s\S]*?<\/nav>/gi, '')
     .replace(/<aside[^>]*>[\s\S]*?<\/aside>/gi, '')
     .replace(/<footer[^>]*>[\s\S]*?<\/footer>/gi, '')
-    .replace(/<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '')
+    .replace(
+      /<div[^>]*class="[^"]*(?:sharedaddy|jp-relatedposts|ad-|social)[^"]*"[^>]*>[\s\S]*?<\/div>/gi,
+      '',
+    )
     .replace(/<h1[^>]*>(.*?)<\/h1>/gi, '# $1\n\n')
     .replace(/<h2[^>]*>(.*?)<\/h2>/gi, '## $1\n\n')
     .replace(/<h3[^>]*>(.*?)<\/h3>/gi, '### $1\n\n')
@@ -83,7 +86,8 @@ export const lpDerechoSource: LawSource = {
     try {
       const response = await fetch(url, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+          'User-Agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
           Accept: 'text/html,application/xhtml+xml',
         },
       })
@@ -92,8 +96,9 @@ export const lpDerechoSource: LawSource = {
 
       const html = await response.text()
       const contentMatch =
-        html.match(/<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i) ||
-        html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
+        html.match(
+          /<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<(?:footer|div[^>]*class="[^"]*post-tags)/i,
+        ) || html.match(/<article[^>]*>([\s\S]*?)<\/article>/i)
 
       if (!contentMatch) return null
 
@@ -123,7 +128,8 @@ export const congressPdfSource: LawSource = {
     try {
       const response = await fetch(pdfUrl, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+          'User-Agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
         },
       })
 
@@ -133,7 +139,9 @@ export const congressPdfSource: LawSource = {
       const parser = new PDFParse({ data: buffer })
       await parser.load()
       const textResult = await parser.getText()
-      const text = textResult.pages.map((p: { text: string }) => p.text).join('\n\n')
+      const text = textResult.pages
+        .map((p: { text: string }) => p.text)
+        .join('\n\n')
       const pages = textResult.pages.length
       await parser.destroy()
 
@@ -167,7 +175,8 @@ export const genericPdfSource: LawSource = {
     try {
       const response = await fetch(url, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+          'User-Agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
         },
       })
 
@@ -181,7 +190,9 @@ export const genericPdfSource: LawSource = {
       const parser = new PDFParse({ data: buffer })
       await parser.load()
       const textResult = await parser.getText()
-      const text = textResult.pages.map((p: { text: string }) => p.text).join('\n\n')
+      const text = textResult.pages
+        .map((p: { text: string }) => p.text)
+        .join('\n\n')
       const pages = textResult.pages.length
       await parser.destroy()
 
@@ -238,7 +249,6 @@ function buildCongressUrl(id: string): string | null {
 
   return null
 }
-
 
 // All sources in priority order
 export const allSources: LawSource[] = [

@@ -1,6 +1,6 @@
-import { chromium } from 'playwright'
+import * as fs from 'node:fs'
 import { load } from 'cheerio'
-import * as fs from 'fs'
+import { chromium } from 'playwright'
 
 async function investigateNorma() {
   const url = 'https://busquedas.elperuano.pe/dispositivo/NL/2503204-1'
@@ -54,13 +54,16 @@ async function investigateNorma() {
 
   // Ver estructura general
   console.log('\n--- Estructura del body ---')
-  const bodyChildren = $('body').children().map((_, el) => {
-    const $el = $(el)
-    const tag = el.tagName
-    const id = $el.attr('id') || ''
-    const classes = $el.attr('class') || ''
-    return `<${tag} id="${id}" class="${classes}">`
-  }).get()
+  const bodyChildren = $('body')
+    .children()
+    .map((_, el) => {
+      const $el = $(el)
+      const tag = el.tagName
+      const id = $el.attr('id') || ''
+      const classes = $el.attr('class') || ''
+      return `<${tag} id="${id}" class="${classes}">`
+    })
+    .get()
   console.log(bodyChildren.join('\n'))
 
   // Buscar iframes

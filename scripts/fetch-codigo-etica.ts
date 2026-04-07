@@ -15,7 +15,8 @@ async function fetchPdfAsText(url: string): Promise<string> {
   console.log(`   Downloading PDF from: ${url}`)
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
     },
   })
 
@@ -29,7 +30,9 @@ async function fetchPdfAsText(url: string): Promise<string> {
   const parser = new PDFParse({ data: buffer })
   await parser.load()
   const textResult = await parser.getText()
-  const text = textResult.pages.map((p: { text: string }) => p.text).join('\n\n')
+  const text = textResult.pages
+    .map((p: { text: string }) => p.text)
+    .join('\n\n')
   const pages = textResult.pages.length
   console.log(`   Pages: ${pages}`)
   await parser.destroy()
@@ -37,23 +40,28 @@ async function fetchPdfAsText(url: string): Promise<string> {
 }
 
 function formatText(text: string): string {
-  return text
-    // Fix common OCR issues
-    .replace(/\r\n/g, '\n')
-    .replace(/\n{3,}/g, '\n\n')
-    // Format articles
-    .replace(/Artículo\s+(\d+)/gi, '\n\n## Artículo $1')
-    // Format chapters
-    .replace(/CAPÍTULO\s+([IVX]+)/gi, '\n\n# CAPÍTULO $1')
-    // Format titles
-    .replace(/TÍTULO\s+([IVX]+)/gi, '\n\n# TÍTULO $1')
-    .trim()
+  return (
+    text
+      // Fix common OCR issues
+      .replace(/\r\n/g, '\n')
+      .replace(/\n{3,}/g, '\n\n')
+      // Format articles
+      .replace(/Artículo\s+(\d+)/gi, '\n\n## Artículo $1')
+      // Format chapters
+      .replace(/CAPÍTULO\s+([IVX]+)/gi, '\n\n# CAPÍTULO $1')
+      // Format titles
+      .replace(/TÍTULO\s+([IVX]+)/gi, '\n\n# TÍTULO $1')
+      .trim()
+  )
 }
 
 async function main() {
-  console.log('📜 Fetching Código de Ética de la Función Pública (Ley 27815)...\n')
+  console.log(
+    '📜 Fetching Código de Ética de la Función Pública (Ley 27815)...\n',
+  )
 
-  const pdfUrl = 'https://idehpucp.pucp.edu.pe/images/documentos/anticorrupcion/normativa/ley27815_actual.pdf'
+  const pdfUrl =
+    'https://idehpucp.pucp.edu.pe/images/documentos/anticorrupcion/normativa/ley27815_actual.pdf'
 
   try {
     const text = await fetchPdfAsText(pdfUrl)
@@ -64,7 +72,7 @@ async function main() {
     console.log(`   Chars: ${content.length} Garbled: ${garbled}`)
 
     if (garbled > 50) {
-      console.log(`⚠️ Too many garbled characters, PDF may have encoding issues`)
+      console.log('⚠️ Too many garbled characters, PDF may have encoding issues')
     }
 
     const frontmatter = `---
@@ -93,7 +101,9 @@ ${content}
 
     const filePath = join(OUTPUT_DIR, 'ley-27815.md')
     await writeFile(filePath, markdown, 'utf-8')
-    console.log(`✅ Saved: ley-27815.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+    console.log(
+      `✅ Saved: ley-27815.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+    )
   } catch (error) {
     console.error(`❌ Error: ${error instanceof Error ? error.message : error}`)
   }

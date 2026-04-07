@@ -9,10 +9,26 @@ const endpoints = [
     path: '/api/normas',
     description: 'Listar y buscar normas',
     params: [
-      { name: 'q', type: 'string', desc: 'Búsqueda por texto (título, contenido)' },
-      { name: 'rango', type: 'string', desc: 'Filtrar por rango (ley, decreto-legislativo, etc.)' },
-      { name: 'estado', type: 'string', desc: 'Filtrar por estado (vigente, derogado)' },
-      { name: 'limit', type: 'number', desc: 'Límite de resultados (default: 20, max: 100)' },
+      {
+        name: 'q',
+        type: 'string',
+        desc: 'Búsqueda por texto (título, contenido)',
+      },
+      {
+        name: 'rango',
+        type: 'string',
+        desc: 'Filtrar por rango (ley, decreto-legislativo, etc.)',
+      },
+      {
+        name: 'estado',
+        type: 'string',
+        desc: 'Filtrar por estado (vigente, derogado)',
+      },
+      {
+        name: 'limit',
+        type: 'number',
+        desc: 'Límite de resultados (default: 20, max: 100)',
+      },
       { name: 'offset', type: 'number', desc: 'Offset para paginación' },
     ],
     example: `curl "${BASE_URL}/api/normas?q=bancos&limit=5"`,
@@ -29,14 +45,18 @@ const endpoints = [
   "total": 15,
   "limit": 5,
   "offset": 0
-}`
+}`,
   },
   {
     method: 'GET',
     path: '/api/normas/:id',
     description: 'Obtener norma por identificador',
     params: [
-      { name: 'id', type: 'string', desc: 'Identificador único de la norma (ej: ley-26702)' },
+      {
+        name: 'id',
+        type: 'string',
+        desc: 'Identificador único de la norma (ej: ley-26702)',
+      },
     ],
     example: `curl "${BASE_URL}/api/normas/dleg-295"`,
     response: `{
@@ -46,15 +66,13 @@ const endpoints = [
   "estado": "vigente",
   "fechaPublicacion": "1984-07-25",
   "contenido": "# Código Civil\n\n## Título Preliminar..."
-}`
+}`,
   },
   {
     method: 'GET',
     path: '/api/normas/:id/history',
     description: 'Historial de cambios de una norma',
-    params: [
-      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
-    ],
+    params: [{ name: 'id', type: 'string', desc: 'Identificador de la norma' }],
     example: `curl "${BASE_URL}/api/normas/dleg-295/history"`,
     response: `{
   "commits": [
@@ -65,7 +83,7 @@ const endpoints = [
       "author": "Sistema SPIJ"
     }
   ]
-}`
+}`,
   },
   {
     method: 'GET',
@@ -74,14 +92,18 @@ const endpoints = [
     params: [
       { name: 'id', type: 'string', desc: 'Identificador de la norma' },
       { name: 'from', type: 'string', desc: 'Commit inicial (opcional)' },
-      { name: 'to', type: 'string', desc: 'Commit final (opcional, default: HEAD)' },
+      {
+        name: 'to',
+        type: 'string',
+        desc: 'Commit final (opcional, default: HEAD)',
+      },
     ],
     example: `curl "${BASE_URL}/api/normas/dleg-295/diff?from=abc123"`,
     response: `{
   "diff": "- Texto anterior\n+ Texto nuevo",
   "from": "abc123",
   "to": "def456"
-}`
+}`,
   },
   {
     method: 'GET',
@@ -94,7 +116,7 @@ const endpoints = [
     response: `{
   "fecha": "2024-01-15",
   "normas": [...]
-}`
+}`,
   },
   {
     method: 'GET',
@@ -108,7 +130,7 @@ const endpoints = [
     response: `{
   "normas": [...],
   "desde": "2024-01-01"
-}`
+}`,
   },
   {
     method: 'GET',
@@ -126,7 +148,7 @@ const endpoints = [
     "15": { "count": 5 },
     "16": { "count": 3 }
   }
-}`
+}`,
   },
   {
     method: 'GET',
@@ -141,7 +163,7 @@ const endpoints = [
     "decreto-legislativo": 320
   },
   "ultimaActualizacion": "2024-01-20T15:30:00Z"
-}`
+}`,
   },
 ]
 ---

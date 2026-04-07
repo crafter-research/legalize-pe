@@ -8,12 +8,12 @@
  *   npx tsx scripts/fetch-norma.ts --validate
  */
 
-import { readFile, writeFile } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
+import { readFile, writeFile } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { allSources, type FetchResult } from './lib/sources'
-import type { NormaCatalog, NormaCatalogEntry, Frontmatter } from './lib/types'
+import { type FetchResult, allSources } from './lib/sources'
+import type { Frontmatter, NormaCatalog, NormaCatalogEntry } from './lib/types'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../leyes/pe')
@@ -47,7 +47,7 @@ function parseArgs(): {
     } else if (arg === '--pending') {
       result.pending = true
     } else if (arg === '--limit' && args[i + 1]) {
-      result.limit = parseInt(args[++i], 10)
+      result.limit = Number.parseInt(args[++i], 10)
     } else if (arg === '--validate') {
       result.validate = true
     } else if (!arg.startsWith('--')) {
@@ -100,7 +100,7 @@ function generateFrontmatter(entry: NormaCatalogEntry, source: string): string {
   for (const [key, value] of Object.entries(fm)) {
     if (value === undefined || value === null) continue
     if (Array.isArray(value)) {
-      lines.push(`${key}: [${value.map(v => `"${v}"`).join(', ')}]`)
+      lines.push(`${key}: [${value.map((v) => `"${v}"`).join(', ')}]`)
     } else if (typeof value === 'boolean') {
       lines.push(`${key}: ${value}`)
     } else {
@@ -114,7 +114,7 @@ function generateFrontmatter(entry: NormaCatalogEntry, source: string): string {
 // Fetch a single law
 async function fetchNorma(
   entry: NormaCatalogEntry,
-  specificUrl?: string
+  specificUrl?: string,
 ): Promise<FetchResult | null> {
   console.log(`\n📜 ${entry.titulo}`)
   console.log(`   ID: ${entry.identificador}`)
@@ -128,7 +128,9 @@ async function fetchNorma(
     console.log(`   Trying ${source.name} (auto-URL)`)
     const autoResult = await source.fetch(entry.identificador)
     if (autoResult && autoResult.content.length > 500) {
-      console.log(`   ✅ ${source.name}: ${autoResult.content.length} chars, ${autoResult.garbled} garbled`)
+      console.log(
+        `   ✅ ${source.name}: ${autoResult.content.length} chars, ${autoResult.garbled} garbled`,
+      )
       return autoResult
     }
 
@@ -137,20 +139,22 @@ async function fetchNorma(
       console.log(`   Trying ${source.name} (${url.slice(0, 50)}...)`)
       const result = await source.fetch(entry.identificador, url)
       if (result && result.content.length > 500) {
-        console.log(`   ✅ ${source.name}: ${result.content.length} chars, ${result.garbled} garbled`)
+        console.log(
+          `   ✅ ${source.name}: ${result.content.length} chars, ${result.garbled} garbled`,
+        )
         return result
       }
     }
   }
 
-  console.log(`   ❌ All sources failed`)
+  console.log('   ❌ All sources failed')
   return null
 }
 
 // Save law to markdown file
 async function saveNorma(
   entry: NormaCatalogEntry,
-  result: FetchResult
+  result: FetchResult,
 ): Promise<string> {
   const frontmatter = generateFrontmatter(entry, result.source)
   const markdown = `${frontmatter}
@@ -176,7 +180,7 @@ async function main() {
   if (args.pending) {
     // Fetch pending laws from catalog
     const pending = catalog.normas
-      .filter(n => n.estado === 'pendiente')
+      .filter((n) => n.estado === 'pendiente')
       .slice(0, args.limit)
 
     console.log(`📋 ${pending.length} pending laws to fetch\n`)
@@ -199,7 +203,7 @@ async function main() {
       }
 
       // Rate limiting
-      await new Promise(r => setTimeout(r, 1000))
+      await new Promise((r) => setTimeout(r, 1000))
     }
 
     if (!args.dryRun) {
@@ -211,13 +215,17 @@ async function main() {
     console.log(`❌ Failed: ${failed}`)
   } else if (args.identificador) {
     // Fetch single law
-    let entry = catalog.normas.find(n => n.identificador === args.identificador)
+    let entry = catalog.normas.find(
+      (n) => n.identificador === args.identificador,
+    )
 
     if (!entry) {
       // Create temporary entry
       entry = {
         identificador: args.identificador,
-        titulo: args.identificador.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+        titulo: args.identificador
+          .replace(/-/g, ' ')
+          .replace(/\b\w/g, (c) => c.toUpperCase()),
         rango: inferRango(args.identificador),
         fechaPublicacion: 'unknown',
         estado: 'pendiente',
@@ -232,7 +240,9 @@ async function main() {
         const path = await saveNorma(entry, result)
         console.log(`\n✅ Saved: ${path}`)
       } else {
-        console.log(`\n✅ Would save: ${entry.identificador}.md (${result.content.length} chars)`)
+        console.log(
+          `\n✅ Would save: ${entry.identificador}.md (${result.content.length} chars)`,
+        )
       }
     } else {
       console.log(`\n❌ Failed to fetch ${args.identificador}`)
@@ -265,7 +275,8 @@ function inferRango(id: string): NormaCatalogEntry['rango'] {
   if (id.startsWith('dleg-')) return 'decreto-legislativo'
   if (id.startsWith('dl-') || id.startsWith('dley-')) return 'decreto-ley'
   if (id.startsWith('ds-')) return 'decreto-supremo'
-  if (id.startsWith('res-') || id.startsWith('rm-') || id.startsWith('ra-')) return 'resolucion'
+  if (id.startsWith('res-') || id.startsWith('rm-') || id.startsWith('ra-'))
+    return 'resolucion'
   return 'otro'
 }
 

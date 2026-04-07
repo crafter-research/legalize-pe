@@ -1,5 +1,9 @@
-import * as fs from 'fs'
-import { convertHtmlToMarkdown, generateFrontmatter, type LawMetadata } from './html-to-markdown'
+import * as fs from 'node:fs'
+import {
+  type LawMetadata,
+  convertHtmlToMarkdown,
+  generateFrontmatter,
+} from './html-to-markdown'
 
 interface NormaElPeruano {
   tipo: string
@@ -24,12 +28,29 @@ function determineRango(tipo: string): string {
   if (tipoLower.includes('decreto legislativo')) return 'decreto-legislativo'
   if (tipoLower.includes('decreto de urgencia')) return 'decreto-de-urgencia'
   if (tipoLower.includes('decreto supremo')) return 'decreto-supremo'
-  if (tipoLower.includes('resolucion ministerial') || tipoLower.includes('resolución ministerial')) return 'resolucion-ministerial'
-  if (tipoLower.includes('resolucion suprema') || tipoLower.includes('resolución suprema')) return 'resolucion-suprema'
-  if (tipoLower.includes('resolucion jefatural') || tipoLower.includes('resolución jefatural')) return 'resolucion-jefatural'
-  if (tipoLower.includes('resolucion directoral') || tipoLower.includes('resolución directoral')) return 'resolucion-directoral'
+  if (
+    tipoLower.includes('resolucion ministerial') ||
+    tipoLower.includes('resolución ministerial')
+  )
+    return 'resolucion-ministerial'
+  if (
+    tipoLower.includes('resolucion suprema') ||
+    tipoLower.includes('resolución suprema')
+  )
+    return 'resolucion-suprema'
+  if (
+    tipoLower.includes('resolucion jefatural') ||
+    tipoLower.includes('resolución jefatural')
+  )
+    return 'resolucion-jefatural'
+  if (
+    tipoLower.includes('resolucion directoral') ||
+    tipoLower.includes('resolución directoral')
+  )
+    return 'resolucion-directoral'
   if (tipoLower.includes('ordenanza')) return 'ordenanza'
-  if (tipoLower.includes('resolucion') || tipoLower.includes('resolución')) return 'resolucion'
+  if (tipoLower.includes('resolucion') || tipoLower.includes('resolución'))
+    return 'resolucion'
   if (tipoLower.includes('ley')) return 'ley'
 
   return 'norma'
@@ -55,7 +76,10 @@ function convertFechaToISO(fecha: string): string {
   return fecha
 }
 
-function convertToMarkdown(item: NormaConContenido): { filename: string; content: string } {
+function convertToMarkdown(item: NormaConContenido): {
+  filename: string
+  content: string
+} {
   const { norma, content } = item
 
   // Generar identificador
@@ -93,7 +117,10 @@ function convertToMarkdown(item: NormaConContenido): { filename: string; content
 async function main() {
   console.log('Cargando normas desde elperuano-normas-contenido.json...')
 
-  const jsonContent = fs.readFileSync('elperuano-normas-contenido.json', 'utf-8')
+  const jsonContent = fs.readFileSync(
+    'elperuano-normas-contenido.json',
+    'utf-8',
+  )
   const normas: NormaConContenido[] = JSON.parse(jsonContent)
 
   console.log(`Total normas a convertir: ${normas.length}`)
@@ -109,7 +136,9 @@ async function main() {
 
   for (const item of normas) {
     if (item.error || !item.content) {
-      console.log(`  ✗ ${item.norma.tipo} N° ${item.norma.numero}: Sin contenido`)
+      console.log(
+        `  ✗ ${item.norma.tipo} N° ${item.norma.numero}: Sin contenido`,
+      )
       errorCount++
       continue
     }
@@ -128,7 +157,7 @@ async function main() {
     }
   }
 
-  console.log(`\nConversión completada:`)
+  console.log('\nConversión completada:')
   console.log(`  - Exitosos: ${successCount}`)
   console.log(`  - Fallidos: ${errorCount}`)
   console.log(`  - Archivos en: ${outputDir}/`)

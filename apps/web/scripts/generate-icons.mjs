@@ -1,7 +1,7 @@
+import { mkdir } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import sharp from 'sharp'
-import { fileURLToPath } from 'url'
-import { dirname, join } from 'path'
-import { mkdir } from 'fs/promises'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const publicDir = join(__dirname, '../public')
@@ -18,10 +18,7 @@ const sizes = [
 ]
 
 for (const { name, size } of sizes) {
-  await sharp(favicon)
-    .resize(size, size)
-    .png()
-    .toFile(join(iconsDir, name))
+  await sharp(favicon).resize(size, size).png().toFile(join(iconsDir, name))
   console.log(`Generated ${name}`)
 }
 

@@ -7,12 +7,12 @@
  *   npx tsx scripts/fetch-elperuano.ts [--from YYYY-MM] [--to YYYY-MM] [--limit N] [--types ley,dleg,du,ds]
  */
 
-import { writeFile, mkdir, unlink } from 'node:fs/promises'
-import { existsSync, readFileSync } from 'node:fs'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
 import { exec } from 'node:child_process'
+import { existsSync, readFileSync } from 'node:fs'
+import { mkdir, unlink, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { promisify } from 'node:util'
 
 const execAsync = promisify(exec)
@@ -22,17 +22,22 @@ const TEMP_DIR = join(__dirname, '../tmp/elperuano-pdfs')
 
 // Windows paths for OCR tools
 const TESSERACT_EXE = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
-const PDFTOPPM_EXE = 'C:\\Users\\Shiara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe\\poppler-25.07.0\\Library\\bin\\pdftoppm.exe'
+const PDFTOPPM_EXE =
+  'C:\\Users\\Shiara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe\\poppler-25.07.0\\Library\\bin\\pdftoppm.exe'
 const TESSDATA_PREFIX = 'C:\\Users\\Shiara\\.tessdata'
 const OCR_ENV = { ...process.env, TESSDATA_PREFIX }
 
-type TipoNorma = 'ley' | 'decreto-legislativo' | 'decreto-urgencia' | 'decreto-supremo'
+type TipoNorma =
+  | 'ley'
+  | 'decreto-legislativo'
+  | 'decreto-urgencia'
+  | 'decreto-supremo'
 
 interface NormaElPeruano {
   title: string
   date: string
   tipo: TipoNorma
-  numero: string       // e.g. "32539", "1555", "010-2025", "149-2025-PCM"
+  numero: string // e.g. "32539", "1555", "010-2025", "149-2025-PCM"
   identificador: string
   dataUrl: string
   sector: string
@@ -42,7 +47,7 @@ interface NormaElPeruano {
 
 function decodeHtmlEntities(s: string): string {
   return s
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n)))
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number.parseInt(n)))
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
@@ -53,13 +58,20 @@ function decodeHtmlEntities(s: string): string {
 }
 
 function stripTags(s: string): string {
-  return decodeHtmlEntities(s.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim())
+  return decodeHtmlEntities(
+    s
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim(),
+  )
 }
 
 function parseTipo(title: string): TipoNorma | null {
   if (title.match(/^LEY\s+(?:ORGÁNICA\s+)?N[°º]/i)) return 'ley'
-  if (title.match(/^DECRETO\s+LEGISLATIVO\s+N[°º]/i)) return 'decreto-legislativo'
-  if (title.match(/^DECRETO\s+DE\s+URGENCIA\s+N[°º]/i)) return 'decreto-urgencia'
+  if (title.match(/^DECRETO\s+LEGISLATIVO\s+N[°º]/i))
+    return 'decreto-legislativo'
+  if (title.match(/^DECRETO\s+DE\s+URGENCIA\s+N[°º]/i))
+    return 'decreto-urgencia'
   if (title.match(/^DECRETO\s+SUPREMO\s+N[°º]/i)) return 'decreto-supremo'
   return null
 }
@@ -84,15 +96,23 @@ function parseNumero(title: string, tipo: TipoNorma): string {
 function buildIdentificador(tipo: TipoNorma, numero: string): string {
   const n = numero.toLowerCase()
   switch (tipo) {
-    case 'ley': return `ley-${n}`
-    case 'decreto-legislativo': return `dleg-${n}`
-    case 'decreto-urgencia': return `du-${n}`
-    case 'decreto-supremo': return `ds-${n}`
+    case 'ley':
+      return `ley-${n}`
+    case 'decreto-legislativo':
+      return `dleg-${n}`
+    case 'decreto-urgencia':
+      return `du-${n}`
+    case 'decreto-supremo':
+      return `ds-${n}`
   }
 }
 
-function parseArticles(html: string, enabledTypes: Set<TipoNorma>): NormaElPeruano[] {
-  const articleRe = /<article[^>]*edicionesoficiales_articulos[^>]*>([\s\S]*?)<\/article>/gi
+function parseArticles(
+  html: string,
+  enabledTypes: Set<TipoNorma>,
+): NormaElPeruano[] {
+  const articleRe =
+    /<article[^>]*edicionesoficiales_articulos[^>]*>([\s\S]*?)<\/article>/gi
   const titleRe = /<h5[^>]*>[\s\S]*?<a[^>]*>([\s\S]*?)<\/a>/i
   const dateRe = /<p[^>]*>[\s\S]*?<b[^>]*>([\s\S]*?)<\/b>/i
   const sectorRe = /<h4[^>]*>([\s\S]*?)<\/h4>/i
@@ -100,9 +120,8 @@ function parseArticles(html: string, enabledTypes: Set<TipoNorma>): NormaElPerua
   const downloadRe = /<input[^>]*data-tipo="DiNl"[^>]*data-url="([^"]+)"[^>]*/i
 
   const results: NormaElPeruano[] = []
-  let match: RegExpExecArray | null
 
-  while ((match = articleRe.exec(html)) !== null) {
+  for (const match of html.matchAll(articleRe)) {
     const art = match[1]
     const titleMatch = titleRe.exec(art)
     const dateMatch = dateRe.exec(art)
@@ -132,17 +151,23 @@ function parseArticles(html: string, enabledTypes: Set<TipoNorma>): NormaElPerua
 
 // ─── API fetching ──────────────────────────────────────────────────────────────
 
-async function fetchMonth(year: number, month: number, enabledTypes: Set<TipoNorma>): Promise<NormaElPeruano[]> {
+async function fetchMonth(
+  year: number,
+  month: number,
+  enabledTypes: Set<TipoNorma>,
+): Promise<NormaElPeruano[]> {
   const pad = (n: number) => String(n).padStart(2, '0')
   const lastDay = new Date(year, month, 0).getDate()
   const fromDate = `01/${pad(month)}/${year}`
   const toDate = `${lastDay}/${pad(month)}/${year}`
-  const dateParam = encodeURIComponent(`${pad(month)}/${lastDay}/${year} 00:00:00`)
+  const dateParam = encodeURIComponent(
+    `${pad(month)}/${lastDay}/${year} 00:00:00`,
+  )
 
   const body = new URLSearchParams({
     cddesde: fromDate,
     cdhasta: toDate,
-    'X-Requested-With': 'XMLHttpRequest'
+    'X-Requested-With': 'XMLHttpRequest',
   }).toString()
 
   try {
@@ -153,10 +178,10 @@ async function fetchMonth(year: number, month: number, enabledTypes: Set<TipoNor
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
           'X-Requested-With': 'XMLHttpRequest',
-          'Referer': 'https://diariooficial.elperuano.pe/normas',
+          Referer: 'https://diariooficial.elperuano.pe/normas',
         },
         body,
-      }
+      },
     )
     if (!res.ok) {
       console.log(`  ⚠️  API error ${res.status} for ${year}-${pad(month)}`)
@@ -175,7 +200,7 @@ async function fetchMonth(year: number, month: number, enabledTypes: Set<TipoNor
 async function downloadPdf(url: string, outputPath: string): Promise<boolean> {
   try {
     const response = await fetch(url, {
-      headers: { 'Referer': 'https://diariooficial.elperuano.pe/normas' }
+      headers: { Referer: 'https://diariooficial.elperuano.pe/normas' },
     })
     if (!response.ok) return false
     const buffer = Buffer.from(await response.arrayBuffer())
@@ -186,13 +211,15 @@ async function downloadPdf(url: string, outputPath: string): Promise<boolean> {
   }
 }
 
-async function extractText(pdfPath: string): Promise<{ text: string; method: string }> {
+async function extractText(
+  pdfPath: string,
+): Promise<{ text: string; method: string }> {
   // Try pdftotext first
   try {
-    const { stdout } = await execAsync(
-      `pdftotext "${pdfPath}" -`,
-      { timeout: 30000, maxBuffer: 20 * 1024 * 1024 }
-    )
+    const { stdout } = await execAsync(`pdftotext "${pdfPath}" -`, {
+      timeout: 30000,
+      maxBuffer: 20 * 1024 * 1024,
+    })
     if (stdout.trim().length > 300) {
       return { text: stdout, method: 'pdftotext' }
     }
@@ -202,7 +229,7 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
   try {
     console.log('    🔍 OCR (pdftoppm + tesseract)...')
     const pagesDir = pdfPath.replace('.pdf', '-pages')
-    const pagesPrefix = pagesDir + '\\p'
+    const pagesPrefix = `${pagesDir}\\p`
     await mkdir(pagesDir, { recursive: true })
 
     execSync(`"${PDFTOPPM_EXE}" -png -r 200 "${pdfPath}" "${pagesPrefix}"`, {
@@ -211,7 +238,9 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
     })
 
     const { readdirSync } = await import('node:fs')
-    const pages = readdirSync(pagesDir).filter(f => f.endsWith('.png')).sort()
+    const pages = readdirSync(pagesDir)
+      .filter((f) => f.endsWith('.png'))
+      .sort()
     const texts: string[] = []
 
     for (const page of pages.slice(0, 40)) {
@@ -219,7 +248,7 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
         const imgPath = `${pagesDir}\\${page}`
         const { stdout } = await execAsync(
           `"${TESSERACT_EXE}" "${imgPath}" stdout -l spa --psm 1`,
-          { timeout: 60000, maxBuffer: 5 * 1024 * 1024, env: OCR_ENV }
+          { timeout: 60000, maxBuffer: 5 * 1024 * 1024, env: OCR_ENV },
         )
         if (stdout.trim()) texts.push(stdout.trim())
       } catch {}
@@ -249,11 +278,22 @@ function cleanText(text: string): string {
 
 function extractDateFromText(text: string, fallbackDate: string): string {
   const months: Record<string, string> = {
-    enero: '01', febrero: '02', marzo: '03', abril: '04',
-    mayo: '05', junio: '06', julio: '07', agosto: '08',
-    septiembre: '09', octubre: '10', noviembre: '11', diciembre: '12',
+    enero: '01',
+    febrero: '02',
+    marzo: '03',
+    abril: '04',
+    mayo: '05',
+    junio: '06',
+    julio: '07',
+    agosto: '08',
+    septiembre: '09',
+    octubre: '10',
+    noviembre: '11',
+    diciembre: '12',
   }
-  const m = text.match(/(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})/i)
+  const m = text.match(
+    /(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})/i,
+  )
   if (m) {
     const day = m[1].padStart(2, '0')
     const month = months[m[2].toLowerCase()]
@@ -267,23 +307,36 @@ function extractDateFromText(text: string, fallbackDate: string): string {
 
 function formatRango(tipo: TipoNorma): string {
   switch (tipo) {
-    case 'ley': return 'ley'
-    case 'decreto-legislativo': return 'decreto-legislativo'
-    case 'decreto-urgencia': return 'decreto-urgencia'
-    case 'decreto-supremo': return 'decreto-supremo'
+    case 'ley':
+      return 'ley'
+    case 'decreto-legislativo':
+      return 'decreto-legislativo'
+    case 'decreto-urgencia':
+      return 'decreto-urgencia'
+    case 'decreto-supremo':
+      return 'decreto-supremo'
   }
 }
 
 function buildTitle(norma: NormaElPeruano): string {
   switch (norma.tipo) {
-    case 'ley': return `Ley N.° ${norma.numero}`
-    case 'decreto-legislativo': return `Decreto Legislativo N.° ${norma.numero}`
-    case 'decreto-urgencia': return `Decreto de Urgencia N.° ${norma.numero}`
-    case 'decreto-supremo': return `Decreto Supremo N.° ${norma.numero}`
+    case 'ley':
+      return `Ley N.° ${norma.numero}`
+    case 'decreto-legislativo':
+      return `Decreto Legislativo N.° ${norma.numero}`
+    case 'decreto-urgencia':
+      return `Decreto de Urgencia N.° ${norma.numero}`
+    case 'decreto-supremo':
+      return `Decreto Supremo N.° ${norma.numero}`
   }
 }
 
-function generateFrontmatter(norma: NormaElPeruano, fecha: string, titulo: string, ocrProcessed: boolean): string {
+function generateFrontmatter(
+  norma: NormaElPeruano,
+  fecha: string,
+  titulo: string,
+  ocrProcessed: boolean,
+): string {
   return `---
 titulo: "${titulo.replace(/"/g, '\\"')}"
 identificador: "${norma.identificador}"
@@ -303,7 +356,9 @@ disclaimer: true${ocrProcessed ? '\nocrProcessed: true' : ''}
 ---`
 }
 
-async function processNorma(norma: NormaElPeruano): Promise<'ok' | 'skip' | 'fail'> {
+async function processNorma(
+  norma: NormaElPeruano,
+): Promise<'ok' | 'skip' | 'fail'> {
   const filePath = join(LEYES_DIR, `${norma.identificador}.md`)
   if (existsSync(filePath)) return 'skip'
 
@@ -311,9 +366,9 @@ async function processNorma(norma: NormaElPeruano): Promise<'ok' | 'skip' | 'fai
 
   const pdfPath = join(TEMP_DIR, `${norma.identificador}.pdf`)
 
-  console.log(`    📥 Descargando PDF...`)
-  if (!await downloadPdf(norma.dataUrl, pdfPath)) {
-    console.log(`    ❌ Descarga fallida`)
+  console.log('    📥 Descargando PDF...')
+  if (!(await downloadPdf(norma.dataUrl, pdfPath))) {
+    console.log('    ❌ Descarga fallida')
     return 'fail'
   }
 
@@ -321,7 +376,9 @@ async function processNorma(norma: NormaElPeruano): Promise<'ok' | 'skip' | 'fai
   await unlink(pdfPath).catch(() => {})
 
   if (text.length < 100) {
-    console.log(`    ❌ Texto insuficiente (${text.length} chars, método: ${method})`)
+    console.log(
+      `    ❌ Texto insuficiente (${text.length} chars, método: ${method})`,
+    )
     return 'fail'
   }
 
@@ -330,7 +387,12 @@ async function processNorma(norma: NormaElPeruano): Promise<'ok' | 'skip' | 'fai
   const cleanedText = cleanText(text)
   const fecha = extractDateFromText(cleanedText, norma.date)
   const titulo = buildTitle(norma)
-  const frontmatter = generateFrontmatter(norma, fecha, titulo, method !== 'pdftotext')
+  const frontmatter = generateFrontmatter(
+    norma,
+    fecha,
+    titulo,
+    method !== 'pdftotext',
+  )
 
   const markdown = `${frontmatter}\n\n# ${titulo}\n\n${cleanedText}\n`
   await writeFile(filePath, markdown, 'utf-8')
@@ -343,15 +405,22 @@ async function main() {
   const args = process.argv.slice(2)
 
   const fromArg = args.find((_, i) => args[i - 1] === '--from') ?? '2020-01'
-  const toArg = args.find((_, i) => args[i - 1] === '--to') ?? new Date().toISOString().slice(0, 7)
+  const toArg =
+    args.find((_, i) => args[i - 1] === '--to') ??
+    new Date().toISOString().slice(0, 7)
   const limit = args.includes('--limit')
-    ? parseInt(args[args.indexOf('--limit') + 1])
+    ? Number.parseInt(args[args.indexOf('--limit') + 1])
     : 9999
   const dryRun = args.includes('--dry-run')
   const typesArg = args.find((_, i) => args[i - 1] === '--types')
   const enabledTypesFromArg: Set<TipoNorma> = typesArg
     ? new Set(typesArg.split(',') as TipoNorma[])
-    : new Set(['ley', 'decreto-legislativo', 'decreto-urgencia', 'decreto-supremo'])
+    : new Set([
+        'ley',
+        'decreto-legislativo',
+        'decreto-urgencia',
+        'decreto-supremo',
+      ])
 
   const [fromYear, fromMonth] = fromArg.split('-').map(Number)
   const [toYear, toMonth] = toArg.split('-').map(Number)
@@ -369,7 +438,8 @@ async function main() {
   const allNormas: NormaElPeruano[] = []
   const seen = new Set<string>()
 
-  let y = fromYear, m = fromMonth
+  let y = fromYear
+  let m = fromMonth
   while (y < toYear || (y === toYear && m <= toMonth)) {
     const pad = (n: number) => String(n).padStart(2, '0')
     process.stdout.write(`  📡 ${y}-${pad(m)}... `)
@@ -386,25 +456,34 @@ async function main() {
 
     // Advance month
     m++
-    if (m > 12) { m = 1; y++ }
+    if (m > 12) {
+      m = 1
+      y++
+    }
 
-    await new Promise(r => setTimeout(r, 500))
+    await new Promise((r) => setTimeout(r, 500))
   }
 
   // Filter out existing files
-  const pending = allNormas.filter(n => !existsSync(join(LEYES_DIR, `${n.identificador}.md`)))
+  const pending = allNormas.filter(
+    (n) => !existsSync(join(LEYES_DIR, `${n.identificador}.md`)),
+  )
 
   console.log(`\n📋 Total encontradas: ${allNormas.length}`)
   console.log(`📋 Por descargar: ${pending.length}`)
 
   if (dryRun) {
     console.log('\nDry-run completado. Normas a descargar:')
-    pending.slice(0, 30).forEach(n => console.log(`  - ${n.identificador}  ${n.title}`))
+    for (const n of pending.slice(0, 30)) {
+      console.log(`  - ${n.identificador}  ${n.title}`)
+    }
     if (pending.length > 30) console.log(`  ... y ${pending.length - 30} más`)
     return
   }
 
-  let ok = 0, fail = 0, skip = 0
+  let ok = 0
+  let fail = 0
+  let skip = 0
   const batch = pending.slice(0, limit)
 
   for (const norma of batch) {
@@ -412,7 +491,7 @@ async function main() {
     if (result === 'ok') ok++
     else if (result === 'fail') fail++
     else skip++
-    await new Promise(r => setTimeout(r, 800))
+    await new Promise((r) => setTimeout(r, 800))
   }
 
   console.log('\n═══════════════════════════════════════════════')

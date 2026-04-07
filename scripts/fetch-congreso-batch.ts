@@ -4,12 +4,12 @@
  * Fuente: normas-legales-gob.json
  */
 
-import { writeFile, mkdir, unlink } from 'node:fs/promises'
-import { existsSync, readFileSync } from 'node:fs'
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { execSync } from 'node:child_process'
 import { exec } from 'node:child_process'
+import { existsSync, readFileSync } from 'node:fs'
+import { mkdir, unlink, writeFile } from 'node:fs/promises'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { promisify } from 'node:util'
 
 const execAsync = promisify(exec)
@@ -19,7 +19,8 @@ const TEMP_DIR = join(__dirname, '../tmp/congreso-pdfs')
 
 // Windows paths for OCR tools
 const TESSERACT_EXE = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
-const PDFTOPPM_EXE = 'C:\\Users\\Shiara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe\\poppler-25.07.0\\Library\\bin\\pdftoppm.exe'
+const PDFTOPPM_EXE =
+  'C:\\Users\\Shiara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe\\poppler-25.07.0\\Library\\bin\\pdftoppm.exe'
 const TESSDATA_PREFIX = 'C:\\Users\\Shiara\\.tessdata'
 const OCR_ENV = { ...process.env, TESSDATA_PREFIX }
 
@@ -45,7 +46,10 @@ function parseNorma(raw: NormaRaw): Norma | null {
   let tipo: Norma['tipo'] = 'ley'
   let numero = raw.numero ?? ''
 
-  if (titulo.match(/Decreto Legislativo/i) && !titulo.match(/modifica.*Decreto Legislativo/i)) {
+  if (
+    titulo.match(/Decreto Legislativo/i) &&
+    !titulo.match(/modifica.*Decreto Legislativo/i)
+  ) {
     tipo = 'decreto-legislativo'
     // Extract number from detail URL or title
     const mUrl = raw.detailUrl.match(/-(\d+)$/)
@@ -67,20 +71,34 @@ function parseNorma(raw: NormaRaw): Norma | null {
   if (!numero) return null
 
   let identificador: string
-  if (tipo === 'decreto-legislativo') identificador = 'dleg-' + numero
-  else if (tipo === 'resolucion-legislativa') identificador = 'rl-' + numero
-  else identificador = 'ley-' + numero
+  if (tipo === 'decreto-legislativo') identificador = `dleg-${numero}`
+  else if (tipo === 'resolucion-legislativa') identificador = `rl-${numero}`
+  else identificador = `ley-${numero}`
 
-  return { titulo, detailUrl: raw.detailUrl, pdfUrl: raw.pdfUrl, numero, tipo, identificador }
+  return {
+    titulo,
+    detailUrl: raw.detailUrl,
+    pdfUrl: raw.pdfUrl,
+    numero,
+    tipo,
+    identificador,
+  }
 }
 
-function extractCleanTitle(rawTitulo: string, numero: string, tipo: string): string {
+function extractCleanTitle(
+  rawTitulo: string,
+  numero: string,
+  tipo: string,
+): string {
   // The raw titulo looks like: "Ley N.° 32413Ley que habilita...descripción..."
   // We want just the short title after the number, before the long description
 
   // Pattern 1: "Ley N.° XXXXX" followed by the title on same token
   // Find where the law number ends and the actual title starts
-  const numPattern = new RegExp(`(?:Ley|Decreto Legislativo|Resolución Legislativa)[^\\d]*${numero}[-–\\s]*`, 'i')
+  const numPattern = new RegExp(
+    `(?:Ley|Decreto Legislativo|Resolución Legislativa)[^\\d]*${numero}[-–\\s]*`,
+    'i',
+  )
   const afterNum = rawTitulo.replace(numPattern, '').trim()
 
   if (afterNum.length > 10) {
@@ -97,7 +115,10 @@ function extractCleanTitle(rawTitulo: string, numero: string, tipo: string): str
       const half = Math.floor(words.length / 2)
       const firstHalf = words.slice(0, half).join(' ').toLowerCase()
       const secondHalf = words.slice(half).join(' ').toLowerCase()
-      if (secondHalf.includes(firstHalf.slice(0, 20)) && firstHalf.length > 20) {
+      if (
+        secondHalf.includes(firstHalf.slice(0, 20)) &&
+        firstHalf.length > 20
+      ) {
         return words.slice(0, half).join(' ')
       }
       return firstLine
@@ -110,7 +131,8 @@ function extractCleanTitle(rawTitulo: string, numero: string, tipo: string): str
 
   // Fallback: use tipo + numero
   if (tipo === 'decreto-legislativo') return `Decreto Legislativo N.° ${numero}`
-  if (tipo === 'resolucion-legislativa') return `Resolución Legislativa N.° ${numero}`
+  if (tipo === 'resolucion-legislativa')
+    return `Resolución Legislativa N.° ${numero}`
   return `Ley N.° ${numero}`
 }
 
@@ -126,13 +148,15 @@ async function downloadPdf(url: string, outputPath: string): Promise<boolean> {
   }
 }
 
-async function extractText(pdfPath: string): Promise<{ text: string; method: string }> {
+async function extractText(
+  pdfPath: string,
+): Promise<{ text: string; method: string }> {
   // Try pdftotext first (fast, works on text PDFs)
   try {
-    const { stdout } = await execAsync(
-      `pdftotext "${pdfPath}" -`,
-      { timeout: 30000, maxBuffer: 20 * 1024 * 1024 }
-    )
+    const { stdout } = await execAsync(`pdftotext "${pdfPath}" -`, {
+      timeout: 30000,
+      maxBuffer: 20 * 1024 * 1024,
+    })
     if (stdout.trim().length > 300) {
       return { text: stdout, method: 'pdftotext' }
     }
@@ -142,7 +166,7 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
   try {
     console.log('    🔍 OCR (pdftoppm + tesseract)...')
     const pagesDir = pdfPath.replace('.pdf', '-pages')
-    const pagesPrefix = pagesDir + '\\p'
+    const pagesPrefix = `${pagesDir}\\p`
     await mkdir(pagesDir, { recursive: true })
 
     execSync(`"${PDFTOPPM_EXE}" -png -r 200 "${pdfPath}" "${pagesPrefix}"`, {
@@ -151,7 +175,9 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
     })
 
     const { readdirSync } = await import('node:fs')
-    const pages = readdirSync(pagesDir).filter(f => f.endsWith('.png')).sort()
+    const pages = readdirSync(pagesDir)
+      .filter((f) => f.endsWith('.png'))
+      .sort()
     const texts: string[] = []
 
     for (const page of pages.slice(0, 40)) {
@@ -159,7 +185,7 @@ async function extractText(pdfPath: string): Promise<{ text: string; method: str
         const imgPath = `${pagesDir}\\${page}`
         const { stdout } = await execAsync(
           `"${TESSERACT_EXE}" "${imgPath}" stdout -l spa --psm 1`,
-          { timeout: 60000, maxBuffer: 5 * 1024 * 1024, env: OCR_ENV }
+          { timeout: 60000, maxBuffer: 5 * 1024 * 1024, env: OCR_ENV },
         )
         if (stdout.trim()) texts.push(stdout.trim())
       } catch {}
@@ -187,7 +213,12 @@ function cleanText(text: string): string {
     .trim()
 }
 
-function generateFrontmatter(norma: Norma, titulo: string, fecha: string, ocrProcessed: boolean): string {
+function generateFrontmatter(
+  norma: Norma,
+  titulo: string,
+  fecha: string,
+  ocrProcessed: boolean,
+): string {
   return `---
 titulo: "${titulo.replace(/"/g, '\\"')}"
 identificador: "${norma.identificador}"
@@ -208,11 +239,22 @@ disclaimer: true${ocrProcessed ? '\nocrProcessed: true' : ''}
 
 function extractDate(text: string): string {
   const months: Record<string, string> = {
-    enero: '01', febrero: '02', marzo: '03', abril: '04',
-    mayo: '05', junio: '06', julio: '07', agosto: '08',
-    septiembre: '09', octubre: '10', noviembre: '11', diciembre: '12',
+    enero: '01',
+    febrero: '02',
+    marzo: '03',
+    abril: '04',
+    mayo: '05',
+    junio: '06',
+    julio: '07',
+    agosto: '08',
+    septiembre: '09',
+    octubre: '10',
+    noviembre: '11',
+    diciembre: '12',
   }
-  const m = text.match(/(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})/i)
+  const m = text.match(
+    /(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})/i,
+  )
   if (m) {
     const day = m[1].padStart(2, '0')
     const month = months[m[2].toLowerCase()]
@@ -230,9 +272,9 @@ async function processNorma(norma: Norma): Promise<'ok' | 'skip' | 'fail'> {
 
   const pdfPath = join(TEMP_DIR, `${norma.identificador}.pdf`)
 
-  console.log(`    📥 Descargando PDF...`)
-  if (!await downloadPdf(norma.pdfUrl, pdfPath)) {
-    console.log(`    ❌ Descarga fallida`)
+  console.log('    📥 Descargando PDF...')
+  if (!(await downloadPdf(norma.pdfUrl, pdfPath))) {
+    console.log('    ❌ Descarga fallida')
     return 'fail'
   }
 
@@ -240,7 +282,9 @@ async function processNorma(norma: Norma): Promise<'ok' | 'skip' | 'fail'> {
   await unlink(pdfPath).catch(() => {})
 
   if (text.length < 200) {
-    console.log(`    ❌ Texto insuficiente (${text.length} chars, método: ${method})`)
+    console.log(
+      `    ❌ Texto insuficiente (${text.length} chars, método: ${method})`,
+    )
     return 'fail'
   }
 
@@ -249,13 +293,19 @@ async function processNorma(norma: Norma): Promise<'ok' | 'skip' | 'fail'> {
   const cleanedText = cleanText(text)
   const fecha = extractDate(cleanedText)
   const titulo = extractCleanTitle(norma.titulo, norma.numero, norma.tipo)
-  const frontmatter = generateFrontmatter(norma, titulo, fecha, method !== 'pdftotext')
+  const frontmatter = generateFrontmatter(
+    norma,
+    titulo,
+    fecha,
+    method !== 'pdftotext',
+  )
 
-  const tipoHeader = norma.tipo === 'decreto-legislativo'
-    ? `Decreto Legislativo N.° ${norma.numero}`
-    : norma.tipo === 'resolucion-legislativa'
-    ? `Resolución Legislativa N.° ${norma.numero}`
-    : `Ley N.° ${norma.numero}`
+  const tipoHeader =
+    norma.tipo === 'decreto-legislativo'
+      ? `Decreto Legislativo N.° ${norma.numero}`
+      : norma.tipo === 'resolucion-legislativa'
+        ? `Resolución Legislativa N.° ${norma.numero}`
+        : `Ley N.° ${norma.numero}`
 
   const markdown = `${frontmatter}\n\n# ${titulo}\n\n**${tipoHeader}**\n\n${cleanedText}\n`
 
@@ -266,10 +316,10 @@ async function processNorma(norma: Norma): Promise<'ok' | 'skip' | 'fail'> {
 async function main() {
   const args = process.argv.slice(2)
   const limit = args.includes('--limit')
-    ? parseInt(args[args.indexOf('--limit') + 1])
+    ? Number.parseInt(args[args.indexOf('--limit') + 1])
     : 999
   const startFrom = args.includes('--from')
-    ? parseInt(args[args.indexOf('--from') + 1])
+    ? Number.parseInt(args[args.indexOf('--from') + 1])
     : 0
 
   console.log('🏛️  Congreso de la República — Descarga masiva')
@@ -279,26 +329,31 @@ async function main() {
   await mkdir(TEMP_DIR, { recursive: true })
 
   const raw: NormaRaw[] = JSON.parse(
-    readFileSync(join(__dirname, '../normas-legales-gob.json'), 'utf-8')
+    readFileSync(join(__dirname, '../normas-legales-gob.json'), 'utf-8'),
   )
 
   const normas = raw
     .map(parseNorma)
     .filter((n): n is Norma => n !== null)
-    .filter((n, i, arr) => arr.findIndex(x => x.identificador === n.identificador) === i)
-    .filter(n => !existsSync(join(LEYES_DIR, `${n.identificador}.md`)))
+    .filter(
+      (n, i, arr) =>
+        arr.findIndex((x) => x.identificador === n.identificador) === i,
+    )
+    .filter((n) => !existsSync(join(LEYES_DIR, `${n.identificador}.md`)))
     .slice(startFrom, startFrom + limit)
 
   console.log(`📋 ${normas.length} normas por descargar\n`)
 
-  let ok = 0, fail = 0, skip = 0
+  let ok = 0
+  let fail = 0
+  let skip = 0
 
   for (const norma of normas) {
     const result = await processNorma(norma)
     if (result === 'ok') ok++
     else if (result === 'fail') fail++
     else skip++
-    await new Promise(r => setTimeout(r, 800))
+    await new Promise((r) => setTimeout(r, 800))
   }
 
   console.log('\n═══════════════════════════════════════════════')

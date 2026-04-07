@@ -11,11 +11,14 @@ import { PDFParse } from 'pdf-parse'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../leyes/pe')
 
-async function fetchPdfAsText(url: string): Promise<{ text: string; pages: number }> {
+async function fetchPdfAsText(
+  url: string,
+): Promise<{ text: string; pages: number }> {
   console.log(`   Downloading PDF from: ${url}`)
   const response = await fetch(url, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
     },
   })
 
@@ -29,7 +32,9 @@ async function fetchPdfAsText(url: string): Promise<{ text: string; pages: numbe
   const parser = new PDFParse({ data: buffer })
   await parser.load()
   const textResult = await parser.getText()
-  const text = textResult.pages.map((p: { text: string }) => p.text).join('\n\n')
+  const text = textResult.pages
+    .map((p: { text: string }) => p.text)
+    .join('\n\n')
   const pages = textResult.pages.length
   await parser.destroy()
 
@@ -37,16 +42,18 @@ async function fetchPdfAsText(url: string): Promise<{ text: string; pages: numbe
 }
 
 function formatText(text: string): string {
-  return text
-    .replace(/\r\n/g, '\n')
-    .replace(/\n{3,}/g, '\n\n')
-    // Format articles
-    .replace(/Art[íi]culo\s+(\d+)/gi, '\n\n## Artículo $1')
-    // Format sections/titles
-    .replace(/SECCIÓN\s+([IVX]+)/gi, '\n\n# SECCIÓN $1')
-    .replace(/TÍTULO\s+([IVX]+)/gi, '\n\n# TÍTULO $1')
-    .replace(/LIBRO\s+([IVX]+)/gi, '\n\n# LIBRO $1')
-    .trim()
+  return (
+    text
+      .replace(/\r\n/g, '\n')
+      .replace(/\n{3,}/g, '\n\n')
+      // Format articles
+      .replace(/Art[íi]culo\s+(\d+)/gi, '\n\n## Artículo $1')
+      // Format sections/titles
+      .replace(/SECCIÓN\s+([IVX]+)/gi, '\n\n# SECCIÓN $1')
+      .replace(/TÍTULO\s+([IVX]+)/gi, '\n\n# TÍTULO $1')
+      .replace(/LIBRO\s+([IVX]+)/gi, '\n\n# LIBRO $1')
+      .trim()
+  )
 }
 
 async function main() {
@@ -66,15 +73,17 @@ async function main() {
       const content = formatText(text)
 
       const garbled = (content.match(/�/g) || []).length
-      console.log(`   Pages: ${pages} Chars: ${content.length} Garbled: ${garbled}`)
+      console.log(
+        `   Pages: ${pages} Chars: ${content.length} Garbled: ${garbled}`,
+      )
 
       if (garbled > 100) {
-        console.log(`   ⚠️ Too many garbled characters, trying next source...`)
+        console.log('   ⚠️ Too many garbled characters, trying next source...')
         continue
       }
 
       if (content.length < 50000) {
-        console.log(`   ⚠️ Content seems incomplete, trying next source...`)
+        console.log('   ⚠️ Content seems incomplete, trying next source...')
         continue
       }
 
@@ -104,10 +113,14 @@ ${content}
 
       const filePath = join(OUTPUT_DIR, 'ley-9024.md')
       await writeFile(filePath, markdown, 'utf-8')
-      console.log(`\n✅ Saved: ley-9024.md (${(markdown.length / 1024).toFixed(1)} KB)`)
+      console.log(
+        `\n✅ Saved: ley-9024.md (${(markdown.length / 1024).toFixed(1)} KB)`,
+      )
       return
     } catch (error) {
-      console.error(`   ❌ Error: ${error instanceof Error ? error.message : error}`)
+      console.error(
+        `   ❌ Error: ${error instanceof Error ? error.message : error}`,
+      )
     }
   }
 

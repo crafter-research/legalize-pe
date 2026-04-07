@@ -23,10 +23,14 @@ function parseLeyCard(content: string): LeyCard {
 }
 
 const leyesDir = join(process.cwd(), '../../leyes/pe')
-const leyFiles = readdirSync(leyesDir).filter((f) => f.endsWith('.md') && !f.startsWith('HISTORIAL'))
+const leyFiles = readdirSync(leyesDir).filter(
+  (f) => f.endsWith('.md') && !f.startsWith('HISTORIAL'),
+)
 const leyes = leyFiles
   .map((f) => parseLeyCard(readFileSync(join(leyesDir, f), 'utf-8')))
-  .sort((a, b) => (b.fechaPublicacion ?? '').localeCompare(a.fechaPublicacion ?? ''))
+  .sort((a, b) =>
+    (b.fechaPublicacion ?? '').localeCompare(a.fechaPublicacion ?? ''),
+  )
 
 const rangoLabels: Record<string, string> = {
   constitucion: 'Constitución',
@@ -39,8 +43,8 @@ const rangoLabels: Record<string, string> = {
   'resolucion-ministerial': 'R. Min.',
   'resolucion-jefatural': 'R. Jef.',
   'resolucion-directoral': 'R. Dir.',
-  'resolucion': 'Resolución',
-  'ordenanza': 'Ordenanza',
+  resolucion: 'Resolución',
+  ordenanza: 'Ordenanza',
   reglamento: 'Reglamento',
 }
 
