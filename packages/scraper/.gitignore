@@ -1,0 +1,7 @@
+# Scraped data files
+*.json
+*.html
+
+# Keep source files
+!package.json
+!tsconfig.json
