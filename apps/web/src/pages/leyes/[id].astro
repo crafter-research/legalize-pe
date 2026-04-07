@@ -76,12 +76,12 @@ const htmlContent = await marked(body)
 <Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
   <main id="main-content">
     <div class="container">
-      <nav class="breadcrumb">
+      <nav class="breadcrumb" aria-label="Navegación de ruta">
         <a href="/">Inicio</a>
-        <span>/</span>
+        <span aria-hidden="true">/</span>
         <a href="/leyes">Normas</a>
-        <span>/</span>
-        <span>{id}</span>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{id}</span>
       </nav>
 
       <div class="page-top">
@@ -115,7 +115,7 @@ const htmlContent = await marked(body)
                 <dt>Fuente</dt>
                 <dd>
                   <a href={meta.fuente} target="_blank" rel="noopener">
-                    SPIJ / Minjus &nearr;
+                    SPIJ / Minjus<span class="sr-only"> (abre en nueva ventana)</span> &nearr;
                   </a>
                 </dd>
               </div>
@@ -135,7 +135,7 @@ const htmlContent = await marked(body)
 
       <section class="version-history">
         <button id="history-toggle" class="history-toggle-btn" aria-expanded="false" aria-controls="history-content">
-          <svg class="history-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <svg class="history-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <circle cx="12" cy="12" r="10"/>
             <polyline points="12 6 12 12 16 14"/>
           </svg>
