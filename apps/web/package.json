@@ -13,11 +13,14 @@
     "@astrojs/sitemap": "^3.7.2",
     "@astrojs/vercel": "^8",
     "@legalize-pe/git": "workspace:*",
+    "@vite-pwa/astro": "^1.2.0",
     "astro": "^5.1.1",
-    "marked": "^17.0.5"
+    "marked": "^17.0.5",
+    "workbox-window": "^7.4.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
+    "sharp": "^0.34.5",
     "typescript": "^5.7.2"
   }
 }
