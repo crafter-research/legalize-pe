@@ -1,8 +1,9 @@
-import * as fs from 'fs'
-import { execSync } from 'child_process'
-import * as path from 'path'
+import { execSync } from 'node:child_process'
+import * as fs from 'node:fs'
+import * as path from 'node:path'
 
-const LEYES_DIR = '/Users/shiara/Documents/personal-projects/legalize-pe/leyes/pe'
+const LEYES_DIR =
+  '/Users/shiara/Documents/personal-projects/legalize-pe/leyes/pe'
 const ROOT_DIR = '/Users/shiara/Documents/personal-projects/legalize-pe'
 
 interface NormaInfo {
@@ -18,12 +19,14 @@ function extractFrontmatter(filepath: string): NormaInfo | null {
   const content = fs.readFileSync(filepath, 'utf-8')
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/)
 
-  if (!frontmatterMatch) return null
+  if (!frontmatterMatch?.[1]) return null
 
   const frontmatter = frontmatterMatch[1]
 
   const getValue = (key: string): string => {
-    const match = frontmatter.match(new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, 'm'))
+    const match = frontmatter.match(
+      new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, 'm'),
+    )
     return match?.[1]?.trim() || ''
   }
 
@@ -43,23 +46,31 @@ function formatRango(rango: string): string {
     'resolucion-ministerial': 'Resolución Ministerial',
     'resolucion-jefatural': 'Resolución Jefatural',
     'resolucion-directoral': 'Resolución Directoral',
-    'resolucion': 'Resolución',
+    resolucion: 'Resolución',
     'decreto-legislativo': 'Decreto Legislativo',
     'decreto-supremo': 'Decreto Supremo',
     'decreto-de-urgencia': 'Decreto de Urgencia',
-    'ley': 'Ley',
-    'ordenanza': 'Ordenanza',
+    ley: 'Ley',
+    ordenanza: 'Ordenanza',
   }
   return rangoMap[rango] || rango
 }
 
 async function main() {
   // Get list of new files from git status
-  const gitStatus = execSync('git status --porcelain', { cwd: ROOT_DIR, encoding: 'utf-8' })
+  const gitStatus = execSync('git status --porcelain', {
+    cwd: ROOT_DIR,
+    encoding: 'utf-8',
+  })
   const newFiles = gitStatus
     .split('\n')
-    .filter(line => line.startsWith('??') && line.includes('leyes/pe/') && line.endsWith('.md'))
-    .map(line => line.replace('?? ', '').trim())
+    .filter(
+      (line) =>
+        line.startsWith('??') &&
+        line.includes('leyes/pe/') &&
+        line.endsWith('.md'),
+    )
+    .map((line) => line.replace('?? ', '').trim())
 
   console.log(`Encontrados ${newFiles.length} archivos nuevos para commitear\n`)
 
@@ -83,8 +94,7 @@ async function main() {
 
   console.log(`Procesando ${normas.length} normas...\n`)
 
-  for (let i = 0; i < normas.length; i++) {
-    const norma = normas[i]
+  for (const [i, norma] of normas.entries()) {
     const relPath = `leyes/pe/${norma.filename}`
 
     // Format date for git (needs time component)
@@ -114,7 +124,7 @@ async function main() {
         env,
       })
 
-      console.log(`  ✓ Commit creado\n`)
+      console.log('  ✓ Commit creado\n')
     } catch (error) {
       const errorMsg = error instanceof Error ? error.message : String(error)
       console.log(`  ✗ Error: ${errorMsg}\n`)

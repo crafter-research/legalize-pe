@@ -1,6 +1,6 @@
-import { chromium } from 'playwright'
+import * as fs from 'node:fs'
 import { load } from 'cheerio'
-import * as fs from 'fs'
+import { chromium } from 'playwright'
 
 interface NormaElPeruano {
   tipo: string
@@ -48,7 +48,9 @@ async function scrapeElPeruano(): Promise<NormaElPeruano[]> {
     for (const norma of normas) {
       tipoCount[norma.tipo] = (tipoCount[norma.tipo] || 0) + 1
     }
-    for (const [tipo, count] of Object.entries(tipoCount).sort((a, b) => b[1] - a[1])) {
+    for (const [tipo, count] of Object.entries(tipoCount).sort(
+      (a, b) => b[1] - a[1],
+    )) {
       console.log(`  ${tipo}: ${count}`)
     }
 
@@ -58,7 +60,9 @@ async function scrapeElPeruano(): Promise<NormaElPeruano[]> {
     for (const norma of normas) {
       entidadCount[norma.entidad] = (entidadCount[norma.entidad] || 0) + 1
     }
-    for (const [entidad, count] of Object.entries(entidadCount).sort((a, b) => b[1] - a[1])) {
+    for (const [entidad, count] of Object.entries(entidadCount).sort(
+      (a, b) => b[1] - a[1],
+    )) {
       console.log(`  ${entidad}: ${count}`)
     }
 
@@ -72,7 +76,6 @@ async function scrapeElPeruano(): Promise<NormaElPeruano[]> {
       console.log(`  URL: ${norma.url}`)
       console.log(`  ID: ${norma.idNorma}`)
     }
-
   } catch (error) {
     console.error('Error durante el scraping:', error)
   } finally {
@@ -92,7 +95,9 @@ function parseElPeruanoHtml(html: string): NormaElPeruano[] {
     const articleHtml = $article.html() || ''
 
     // Buscar el link a la norma
-    const $link = $article.find('h5 a[href*="busquedas.elperuano.pe/dispositivo"]')
+    const $link = $article.find(
+      'h5 a[href*="busquedas.elperuano.pe/dispositivo"]',
+    )
     if ($link.length === 0) return
 
     const url = $link.attr('href') || ''
@@ -145,7 +150,10 @@ function parseElPeruanoHtml(html: string): NormaElPeruano[] {
   return normas
 }
 
-async function downloadNormaContent(norma: NormaElPeruano, browser: Awaited<ReturnType<typeof chromium.launch>>): Promise<string> {
+async function downloadNormaContent(
+  norma: NormaElPeruano,
+  browser: Awaited<ReturnType<typeof chromium.launch>>,
+): Promise<string> {
   // El contenido real está en un iframe que carga desde la API
   // URL: https://busquedas.elperuano.pe/api/visor_html/{idNorma}
   const apiUrl = `https://busquedas.elperuano.pe/api/visor_html/${norma.idNorma}`
@@ -194,11 +202,13 @@ async function downloadAllNormas(): Promise<void> {
 
   const browser = await chromium.launch({ headless: true })
 
-  const results: { norma: NormaElPeruano; content: string; error?: string }[] = []
+  const results: { norma: NormaElPeruano; content: string; error?: string }[] =
+    []
 
-  for (let i = 0; i < normas.length; i++) {
-    const norma = normas[i]
-    console.log(`[${i + 1}/${normas.length}] Descargando: ${norma.tipo} N° ${norma.numero}...`)
+  for (const [i, norma] of normas.entries()) {
+    console.log(
+      `[${i + 1}/${normas.length}] Descargando: ${norma.tipo} N° ${norma.numero}...`,
+    )
 
     try {
       const content = await downloadNormaContent(norma, browser)
@@ -211,18 +221,21 @@ async function downloadAllNormas(): Promise<void> {
     }
 
     // Pequeña pausa entre requests
-    await new Promise(resolve => setTimeout(resolve, 500))
+    await new Promise((resolve) => setTimeout(resolve, 500))
   }
 
   await browser.close()
 
   // Guardar resultados
-  fs.writeFileSync('elperuano-normas-contenido.json', JSON.stringify(results, null, 2))
-  console.log(`\nResultados guardados en elperuano-normas-contenido.json`)
+  fs.writeFileSync(
+    'elperuano-normas-contenido.json',
+    JSON.stringify(results, null, 2),
+  )
+  console.log('\nResultados guardados en elperuano-normas-contenido.json')
 
   // Resumen
-  const exitosos = results.filter(r => !r.error).length
-  const fallidos = results.filter(r => r.error).length
+  const exitosos = results.filter((r) => !r.error).length
+  const fallidos = results.filter((r) => r.error).length
   console.log(`\nResumen: ${exitosos} exitosos, ${fallidos} fallidos`)
 }
 
