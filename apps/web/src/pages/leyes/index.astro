@@ -136,8 +136,8 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
                   <span class="badge badge-rango">
                     {rangoLabels[ley.rango] ?? ley.rango}
                   </span>
-                  {ley.estado === 'vigente' && (
-                    <span class="badge badge-vigente">Vigente</span>
+                  {ley.estado !== 'vigente' && (
+                    <span class="badge badge-outdated">{ley.estado}</span>
                   )}
                   <span class="fecha">{ley.fechaPublicacion}</span>
                 </div>
@@ -515,10 +515,10 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     border: 1px solid var(--color-border);
   }
 
-  .badge-vigente {
-    background: #ffffff;
-    color: #000000;
-    border: 1px solid #ffffff;
+  .badge-outdated {
+    background: transparent;
+    color: #888;
+    border: 1px solid #444;
   }
 
   .fecha {
