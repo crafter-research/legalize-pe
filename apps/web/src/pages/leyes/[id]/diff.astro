@@ -37,14 +37,14 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
 <Layout title={`Comparar versiones — ${id}`}>
   <main id="main-content">
     <div class="container">
-      <nav class="breadcrumb">
+      <nav class="breadcrumb" aria-label="Navegación de ruta">
         <a href="/">Inicio</a>
-        <span>/</span>
+        <span aria-hidden="true">/</span>
         <a href="/leyes">Normas</a>
-        <span>/</span>
+        <span aria-hidden="true">/</span>
         <a href={`/leyes/${id}`}>{id}</a>
-        <span>/</span>
-        <span>Comparar</span>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">Comparar</span>
       </nav>
 
       {error ? (
@@ -62,7 +62,7 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
                 <span class="version-hash">{fromHash.slice(0, 7)}</span>
                 <span class="version-date">{fromDate}</span>
               </div>
-              <svg class="arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <svg class="arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path d="M5 12h14M12 5l7 7-7 7"/>
               </svg>
               <div class="diff-version diff-to">
@@ -80,7 +80,7 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
           <div class="diff-content" role="region" aria-label="Cambios en el código">
             {diff.hunks.length === 0 ? (
               <div class="no-changes">
-                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
                   <path d="M9 12l2 2 4-4"/>
                   <circle cx="12" cy="12" r="10"/>
                 </svg>
