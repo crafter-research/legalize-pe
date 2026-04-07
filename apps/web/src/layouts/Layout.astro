@@ -1,4 +1,6 @@
 ---
+import { pwaInfo } from 'virtual:pwa-info'
+
 interface Props {
   title: string
   description?: string
@@ -18,6 +20,14 @@ const {
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
 
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#000000" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Legalize PE" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/favicon.svg" color="#000000" />
+
     <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -31,10 +41,25 @@ const {
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title}</title>
+
+    {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
   </head>
   <body>
     <a href="#main-content" class="skip-link">Saltar al contenido principal</a>
     <slot />
+    <script>
+      import { registerSW } from 'virtual:pwa-register'
+
+      registerSW({
+        immediate: true,
+        onRegisteredSW(swScriptUrl) {
+          console.log('SW registered:', swScriptUrl)
+        },
+        onOfflineReady() {
+          console.log('PWA ready for offline use')
+        },
+      })
+    </script>
   </body>
 </html>
 
