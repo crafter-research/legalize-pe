@@ -91,6 +91,7 @@ const categorias = [
           {categorias.map((cat) => (
             <a href={`/leyes?q=${cat.query}`} class="cat-chip">{cat.label}</a>
           ))}
+          <a href="https://ko-fi.com/shiaradesign" target="_blank" rel="noopener" class="bmc-link">☕ Invítame un café</a>
         </div>
       </div>
     </section>
@@ -271,6 +272,14 @@ const categorias = [
     border-color: #555;
     color: var(--color-text);
     text-decoration: none;
+  }
+
+  .bmc-link {
+    color: #FF5E5B !important;
+  }
+
+  .bmc-link:hover {
+    color: #ff7c7a !important;
   }
 
   /* Stats */
