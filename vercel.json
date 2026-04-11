@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "pnpm install && pnpm turbo run build --filter=@legalize-pe/web",
-  "outputDirectory": "apps/web/.vercel/output",
+  "buildCommand": "pnpm turbo run build --filter=@legalize-pe/web && mkdir -p .vercel && cp -r apps/web/.vercel/output .vercel/output",
+  "installCommand": "pnpm install",
   "framework": null
 }
