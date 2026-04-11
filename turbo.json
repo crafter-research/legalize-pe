@@ -3,7 +3,12 @@
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
-      "inputs": ["$TURBO_DEFAULT$", "astro.config.*", "next.config.*", "vite.config.*"],
+      "inputs": [
+        "$TURBO_DEFAULT$",
+        "astro.config.*",
+        "next.config.*",
+        "vite.config.*"
+      ],
       "outputs": ["dist/**", ".next/**", "!.next/cache/**", ".vercel/output/**"]
     },
     "dev": {
