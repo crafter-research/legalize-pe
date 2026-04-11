@@ -5,6 +5,7 @@ import { defineConfig } from 'astro/config'
 
 export default defineConfig({
   site: 'https://legalize.crafter.ing',
+  output: 'server',
   adapter: vercel(),
   integrations: [
     sitemap(),
