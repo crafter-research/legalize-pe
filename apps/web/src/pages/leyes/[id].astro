@@ -1,6 +1,6 @@
 ---
-import { readFileSync, readdirSync } from 'node:fs'
-import { join } from 'node:path'
+import { readFileSync, readdirSync, statSync } from 'node:fs'
+import { join, relative } from 'node:path'
 import { marked } from 'marked'
 import Layout from '../../layouts/Layout.astro'
 
@@ -15,48 +15,82 @@ interface LeyFrontmatter {
   estado: string
   fuente: string
   diarioOficial: string
+  ocrProcessed?: boolean
+  ocrQuality?: 'poor' | 'medium' | 'good'
 }
 
 function parseFrontmatter(content: string): { meta: LeyFrontmatter; body: string } {
   const parts = content.split(/^---\s*$/m)
-  // parts[0] is empty, parts[1] is yaml, parts[2+] is body
   const yamlBlock = parts[1] ?? ''
   const body = parts.slice(2).join('---').trim()
-  const result: Record<string, string> = {}
+  const result: Record<string, string | boolean> = {}
   for (const line of yamlBlock.split('\n')) {
     const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
     if (match) {
-      result[match[1]] = match[2].trim()
+      const value = match[2].trim()
+      // Handle boolean values
+      if (value === 'true') {
+        result[match[1]] = true
+      } else if (value === 'false') {
+        result[match[1]] = false
+      } else {
+        result[match[1]] = value
+      }
     }
   }
   return { meta: result as unknown as LeyFrontmatter, body }
 }
 
+function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
+  const files: string[] = []
+  for (const entry of readdirSync(dir)) {
+    if (entry.startsWith('.')) continue
+    const fullPath = join(dir, entry)
+    const stat = statSync(fullPath)
+    if (stat.isDirectory()) {
+      files.push(...getAllMdFiles(fullPath, baseDir))
+    } else if (entry.endsWith('.md')) {
+      files.push(relative(baseDir, fullPath))
+    }
+  }
+  return files
+}
+
 const leyesDir = join(process.cwd(), '../../leyes/pe')
 
-export function getStaticPaths() {
-  const dir = join(process.cwd(), '../../leyes/pe')
-  const files = readdirSync(dir).filter((f) => f.endsWith('.md'))
-  return files.map((filename) => {
+// Build a map of identificador -> filename for SSR lookup
+function buildIdToFileMap(dir: string): Map<string, string> {
+  const map = new Map<string, string>()
+  const files = getAllMdFiles(dir)
+  for (const filename of files) {
     const content = readFileSync(join(dir, filename), 'utf-8')
     const parts = content.split(/^---\s*$/m)
     const yamlBlock = parts[1] ?? ''
-    const result: Record<string, string> = {}
     for (const line of yamlBlock.split('\n')) {
-      const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
+      const match = line.match(/^identificador:\s*"?([^"]*?)"?\s*$/)
       if (match) {
-        result[match[1]] = match[2].trim()
+        map.set(match[1].trim(), filename)
+        break
       }
     }
-    return {
-      params: { id: result['identificador'] ?? filename.replace('.md', '') },
-      props: { filename },
+    // Also map by filename without extension
+    const idFromFilename = filename.replace(/\.md$/, '').replace(/\//g, '-')
+    if (!map.has(idFromFilename)) {
+      map.set(idFromFilename, filename)
     }
-  })
+  }
+  return map
 }
 
+const idToFileMap = buildIdToFileMap(leyesDir)
+
 const { id } = Astro.params
-const { filename } = Astro.props as { filename: string }
+
+// Find the file for this ID
+const filename = idToFileMap.get(id ?? '')
+if (!filename) {
+  return Astro.redirect('/404')
+}
 
 const rawContent = readFileSync(join(leyesDir, filename), 'utf-8')
 const { meta, body } = parseFrontmatter(rawContent)
@@ -95,6 +129,19 @@ const htmlContent = await marked(body)
               <span class="badge badge-vigente">Vigente</span>
             )}
           </div>
+          {meta.ocrQuality === 'poor' && (
+            <div class="ocr-warning" role="alert">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                <line x1="12" y1="9" x2="12" y2="13"/>
+                <line x1="12" y1="17" x2="12.01" y2="17"/>
+              </svg>
+              <div>
+                <strong>Calidad de texto limitada</strong>
+                <p>Este documento fue procesado con OCR desde un PDF escaneado antiguo. El texto puede contener errores de reconocimiento.</p>
+              </div>
+            </div>
+          )}
           <dl class="meta-grid">
             <div>
               <dt>Publicacion</dt>
@@ -330,6 +377,36 @@ const htmlContent = await marked(body)
     background: #ffffff;
     color: #000000;
     border: 1px solid #ffffff;
+  }
+
+  .ocr-warning {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    margin-top: 1rem;
+    background: rgba(234, 179, 8, 0.1);
+    border: 1px solid rgba(234, 179, 8, 0.3);
+    border-radius: 8px;
+    color: #eab308;
+  }
+
+  .ocr-warning svg {
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+  }
+
+  .ocr-warning strong {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .ocr-warning p {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
   }
 
   .meta-grid {
