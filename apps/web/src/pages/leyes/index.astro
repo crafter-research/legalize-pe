@@ -1,6 +1,6 @@
 ---
-import { readFileSync, readdirSync } from 'node:fs'
-import { join } from 'node:path'
+import { readFileSync, readdirSync, statSync } from 'node:fs'
+import { join, relative } from 'node:path'
 import Layout from '../../layouts/Layout.astro'
 
 interface LeyFrontmatter {
@@ -24,13 +24,28 @@ function parseFrontmatter(content: string): LeyFrontmatter {
   return result as unknown as LeyFrontmatter
 }
 
+function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
+  const files: string[] = []
+  for (const entry of readdirSync(dir)) {
+    if (entry.startsWith('.') || entry.startsWith('HISTORIAL')) continue
+    const fullPath = join(dir, entry)
+    const stat = statSync(fullPath)
+    if (stat.isDirectory()) {
+      files.push(...getAllMdFiles(fullPath, baseDir))
+    } else if (entry.endsWith('.md')) {
+      files.push(relative(baseDir, fullPath))
+    }
+  }
+  return files
+}
+
 const leyesDir = join(process.cwd(), '../../leyes/pe')
-const files = readdirSync(leyesDir).filter((f) => f.endsWith('.md') && !f.startsWith('HISTORIAL'))
+const files = getAllMdFiles(leyesDir)
 
 const leyes = files.map((filename) => {
   const content = readFileSync(join(leyesDir, filename), 'utf-8')
   return parseFrontmatter(content)
-}).sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'))
+}).filter(ley => ley.titulo && ley.identificador).sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'))
 
 const rangoLabels: Record<string, string> = {
   constitucion: 'Constitución',
@@ -577,20 +592,87 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
   }
 
   @media (max-width: 640px) {
+    .container {
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    .breadcrumb {
+      margin-bottom: 1.5rem;
+    }
+
+    .page-header {
+      margin-bottom: 1.5rem;
+    }
+
+    .page-header h1 {
+      font-size: 1.5rem;
+    }
+
+    .subtitle {
+      font-size: 0.9rem;
+    }
+
+    #search-input {
+      padding: 0.75rem 2.5rem;
+      font-size: 0.9rem;
+    }
+
     .ley-titulo {
       white-space: normal;
+      font-size: 0.95rem;
     }
 
     .filters {
       flex-direction: column;
+      gap: 0.75rem;
     }
 
     .filter-group select {
       width: 100%;
+      min-width: unset;
     }
 
     .search-examples {
-      flex-wrap: wrap;
+      padding: 0.625rem 0.75rem;
+    }
+
+    .examples-label {
+      width: 100%;
+      margin-bottom: 0.25rem;
+    }
+
+    .example-chip {
+      font-size: 0.75rem;
+      padding: 0.3rem 0.6rem;
+    }
+
+    .leyes-list {
+      gap: 0.5rem;
+    }
+
+    .ley-card {
+      padding: 1rem;
+    }
+
+    .ley-card-main {
+      gap: 0.375rem;
+    }
+
+    .ley-meta {
+      gap: 0.375rem;
+    }
+
+    .badge {
+      font-size: 0.68rem;
+      padding: 0.15em 0.5em;
+    }
+
+    .fecha {
+      font-size: 0.75rem;
+    }
+
+    .ley-arrow {
+      display: none;
     }
   }
 </style>
