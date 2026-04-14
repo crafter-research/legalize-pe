@@ -1,12 +1,17 @@
 ---
 titulo: "Código de los Niños y Adolescentes"
-ley: "27337"
-fecha_publicacion: "2000-08-07"
-fecha_vigencia: "2000-08-08"
-tipo: "codigo"
+identificador: "codigo-ninos-adolescentes"
+pais: "pe"
+jurisdiccion: "pe"
+rango: "codigo"
+fechaPublicacion: "2000-08-07"
+ultimaActualizacion: "2000-08-07"
 estado: "vigente"
+fuente: "https://diariooficial.elperuano.pe/normas"
+diarioOficial: "El Peruano"
+sector: "CONGRESO DE LA REPUBLICA"
 sumilla: "Código de los Niños y Adolescentes - Ley N.° 27337"
-tags:
+materias:
   - niños
   - adolescentes
   - familia
@@ -15,6 +20,7 @@ tags:
   - adopción
   - tenencia
   - alimentos
+disclaimer: true
 ---
 
 # CÓDIGO DE LOS NIÑOS Y ADOLESCENTES

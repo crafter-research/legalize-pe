@@ -1,53 +1,53 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Final pass - catch ALL remaining patterns
 const finalFixes: [RegExp, string][] = [
   // Most common remaining
-  [/\bE�A\b/g, 'ÉA'],  // ÁREA
-  [/\be�a\b/g, 'éa'],  // área
-  [/gu�s/g, 'gués'],  // burgués, portugués
+  [/\bE�A\b/g, 'ÉA'], // ÁREA
+  [/\be�a\b/g, 'éa'], // área
+  [/gu�s/g, 'gués'], // burgués, portugués
   [/GU�S/g, 'GUÉS'],
-  [/g�s\b/g, 'gés'],  // Note: generic
+  [/g�s\b/g, 'gés'], // Note: generic
   [/G�S\b/g, 'GÉS'],
-  [/�a\b/g, 'ía'],  // generic -ía ending
+  [/�a\b/g, 'ía'], // generic -ía ending
   [/�A\b/g, 'ÍA'],
-  [/R�\s/g, 'RÉ '],  // podré
+  [/R�\s/g, 'RÉ '], // podré
   [/R�$/gm, 'RÉ'],
   [/r�\s/g, 'ré '],
   [/r�$/gm, 'ré'],
-  [/\bd�s\b/g, 'dís'],  // Note: could be días or -dés
+  [/\bd�s\b/g, 'dís'], // Note: could be días or -dés
   [/\bD�S\b/g, 'DÍS'],
-  [/B�s/g, 'Bás'],  // Básico
+  [/B�s/g, 'Bás'], // Básico
   [/B�S/g, 'BÁS'],
   [/b�s/g, 'bás'],
-  [/h�d/g, 'hád'],  // Note: rare, could be other
+  [/h�d/g, 'hád'], // Note: rare, could be other
   [/H�D/g, 'HÁD'],
-  [/d�g/g, 'dóg'],  // código
+  [/d�g/g, 'dóg'], // código
   [/D�G/g, 'DÓG'],
-  [/v�n/g, 'vén'],  // jóvenes, convención
+  [/v�n/g, 'vén'], // jóvenes, convención
   [/V�N/g, 'VÉN'],
-  [/i�\s/g, 'ié '],  // Note: rare
+  [/i�\s/g, 'ié '], // Note: rare
   [/i�$/gm, 'ié'],
-  [/f�c/g, 'fác'],  // fácil, fáctico
+  [/f�c/g, 'fác'], // fácil, fáctico
   [/F�C/g, 'FÁC'],
-  [/l�q/g, 'líq'],  // líquido
+  [/l�q/g, 'líq'], // líquido
   [/L�Q/g, 'LÍQ'],
-  [/\.�\s/g, '.ó '],  // sentence ending with ó
-  [/n�r/g, 'nér'],  // género
+  [/\.�\s/g, '.ó '], // sentence ending with ó
+  [/n�r/g, 'nér'], // género
   [/N�R/g, 'NÉR'],
-  [/n�c/g, 'néc'],  // técnico
+  [/n�c/g, 'néc'], // técnico
   [/N�C/g, 'NÉC'],
-  [/s�l/g, 'sól'],  // sólido
+  [/s�l/g, 'sól'], // sólido
   [/S�L/g, 'SÓL'],
-  [/p�n/g, 'pón'],  // Note: could be -pán
+  [/p�n/g, 'pón'], // Note: could be -pán
   [/P�N/g, 'PÓN'],
-  [/C�m/g, 'Cám'],  // Cámara
+  [/C�m/g, 'Cám'], // Cámara
   [/C�M/g, 'CÁM'],
   [/c�m/g, 'cám'],
 
   // More specific patterns
-  [/Bas�n/g, 'Basán'],  // Name
+  [/Bas�n/g, 'Basán'], // Name
   [/BAS�N/g, 'BASÁN'],
   [/c�digo/g, 'código'],
   [/C�DIGO/g, 'CÓDIGO'],
@@ -98,9 +98,9 @@ const finalFixes: [RegExp, string][] = [
   [/dan�s/g, 'danés'],
   [/DAN�S/g, 'DANÉS'],
   [/Dan�s/g, 'Danés'],
-  [/suec�s/g, 'suecés'],  // Note: should be "sueco" not "suecés"
+  [/suec�s/g, 'suecés'], // Note: should be "sueco" not "suecés"
   [/SUEC�S/g, 'SUECÉS'],
-  [/finand�s/g, 'finandés'],  // Note: should be "finlandés"
+  [/finand�s/g, 'finandés'], // Note: should be "finlandés"
   [/FINLAND�S/g, 'FINLANDÉS'],
   [/finland�s/g, 'finlandés'],
   [/irland�s/g, 'irlandés'],
@@ -109,7 +109,7 @@ const finalFixes: [RegExp, string][] = [
   [/escoc�s/g, 'escocés'],
   [/ESCOC�S/g, 'ESCOCÉS'],
   [/Escoc�s/g, 'Escocés'],
-  [/norueg�s/g, 'noruegés'],  // Note: should be "noruego"
+  [/norueg�s/g, 'noruegés'], // Note: should be "noruego"
   [/aragon�s/g, 'aragonés'],
   [/ARAGON�S/g, 'ARAGONÉS'],
   [/Aragon�s/g, 'Aragonés'],
@@ -121,9 +121,9 @@ const finalFixes: [RegExp, string][] = [
   [/Montan�s/g, 'Montañés'],
 
   // More -éric patterns
-  [/g�ner/g, 'géner'],  // género, genérico
+  [/g�ner/g, 'géner'], // género, genérico
   [/G�NER/g, 'GÉNER'],
-  [/num�r/g, 'numér'],  // numérico
+  [/num�r/g, 'numér'], // numérico
   [/NUM�R/g, 'NUMÉR'],
 
   // More -ónic patterns
@@ -139,7 +139,7 @@ const finalFixes: [RegExp, string][] = [
   // Additional specific words
   [/�rea/g, 'área'],
   [/�REA/g, 'ÁREA'],
-  [/Area/g, 'Area'],  // Usually OK without accent in names
+  [/Area/g, 'Area'], // Usually OK without accent in names
   [/h�bitat/g, 'hábitat'],
   [/H�BITAT/g, 'HÁBITAT'],
   [/H�bitat/g, 'Hábitat'],
@@ -221,11 +221,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Pattern-based fixes for Spanish text where U+FFFD replaced accented characters
@@ -571,11 +571,11 @@ const contextualFixes: [RegExp, string][] = [
   [/s�bado/g, 'sábado'],
 
   // Month names
-  [/Marzo/g, 'Marzo'],  // Usually OK
-  [/Febrero/g, 'Febrero'],  // Usually OK
+  [/Marzo/g, 'Marzo'], // Usually OK
+  [/Febrero/g, 'Febrero'], // Usually OK
 
   // Common legal/government terms
-  [/ley/g, 'ley'],  // Usually OK, but check context
+  [/ley/g, 'ley'], // Usually OK, but check context
   [/Polic�a/g, 'Policía'],
   [/POLIC�A/g, 'POLICÍA'],
   [/polic�a/g, 'policía'],
@@ -612,12 +612,12 @@ const contextualFixes: [RegExp, string][] = [
   [/p�blico/g, 'público'],
   [/P�BLICO/g, 'PÚBLICO'],
   [/P�blico/g, 'Público'],
-  [/Ministerio/g, 'Ministerio'],  // Usually OK
-  [/Ministro/g, 'Ministro'],  // Usually OK
-  [/ministro/g, 'ministro'],  // Usually OK
-  [/Legislativo/g, 'Legislativo'],  // Usually OK
-  [/LEGISLATIVO/g, 'LEGISLATIVO'],  // Usually OK
-  [/legislativo/g, 'legislativo'],  // Usually OK
+  [/Ministerio/g, 'Ministerio'], // Usually OK
+  [/Ministro/g, 'Ministro'], // Usually OK
+  [/ministro/g, 'ministro'], // Usually OK
+  [/Legislativo/g, 'Legislativo'], // Usually OK
+  [/LEGISLATIVO/g, 'LEGISLATIVO'], // Usually OK
+  [/legislativo/g, 'legislativo'], // Usually OK
   [/r�gimen/g, 'régimen'],
   [/R�GIMEN/g, 'RÉGIMEN'],
   [/R�gimen/g, 'Régimen'],
@@ -812,7 +812,7 @@ const contextualFixes: [RegExp, string][] = [
   [/DECLAR�/g, 'DECLARÓ'],
   [/estableci�/g, 'estableció'],
   [/ESTABLECI�/g, 'ESTABLECIÓ'],
-  [/dispuso/g, 'dispuso'],  // Usually OK
+  [/dispuso/g, 'dispuso'], // Usually OK
   [/se�al�/g, 'señaló'],
   [/SE�AL�/g, 'SEÑALÓ'],
   [/design�/g, 'designó'],
@@ -956,7 +956,7 @@ const contextualFixes: [RegExp, string][] = [
   [/ARA�A/g, 'ARAÑA'],
   [/cuca�a/g, 'cucaña'],
   [/mara�a/g, 'maraña'],
-  [/ciga�a/g, 'cigarra'],  // might be different
+  [/ciga�a/g, 'cigarra'], // might be different
   [/CIGA�A/g, 'CIGARRA'],
   [/rega�o/g, 'regaño'],
   [/REGA�O/g, 'REGAÑO'],
@@ -1008,35 +1008,35 @@ const contextualFixes: [RegExp, string][] = [
   [/Am�rica/g, 'América'],
   [/�frica/g, 'África'],
   [/�FRICA/g, 'ÁFRICA'],
-  [/Asia/g, 'Asia'],  // Usually OK
+  [/Asia/g, 'Asia'], // Usually OK
   [/Apur�mac/g, 'Apurímac'],
   [/APUR�MAC/g, 'APURÍMAC'],
-  [/Ayacucho/g, 'Ayacucho'],  // Usually OK
+  [/Ayacucho/g, 'Ayacucho'], // Usually OK
   [/Hu�nuco/g, 'Huánuco'],
   [/HU�NUCO/g, 'HUÁNUCO'],
   [/Jun�n/g, 'Junín'],
   [/JUN�N/g, 'JUNÍN'],
   [/San Mart�n/g, 'San Martín'],
   [/SAN MART�N/g, 'SAN MARTÍN'],
-  [/Tumbes/g, 'Tumbes'],  // Usually OK
-  [/Ucayali/g, 'Ucayali'],  // Usually OK
-  [/Hu�ncayo/g, 'Huancayo'],  // Note: no accent in Spanish
-  [/Chiclayo/g, 'Chiclayo'],  // Usually OK
-  [/Trujillo/g, 'Trujillo'],  // Usually OK
-  [/Arequipa/g, 'Arequipa'],  // Usually OK
-  [/Cusco/g, 'Cusco'],  // Usually OK
-  [/Cuzco/g, 'Cuzco'],  // Usually OK
-  [/Tacna/g, 'Tacna'],  // Usually OK
-  [/Iquitos/g, 'Iquitos'],  // Usually OK
-  [/Puno/g, 'Puno'],  // Usually OK
-  [/Piura/g, 'Piura'],  // Usually OK
-  [/Callao/g, 'Callao'],  // Usually OK
-  [/Cajamarca/g, 'Cajamarca'],  // Usually OK
-  [/Lambayeque/g, 'Lambayeque'],  // Usually OK
-  [/Loreto/g, 'Loreto'],  // Usually OK
-  [/Madre de Dios/g, 'Madre de Dios'],  // Usually OK
-  [/Moquegua/g, 'Moquegua'],  // Usually OK
-  [/Pasco/g, 'Pasco'],  // Usually OK
+  [/Tumbes/g, 'Tumbes'], // Usually OK
+  [/Ucayali/g, 'Ucayali'], // Usually OK
+  [/Hu�ncayo/g, 'Huancayo'], // Note: no accent in Spanish
+  [/Chiclayo/g, 'Chiclayo'], // Usually OK
+  [/Trujillo/g, 'Trujillo'], // Usually OK
+  [/Arequipa/g, 'Arequipa'], // Usually OK
+  [/Cusco/g, 'Cusco'], // Usually OK
+  [/Cuzco/g, 'Cuzco'], // Usually OK
+  [/Tacna/g, 'Tacna'], // Usually OK
+  [/Iquitos/g, 'Iquitos'], // Usually OK
+  [/Puno/g, 'Puno'], // Usually OK
+  [/Piura/g, 'Piura'], // Usually OK
+  [/Callao/g, 'Callao'], // Usually OK
+  [/Cajamarca/g, 'Cajamarca'], // Usually OK
+  [/Lambayeque/g, 'Lambayeque'], // Usually OK
+  [/Loreto/g, 'Loreto'], // Usually OK
+  [/Madre de Dios/g, 'Madre de Dios'], // Usually OK
+  [/Moquegua/g, 'Moquegua'], // Usually OK
+  [/Pasco/g, 'Pasco'], // Usually OK
 
   // More common words
   [/informaci�n/g, 'información'],
@@ -1091,11 +1091,11 @@ const contextualFixes: [RegExp, string][] = [
   [/cirug�a/g, 'cirugía'],
   [/CIRUG�A/g, 'CIRUGÍA'],
   [/Cirug�a/g, 'Cirugía'],
-  [/estrategia/g, 'estrategia'],  // Usually OK
-  [/democracia/g, 'democracia'],  // Usually OK
-  [/burocracia/g, 'burocracia'],  // Usually OK
-  [/autocracia/g, 'autocracia'],  // Usually OK
-  [/aristocracia/g, 'aristocracia'],  // Usually OK
+  [/estrategia/g, 'estrategia'], // Usually OK
+  [/democracia/g, 'democracia'], // Usually OK
+  [/burocracia/g, 'burocracia'], // Usually OK
+  [/autocracia/g, 'autocracia'], // Usually OK
+  [/aristocracia/g, 'aristocracia'], // Usually OK
   [/hipocres�a/g, 'hipocresía'],
   [/HIPOCRES�A/g, 'HIPOCRESÍA'],
   [/cortes�a/g, 'cortesía'],
@@ -1135,7 +1135,7 @@ const contextualFixes: [RegExp, string][] = [
   [/secretar�a/g, 'secretaría'],
   [/SECRETAR�A/g, 'SECRETARÍA'],
   [/Secretar�a/g, 'Secretaría'],
-  [/notario/g, 'notario'],  // Usually OK
+  [/notario/g, 'notario'], // Usually OK
   [/notar�a/g, 'notaría'],
   [/NOTAR�A/g, 'NOTARÍA'],
   [/Notar�a/g, 'Notaría'],
@@ -1147,12 +1147,12 @@ const contextualFixes: [RegExp, string][] = [
   [/teor�a/g, 'teoría'],
   [/TEOR�A/g, 'TEORÍA'],
   [/Teor�a/g, 'Teoría'],
-  [/memoria/g, 'memoria'],  // Usually OK
-  [/historia/g, 'historia'],  // Usually OK
-  [/victoria/g, 'victoria'],  // Usually OK
-  [/gloria/g, 'gloria'],  // Usually OK
-  [/euforia/g, 'euforia'],  // Usually OK
-  [/disforia/g, 'disforia'],  // Usually OK
+  [/memoria/g, 'memoria'], // Usually OK
+  [/historia/g, 'historia'], // Usually OK
+  [/victoria/g, 'victoria'], // Usually OK
+  [/gloria/g, 'gloria'], // Usually OK
+  [/euforia/g, 'euforia'], // Usually OK
+  [/disforia/g, 'disforia'], // Usually OK
   [/alegr�a/g, 'alegría'],
   [/ALEGR�A/g, 'ALEGRÍA'],
   [/Alegr�a/g, 'Alegría'],
@@ -1175,10 +1175,10 @@ const contextualFixes: [RegExp, string][] = [
   [/soberan�a/g, 'soberanía'],
   [/SOBERAN�A/g, 'SOBERANÍA'],
   [/Soberan�a/g, 'Soberanía'],
-  [/campesinado/g, 'campesinado'],  // Usually OK
+  [/campesinado/g, 'campesinado'], // Usually OK
   [/capellan�a/g, 'capellanía'],
   [/CAPELLAN�A/g, 'CAPELLANÍA'],
-  [/ciudadela/g, 'ciudadela'],  // Usually OK
+  [/ciudadela/g, 'ciudadela'], // Usually OK
 
   // More everyday words
   [/todav�a/g, 'todavía'],
@@ -1186,17 +1186,17 @@ const contextualFixes: [RegExp, string][] = [
   [/Todav�a/g, 'Todavía'],
   [/incre�ble/g, 'increíble'],
   [/INCRE�BLE/g, 'INCREÍBLE'],
-  [/posible/g, 'posible'],  // Usually OK
-  [/imposible/g, 'imposible'],  // Usually OK
+  [/posible/g, 'posible'], // Usually OK
+  [/imposible/g, 'imposible'], // Usually OK
   [/cre�ble/g, 'creíble'],
   [/CRE�BLE/g, 'CREÍBLE'],
-  [/viable/g, 'viable'],  // Usually OK
-  [/aceptable/g, 'aceptable'],  // Usually OK
-  [/responsable/g, 'responsable'],  // Usually OK
-  [/razonable/g, 'razonable'],  // Usually OK
-  [/considerable/g, 'considerable'],  // Usually OK
-  [/comparable/g, 'comparable'],  // Usually OK
-  [/deseable/g, 'deseable'],  // Usually OK
+  [/viable/g, 'viable'], // Usually OK
+  [/aceptable/g, 'aceptable'], // Usually OK
+  [/responsable/g, 'responsable'], // Usually OK
+  [/razonable/g, 'razonable'], // Usually OK
+  [/considerable/g, 'considerable'], // Usually OK
+  [/comparable/g, 'comparable'], // Usually OK
+  [/deseable/g, 'deseable'], // Usually OK
   [/�til/g, 'útil'],
   [/�TIL/g, 'ÚTIL'],
   [/in�til/g, 'inútil'],
@@ -1218,11 +1218,11 @@ const contextualFixes: [RegExp, string][] = [
   [/autom�vil/g, 'automóvil'],
   [/AUTOM�VIL/g, 'AUTOMÓVIL'],
   [/Autom�vil/g, 'Automóvil'],
-  [/hostil/g, 'hostil'],  // Usually OK
-  [/civil/g, 'civil'],  // Usually OK
-  [/juvenil/g, 'juvenil'],  // Usually OK
-  [/senil/g, 'senil'],  // Usually OK
-  [/viril/g, 'viril'],  // Usually OK
+  [/hostil/g, 'hostil'], // Usually OK
+  [/civil/g, 'civil'], // Usually OK
+  [/juvenil/g, 'juvenil'], // Usually OK
+  [/senil/g, 'senil'], // Usually OK
+  [/viril/g, 'viril'], // Usually OK
   [/f�rtil/g, 'fértil'],
   [/F�RTIL/g, 'FÉRTIL'],
   [/est�ril/g, 'estéril'],
@@ -1231,9 +1231,9 @@ const contextualFixes: [RegExp, string][] = [
   [/VOL�TIL/g, 'VOLÁTIL'],
   [/vers�til/g, 'versátil'],
   [/VERS�TIL/g, 'VERSÁTIL'],
-  [/textil/g, 'textil'],  // Usually OK
-  [/sutil/g, 'sutil'],  // Usually OK
-  [/proyectil/g, 'proyectil'],  // Usually OK
+  [/textil/g, 'textil'], // Usually OK
+  [/sutil/g, 'sutil'], // Usually OK
+  [/proyectil/g, 'proyectil'], // Usually OK
   [/�cido/g, 'ácido'],
   [/�CIDO/g, 'ÁCIDO'],
   [/l�quido/g, 'líquido'],
@@ -1294,8 +1294,8 @@ const contextualFixes: [RegExp, string][] = [
   [/prop�sito/g, 'propósito'],
   [/PROP�SITO/g, 'PROPÓSITO'],
   [/Prop�sito/g, 'Propósito'],
-  [/requisito/g, 'requisito'],  // Usually OK
-  [/prerrequisito/g, 'prerrequisito'],  // Usually OK
+  [/requisito/g, 'requisito'], // Usually OK
+  [/prerrequisito/g, 'prerrequisito'], // Usually OK
   [/ex�geno/g, 'exógeno'],
   [/EX�GENO/g, 'EXÓGENO'],
   [/end�geno/g, 'endógeno'],
@@ -1374,11 +1374,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

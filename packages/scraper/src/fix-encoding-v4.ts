@@ -1,80 +1,80 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Fourth pass - catch remaining patterns
 const fourthPassFixes: [RegExp, string][] = [
   // Standalone replacement characters - context-based
-  [/ � /g, ' ó '],  // Often "ó" in Spanish
-  [/ �r/g, ' ár'],  // árbol, área, árido
+  [/ � /g, ' ó '], // Often "ó" in Spanish
+  [/ �r/g, ' ár'], // árbol, área, árido
   [/ �R/g, ' ÁR'],
-  [/c�a\b/g, 'cía'],  // policía, democracia
+  [/c�a\b/g, 'cía'], // policía, democracia
   [/C�A\b/g, 'CÍA'],
-  [/E�A\b/g, 'ÉA'],  // ÁREA
-  [/e�a\b/g, 'éa'],  // área
-  [/Z�N/g, 'ZÓN'],  // RAZÓN, CORAZÓN
-  [/z�n/g, 'zón'],  // razón, corazón
-  [/d�s\b/g, 'días'],  // días - specific fix
-  [/D�S\b/g, 'DÍS'],  // Note: rare
-  [/g�s\b/g, 'gés'],  // Note: could also be gás
+  [/E�A\b/g, 'ÉA'], // ÁREA
+  [/e�a\b/g, 'éa'], // área
+  [/Z�N/g, 'ZÓN'], // RAZÓN, CORAZÓN
+  [/z�n/g, 'zón'], // razón, corazón
+  [/d�s\b/g, 'días'], // días - specific fix
+  [/D�S\b/g, 'DÍS'], // Note: rare
+  [/g�s\b/g, 'gés'], // Note: could also be gás
   [/G�S\b/g, 'GÉS'],
-  [/n�m/g, 'núm'],  // número
+  [/n�m/g, 'núm'], // número
   [/N�M/g, 'NÚM'],
-  [/n�l/g, 'ñal'],  // señal
+  [/n�l/g, 'ñal'], // señal
   [/N�L/g, 'ÑAL'],
-  [/l�c/g, 'líc'],  // lícito, público
+  [/l�c/g, 'líc'], // lícito, público
   [/L�C/g, 'LÍC'],
-  [/t�\b/g, 'té'],  // comité
+  [/t�\b/g, 'té'], // comité
   [/T�\b/g, 'TÉ'],
-  [/ �n/g, ' án'],  // ánimo, ángulo
+  [/ �n/g, ' án'], // ánimo, ángulo
   [/ �N/g, ' ÁN'],
-  [/R�\b/g, 'RÉ'],  // Note: rare
-  [/r�\b/g, 'ré'],  // podré
-  [/m�n/g, 'mén'],  // régimen
+  [/R�\b/g, 'RÉ'], // Note: rare
+  [/r�\b/g, 'ré'], // podré
+  [/m�n/g, 'mén'], // régimen
   [/M�N/g, 'MÉN'],
-  [/m�r/g, 'mér'],  // número, América
+  [/m�r/g, 'mér'], // número, América
   [/M�R/g, 'MÉR'],
-  [/e�o/g, 'eño'],  // pequeño, diseño
+  [/e�o/g, 'eño'], // pequeño, diseño
   [/E�O/g, 'EÑO'],
-  [/p�r/g, 'pár'],  // párrafo
+  [/p�r/g, 'pár'], // párrafo
   [/P�R/g, 'PÁR'],
-  [/c�n/g, 'cón'],  // económico, cónsul
+  [/c�n/g, 'cón'], // económico, cónsul
   [/C�N/g, 'CÓN'],
-  [/D�a/g, 'Día'],  // Día
-  [/D�A/g, 'DÍA'],  // DÍA
-  [/d�a/g, 'día'],  // día
-  [/D�C/g, 'DÉC'],  // DÉCIMO
-  [/d�c/g, 'déc'],  // décimo
-  [/n�a/g, 'nía'],  // compañía, soberanía
+  [/D�a/g, 'Día'], // Día
+  [/D�A/g, 'DÍA'], // DÍA
+  [/d�a/g, 'día'], // día
+  [/D�C/g, 'DÉC'], // DÉCIMO
+  [/d�c/g, 'déc'], // décimo
+  [/n�a/g, 'nía'], // compañía, soberanía
   [/N�A/g, 'NÍA'],
-  [/a�a/g, 'aña'],  // campaña, montaña
+  [/a�a/g, 'aña'], // campaña, montaña
   [/A�A/g, 'AÑA'],
-  [/c�l/g, 'cál'],  // cálculo
+  [/c�l/g, 'cál'], // cálculo
   [/C�L/g, 'CÁL'],
-  [/m�q/g, 'máq'],  // máquina
+  [/m�q/g, 'máq'], // máquina
   [/M�Q/g, 'MÁQ'],
-  [/l�s/g, 'lís'],  // análisis
+  [/l�s/g, 'lís'], // análisis
   [/L�S/g, 'LÍS'],
-  [/I�n/g, 'Ión'],  // Note: rare
-  [/i�n/g, 'ión'],  // Note: should already be fixed
-  [/m�t/g, 'mét'],  // método, kilómetro
+  [/I�n/g, 'Ión'], // Note: rare
+  [/i�n/g, 'ión'], // Note: should already be fixed
+  [/m�t/g, 'mét'], // método, kilómetro
   [/M�T/g, 'MÉT'],
 
   // More -ía patterns
-  [/g�a/g, 'gía'],  // energía, tecnología
+  [/g�a/g, 'gía'], // energía, tecnología
   [/G�A/g, 'GÍA'],
-  [/r�a/g, 'ría'],  // mayoría, secretaría
+  [/r�a/g, 'ría'], // mayoría, secretaría
   [/R�A/g, 'RÍA'],
-  [/l�a/g, 'lía'],  // anomalía
+  [/l�a/g, 'lía'], // anomalía
   [/L�A/g, 'LÍA'],
-  [/m�a/g, 'mía'],  // autonomía, economía
+  [/m�a/g, 'mía'], // autonomía, economía
   [/M�A/g, 'MÍA'],
-  [/f�a/g, 'fía'],  // filosofía, geografía
+  [/f�a/g, 'fía'], // filosofía, geografía
   [/F�A/g, 'FÍA'],
 
   // More -ón patterns
-  [/s�n/g, 'són'],  // prisón -> rare, usually "son" without accent
+  [/s�n/g, 'són'], // prisón -> rare, usually "son" without accent
   [/S�N/g, 'SÓN'],
-  [/t�n/g, 'tón'],  // electrón, cartón
+  [/t�n/g, 'tón'], // electrón, cartón
   [/T�N/g, 'TÓN'],
 
   // More names
@@ -82,17 +82,17 @@ const fourthPassFixes: [RegExp, string][] = [
   [/M�NDEZ/g, 'MÉNDEZ'],
   [/T�llez/g, 'Téllez'],
   [/T�LLEZ/g, 'TÉLLEZ'],
-  [/Hid�lgo/g, 'Hidalgo'],  // No accent actually
+  [/Hid�lgo/g, 'Hidalgo'], // No accent actually
   [/R�os/g, 'Ríos'],
   [/R�OS/g, 'RÍOS'],
-  [/Roa�a/g, 'Roaña'],  // Name variant
+  [/Roa�a/g, 'Roaña'], // Name variant
 
   // -és patterns (nationality, etc.)
-  [/n�s\b/g, 'nés'],  // japonés, francés
+  [/n�s\b/g, 'nés'], // japonés, francés
   [/N�S\b/g, 'NÉS'],
-  [/l�s\b/g, 'lés'],  // inglés, cortés
+  [/l�s\b/g, 'lés'], // inglés, cortés
   [/L�S\b/g, 'LÉS'],
-  [/g�s\b/g, 'gués'],  // portugués - specific
+  [/g�s\b/g, 'gués'], // portugués - specific
   [/G�S\b/g, 'GUÉS'],
 
   // More specific words
@@ -120,7 +120,7 @@ const fourthPassFixes: [RegExp, string][] = [
   [/polic�a/g, 'policía'],
   [/POLIC�A/g, 'POLICÍA'],
   [/Polic�a/g, 'Policía'],
-  [/democr�cia/g, 'democrácia'],  // Note: rare spelling
+  [/democr�cia/g, 'democrácia'], // Note: rare spelling
   [/DEMOCR�CIA/g, 'DEMOCRÁCIA'],
   [/mayor�a/g, 'mayoría'],
   [/MAYOR�A/g, 'MAYORÍA'],
@@ -192,9 +192,9 @@ const fourthPassFixes: [RegExp, string][] = [
   [/m�todo/g, 'método'],
   [/M�TODO/g, 'MÉTODO'],
   [/M�todo/g, 'Método'],
-  [/k�metro/g, 'kómetro'],  // kilómetro
+  [/k�metro/g, 'kómetro'], // kilómetro
   [/K�METRO/g, 'KÓMETRO'],
-  [/il�metro/g, 'ilómetro'],  // kilómetro
+  [/il�metro/g, 'ilómetro'], // kilómetro
   [/IL�METRO/g, 'ILÓMETRO'],
   [/c�lculo/g, 'cálculo'],
   [/C�LCULO/g, 'CÁLCULO'],
@@ -280,11 +280,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Sixth pass - ordinals and common word fragments
@@ -50,7 +50,7 @@ const sixthPassFixes: [RegExp, string][] = [
   // -cía patterns (policía, democracia, farmacia)
   [/farmac�a/g, 'farmacía'],
   [/FARMAC�A/g, 'FARMACÍA'],
-  [/eficac�a/g, 'eficacia'],  // eficacia doesn't have accent
+  [/eficac�a/g, 'eficacia'], // eficacia doesn't have accent
   [/EFICAC�A/g, 'EFICACIA'],
 
   // Medical terms
@@ -124,7 +124,7 @@ const sixthPassFixes: [RegExp, string][] = [
   [/ �L/g, ' ÚL'],
 
   // -ác/-úc patterns
-  [/N�c/g, 'Núc'],  // núcleo
+  [/N�c/g, 'Núc'], // núcleo
   [/N�C/g, 'NÚC'],
   [/n�c/g, 'núc'],
 
@@ -147,36 +147,36 @@ const sixthPassFixes: [RegExp, string][] = [
   [/C�p/g, 'Cáp'],
 
   // -úc patterns
-  [/u�c/g, 'úc'],  // Note: context-dependent
+  [/u�c/g, 'úc'], // Note: context-dependent
 
   // -vío patterns
   [/v�o/g, 'vío'],
   [/V�O/g, 'VÍO'],
 
   // -ógr/-ágr patterns
-  [/g�g/g, 'gág'],  // geográfico - actually should be ógr
+  [/g�g/g, 'gág'], // geográfico - actually should be ógr
   [/G�G/g, 'GÁG'],
 
   // Common verbs with accent
-  [/s� /g, 'sé '],  // sé (I know)
+  [/s� /g, 'sé '], // sé (I know)
   [/S� /g, 'SÉ '],
-  [/t� /g, 'té '],  // té (tea)
+  [/t� /g, 'té '], // té (tea)
   [/T� /g, 'TÉ '],
-  [/v� /g, 'vé '],  // vé (see/go)
+  [/v� /g, 'vé '], // vé (see/go)
   [/V� /g, 'VÉ '],
 
   // More specific patterns
-  [/g�s\b/g, 'gés'],  // portugués, marqués
+  [/g�s\b/g, 'gés'], // portugués, marqués
   [/G�S\b/g, 'GÉS'],
-  [/c�a\b/g, 'cía'],  // policía, democracia
+  [/c�a\b/g, 'cía'], // policía, democracia
   [/C�A\b/g, 'CÍA'],
-  [/d�s\b/g, 'dés'],  // cortés
+  [/d�s\b/g, 'dés'], // cortés
   [/D�S\b/g, 'DÉS'],
-  [/d�n\b/g, 'dón'],  // perdón
+  [/d�n\b/g, 'dón'], // perdón
   [/D�N\b/g, 'DÓN'],
-  [/g�m/g, 'gúm'],  // legúmbre - actually it's legumbre without accent
+  [/g�m/g, 'gúm'], // legúmbre - actually it's legumbre without accent
   [/G�M/g, 'GÚM'],
-  [/e�n/g, 'eón'],  // geología -> no, maybe león
+  [/e�n/g, 'eón'], // geología -> no, maybe león
   [/E�N/g, 'EÓN'],
 
   // Comma after accented vowel
@@ -186,7 +186,7 @@ const sixthPassFixes: [RegExp, string][] = [
   [/N�,/g, 'NÉ,'],
 
   // -add patterns (should be -add)
-  [/a�d/g, 'aíd'],  // caído
+  [/a�d/g, 'aíd'], // caído
   [/A�D/g, 'AÍD'],
 
   // More words
@@ -322,11 +322,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Third pass - more aggressive generic patterns
@@ -112,7 +112,7 @@ const thirdPassFixes: [RegExp, string][] = [
   [/T�CNI/g, 'TÉCNI'],
   [/t�cno/g, 'técno'],
   [/T�CNO/g, 'TÉCNO'],
-  [/tecno/g, 'tecno'],  // Usually OK
+  [/tecno/g, 'tecno'], // Usually OK
 
   // lógic, lógist
   [/l�gic/g, 'lógic'],
@@ -307,42 +307,42 @@ const thirdPassFixes: [RegExp, string][] = [
   [/N�RDIC/g, 'NÓRDIC'],
 
   // Specific remaining patterns from grep
-  [/r�s\b/g, 'rés'],  // interés, cortés
+  [/r�s\b/g, 'rés'], // interés, cortés
   [/R�S\b/g, 'RÉS'],
-  [/t�r\b/g, 'tér'],  // carácter
+  [/t�r\b/g, 'tér'], // carácter
   [/T�R\b/g, 'TÉR'],
-  [/s�i/g, 'síi'],  // Note: This might be rare
+  [/s�i/g, 'síi'], // Note: This might be rare
   [/S�I/g, 'SÍI'],
-  [/b�s/g, 'bás'],  // básico
+  [/b�s/g, 'bás'], // básico
   [/B�S/g, 'BÁS'],
-  [/g�n/g, 'gén'],  // género, régimen
+  [/g�n/g, 'gén'], // género, régimen
   [/G�N/g, 'GÉN'],
-  [/l�n/g, 'lín'],  // línea
+  [/l�n/g, 'lín'], // línea
   [/L�N/g, 'LÍN'],
-  [/r�n/g, 'rán'],  // serán, podrán
+  [/r�n/g, 'rán'], // serán, podrán
   [/R�N/g, 'RÁN'],
-  [/t�\b/g, 'té'],  // comité
+  [/t�\b/g, 'té'], // comité
   [/T�\b/g, 'TÉ'],
-  [/r�\b/g, 'ré'],  // podré
+  [/r�\b/g, 'ré'], // podré
   [/R�\b/g, 'RÉ'],
-  [/ �n /g, ' én '],  // (...) - rare
-  [/h�c/g, 'héc'],  // hectárea
+  [/ �n /g, ' én '], // (...) - rare
+  [/h�c/g, 'héc'], // hectárea
   [/H�C/g, 'HÉC'],
-  [/t�a/g, 'tía'],  // garantía, mayoría
+  [/t�a/g, 'tía'], // garantía, mayoría
   [/T�A/g, 'TÍA'],
-  [/n�s/g, 'nés'],  // japonés, francés
+  [/n�s/g, 'nés'], // japonés, francés
   [/N�S/g, 'NÉS'],
-  [/r�o/g, 'río'],  // río
+  [/r�o/g, 'río'], // río
   [/R�O/g, 'RÍO'],
-  [/fr�o/g, 'frío'],  // frío
+  [/fr�o/g, 'frío'], // frío
   [/FR�O/g, 'FRÍO'],
-  [/vac�o/g, 'vacío'],  // vacío
+  [/vac�o/g, 'vacío'], // vacío
   [/VAC�O/g, 'VACÍO'],
-  [/bald�o/g, 'baldío'],  // baldío
+  [/bald�o/g, 'baldío'], // baldío
   [/BALD�O/g, 'BALDÍO'],
-  [/nav�o/g, 'navío'],  // navío
+  [/nav�o/g, 'navío'], // navío
   [/NAV�O/g, 'NAVÍO'],
-  [/est�o/g, 'estío'],  // estío
+  [/est�o/g, 'estío'], // estío
   [/EST�O/g, 'ESTÍO'],
 ]
 
@@ -398,11 +398,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

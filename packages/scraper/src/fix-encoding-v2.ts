@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Additional patterns for second pass - focusing on remaining issues
@@ -149,7 +149,7 @@ const additionalFixes: [RegExp, string][] = [
   [/HABIT�A/g, 'HABITÚA'],
   [/gradu�a/g, 'graduúa'],
   [/GRADU�A/g, 'GRADUÚA'],
-  [/individu/g, 'individu'],  // Usually OK
+  [/individu/g, 'individu'], // Usually OK
   [/p�blic/g, 'públic'],
   [/P�BLIC/g, 'PÚBLIC'],
   [/rep�blic/g, 'repúblic'],
@@ -290,9 +290,9 @@ const additionalFixes: [RegExp, string][] = [
   [/UR�A/g, 'URÍA'],
   [/ar�a/g, 'aría'],
   [/AR�A/g, 'ARÍA'],
-  [/dad�a/g, 'dadía'],  // ciudadanía
+  [/dad�a/g, 'dadía'], // ciudadanía
   [/DAD�A/g, 'DADÍA'],
-  [/ran�a/g, 'ranía'],  // soberanía
+  [/ran�a/g, 'ranía'], // soberanía
   [/RAN�A/g, 'RANÍA'],
 
   // Words that commonly appear in legal texts
@@ -367,11 +367,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)

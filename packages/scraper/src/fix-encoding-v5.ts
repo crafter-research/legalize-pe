@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 // Fifth pass - specific remaining patterns
@@ -41,7 +41,7 @@ const fifthPassFixes: [RegExp, string][] = [
   [/2025�2026/g, '2025-2026'],
 
   // Other year patterns
-  [/N� /g, 'N° '],  // N° (number sign)
+  [/N� /g, 'N° '], // N° (number sign)
   [/N�\./g, 'N°.'],
   [/n� /g, 'n° '],
   [/N�$/gm, 'N°'],
@@ -213,11 +213,13 @@ async function main() {
       writeFileSync(file, fixed, 'utf-8')
       fixedCount++
       totalReplacements += replacements
-      console.log(`Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`)
+      console.log(
+        `Fixed ${file.split('/').pop()}: ${replacements} replacements (${remainingAfter} remaining)`,
+      )
     }
   }
 
-  console.log(`\nSummary:`)
+  console.log('\nSummary:')
   console.log(`- Files processed: ${files.length}`)
   console.log(`- Files fixed: ${fixedCount}`)
   console.log(`- Total replacements: ${totalReplacements}`)
