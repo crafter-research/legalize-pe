@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config'
 export default defineConfig({
   site: 'https://legalize.crafter.ing',
   output: 'server',
-  adapter: vercel(),
+  adapter: vercel({ imageService: 'passthrough' }),
   integrations: [
     sitemap(),
     AstroPWA({
