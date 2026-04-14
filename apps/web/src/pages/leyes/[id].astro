@@ -1,4 +1,6 @@
 ---
+export const prerender = true
+
 import { readFileSync, readdirSync, statSync } from 'node:fs'
 import { join, relative } from 'node:path'
 import { marked } from 'marked'
@@ -58,7 +60,6 @@ function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
 
 const leyesDir = join(process.cwd(), '../../leyes/pe')
 
-// Build a map of identificador -> filename for SSR lookup
 function buildIdToFileMap(dir: string): Map<string, string> {
   const map = new Map<string, string>()
   const files = getAllMdFiles(dir)
@@ -73,7 +74,6 @@ function buildIdToFileMap(dir: string): Map<string, string> {
         break
       }
     }
-    // Also map by filename without extension
     const idFromFilename = filename.replace(/\.md$/, '').replace(/\//g, '-')
     if (!map.has(idFromFilename)) {
       map.set(idFromFilename, filename)
@@ -82,15 +82,17 @@ function buildIdToFileMap(dir: string): Map<string, string> {
   return map
 }
 
-const idToFileMap = buildIdToFileMap(leyesDir)
+export async function getStaticPaths() {
+  const dir = join(process.cwd(), '../../leyes/pe')
+  const idToFileMap = buildIdToFileMap(dir)
+  return [...idToFileMap.entries()].map(([id, filename]) => ({
+    params: { id },
+    props: { filename },
+  }))
+}
 
 const { id } = Astro.params
-
-// Find the file for this ID
-const filename = idToFileMap.get(id ?? '')
-if (!filename) {
-  return Astro.redirect('/404')
-}
+const { filename } = Astro.props
 
 const rawContent = readFileSync(join(leyesDir, filename), 'utf-8')
 const { meta, body } = parseFrontmatter(rawContent)
