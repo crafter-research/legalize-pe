@@ -55,25 +55,21 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
       ) : diff && (
         <>
           <div class="diff-header">
-            <h1>Comparación de versiones</h1>
-            <div class="diff-meta">
-              <div class="diff-version diff-from">
-                <span class="version-label">Anterior</span>
-                <span class="version-hash">{fromHash.slice(0, 7)}</span>
-                <span class="version-date">{fromDate}</span>
-              </div>
-              <svg class="arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                <path d="M5 12h14M12 5l7 7-7 7"/>
-              </svg>
-              <div class="diff-version diff-to">
-                <span class="version-label">Nueva</span>
-                <span class="version-hash">{toHash.slice(0, 7)}</span>
-                <span class="version-date">{toDate}</span>
+            <div class="diff-title-row">
+              <h1>Comparar versiones</h1>
+              <div class="diff-stats">
+                <span class="stat stat-add">+{diff.stats.additions}</span>
+                <span class="stat stat-del">-{diff.stats.deletions}</span>
               </div>
             </div>
-            <div class="diff-stats">
-              <span class="stat stat-add">+{diff.stats.additions} líneas</span>
-              <span class="stat stat-del">-{diff.stats.deletions} líneas</span>
+            <div class="diff-meta">
+              <span class="version-info">{fromHash.slice(0, 7)} <span class="version-date">({fromDate})</span></span>
+              <span class="arrow">→</span>
+              <span class="version-info">{toHash.slice(0, 7)} <span class="version-date">({toDate})</span></span>
+            </div>
+            <div class="view-toggle">
+              <span class="toggle-tab active">Unificado</span>
+              <a href={`/leyes/${id}/compare?from=${fromHash}&to=${toHash}`} class="toggle-tab">Lado a lado</a>
             </div>
           </div>
 
@@ -112,11 +108,6 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
             )}
           </div>
 
-          <div class="diff-actions">
-            <a href={`/leyes/${id}/version/${fromHash}`} class="btn btn-secondary">Ver versión anterior</a>
-            <a href={`/leyes/${id}/version/${toHash}`} class="btn btn-secondary">Ver versión nueva</a>
-            <a href={`/leyes/${id}`} class="btn btn-primary">Ver versión actual</a>
-          </div>
         </>
       )}
     </div>
@@ -141,69 +132,85 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
   }
 
   .diff-header {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .diff-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
   }
 
   .diff-header h1 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-bottom: 1.25rem;
-  }
-
-  .diff-meta {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-  }
-
-  .diff-version {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.75rem 1rem;
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-  }
-
-  .version-label {
-    font-size: 0.7rem;
+    font-size: 1.25rem;
     font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text-muted);
-  }
-
-  .version-hash {
-    font-family: var(--font-mono);
-    font-size: 0.875rem;
-    color: var(--color-text);
-  }
-
-  .version-date {
-    font-size: 0.875rem;
-    color: var(--color-text-muted);
-  }
-
-  .arrow {
-    color: var(--color-text-muted);
-    flex-shrink: 0;
+    margin: 0;
   }
 
   .diff-stats {
     display: flex;
-    gap: 1rem;
-  }
-
-  .stat {
-    font-size: 0.875rem;
+    gap: 0.75rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
     font-weight: 500;
   }
 
   .stat-add { color: #22c55e; }
   .stat-del { color: #ef4444; }
+
+  .diff-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+
+  .version-info {
+    color: var(--color-text);
+  }
+
+  .version-date {
+    color: var(--color-text-muted);
+  }
+
+  .arrow {
+    color: var(--color-text-muted);
+  }
+
+  .view-toggle {
+    display: inline-flex;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .toggle-tab {
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: all 0.15s;
+    border-right: 1px solid var(--color-border);
+  }
+
+  .toggle-tab:last-child {
+    border-right: none;
+  }
+
+  .toggle-tab:hover {
+    background: var(--color-bg-secondary);
+    color: var(--color-text);
+  }
+
+  .toggle-tab.active {
+    background: var(--color-accent);
+    color: #000;
+  }
 
   .diff-content {
     border: 1px solid var(--color-border);
@@ -269,39 +276,6 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
     padding: 0 0.5rem;
   }
 
-  .diff-actions {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
-
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0.6rem 1.25rem;
-    border-radius: 8px;
-    font-weight: 500;
-    font-size: 0.875rem;
-    transition: all 0.2s;
-    text-decoration: none;
-  }
-
-  .btn-primary {
-    background: #ffffff;
-    color: #000000;
-  }
-
-  .btn-primary:hover { background: #cccccc; }
-
-  .btn-secondary {
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    color: var(--color-text);
-  }
-
-  .btn-secondary:hover { background: var(--color-border); }
-
   .error-box {
     text-align: center;
     padding: 4rem 2rem;
@@ -310,6 +284,17 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
   .error-box p {
     color: var(--color-text-muted);
     margin-bottom: 1.5rem;
+  }
+
+  .error-box .btn {
+    display: inline-flex;
+    padding: 0.6rem 1.25rem;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.875rem;
+    background: #ffffff;
+    color: #000000;
+    text-decoration: none;
   }
 
   .no-changes {
@@ -350,13 +335,14 @@ const toDate = diff?.toDate ? new Date(diff.toDate).toLocaleDateString('es-PE') 
   }
 
   @media (max-width: 640px) {
-    .diff-meta {
+    .diff-title-row {
       flex-direction: column;
       align-items: flex-start;
+      gap: 0.5rem;
     }
 
-    .arrow {
-      transform: rotate(90deg);
+    .diff-meta {
+      flex-wrap: wrap;
     }
 
     .line-num {

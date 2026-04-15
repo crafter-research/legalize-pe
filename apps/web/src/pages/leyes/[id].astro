@@ -209,11 +209,14 @@ const htmlContent = await marked(body)
               <span class="commit-message">${commit.subject}</span>
             </div>
             <div class="commit-actions">
-              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small" title="Ver esta versión">Ver</a>
-              ${i < data.length - 1 ? `<a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline" title="Comparar con versión anterior">Comparar</a>` : '<span class="btn-small btn-disabled" title="Versión inicial">Inicial</span>'}
+              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small" title="Ver esta version">Ver</a>
+              ${i < data.length - 1 ? `
+                <a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline" title="Comparar con version anterior">Comparar</a>
+              ` : '<span class="btn-small btn-disabled" title="Version inicial">Inicial</span>'}
             </div>
           </div>
         `).join('')
+
       } catch (err) {
         historyList.innerHTML = `
           <div class="error-state">
