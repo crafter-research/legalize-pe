@@ -13,24 +13,54 @@ Legislacion peruana como repositorio Git. Cada ley es un fichero Markdown, cada 
 
 ## Funcionalidades
 
-### Web
+### Busqueda y filtros
 
-- **Busqueda inteligente** — Fuzzy search con Fuse.js por titulo e identificador
+- **Busqueda full-text** — Fuzzy search con Fuse.js por titulo, identificador y contenido
+- **Filtro por tipo** — Ley, Decreto Legislativo, Decreto Supremo, etc.
+- **Filtro por estado** — Vigente, derogada, modificada
+- **Filtro por materia** — Civil, penal, laboral, tributario y 30+ categorias
+- **Filtro por fecha** — Rango de anos (desde/hasta)
+- **Ordenamiento** — Por relevancia, fecha o titulo
+- **Paginacion** — 50 resultados por pagina con "cargar mas"
+
+### Lectura de normas
+
+- **Tabla de contenidos** — Navegacion rapida por secciones
+- **Deep links** — Enlaces directos a articulos especificos (`#articulo-1`)
+- **Texto justificado** — Formato optimizado para lectura legal
+- **Light/Dark mode** — Toggle de tema con persistencia
+
+### Historial y versiones
+
 - **Historial de versiones** — Ver cambios de cada norma a lo largo del tiempo
 - **Comparador de versiones** — Diff unificado y lado a lado estilo GitHub
+
+### Citas y compartir
+
+- **Generador de citas** — Formato legal peruano, APA 7, URL permanente
+- **Compartir** — Twitter, LinkedIn, WhatsApp, copiar enlace
+- **Export PDF** — Imprimir o guardar como PDF
+
+### Extras
+
 - **PWA** — Funciona offline, instalable en movil
+- **RSS Feed** — `/feed.xml` con las 50 normas mas recientes
 - **Descarga** — Exportar normas en Markdown
 
 ### API
 
 | Endpoint | Descripcion |
 |----------|-------------|
+| `GET /feed.xml` | RSS feed con las 50 normas mas recientes |
 | `GET /api/normas/:id/history` | Historial de commits de una norma |
 | `GET /api/normas/:id/at/:commit` | Contenido en un commit especifico |
 | `GET /api/normas/:id/diff?from=X&to=Y` | Diff unificado entre versiones |
 | `GET /api/normas/:id/compare?from=X&to=Y` | Comparacion lado a lado |
 
 ```bash
+# RSS feed
+curl "https://legalize.crafter.ing/feed.xml"
+
 # Historial del Codigo Civil
 curl "https://legalize.crafter.ing/api/normas/dleg-295/history"
 
