@@ -17,6 +17,27 @@ export interface CompactLey {
   r: string // rango
   e: string // estado
   f: string // fechaPublicacion
+  b: string // body preview (cleaned)
+}
+
+function cleanBodyForSearch(body: string): string {
+  return body
+    // Remove OCR artifacts from El Peruano
+    .replace(/Firmado por:.*?(?=\n|$)/gi, '')
+    .replace(/NORMAS LEGALES/g, '')
+    .replace(/El Peruano\s*\/?\s*\w+\s+\d+\s+de\s+\w+\s+de\s+\d+/gi, '')
+    // Remove markdown formatting
+    .replace(/^#+\s+/gm, '')
+    .replace(/\*+/g, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    // Remove common legal boilerplate
+    .replace(/Ver jurisprudencia aqu[ií]\.?/gi, '')
+    .replace(/CONCORDANCIAS:.*?(?=\n\n|\n[A-Z])/gs, '')
+    // Fix encoding issues (replace invalid chars)
+    .replace(/�/g, '')
+    // Normalize whitespace
+    .replace(/\s+/g, ' ')
+    .trim()
 }
 
 export function buildSearchIndex(): SearchableLey[] {
@@ -61,9 +82,12 @@ export function buildCompactSearchIndex(): CompactLey[] {
     if (filename.startsWith('HISTORIAL')) continue
 
     const content = readFileSync(join(LEYES_DIR, filename), 'utf-8')
-    const { meta } = parseFrontmatter(content)
+    const { meta, body } = parseFrontmatter(content)
 
     if (!meta.titulo || !meta.identificador) continue
+
+    // Clean and extract first 300 chars of body for search
+    const cleanedBody = cleanBodyForSearch(body).slice(0, 300)
 
     leyes.push({
       id: meta.identificador,
@@ -71,6 +95,7 @@ export function buildCompactSearchIndex(): CompactLey[] {
       r: meta.rango || '',
       e: meta.estado || 'vigente',
       f: meta.fechaPublicacion || '',
+      b: cleanedBody,
     })
   }
 
