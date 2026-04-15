@@ -22,7 +22,7 @@ Inicio ** Civil ** ¿Qué es y cómo tramitar la sucesión intestada en Perú?-
 - Notarial
 - Registral
 # ¿Qué es y cómo tramitar la sucesión intestada en Perú?
-Por Saúl José Coca Guzmán -                  16 febrero, 2026                                            **Sumario.** 1. Introducción: la normalización de las sucesiones intestadas, 2. ¿Qué se entiende por sucesión legal o intestada?, 3 ¿Cuándo realizar la sucesión intestada?, 4. ¿Dónde realizar la sucesión intestada?, 4.1. Los procesos no contenciosos, 4.1.1. Trámite judicial, 4.1.1.1. Procedencia, 4.1.1.2. Requisitos y anexos de la solicitud, 4.1.1.3. Admisibilidad, 4.1.1.4. Legitimación pasiva, 4.1.1.5. Notificación edictal e inscripción registral, 4.1.1.6. Inclusión de otro heredero y audiencia, 4.1.1.7. Ejecución de la resolución declaratoria de heredero, 4.1.2. Trámite notarial, 4.1.2.1.  Actuación notarial, 4.1.2.2. Consentimiento Unánime y excepción en sucesión intestada, 4.1.2.3. Procedencia, 4.1.2.4. Requisitos, 4.1.2.5.  Anotación preventiva, 4.1.2.6. Publicación, 4.1.2.7. Inclusión de otros herederos, 4.1.2.8. Protocolización de los actuados, 4.1.2.9.  Inscripción de la Sucesión Intestada, 5. Conclusiones y recomendaciones, 6. Bibliografía.
+Por Saúl José Coca Guzmán - 16 febrero, 2026**Sumario.** 1. Introducción: la normalización de las sucesiones intestadas, 2. ¿Qué se entiende por sucesión legal o intestada?, 3 ¿Cuándo realizar la sucesión intestada?, 4. ¿Dónde realizar la sucesión intestada?, 4.1. Los procesos no contenciosos, 4.1.1. Trámite judicial, 4.1.1.1. Procedencia, 4.1.1.2. Requisitos y anexos de la solicitud, 4.1.1.3. Admisibilidad, 4.1.1.4. Legitimación pasiva, 4.1.1.5. Notificación edictal e inscripción registral, 4.1.1.6. Inclusión de otro heredero y audiencia, 4.1.1.7. Ejecución de la resolución declaratoria de heredero, 4.1.2. Trámite notarial, 4.1.2.1.  Actuación notarial, 4.1.2.2. Consentimiento Unánime y excepción en sucesión intestada, 4.1.2.3. Procedencia, 4.1.2.4. Requisitos, 4.1.2.5.  Anotación preventiva, 4.1.2.6. Publicación, 4.1.2.7. Inclusión de otros herederos, 4.1.2.8. Protocolización de los actuados, 4.1.2.9.  Inscripción de la Sucesión Intestada, 5. Conclusiones y recomendaciones, 6. Bibliografía.
 - **Curso de especialización Técnicas de litigación oral en materia civil. Hasta 20 FEB dos libros gratis**
 **1. Introducción: la normalización de las sucesiones intestadas**
 Según especialistas legales, alrededor del 80% de las **herencias** del país se tramitan por esta vía, ya que la mayoría de personas no deja testamento. Esta situación ha venido generando una sobrecarga tanto en notarías como en el Poder Judicial[1].
@@ -39,7 +39,7 @@ Esta solicitud, debe ser presentada ante el notario o el juez del lugar del últ
 **4.1. Los procesos no contenciosos**
 Esta Sección Sexta del CPC, regula los llamados **procesos no contenciosos**, es decir, procesos —en realidad procedimientos— que encierran un potencial conflicto de intereses intersubjetivo, pero que no se configuran como tal al momento de acudir a la instancia, por tanto comienza como un interés subjetivo mas no intersubjetivo. (Mamani, 2016, pp. 517-518)
 **La nota característica de estos procedimientos** reglados en el CPC es que el elemento consustancial al proceso como es **el** **conflicto de intereses se encuentra ausente**, por lo menos, al momento de instar o iniciar el procedimiento solicitando la tutela de a algún interés al juzgador; sin embargo, siempre será latente la posibilidad de la intervención de un tercero con interés -la oposición u otro acto que ponga en tela de juicio lo pretendido en el procedimiento, por poner un ejemplo- con lo cual el procedimiento pasaría a convertirse en un proceso. (Ibídem, p. 518)
-En nuestro ordenamiento nacional, existen dos vías **no contenciosas** para tramitar la sucesión intestada: la judicial y la notarial. 
+En nuestro ordenamiento nacional, existen dos vías **no contenciosas** para tramitar la sucesión intestada: la judicial y la notarial.
 Los **interesados** pueden recurrir indistintamente ante el **Poder Judicial** o ante el **notario** para **tramitar la sucesión intestada** (art. 1 inc 6 de **La Ley 26662, Ley de competencia notarial en asuntos no contenciosos **en adelante LCNANC).
 Veamos cada uno de los trámites:
 **4.1.1. ****Trámite judicial**
@@ -144,22 +144,22 @@ Las pretensiones a que se refiere este Artículo son imprescriptibles y se trami
 Inscríbete aquí Más información
 **Te recomendamos ver esta disertación en el canal de youtube de LP.**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-Convocatorias            ### Conviértete en notario: Lanzan concursos para cubrir 147 plazas notariales
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Notarial            ### Código de Ética del Notariado Peruano [Decreto Supremo 015-85-JUS]
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+Convocatorias### Conviértete en notario: Lanzan concursos para cubrir 147 plazas notariales
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Notarial### Código de Ética del Notariado Peruano [Decreto Supremo 015-85-JUS]
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

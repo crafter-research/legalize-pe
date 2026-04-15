@@ -17,10 +17,10 @@ disclaimer: true
 
 # TUO del Código Tributario
 
-Inicio ** Legislación Básica ** TUO del Código Tributario (Decreto Supremo 133-2013-EF) - Legislación Básica
+Inicio ** Legislación Básica ** TUO del Código Tributario (Decreto Supremo 133-2013-EF)- Legislación Básica
 - Tributario
 # TUO del Código Tributario (Decreto Supremo 133-2013-EF) [actualizado 2022]
-Por LP • Pasión por el Derecho -                  26 marzo, 2022                                            Compartimos con ustedes el **Código Tributario** (Decreto Supremo 133-2013-EF) del Perú, actualizado al mes de marzo de 2022.
+Por LP • Pasión por el Derecho - 26 marzo, 2022Compartimos con ustedes el **Código Tributario** (Decreto Supremo 133-2013-EF) del Perú, actualizado al mes de marzo de 2022.
 La penúltima modificación se produjo tras la publicación, el 19 de marzo de 2022 de los Decretos Legislativos 1533 y 1535
 La ultima modificación se produjo tras la publicación, el 26 de marzo de 2022 del Decreto Legislativo 1540.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F **y le aparecerá un recuadro para que lo escriba.
@@ -254,7 +254,7 @@ También son responsables solidarios, los sujetos miembros o los que fueron miem
 Están solidariamente obligadas aquellas personas respecto de las cuales se verifique un mismo hecho generador de obligaciones tributarias.
 **Artículo 20.- DERECHO DE REPETICIÓN**
 Los sujetos obligados al pago del tributo, de acuerdo con lo establecido en los artículos precedentes, tienen derecho a exigir a los respectivos contribuyentes la devolución del monto pagado.
-**Artículo 20-A.- EFECTOS DE LA RESPONSABILIDAD SOLIDARIA** 
+**Artículo 20-A.- EFECTOS DE LA RESPONSABILIDAD SOLIDARIA**
 Los efectos de la responsabilidad solidaria son:
 **1.-** La deuda tributaria puede ser exigida total o parcialmente a cualquiera de los deudores tributarios o a todos ellos simultáneamente, salvo cuando se trate de multas en los casos de responsables solidarios que tengan la categoría de tales en virtud a lo señalado en el numeral 1. del artículo 17, los numerales 1. y 2. del artículo 18 y el artículo 19.
 **2.-** La extinción de la deuda tributaria del contribuyente libera a todos los responsables solidarios de la deuda a su cargo.
@@ -2269,22 +2269,22 @@ En el caso de exoneraciones, incentivos o beneficios tributarios cuyo plazo supl
 **VIGÉSIMO SÉPTIMA.-** De las cartas fianzas bancarias o financieras
 Las modificaciones referidas a los artículos 137, 141 y 146 del Código Tributario, serán de aplicación a los recursos de reclamación o de apelación que se interpongan a partir de la entrada en vigencia de la presente norma.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Decreto Legislativo del Notariado (Decreto Legislativo 1049) [actualizado 2026]
-Laboral            ### ¿Qué conceptos laborales son deducibles para el cálculo de la renta de tercera categoría?
-Constitucional            ### Constitución Política del Perú [actualizada 2026]
-Laboral            ### Soy trabajador, ¿debo pagar renta de quinta categoría?
-Constitucional            ### Nuevo Código Procesal Constitucional (Ley 31307) [actualizado 2026]
-Constitucional            ### Reglamento Normativo del Tribunal Constitucional [actualizado 2026]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Decreto Legislativo del Notariado (Decreto Legislativo 1049) [actualizado 2026]
+Laboral### ¿Qué conceptos laborales son deducibles para el cálculo de la renta de tercera categoría?
+Constitucional### Constitución Política del Perú [actualizada 2026]
+Laboral### Soy trabajador, ¿debo pagar renta de quinta categoría?
+Constitucional### Nuevo Código Procesal Constitucional (Ley 31307) [actualizado 2026]
+Constitucional### Reglamento Normativo del Tribunal Constitucional [actualizado 2026]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

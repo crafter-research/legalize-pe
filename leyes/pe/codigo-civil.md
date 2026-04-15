@@ -17,13 +17,13 @@ disclaimer: true
 
 # Código Civil Peruano
 
-Inicio ** Civil ** Código Civil peruano - Civil
+Inicio ** Civil ** Código Civil peruano- Civil
 - Cursos
 - Diplomados
 - Jurisprudencia
 - Legislación Básica
 # Código Civil peruano [actualizado 2026]
-Contiene la última modificación al Código Civil publicada en el diario oficial El Peruano el 8 de enero de 2025. Se trata de la Ley 32228.Por LP • Pasión por el Derecho -                  21 enero, 2026                                            Estimados lectores, **LP** comparte con ustedes el Código Civil peruano (Decreto Legislativo 295), promulgado el 24 de julio de 1984. Al día siguiente fue publicado en el diario oficial *El Peruano *y entró en vigencia el 14 de noviembre del mismo año. 
+Contiene la última modificación al Código Civil publicada en el diario oficial El Peruano el 8 de enero de 2025. Se trata de la Ley 32228.Por LP • Pasión por el Derecho - 21 enero, 2026Estimados lectores, **LP** comparte con ustedes el Código Civil peruano (Decreto Legislativo 295), promulgado el 24 de julio de 1984. Al día siguiente fue publicado en el diario oficial *El Peruano *y entró en vigencia el 14 de noviembre del mismo año. 
 El **Código Civil** ha sufrido diversas modificaciones. La última de ellas fue por la Ley 32228, publicado en el diario oficial *El Peruano *el 8 de enero de 2025, que incorporó el artículo 233-A.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F **y le aparecerá un recuadro para que lo escriba.
 En está primera sección se encuentran completos los libros de personas, acto jurídico, familia, sucesiones y reales (artículo 1131). Para ver la segunda parte del Código Civil, que va del artículo 1132 al 2122, clic **AQUÍ**.
@@ -107,7 +107,7 @@ Las disposiciones del Código Civil se aplican supletoriamente a las relaciones 
 #### **Artículo X.- Vacíos de la ley**
 La Corte Suprema de Justicia, el Tribunal de Garantías Constitucionales y el Fiscal de la Nación están obligados a dar cuenta al Congreso de los vacíos o defectos de la legislación.
 Tienen la misma obligación los jueces y fiscales respecto de sus correspondientes superiores.
-*Ver jurisprudencia aquí.*
+**
 ## **LIBRO I: ****DERECHO DE LAS PERSONAS**
 ## **Sección primera****: ****Personas naturales**
 ### **Título I: ****Principio de la persona**
@@ -821,7 +821,7 @@ Cumplida en parte la condición, no es exigible la obligación, salvo pacto en c
 #### **Artículo 175.- Condición negativa**
 Si la condición es que no se realice cierto acontecimiento dentro de un plazo, se entenderá cumplida desde que vence el plazo, o desde que llega a ser cierto que el acontecimiento no puede realizarse.
 *Ver jurisprudencia aquí.*
-#### **Artículo 176.- Cumplimiento e incumplimiento de la condición por mala fe** 
+#### **Artículo 176.- Cumplimiento e incumplimiento de la condición por mala fe**
 Si se impidiese de mala fe el cumplimiento de la condición por la parte en cuyo detrimento habría de realizarse, se considerará cumplida.
 Al contrario, se considerará no cumplida, si se ha llevado a efecto de mala fe por la parte a quien aproveche tal cumplimiento.
 *Ver jurisprudencia aquí.*
@@ -878,7 +878,7 @@ La obligación de cumplir los cargos impuestos para la adquisición de un derech
 En este caso, si el gravado muere sin cumplir los cargos, la adquisición del derecho queda sin efecto, volviendo los bienes al imponente de los cargos o a sus herederos.
 #### **Artículo 189.- Imposibilidad e ilicitud del cargo**
 Si el hecho que constituye el cargo es ilícito o imposible, o llega a serlo, el acto jurídico subsiste sin cargo alguno.
-*Ver jurisprudencia aquí.*
+**
 ### **Título VI: Simulación del acto jurídico**
 #### **Artículo 190.- Simulación absoluta**
 Por la simulación absoluta se aparenta celebrar un acto jurídico cuando no existe realmente voluntad para celebrarlo.
@@ -1290,7 +1290,7 @@ El matrimonio contraído con infracción del artículo 243 es válido.
 Los cónyuges se obligan mutuamente por el hecho del matrimonio a alimentar y educar a sus hijos.
 #### **Artículo 288.- Deber de fidelidad y asistencia**
 Los cónyuges se deben recíprocamente fidelidad y asistencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 289.- Deber de cohabitación**
 Es deber de ambos cónyuges hacer vida común en el domicilio conyugal. El juez puede suspender este deber cuando su cumplimiento ponga en grave peligro la vida, la salud o el honor de cualquiera de los cónyuges o la actividad económica de la que depende el sostenimiento de la familia.
 *Ver jurisprudencia aquí.*
@@ -1363,7 +1363,7 @@ Ninguno de los cónyuges puede renunciar a una herencia o legado o dejar de acep
 *Ver jurisprudencia aquí.*
 #### **Artículo 305.- Administración de bienes propios del otro cónyuge**
 Si uno de los cónyuges no contribuye con los frutos o productos de sus bienes propios al sostenimiento del hogar, el otro puede pedir que pasen a su administración, en todo o en parte. En este caso, está obligado a constituir hipoteca y, si carece de bienes propios, otra garantía, si es posible, según el prudente arbitrio del juez, por el valor de los bienes que reciba.
-#### **Artículo 306.- Atribución del cónyuge administrador** 
+#### **Artículo 306.- Atribución del cónyuge administrador**
 Cuando uno de los cónyuges permite que sus bienes propios sean administrados en todo o en parte por el otro, no tiene éste sino las facultades inherentes a la mera administración y queda obligado a devolverlos en cualquier momento a requerimiento del propietario.
 *Ver jurisprudencia aquí.*
 #### **Artículo 307.- Pago de deudas anteriores al régimen de gananciales**
@@ -1423,7 +1423,7 @@ Fenece el régimen de la sociedad de gananciales:
 4. Por declaración de ausencia.
 5. Por muerte de uno de los cónyuges.
 6. Por cambio de régimen patrimonial.
-*Ver jurisprudencia aquí.*
+**
 Artículo 319.- Fin de la sociedad*
 Para las relaciones entre los cónyuges se considera que el fenecimiento de la sociedad de gananciales se produce en la fecha de la muerte o de la declaración de muerte presunta o de ausencia; en la de notificación con la demanda de invalidez del matrimonio, de divorcio, de separación de cuerpos o de separación judicial de bienes; y en la fecha de la escritura pública, cuando la separación de bienes se establece de común acuerdo. En los casos previstos en los incisos 5 y 12 del Artículo 333, la sociedad de gananciales fenece desde el momento en que se produce la separación de hecho.
 Respecto a terceros, el régimen de sociedad de gananciales se considera fenecido en la fecha de la inscripción correspondiente en el registro personal.
@@ -1587,7 +1587,7 @@ El cónyuge divorciado por su culpa perderá los gananciales que procedan de los
 *Ver jurisprudencia aquí.*
 #### **Artículo 353.- Pérdida de derechos hereditarios entre ****cónyuges**** divorciados**
 Los cónyuges divorciados no tienen derecho a heredar entre sí.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 354.- Plazo de conversión***
 Transcurridos dos meses desde notificada la sentencia, la resolución de alcaldía o el acta notarial de separación convencional, o la sentencia de separación de cuerpos por separación de hecho, cualquiera de los cónyuges, basándose en ellas, podrá pedir, según corresponda, al juez, al alcalde o al notario que conoció el proceso, que se declare disuelto el vínculo del matrimonio.
 Igual derecho podrá ejercer el cónyuge inocente de la separación por causal específica.
@@ -1622,7 +1622,7 @@ El hijo o hija nacido/a durante el matrimonio o dentro de los trescientos (300) 
 #### **Artículo 362.- Presunción de filiación matrimonial***
 El hijo o hija se presume matrimonial, salvo que la madre declare expresamente que no es del marido.
 ** Artículo modificado por el DL 1377, publicado el 24 de agosto de 2018 (link: lpd.pe/0YBw3).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 363.- Negación de la paternidad***
 El marido que no se crea padre del hijo de su mujer puede negarlo:
 1. Cuando el hijo nace antes de cumplidos los ciento ochenta días siguientes al de la celebración del matrimonio.
@@ -1772,7 +1772,7 @@ El reconocimiento puede ser negado por el padre o por la madre que no interviene
 #### **Artículo 400.-  Plazo para negar el reconocimiento**
 El plazo para negar el reconocimiento es de noventa días, a partir de aquel en que se tuvo conocimiento del acto.
 *Ver jurisprudencia aquí.*
-#### **Artículo 401.- Negación del reconocimiento al cesar la incapacidad** 
+#### **Artículo 401.- Negación del reconocimiento al cesar la incapacidad**
 El hijo menor o incapaz puede en todo caso negar el reconocimiento hecho en su favor dentro del año siguiente a su mayoría o a la cesación de su incapacidad.
 *Ver jurisprudencia aquí.*
 #### **Capítulo segundo:** **Declaración judicial de filiación extramatrimonial**
@@ -2048,14 +2048,14 @@ Se deben alimentos recíprocamente:
 1. Los cónyuges.
 2. Los ascendientes y descendientes.
 3. Los hermanos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 475.- Prelación de obligados a pasar alimentos**
 Los alimentos, cuando sean dos o más los obligados a darlos, se prestan en el orden siguiente:
 1. Por el cónyuge.
 2. Por los descendientes.
 3. Por los ascendientes.
 4. Por los hermanos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 476.- Gradación por orden de sucesión legal**
 Entre los descendientes y los ascendientes se regula la gradación por el orden en que son llamados a la sucesión legal del alimentista.
 #### **Artículo 477.- Prorrateo de alimentos**
@@ -2085,7 +2085,7 @@ El obligado a prestar alimentos puede pedir que se le exonere si disminuyen sus 
 Tratándose de hijos menores, a quienes el padre o la madre estuviese pasando una pensión alimenticia por resolución judicial, esta deja de regir al llegar aquéllos a la mayoría de edad.
 Sin embargo, si subsiste el estado de necesidad por causas de incapacidad física o mental debidamente comprobadas o el alimentista está siguiendo una profesión u oficio exitosamente, puede pedir que la obligación continúe vigente.
 ** Artículo modificado por la Ley 27646, publicada el 23 de enero de 2002 (link: lpd.pe/k8yxE).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 484.- Formas diversas de dar alimentos**
 El obligado puede pedir que se le permita dar los alimentos en forma diferente del pago de una pensión, cuando motivos especiales justifiquen esta medida.
 *Ver jurisprudencia aquí.*
@@ -2377,7 +2377,7 @@ Toda persona adulta mayor con capacidad plena de ejercicio de sus derechos civil
 El juez a cargo del proceso de interdicción recaba la certificación del registro, a efectos de verificar la existencia del nombramiento. La designación realizada por la propia persona vincula al juez.
 Asimismo, la persona adulta mayor puede disponer en qué personas no debe recaer tal designación. También puede establecer el alcance de las facultades que gozará quien sea nombrado como curador.
 ** Artículo incorporado por la Ley 29633, publicada el 17 de diciembre de 2010 (link: lpd.pe/pe5Wx).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 569.- [*Derogado*]***
 ** Artículo modificado por la Ley 29633, publicada el 17 de diciembre de 2010 (link: lpd.pe/pe5Wx). Luego, este artículo fue derogado por el DL 1384, publicado el 4 de setiembre de 2018 (link: lpd.pe/pxRn8).*
 #### **Artículo 570.- [*Derogado*]***
@@ -2411,7 +2411,7 @@ Los curadores legítimos están exentos de la obligación de garantizar su gesti
 #### **Artículo 583.- Facultados a solicitar interdicción***
 Pueden pedir la interdicción de la persona con capacidad de ejercicio restringida según el artículo 44 numerales del 4 al 7, su cónyuge, sus parientes o el Ministerio Público.
 ** Artículo modificado por el DL 1384, publicado el 4 de setiembre de 2018 (link: lpd.pe/pxRn8).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 584.- Pródigo**
 Puede ser declarado pródigo el que teniendo cónyuge o herederos forzosos dilapida bienes que exceden de su porción disponible.
 #### **Artículo 585.-** Restricción de capacidad por mala gestión*****
@@ -2749,7 +2749,7 @@ Por la representación sucesoria los descendientes tienen derecho de entrar en e
 *Ver jurisprudencia aquí.*
 #### **Artículo 682.- Representación en línea recta**
 En la línea recta descendente la representación es ilimitada en favor de los descendientes de los hijos, sin distinción alguna.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 683.- Representación en línea colateral**
 En la línea colateral sólo hay representación para que al heredar a un hermano, concurran con los sobrevivientes los hijos de los hermanos premuertos que tengan derecho a representarlo en los casos previstos en el artículo 681.
 *Ver jurisprudencia aquí.*
@@ -2812,7 +2812,7 @@ Las formalidades esenciales del testamento otorgado en escritura pública son:
 *1. Primera Disposición Complementaria Modificatoria de la Ley 29973, publicada el 24 de diciembre de 2012, que modificó el inciso 6 (link: lpd.pe/26vbb).*
 *2. DL 1384, publicado el 4 de setiembre de 2018, que modificó los numerales 2 y 6, e incorporó el numeral 9 (link: lpd.pe/pxRn8).*
 *3. Ley 31338, publicada el 11 de agosto de 2021, que modificó los numerales 1 y 3 (link: lpd.pe/kOWD1).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 697.- Testigo testamentario a ruego***
 Si el testador es analfabeto, deberá leérsele el testamento dos veces, una por el notario y otra por el testigo testamentario que el testador designe. Si el testador no sabe o no puede firmar, lo hará a través del uso de la huella dactilar, de todo lo cual se mencionará en el testamento. En caso no tenga huella dactilar, el notario debe hacer uso de cualquier otro medio de verificación que permita acreditar la identidad del testador.
 ** Artículo modificado por los siguientes dispositivos:*
@@ -3179,7 +3179,7 @@ La revocación expresa del testamento, total o parcial, o de algunas de sus disp
 Si el testamento que revoca uno anterior es revocado a su vez por otro posterior, reviven las disposiciones del primero, a menos que el testador exprese su voluntad contraria.
 #### **Artículo 801.- Revocación parcial de testamento**
 El testamento que no es revocado total y expresamente por otro posterior, subsiste en las disposiciones compatibles con las de este último.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 802.- Revocación del testamento cerrado**
 El testamento cerrado queda revocado si el testador lo retira de la custodia del notario.
 #### **Artículo 803.- Validez del testamento cerrado como ológrafo**
@@ -3238,7 +3238,7 @@ El cónyuge o, en su caso, el integrante sobreviviente de la unión de hecho tam
 Los parientes de la línea recta descendente excluyen a los de la ascendente. Los parientes más próximos en grado excluyen a los más remotos, salvo el derecho de representación.
 *Ver jurisprudencia aquí.*
 ### **Título II:** **Sucesión de los descendientes**
-#### **Artículo 818.- Igualdad de derechos sucesorios de los hijos** 
+#### **Artículo 818.- Igualdad de derechos sucesorios de los hijos**
 Todos los hijos tienen iguales derechos sucesorios respecto de sus padres. Esta disposición comprende a los hijos matrimoniales, a los extramatrimoniales reconocidos voluntariamente o declarados por sentencia, respecto a la herencia del padre o de la madre y los parientes de éstos, y a los hijos adoptivos.
 *Ver jurisprudencia aquí.*
 #### **Artículo 819.- Sucesión por cabeza y por estirpe**
@@ -3684,7 +3684,7 @@ Cuando la fuerza del río arranca una porción considerable y reconocible en un 
 *Ver jurisprudencia aquí.*
 #### **Artículo 941.- Edificación de buena fe en terreno ajeno**
 Cuando se edifique de buena fe en terreno ajeno, el dueño del suelo puede optar entre hacer suyo lo edificado u obligar al invasor a que le pague el terreno. En el primer caso, el dueño del suelo debe pagar el valor de la edificación, cuyo monto será el promedio entre el costo y el valor actual de la obra. En el segundo caso, el invasor debe pagar el valor comercial actual del terreno.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 942.- Mala fe del propietario del suelo**
 Si el propietario del suelo obra de mala fe, la opción de que trata el artículo 941 corresponde al invasor de buena fe, quien en tal caso puede exigir que se le pague el valor actual de la edificación o pagar el valor comercial actual del terreno.
 *Ver jurisprudencia aquí.*
@@ -3762,7 +3762,7 @@ Al propietario de un inmueble no le está permitido abrir o cavar en su terreno 
 Si cerca de un lindero se construye horno, chimenea, establo u otros similares o depósito para agua o materias húmedas, penetrantes, explosivas o radioactivas o se instala maquinaria o análogos, deben observarse las distancias y precauciones establecidas por los reglamentos respectivos y, a falta de éstos, las que sean necesarias para preservar la solidez o la salubridad de los predios vecinos. La inobservancia de esta disposición puede dar lugar al cierre o retiro de la obra y a la indemnización de daños y perjuicios.
 #### **Artículo 964.- Paso de aguas por predio vecino**
 El propietario no puede hacer que las aguas correspondientes al predio discurran en los predios vecinos, salvo pacto distinto.
-*Ver jurisprudencia aquí.*
+**
 **Subcapítulo III: Derechos del propietario**
 #### **Artículo 965.- Derecho a cercar un predio**
 El propietario de un predio tiene derecho a cercarlo.
@@ -3904,7 +3904,7 @@ El usufructo se puede constituir por:
 #### **Artículo 1001.- Plazo del usufructo**
 El usufructo es temporal. El usufructo constituido en favor de una persona jurídica no puede exceder de treinta años y cualquier plazo mayor que se fije se reduce a éste.
 Tratándose de bienes inmuebles de valor monumental de propiedad del Estado que sean materia de restauración con fondos de personas naturales o jurídicas, el usufructo que constituya el Estado en favor de éstas podrá tener un plazo máximo de noventinueve años.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1002.- Transferencia o gravamen del usufructo**
 El usufructo, con excepción del legal, puede ser transferido a título oneroso o gratuito o ser gravado, respetándose su duración y siempre que no haya prohibición expresa.
 *Ver jurisprudencia aquí.*
@@ -3988,7 +3988,7 @@ Los derechos de uso y habitación no pueden ser materia de ningún acto jurídic
 #### **Artículo 1030.- Superficie: Noción y plazo**
 Puede constituirse el derecho de superficie por el cual el superficiario goza de la facultad de tener temporalmente una construcción en propiedad separada sobre o bajo la superficie del suelo.
 Este derecho no puede durar más de noventinueve años. A su vencimiento, el propietario del suelo adquiere la propiedad de lo construido reembolsando su valor, salvo pacto distinto.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1031.- Constitución o trasmisibilidad**
 El derecho de superficie puede constituirse por acto entre vivos o por testamento. Este derecho es trasmisible, salvo prohibición expresa.
 #### **Artículo 1032.- Extensión del derecho de superficie**
@@ -4198,22 +4198,22 @@ Aunque no se cumpla la obligación, el retenedor no adquiere la propiedad del bi
 Las reglas de este título son aplicables a todos los casos en que la ley reconozca el derecho de retención, sin perjuicio de los preceptos especiales.
 ## **Continúan los artículos 1132 al 2122**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Casación            ### ¿Trabajador puede recibir pensión por invalidez temporal de la AFP y subsidio por incapacidad temporal de EsSalud? [Casación 9478-2023, Junín]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Casación### ¿Trabajador puede recibir pensión por invalidez temporal de la AFP y subsidio por incapacidad temporal de EsSalud? [Casación 9478-2023, Junín]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

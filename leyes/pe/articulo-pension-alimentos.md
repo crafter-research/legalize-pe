@@ -17,10 +17,10 @@ disclaimer: true
 
 # Pensión de alimentos: qué abarca y cómo calcularla
 
-Inicio ** Civil ** Pensión de alimentos: ¿qué abarca y cómo calcularla? - Civil
+Inicio ** Civil ** Pensión de alimentos: ¿qué abarca y cómo calcularla?- Civil
 - Familia
 # Pensión de alimentos: ¿qué abarca y cómo calcularla? [ACTUALIZADO 2025]
-Por Saúl José Coca Guzmán -                  18 junio, 2025                                            **Sumario.- **1. Introducción, 1.1. Fundamentos constitucionales del derecho a los alimentos, 1.2. El interés superior del niño en la convención sobre los derechos del niño y su aplicación a los alimentos, 2. Los alimentos, 2.1. Los alimentos en el derecho nacional, 2.2. Los alimentos en el derecho comparado, 2.3. Nuestra definición de alimentos, 3. El derecho alimentario como derecho personalísimo, 3.1. Características del derecho alimentario, 3.1.1. Intransmisible, 3.1.2. Irrenunciable, 3.1.3. Intransigible, 3.1.4. Incompensable, 3.1.5. Inembargable, 3.1.6. Revisable**, **4. Obligación recíproca de alimentos, 4.1. Derecho alimentario de los cónyuges, 4.2. Alimentos de los hijos y otros descendientes, 4.3. Alimentos de los padres, 4.4. Alimentos de otros ascendientes, 4.5. Alimentos de los hermanos, 5. Prelación de obligados a pasar alimentos, 6. Gradación por orden de sucesión legal, 7. Prorrateo de alimentos, 8. Criterios para fijar la pensión de alimentos, 8.1. Vínculo legal, 8.2. Necesidad del alimentista, 8.3. Posibilidad económica del alimentante, 8. 3.1. ¿Se debe variar la pensión alimentaria si el obligado se queda sin trabajo?**, **8.3.2. Acceso de oficio a información en línea sobre la capacidad económica del demandado, 8.4. Proporcionalidad en su fijación, 9. Incremento o disminución de alimentos, 10. Causales de extinción judicial de la pensión de alimentos, 10.1. Disminución de ingresos del alimentante que ponen en peligro su propia subsistencia,10.2. Desaparición del estado de necesidad en el alimentista, 10.2.1. Prórroga del estado de necesidad en el alimentista, 10.2.1.1. Causas de incapacidad física o mental debidamente comprobadas, 10.2.1.2. El alimentista está siguiendo una profesión u oficio exitosamente, 11. Formas diversas de dar alimentos, 13. Causales de extinción automática de la pensión de alimentos, 14. Conclusiones, 15. Bibliografía.
+Por Saúl José Coca Guzmán - 18 junio, 2025**Sumario.- **1. Introducción, 1.1. Fundamentos constitucionales del derecho a los alimentos, 1.2. El interés superior del niño en la convención sobre los derechos del niño y su aplicación a los alimentos, 2. Los alimentos, 2.1. Los alimentos en el derecho nacional, 2.2. Los alimentos en el derecho comparado, 2.3. Nuestra definición de alimentos, 3. El derecho alimentario como derecho personalísimo, 3.1. Características del derecho alimentario, 3.1.1. Intransmisible, 3.1.2. Irrenunciable, 3.1.3. Intransigible, 3.1.4. Incompensable, 3.1.5. Inembargable, 3.1.6. Revisable**, **4. Obligación recíproca de alimentos, 4.1. Derecho alimentario de los cónyuges, 4.2. Alimentos de los hijos y otros descendientes, 4.3. Alimentos de los padres, 4.4. Alimentos de otros ascendientes, 4.5. Alimentos de los hermanos, 5. Prelación de obligados a pasar alimentos, 6. Gradación por orden de sucesión legal, 7. Prorrateo de alimentos, 8. Criterios para fijar la pensión de alimentos, 8.1. Vínculo legal, 8.2. Necesidad del alimentista, 8.3. Posibilidad económica del alimentante, 8. 3.1. ¿Se debe variar la pensión alimentaria si el obligado se queda sin trabajo?**, **8.3.2. Acceso de oficio a información en línea sobre la capacidad económica del demandado, 8.4. Proporcionalidad en su fijación, 9. Incremento o disminución de alimentos, 10. Causales de extinción judicial de la pensión de alimentos, 10.1. Disminución de ingresos del alimentante que ponen en peligro su propia subsistencia,10.2. Desaparición del estado de necesidad en el alimentista, 10.2.1. Prórroga del estado de necesidad en el alimentista, 10.2.1.1. Causas de incapacidad física o mental debidamente comprobadas, 10.2.1.2. El alimentista está siguiendo una profesión u oficio exitosamente, 11. Formas diversas de dar alimentos, 13. Causales de extinción automática de la pensión de alimentos, 14. Conclusiones, 15. Bibliografía.
 - **Matricúlate en nuestro Diplomado Derecho de familia, procesal familiar y sucesiones. Hasta 3 JUL libros gratis y pago en dos cuotas**
 **1. Introducción**
 Con razón sentencia Doménico Barbero que el primer bien que una persona posee en el orden jurídico es su **vida**. El primer interés que tiene es su conservación y la primera necesidad con que se enfrenta es procurarse los medios para ello. Ningún ordenamiento jurídico puede permanecer indiferente ante esta cuestión, por lo que las leyes establecen preceptos que tienden a asegurar los bienes vitales, satisfacer el interés de ellos y facilitar la obtención de los medios de conservación. Sin embargo, esporádicos preceptos y aisladas obligaciones son insuficientes para asegurar en todo momento aquellos bienes e intereses. Los alimentos se presentan como una institución esencial del derecho de las familias, a través del cual se permite el sostenimiento y subsistencia de sus integrantes. (Varsi, 2012, p. 418)
@@ -281,22 +281,22 @@ El Estado protege al concebido para todo lo que le favorece. Si existiera duda a
 [3] Consejo Nacional para la Integración de la Persona con Discapacidad.
 [4] **Art. 728 CC. **Si el testador estuviese obligado al pago de una pensión alimenticia conforme al artículo 415, la porción disponible quedará gravada hasta donde fuera necesario para cumplirla.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-Civil            ### Descargue en PDF los plenos jurisdiccionales del año 2025
-Civil            ### La necesidad obligatoria de los alimentos
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+Civil### Descargue en PDF los plenos jurisdiccionales del año 2025
+Civil### La necesidad obligatoria de los alimentos
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

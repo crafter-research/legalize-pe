@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** TUO de la Ley del servicio universal de agua potable y saneamiento...- Administrativo
 - Normas legales
 # TUO de la Ley del servicio universal de agua potable y saneamiento [DS 001-2025-Vivienda]
-Publicado en el diario oficial El Peruano el 15 de enero de 2025Por Vanessa Maldonado -                  15 enero, 2025                                            Mediante el **Decreto Supremo 001-2025-Vivienda**, aprueban el Texto Único Ordenado del Decreto Legislativo 1280, referente a la Ley del Servicio Universal de Agua Potable y Saneamiento. Este reglamento establece las bases legales para garantizar el acceso equitativo, la calidad y sostenibilidad de los servicios de agua potable y saneamiento a nivel nacional, con enfoque tanto en zonas urbanas como rurales.
+Publicado en el diario oficial El Peruano el 15 de enero de 2025Por Vanessa Maldonado - 15 enero, 2025Mediante el **Decreto Supremo 001-2025-Vivienda**, aprueban el Texto Único Ordenado del Decreto Legislativo 1280, referente a la Ley del Servicio Universal de Agua Potable y Saneamiento. Este reglamento establece las bases legales para garantizar el acceso equitativo, la calidad y sostenibilidad de los servicios de agua potable y saneamiento a nivel nacional, con enfoque tanto en zonas urbanas como rurales.
 Además, refuerza principios de inclusión social, eficiencia operativa, y protección ambiental en la prestación del servicio, impulsando medidas como la gestión de riesgo de desastres y la promoción de mecanismos de economía circular y valorización de subproductos.
 - **Matricúlate en nuestro Diplomado Derecho administrativo, procedimiento sancionador y gestión pública. Hasta 16 ENE dos libros gratis y pago en dos cuotas**
 ### **DECRETO SUPREMO Nº 001-2025-VIVIENDA**
@@ -91,22 +91,22 @@ El acceso al agua potable y el saneamiento son derechos fundamentales, de carác
 [Continúa&#8230;]
 ### **Descargue el decreto aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

@@ -22,7 +22,7 @@ Inicio ** Jurisprudencia ** Jurisprudencia del artículo 1 del Código Procesal 
 - Procesal Penal
 - Recurso de Nulidad
 # Jurisprudencia del artículo 1 del Código Procesal Penal.- Acción penal
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Procesal Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  24 junio, 2022                                            **Artículo 1.- Acción penal**
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Procesal Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 24 junio, 2022**Artículo 1.- Acción penal**
 La acción penal es pública.
 ## 1. Su ejercicio en los delitos de persecución pública, corresponde al Ministerio Público. La ejercerá de oficio, a instancia del agraviado por el delito o por cualquier persona, natural o jurídica, mediante acción popular.
 ## 2. En los delitos de persecución privada corresponde ejercerla al directamente ofendido por el delito ante el órgano jurisdiccional competente. Se necesita la presentación de querella.
@@ -31,9 +31,9 @@ La acción penal es pública.
 ## **Concordancias**
 **C:** arts. 99, 103, 109, 159, 166; **CP:** art. 138; **NCPP:** art. IV.
 ## **Jurisprudencia del artículo ****1 del Código Procesal Penal**
-- 
+-
 ### **Corte Suprema**
-- 
+-
 - **NUEVO:** Que los jueces recurran a criterios utilizados por ellos mismos en otros procesos seguidos contra el mismo procesado no constituye, por sí solo, un indicio grave de parcialidad, ya que refleja la aplicación del principio de seguridad jurídica mediante el uso del autoprecedente [Recusación 17-2025, Lima, f. j. 4.9]. Link: lpd.pe/zX81w
 - **NUEVO:** Si el fiscal es fuente de información o un eventual órgano de prueba, no puede realizar actos de investigación ni acusar [Casación 1115-2022, Cusco]. Link: lpd.pe/gb34J8
 - Delitos tributarios: no puede incoarse acción penal si ya se regularizó situación ante Sunat [RN 1543-2019, Lima]. Link: bit.ly/3niEW8U
@@ -43,22 +43,22 @@ La acción penal es pública.
 - Principio acusatorio: fiscal es el único que puede determinar los hechos, calificación jurídica y emitir acusación (precedente vinculante) [Queja 1678-2006, Lima]. Link: bit.ly/43vM84R
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Procesal Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

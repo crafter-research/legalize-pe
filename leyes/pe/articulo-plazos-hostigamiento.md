@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Artículos ** ¿Cuáles son todos los plazos en el procedimiento de investigación y sanción...- Artículos
 - Laboral
 # ¿Cuáles son todos los plazos en el procedimiento de investigación y sanción del hostigamiento sexual laboral?
-Por: Alejandro Sánchez Cabanillas[1]Por LP • Pasión por el Derecho -                  28 febrero, 2025                                            **Sumario:** **1.** Introducción, **2.** Primer plazo: un (01) día hábil, para poner a disposición de la víctima los servicios de salud,** 3.** Segundo plazo: tres (03) días hábiles, para dictar y ejecutar las medidas de protección, **4. **Tercer plazo: seis (06) días hábiles, para reportar el caso ante el Ministerio de Trabajo,** 5.** Cuarto plazo: un (01) día hábil, para correr traslado al Comité de intervención, **6.** Quinto plazo: quince (15) días calendario, para que el Comité emita un informe, **7. **Sexto plazo: un (01) día hábil, para que el Comité remita su informe a Recursos Humanos, **8. **Séptimo plazo: diez (10) días calendario, para que Recursos Humanos emita una decisión,** 9. **Octavo plazo: seis (06) días hábiles, para comunicar al Ministerio de Trabajo la decisión adoptada.
+Por: Alejandro Sánchez Cabanillas[1]Por LP • Pasión por el Derecho - 28 febrero, 2025**Sumario:** **1.** Introducción, **2.** Primer plazo: un (01) día hábil, para poner a disposición de la víctima los servicios de salud,** 3.** Segundo plazo: tres (03) días hábiles, para dictar y ejecutar las medidas de protección, **4. **Tercer plazo: seis (06) días hábiles, para reportar el caso ante el Ministerio de Trabajo,** 5.** Cuarto plazo: un (01) día hábil, para correr traslado al Comité de intervención, **6.** Quinto plazo: quince (15) días calendario, para que el Comité emita un informe, **7. **Sexto plazo: un (01) día hábil, para que el Comité remita su informe a Recursos Humanos, **8. **Séptimo plazo: diez (10) días calendario, para que Recursos Humanos emita una decisión,** 9. **Octavo plazo: seis (06) días hábiles, para comunicar al Ministerio de Trabajo la decisión adoptada.
 ## **1. Introducción**
 Uno de los procedimientos más complejos en materia de relaciones laborales es el procedimiento de investigación y sanción del hostigamiento sexual laboral, el cual consta de ocho plazos, de los cuales cuatro de ellos deben cumplirse de forma simultánea, es decir, se contabilizan en paralelo desde que es interpuesta la queja o denuncia, y cada uno de ellos, sin excepción, deben cumplirse de forma obligatoria por parte de los empleadores. Sin duda, se trata de un procedimiento complejo y de una materia tan sensible como lo es el hostigamiento sexual.
 Al respecto, recordemos que, con fecha 22 de julio del 2019, se publicó el Decreto Supremo 14-2019-MIMP que aprobó el Reglamento de la Ley 27942, Ley de Prevención y Sanción del Hostigamiento Sexual, modificado por el Decreto Supremo 021-2021-MIMP, mediante el cual se establecieron nuevas obligaciones para los empleadores, entre ellas:
@@ -59,22 +59,22 @@ Como podemos apreciar, el procedimiento de investigación y sanción del hostiga
 Por ello, consideramos que la mejor manera de cumplir con las disposiciones de prevención del hostigamiento sexual en el trabajo sigue siendo la sensibilización a través de las capacitaciones generales y especializadas que debe brindar el empleador para evitar que estos casos se presenten, y si tenemos a cargo un caso de hostigamiento sexual, éste sea investigado de la forma más idónea posible, cautelando el derecho de los trabajadores y cumpliendo con el objeto de la Ley 27942 y el Decreto Supremo 14-2019-MIMP, modificado por el Decreto Supremo 21-2021-MIMP.
 [1] Abogado por la Universidad Nacional de Trujillo, con estudios de especialización en la Universidad ESAN, Universidad del Pacífico y Universidad de Lima. Actualmente forma parte del equipo de especialistas en derecho laboral de Lead Legal y ayuda a muchas empresas a evitar contingencias laborales.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

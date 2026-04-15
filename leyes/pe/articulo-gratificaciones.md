@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** Gratificación: ¿qué es, cuándo se paga y cómo calcularla?- Laboral
 # Gratificación: ¿qué es, cuándo se paga y cómo calcularla?
-Por LP • Pasión por el Derecho -                  23 febrero, 2022                                            La **gratificación** es un **beneficio social** regulado por la Ley 27735. Equivale a 1 sueldo adicional si el trabajador ha laborado 1 semestre completo: del 1 de enero al 30 de junio y del 1 de julio al 31 de diciembre.
+Por LP • Pasión por el Derecho - 23 febrero, 2022La **gratificación** es un **beneficio social** regulado por la Ley 27735. Equivale a 1 sueldo adicional si el trabajador ha laborado 1 semestre completo: del 1 de enero al 30 de junio y del 1 de julio al 31 de diciembre.
 Así, el plazo para pagarla será del 1 al 15 de julio (el primer semestre) y del 1 hasta el 15 de diciembre (segundo semestre).
 - Lea también: **¿Cómo calcular una liquidación de beneficios sociales?**
 ## **1. ¿Quiénes tienen derecho a las gratificaciones?**
@@ -61,22 +61,22 @@ Por tanto, ante una inspección el empleador puede ser sancionado con multas de 
 ## **11. ¿Cómo calcular mi gratificación?**
 Te recomendamos ver el siguiente vídeo.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-César David Ojeda Quiroz -                 4 abril, 2026                            Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+César David Ojeda Quiroz - 4 abril, 2026Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
 4 abril, 2026

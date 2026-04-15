@@ -17,10 +17,10 @@ disclaimer: true
 
 # Reglamento de la Ley del Régimen Laboral Agrario
 
-Inicio ** Legislación ** ¡Atención! Reglamento de la Ley del régimen laboral agrario (Ley 31110) - Legislación
+Inicio ** Legislación ** ¡Atención! Reglamento de la Ley del régimen laboral agrario (Ley 31110)- Legislación
 - Normas legales
 # ¡Atención! Reglamento de la Ley del régimen laboral agrario (Ley 31110) [Decreto Supremo 005-2021-Midagri]
-Publicado el 30 de marzo de 2021, en el diario oficial el Peruano.Por LP • Pasión por el Derecho -                  30 marzo, 2021                                            A través del **Decreto Supremo 005-2021-Midagri**, publicado en el diario oficial *El Peruano*, se aprueba el Reglamento de la **Ley  31110**, Ley del régimen laboral agrario y de incentivos para el sector agrario y riego, agroexportador y agroindustrial.
+Publicado el 30 de marzo de 2021, en el diario oficial el Peruano.Por LP • Pasión por el Derecho - 30 marzo, 2021A través del **Decreto Supremo 005-2021-Midagri**, publicado en el diario oficial *El Peruano*, se aprueba el Reglamento de la **Ley  31110**, Ley del régimen laboral agrario y de incentivos para el sector agrario y riego, agroexportador y agroindustrial.
 Decreto Supremo que aprueba el Reglamento de la Ley Nº 31110, Ley del Régimen Laboral Agrario y de Incentivos para el sector agrario y riego, agroexportador y agroindustrial
 **DECRETO SUPREMO ****Nº 005-2021-MIDAGRI**
 EL PRESIDENTE DE LA REPÚBLICA
@@ -404,22 +404,22 @@ Son infracciones muy graves, los siguientes incumplimientos:
 34.7 Usar fraudulentamente la figura de tercerización laboral como sola provisión de personal, incumpliendo los requisitos indicados por el artículo 2 y 3 de la Ley Nº 29245, Ley que regula los servicios de tercerización.
 ### **Descargue en PDF el Decreto Supremo 005-2021-Midagri**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva  475-2022-Junín]
-Administrativo            ### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-Lizbeth Ubillus -                 4 abril, 2026                            La Fiscalía de la Nación inició diligencias preliminares tras la muerte de una persona y la existencia de aproximadamente 47 heridos durante una concentración...            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-3 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva 475-2022-Junín]
+Administrativo### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Noticias### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Lizbeth Ubillus - 4 abril, 2026La Fiscalía de la Nación inició diligencias preliminares tras la muerte de una persona y la existencia de aproximadamente 47 heridos durante una concentración...### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+3 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
 3 abril, 2026

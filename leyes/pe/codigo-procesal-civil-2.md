@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Civil ** Procesal Civil ** TUO del Código Procesal Civil (del artículo 749 al 847)- Civil
 - Procesal Civil
 # TUO del Código Procesal Civil (del artículo 749 al 847)
-Por LP • Pasión por el Derecho -                  20 enero, 2018                                            Mediante el **Decreto Legislativo 768**, de fecha 4 de marzo de 1992, se promulgó el Código Procesal Civil. Posteriormente, mediante la **Resolución Ministerial 010-93-JUS** se autorizó la publicación del **Texto Único Ordenado del Código Procesal Civil**, promulgado el 8 de enero de 1993 y publicado el 22 de abril del mismo año. Este es el texto que ponemos a vuestra disposición, actualizado al mes de **febrero de 2021**.
+Por LP • Pasión por el Derecho - 20 enero, 2018Mediante el **Decreto Legislativo 768**, de fecha 4 de marzo de 1992, se promulgó el Código Procesal Civil. Posteriormente, mediante la **Resolución Ministerial 010-93-JUS** se autorizó la publicación del **Texto Único Ordenado del Código Procesal Civil**, promulgado el 8 de enero de 1993 y publicado el 22 de abril del mismo año. Este es el texto que ponemos a vuestra disposición, actualizado al mes de **febrero de 2021**.
 Este Código Procesal Civil está dividido en dos partes. Esta es la segunda parte, del artículo 749 al 847 y disposición finales y transitorias. Puede revisar aquí la primera parte (del Título Preliminar al artículo 748).
 ## **SECCIÓN SEXTA: PROCESOS NO CONTENCIOSOS**
 ## **TÍTULO I: DISPOSICIONES GENERALES**
@@ -593,22 +593,22 @@ Dichos procedimientos se tramitarán conforme al proceso específico regulado en
 3. Las demás disposiciones administrativas incompatibles con este Código.
 ### **Descargue en PDF el TUO del Código Procesal Civil**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
-Civil            ### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
-Civil            ### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
-Civil            ### Balotario notarial: el poder y la representación según el Código Civil
-Civil            ### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
-Civil            ### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Civil### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
+Civil### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
+Civil### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
+Civil### Balotario notarial: el poder y la representación según el Código Civil
+Civil### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
+Civil### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

@@ -35,7 +35,7 @@ Por lo tanto, el Pleno del Jurado Nacional de Elecciones, en uso de sus atribuci
 
 RESUELVE
 
-1. APROBAR EL USO, para las elecciones primarias de las Elecciones Regionales y Municipales 2026, del padrón de electores afiliados de la organización política OPORTUNIDAD Y LIDERAZGO CON AUTONOMIA, elaborado por el Registro Nacional de Identificación y Estado Civil, el cual contiene un total de 11 828 
+1. APROBAR EL USO, para las elecciones primarias de las Elecciones Regionales y Municipales 2026, del padrón de electores afiliados de la organización política OPORTUNIDAD Y LIDERAZGO CON AUTONOMIA, elaborado por el Registro Nacional de Identificación y Estado Civil, el cual contiene un total de 11 828
 afiliados.
 
 2. PONER A DISPOSICIÓN de la Oficina Nacional de Procesos Electorales el padrón de electores afiliados de la organización política OPORTUNIDAD Y LIDERAZGO CON AUTONOMIA, que se encuentra alojado en el servidor informático del Jurado Nacional de Elecciones.

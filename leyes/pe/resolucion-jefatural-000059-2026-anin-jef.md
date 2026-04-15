@@ -65,13 +65,13 @@ Aprobar la ejecución de la expropiación del área afectada del inmueble por la
 
 | SUJETO ACTIVO /
 BENEFICIARIO | SUJETO
-PASIVO | IDENTIFICACIÓN DEL INMUEBLE | VALOR DE LA 
-TASACIÓN (S/) |  |  |  |
+PASIVO | IDENTIFICACIÓN DEL INMUEBLE | VALOR DE LA
+TASACIÓN (S/) | | | |
 | --- | --- | --- | --- | --- | --- | --- |
 | CÓDIGO DE
 INMUEBLE N° | ÁREA
 AFECTADA | INSCRITO EN
-LA P.E. | AFECTACIÓN |  |  |  |
+LA P.E. | AFECTACIÓN | | | |
 | AUTORIDAD NACIONAL
 DE INFRAESTRUCTURA | 1. URSULA MONICA ZURITA FALCON
 2. LEONARDA ORTIZ DE MIRANDA
@@ -104,7 +104,7 @@ DE INFRAESTRUCTURA | 1. URSULA MONICA ZURITA FALCON
 29. IRMA NANCY FERNANDEZ MURGA
 30. JOEL MILTON FERNANDEZ MURGA | 2499886-HUA-SP-PQ2R-11 | 13,877.56 m2 | P18023203
 del Registro de Predios de la Oficina Registral de Huacho, Zona Registral N° IX- Sede Lima | PARCIAL | 176,245.01 |
-|  | 31. MEDALIT JUVENCIA RETUERTO VALENZUELA
+| | 31. MEDALIT JUVENCIA RETUERTO VALENZUELA
 32. DANIEL FELICIANO QUISPE HARO
 33. YOVANI YOEL DIAZ TRUJILLO
 34. MANUEL ANTONIO RAMOS HUAMAN
@@ -114,7 +114,7 @@ del Registro de Predios de la Oficina Registral de Huacho, Zona Registral N° IX
 38. JULIO EVARISTO MIRANDA ORTIZ
 39. LUIS ALBERTO MIRANDA ORTIZ
 40. VIOLETA LEONARDA MIRANDA ORTIZ
-41. LIDIA LUZMILA SIFUENTES FLORES |  |  |  |  |  |
+41. LIDIA LUZMILA SIFUENTES FLORES | | | | | |
 
 Artículo 2.- Consignación del valor de la Tasación
 
@@ -150,31 +150,31 @@ Autoridad Nacional de Infraestructura
 
 ## ANEXO
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 2503204-1

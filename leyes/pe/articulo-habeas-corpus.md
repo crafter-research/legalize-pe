@@ -23,7 +23,7 @@ Inicio ** Artículos ** Abogados ** Hábeas corpus: características, derechos p
 - Estudiantes
 - Procesal Constitucional
 # Hábeas corpus: características, derechos protegidos, tipos y procedimiento
-Por LP • Pasión por el Derecho -                  10 febrero, 2026                                            **Sumario:** 1. Antecedentes, 2. Concepto y características, 3. Objeto de protección: derechos tutelados por el hábeas corpus, 4. Objeto de control: los actos lesivos en el hábeas corpus, 5. Procedimiento del proceso de hábeas corpus.
+Por LP • Pasión por el Derecho - 10 febrero, 2026**Sumario:** 1. Antecedentes, 2. Concepto y características, 3. Objeto de protección: derechos tutelados por el hábeas corpus, 4. Objeto de control: los actos lesivos en el hábeas corpus, 5. Procedimiento del proceso de hábeas corpus.
 Lee también: **Curso de especialización en procesos constitucionales**
 Lee también: **Constitución Política del Perú [actualizada 2026]**
 El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Derecho procesal constitucional* (2018, PUCP), escrito por el exmagistrado del Tribunal Constitucional, **César Landa Arroyo**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, lo esencial que uno debe conocer sobre el proceso de hábeas corpus.
@@ -82,22 +82,22 @@ La sentencia o la resolución que pone fin a la instancia puede ser apelada en e
 Si la resolución deniega el hábeas corpus, cabe interponer un recurso de agravio constitucional dentro del plazo de diez días para que el TC resuelva en última y definitiva instancia (artículo 18 del CPConst.). Si bien la decisión de segunda instancia solo puede ser impugnada por el beneficiario del hábeas corpus, jurisprudencialmente se ha establecido que el procurador público especializado puede cuestionar resoluciones que favorecen a los demandantes en hábeas corpus cuando se trata de casos de narcotráfico (sentencia del Exp. 2663-2009-PHC/TC), lavado de activos (sentencia de Exp. 2748-2010-PHC/TC) y terrorismo (sentencia del Exp. 1711-2014-PHC).
 ## Inscríbete aquí Más información
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-Constitucional            ### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
-Abogados            ### Conteo de la prescripción civil en el proceso penal
-Animales            ### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+Constitucional### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
+Abogados### Conteo de la prescripción civil en el proceso penal
+Animales### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

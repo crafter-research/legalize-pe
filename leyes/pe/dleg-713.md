@@ -21,7 +21,7 @@ Inicio ** Laboral ** Ley que regula los descansos remunerados en el régimen lab
 - Legislación
 - Normas legales
 # Ley que regula los descansos remunerados en el régimen laboral privado (Decreto Legislativo 713) [actualizado 2023]
-Por LP • Pasión por el Derecho -                  2 enero, 2022                                            Compartimos el **Decreto Legislativo 713**, denominado **Consolidan la legislación sobre descansos remunerados de los trabajadores sujetos al régimen laboral de la actividad privada**, publicado en el diario oficial *El Peruano* el 8 de noviembre de 1991.
+Por LP • Pasión por el Derecho - 2 enero, 2022Compartimos el **Decreto Legislativo 713**, denominado **Consolidan la legislación sobre descansos remunerados de los trabajadores sujetos al régimen laboral de la actividad privada**, publicado en el diario oficial *El Peruano* el 8 de noviembre de 1991.
 El reglamento de esta norma se aprobó el 3 de noviembre de 1992 mediante Decreto Supremo 012-92-TR. La última modificación se produjo tras la publicación de la **Ley** **31381**, que modifica el artículo 6.
 Para ubicar de manera rápida el artículo que desea, presione Control+F y le aparecerá un recuadro en el extremo superior derecho para que escriba la palabra clave.
 El texto de la norma está actualizado por la Ley 31822, publicada el 8 de julio de 2023.
@@ -129,22 +129,22 @@ Presidente Constitucional de la República.
 **ALFONSO DE LOS HEROS PEREZ-ALBELA,**
 Presidente del Consejo de Ministros y Ministro de Trabajo y Promoción Social.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

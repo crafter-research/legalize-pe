@@ -21,7 +21,7 @@ Inicio ** Artículos ** Abogados ** ¿Todas las empresas que suscriben contratos
 - Abogados
 - Laboral
 # ¿Todas las empresas que suscriben contratos de tercerización en el sector minero deben obligatoriamente inscribirse en el registro de empresas contratistas?
-Por Mailyn Aguero Quiñones -                  18 agosto, 2021                                            **Sumario: **1. Definición y regulación, 2. La externalización de la fase productiva de la actividad principal en el sector minero, 3. La obligatoriedad de inscripción en el registro de empresas contratistas, 4. El Decreto Supremo 005-2008-EM y su incompatibilidad el artículo 5 de la Ley 29245, 5. Conclusiones.
+Por Mailyn Aguero Quiñones - 18 agosto, 2021**Sumario: **1. Definición y regulación, 2. La externalización de la fase productiva de la actividad principal en el sector minero, 3. La obligatoriedad de inscripción en el registro de empresas contratistas, 4. El Decreto Supremo 005-2008-EM y su incompatibilidad el artículo 5 de la Ley 29245, 5. Conclusiones.
 ## **1. Definición y regulación**
 La tercerización, según el profesor español Cruz supone:
 Un proceso de externalización de la producción, de modo que las formas de división del trabajo que en el modelo centralizado de producción se llevan a cabo en el interior de la empresa, en el caso de la descentralización, dan lugar a una división del trabajo interempresarial en lugar de intraempresarial[1].
@@ -35,7 +35,7 @@ Por su parte, el artículo 2 del **Decreto Supremo 006-2008-TR** regula el ámbi
 Comprende a las empresas principales cuyos trabajadores estén sujetos al régimen laboral de la actividad privada, que tercerizan su actividad principal, siempre que se produzca con desplazamiento continuo de los trabajadores de las empresas tercerizadoras a los centros de trabajo o de operaciones de aquellas.
 En esa línea argumentativa, debe entenderse a la tercerización como una forma de organización empresarial por la que una empresa denominada principal encarga o delega el desarrollo de una o más partes de su actividad principal a una o más empresas denominadas tercerizadoras, para que estas lleven a cabo un servicio u obras vinculadas o integradas a aquella.
 Entonces siendo que, de acuerdo al artículo 1 del referido Decreto Supremo 006-2008-TR se señalan las definiciones de los principales términos que comprende la tercerización de servicios, apreciándose que entre éstos figuran los siguientes:
-- 
+-
 - **Actividades principales.-** Constituyen actividades principales aquellas a las que se refiere el artículo 1 del Reglamento de la Ley 27626, aprobado por el Decreto Supremo 003-2002-TR y sus normas modificatorias.
 - **Empresa principal.-** Empresa que encarga o delega el desarrollo de una o más partes de su actividad principal a una empresa tercerizadora.
 - **Tercerización.-** Es una forma de organización empresarial por la que una empresa principal encarga o delega el desarrollo de una o más partes de su actividad principal a una o más empresas tercerizadoras, que le proveen de obras o servicios vinculados o integrados a la misma.
@@ -75,22 +75,22 @@ Pues bien, para resolver este conflicto normativo es preciso hacer mención a lo
 [2] Toyama, Jorge. *La nueva regulación de la tercerización*. Lima: Revista soluciones laborales N° 7, 2008, pp. 06.
 [3] Neves, Javier. *Introducción al derecho del trabajo*. Lima: Fondo Editorial de la Pontificia Universidad católica del Perú, 2009, p. 159.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

@@ -24,7 +24,7 @@ Inicio ** Jurisprudencia ** Casación ** Jurisprudencia del artículo 189 del C�
 - Pleno jurisdiccional
 - Recurso de Nulidad
 # Jurisprudencia del artículo 189 del Código Penal.- Robo agravado
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  18 agosto, 2022                                            Artículo 189.- Robo agravado*
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 18 agosto, 2022Artículo 189.- Robo agravado*
 La pena será no menor de doce ni mayor de veinte años si el robo se comete:
 ## 1. En inmueble habitado.
 ## 2. Durante la noche o en lugar desolado.
@@ -59,7 +59,7 @@ La pena será no menor de doce ni mayor de veinte años si el robo se comete:
 ## **Concordancias**
 **C:** arts. 2.1, 16, 21, 60, 70; **CP:** arts. 12, 29, 57; **NCPP:** arts. 135, 143, 245; **CC:** arts. 885, 886, 923; **DUDH:** art. 17; **CADH:** arts. 5.1, 21.1; **DADDH:** arts. I,XXII; **CAPPDH:** arts.19,38,43.1,59.3.
 ## **Jurisprudencia del artículo 189 del Código Penal**
-- 
+-
 ### **Corte Suprema**
 - La agravante «a mano armada» comprende no solo armas reales, sino también armas inoperativas, aparentes, de utilería, los de juguete, réplicas o cualquier objeto que, por su apariencia, genere en la víctima el mismo efecto intimidatorio que el de un arma verdadera (doctrina legal) [AP 5-2015/CIJ-116, f. j. 17]. Link: bit.ly/3S0WmVU
 - Si las lesiones no superan los 10 días de asistencia o descanso, hay robo simple —salvo medios especialmente graves—; pero, si son más de 10 y menos de 30 días, aplica la agravante del inciso 1 de la segunda parte del art. 189 CP; y, si supera los 30 días, serán agravadas por la tercera parte (doctrina legal vinculante) [AP 3-2009/CJ-116, f. j. 12]. Link: bit.ly/3yYk3FS
@@ -93,14 +93,14 @@ La pena será no menor de doce ni mayor de veinte años si el robo se comete:
 - Es coautor de robo agravado quien cogió del brazo a la agraviada para facilitar la sustracción del bien [RN 4484-2007, Lima, f. j. 3]. Link: bit.ly/3zyzwgW
 - Si la violencia que causa la muerte es posterior al robo, no configura «robo con subsecuente muerte», sino un homicidio —como delito independiente—; pero, si la muerte se causa para facilitar u ocultar el robo o impedir la detención del autor, se configura asesinato además de robo (precedente vinculante) [RN 3932-2004, Amazonas, f. j. 5]. Link: bit.ly/3Go0bPI
 - Agravante del robo con subsecuente muerte se aplica aun cuando no se haya buscado dicho resultado (*animus necandi*), pues lo que se castiga es la muerte a consecuencia de la violencia usada para robar [RN 2487-2002, Arequipa, f. j. 7]. Link: bit.ly/3OutWRa
-- 
+-
 ### **Corte Superior**
 - El término «casa habitada» abarca a viviendas esporádicas; aunque no estén presentes en el momento de los hechos; no incluye espacios públicos o privados, ni negocios o comercios [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Madre de Dios, 2014, tema 2]. Link: bit.ly/40tA7eB
-- 
+-
 ### **Tribunal Constitucional**
-- 
+-
 - Corresponde inaplicar el primer párr. del art. 189 del Código Penal, pues establece una pena mínima exorbitante para la sanción del delito de robo agravado (aplicación del principio de razonabilidad y proporcionalidad) [Exp. 00413-2021-PHC/TC, ff. jj. 10-18]. Link: lpd.pe/k5YZy
-- 
+-
 ### **Adicionales**
 - Hay robo con subsecuente muerte cuando la muerte resulta de la violencia empleada para consumar el apoderamiento o vencer la resistencia, mientras que hay homicidio para facilitar u ocultar otro delito cuando se mata con el propósito de facilitar su comisión o asegurar la impunidad [Casación 996-2022, Sullana, f. j. 11]. Link: lpd.pe/Ek2pD
 - Pautas para aplicar el sistema operativo escalonado en el delito de robo agravado [RN 722-2023, Lima Sur. ff. jj. 5.1-5.14]. Link: lpd.pe/kw3dJ
@@ -114,22 +114,22 @@ La pena será no menor de doce ni mayor de veinte años si el robo se comete:
 - Existe un concurso aparente entre los delitos de robo a mano armada y tenencia ilegal de armas [RN 1694-2009, Huancavelica, f. j. 6]. Link: bit.ly/3zw6Zsl
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

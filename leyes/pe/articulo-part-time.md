@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** Trabajadores a tiempo parcial o &#8216;part time&#8217;: derechos, beneficios, jurisprudencia- Laboral
 # Trabajadores a tiempo parcial o &#8216;part time&#8217;: derechos, beneficios, jurisprudencia
-Por Jesús Miguel Chanamé Arriola -                  12 noviembre, 2021                                            **Sumario:** 1. Introducción; 2. Contrato y remuneración; 2.1 Registro; 2.2 Estabilidad laboral (periodo de prueba e indemnización por despido); 3. Beneficios laborales; 4. Seguridad social; 5. Jurisprudencia; 6. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 12 noviembre, 2021**Sumario:** 1. Introducción; 2. Contrato y remuneración; 2.1 Registro; 2.2 Estabilidad laboral (periodo de prueba e indemnización por despido); 3. Beneficios laborales; 4. Seguridad social; 5. Jurisprudencia; 6. Conclusiones.
 ## **1. Introducción**
 Según las reiteradas explicaciones del Ministerio de Trabajo y Promoción del Empleo (MTPE) corresponderá un contrato *part time* o a tiempo parcial cuando la jornada de trabajo semanal dividida entre seis o cinco días, según sea la jornada de trabajo en la empresa, resulta en promedio inferior a las** cuatro horas diarias**.
 - Lea también:** Trabajadora a tiempo parcial: ¿goce del permiso por lactancia es proporcional a las horas de trabajo? [Informe 0091-2018-MTPE/2/14.1]**
@@ -73,22 +73,22 @@ Se otorgan ciertos beneficios sociales y su entrega depende del cumplimiento de 
 ## **Descargue un modelo de contrato a tiempo parcial**
 [1] ARCE, Elmer. Derecho individual del trabajo en Perú. Desafíos y deficiencias. Lima: Palestra, 2013.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

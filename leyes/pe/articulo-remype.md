@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Artículos ** Todo lo que debes conocer sobre el régimen Remype laboral- Artículos
 - Laboral
 # Todo lo que debes conocer sobre el régimen Remype laboral
-Por LP • Pasión por el Derecho -                  19 febrero, 2026                                            El régimen de la micro y pequeña empresa se oficializó con la **Ley 27268** – Ley General de la Pequeña y Micro Empresa y su sigla era PYME.
+Por LP • Pasión por el Derecho - 19 febrero, 2026El régimen de la micro y pequeña empresa se oficializó con la **Ley 27268** – Ley General de la Pequeña y Micro Empresa y su sigla era PYME.
 Con el **Decreto Legislativo 1086** , vigente desde octubre del 2008 se le cambió el nombre y se le denominó Ley de Promoción de la Competitividad, Formalización y Desarrollo de la Micro y Pequeña Empresa y del acceso al empleo decente – MYPE
 El **Decreto Supremo 013-2013-PRODUCE ** aprobó el TUO de la Ley de Impulso al Desarrollo Productivo y al Crecimiento Empresarial (MYPE), que contiene actualmente la regulación de las micro y pequeñas empresas.
 #### **1. ¿El régimen Remype es constitucional?**
@@ -39,7 +39,7 @@ No. En este caso se trata de dos ámbitos distintos y otorgan diferentes benefic
 #### **a. Mype tributario**
 Es un régimen especialmente creado para las micro y pequeñas empresas con el objetivo de promover su crecimiento. El Régimen MYPE Tributario (RMT) les exige condiciones más simples para cumplir con sus obligaciones tributarias.
 El Mype tributario beneficia directamente al empleador y le permite:
-- 
+-
 - Pagar de acuerdo a la ganancia obtenida.
 - Tasas reducidas.
 - Realizar cualquier tipo de actividad económica.
@@ -56,7 +56,7 @@ No pueden acceder a este registro empresas del rubro de bares, discotecas, casin
 Se debe diferenciar las micro y las pequeñas empresas, ya que cada uno tiene diferentes beneficios-
 **a. Microempresa**
 Los trabajadores que se encuentren laborando en microempresas, acreditadass por el Mintra, tienen derecho a:
-- 
+-
 - **Remuneración mínima vital**
 - **Vacaciones**: 15 días
 - **Horas extras**: Con las sobretasas del 25% y 35% del valor hora.
@@ -68,7 +68,7 @@ Los trabajadores que se encuentren laborando en microempresas, acreditadass por 
 Inscríbete aquí Más información
 **b. Pequeña empresa**
 Los trabajadores que se encuentren laborando en microempresas, acreditadas por el Mintra, tienen derecho a los mismos derechos mencionados en el punto a, pero además:
-- 
+-
 - **Gratificaciones:** Tienen derecho a 1/2 gratificación en julio y 1/2 en diciembre.
 - **CTS:** Tienen derecho a 15 remuneraciones diarias por cada año de servicios con un tope de 90 remuneraciones diarias.
 - **Bonificación nocturna:** Los trabajadores de pequeña empresa, a diferencia de la micro, sí tienen derecho a la bonificación nocturna, equivalente al 35% de la remuneración mínima vital en caso se labore en el horario de 10:00 pm a 6:00 am.
@@ -98,22 +98,22 @@ Inscríbete aquí Más información
 - Las multas de Sunafil, respecto a la comisión de faltas por parte de los empleadores Remype son menores a compararción de una empresa bajo el Decreto Legislativo 728.
 En el programa Viernes laboral hablamos sobre este régimen y sus beneficios. Puedes ver el vídeo **aquí** .
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-Elani Yahaira Mamani Gutiérrez -                 4 abril, 2026                            La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Elani Yahaira Mamani Gutiérrez - 4 abril, 2026La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
 3 abril, 2026

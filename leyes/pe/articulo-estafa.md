@@ -22,12 +22,12 @@ Inicio ** Jurisprudencia ** Casación ** Jurisprudencia del artículo 196 del C�
 - Penal
 - Recurso de Nulidad
 # Jurisprudencia del artículo 196 del Código Penal.- Estafa
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  1 septiembre, 2022                                            Artículo 196.- Estafa
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 1 septiembre, 2022Artículo 196.- Estafa
 El que procura para sí o para otro un provecho ilícito en perjuicio de tercero, induciendo o manteniendo en error al agraviado mediante engaño, astucia, ardid u otra forma fraudulenta, será reprimido con pena privativa de libertad no menor de uno ni mayor de seis años.
 ## **Concordancias**
 **CP:** arts. 82, 133-137; **DUDH:** art. 17; **CADH:** art. 21.1; **DADDH:** art. XXII; **CAPPDH:** arts. 38, 43.1, 59.3.
 ## **Jurisprudencia del artículo 196 del Código Penal**
-- 
+-
 ### **Corte Suprema**
 - Presentar cartas fianza falsas ante la municipalidad para lograr un desembolso de dinero no configura el delito de falsa declaración en procedimiento administrativo, sino de estafa, pues existió un desprendimiento patrimonial y un perjuicio económico [Casación 1077-2023, Lima Este, f. j. 16]. Link: lpd.pe/Ek19V
 - La «estafa contractual» utiliza como medio engañoso la supuesta celebración de un contrato o negocio jurídico para hacer incurrir en error a la víctima y conseguir su disposición patrimonial en su perjuicio [Casación 2970-2021, Lambayeque, f. j. 5]. Link: bit.ly/3pDGnDX
@@ -54,17 +54,17 @@ El que procura para sí o para otro un provecho ilícito en perjuicio de tercero
 - No constituye estafa la falta de entrega de un bien si víctima firmó contrato donde se establece una fecha de entrega distinta [RN 1835-2013, Lima, f. j. 4.3]. Link: bit.ly/3Ju3uGO
 - Actuar omisivo del agente al advertir el «error» es atípico si no tenía la obligación de hacerlo [RN 3115-2007, Lambayeque, f. j. 6]. Link: bit.ly/3JxHOcN
 - Comete estafa el vendedor que omite comunicar el defecto del producto al comprador —mediante el silencio u ocultando hechos—, pues está obligado a deshacer el error de la víctima [Queja 185-2012, Lima, f. j. 3]. Link: bit.ly/3q1zY1F
-- 
+-
 ### **Tribunal Constitucional**
 - Para que un engaño sea «suficiente» no solo se debe atender a la relación de causalidad sino también al contenido de subjetividad de los sujetos (España) [STS 2938/2022. f. j. 3]. Link: bit.ly/42t9ybq 
 - Dolo *in contrahendo*: Ocultar enfermedad para facilitar contrato de seguro no configura el dolo típico de estafa si agente no pretende obtener un resarcimiento (España) [STS 640/2022, f. j. 5]. Link: bit.ly/3FGgJTy
 - Casos en los que se excluye la imputación objetiva en el delito de estafa por autorresponsabilidad: negocios de riesgo calculado o especulativos, relaciones jurídico-económicas entre comerciantes, utilización abusiva de tarjetas de crédito por su propio titular y casos en los que la víctima hubiera podido evitar el error con el despliegue de una mínima actividad [STS 3218/2005, f. j. 3]. Link: bit.ly/3FBg5GU
-- 
+-
 ### **Derecho comparado**
 - Para que un engaño sea «suficiente» no solo se debe atender a la relación de causalidad sino también al contenido de subjetividad de los sujetos (España) [STS 2938/2022]. Link: bit.ly/42t9ybq 
 - Dolo *in contrahendo*: Ocultar enfermedad para facilitar contrato de seguro no configura el dolo típico de estafa si agente no pretende obtener un resarcimiento (España) [STS 640/2022]. Link: bit.ly/3FGgJTy
 - Principio de autorresponsabilidad: Cuatro casos en los que se excluye la imputación objetiva en el delito de estafa (España) [STS 3218/2005]. Link: bit.ly/3FBg5GU 
-- 
+-
 ### **Adicionales**
 - Gerente que se apodera de vehículos en alquiler con documentos falsos y no los devuelve comete estafa [RN 779-2019, Lima, f. j. 6]. Link: bit.ly/3wOd55D
 - Concurso aparente: Por el principio de especialidad, el delito de estafa se subsume en el de obtención fraudulenta de crédito [RN 621-2019, Lima Este, ff. jj. 6.5-6.6]. Link: bit.ly/3ebagoW
@@ -73,22 +73,22 @@ El que procura para sí o para otro un provecho ilícito en perjuicio de tercero
 - Brindar servicio educativo universitario sin contar con autorización configura el delito de estafa [RN 126-2015, Santa, f. j. 3.15]. Link: bit.ly/3TAWI6X
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Penal            ### La «especialidad de flagrancia» como presupuesto de validez y el riesgo de la usurpación funcional
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Penal### La «especialidad de flagrancia» como presupuesto de validez y el riesgo de la usurpación funcional
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

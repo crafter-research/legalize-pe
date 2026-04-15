@@ -17,10 +17,10 @@ disclaimer: true
 
 # Reglamento Normativo del Tribunal Constitucional
 
-Inicio ** Constitucional ** Reglamento Normativo del Tribunal Constitucional - Constitucional
+Inicio ** Constitucional ** Reglamento Normativo del Tribunal Constitucional- Constitucional
 - Legislación Básica
 # Reglamento Normativo del Tribunal Constitucional [actualizado 2026]
-Contiene la última modificación de la Resolución Administrativa 019-2026-P/TC, publicada el 19 de febrero de 2026.Por LP • Pasión por el Derecho -                  19 febrero, 2026                                            Compartimos con ustedes el Reglamento Normativo del Tribunal Constitucional, aprobado a través de la Resolución Administrativa 095-2004-P/TC, publicada el 14 de septiembre de 2004.
+Contiene la última modificación de la Resolución Administrativa 019-2026-P/TC, publicada el 19 de febrero de 2026.Por LP • Pasión por el Derecho - 19 febrero, 2026Compartimos con ustedes el Reglamento Normativo del Tribunal Constitucional, aprobado a través de la Resolución Administrativa 095-2004-P/TC, publicada el 14 de septiembre de 2004.
 Esta versión del Reglamento Normativo está actualizada al mes de febrero de 2026 y contiene la última modificación de la Resolución Administrativa 019-2026-P/TC, publicada el 19 de febrero de 2026.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F** y le aparecerá un cuadro para que lo escriba.
 - Lea también la **Constitución Política del Perú [realmente actualizada]**
@@ -43,21 +43,21 @@ Regístrese y comuníquese.
 **JAVIER ALVA ORLANDINI**
 Presidente
 ** Nomenclatura del primer párrafo modificado por el artículo primero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.*
-TÍTULO I 
+TÍTULO I
 **DEL TRIBUNAL CONSTITUCIONAL**
 #### **Arte. 1. Control e interpretación constitucional**
 El Tribunal Constitucional es el órgano supremo de interpretación y control de la Constitución. Es autónomo e independiente de los demás órganos constitucionales. Sólo está sometido a la Constitución ya su Ley Orgánica.
 #### **Arte. 2. ****Composición y ejercicio de atribuciones***
 El Tribunal Constitucional se compone de siete Magistrados elegidos por el Congreso de la República con el voto favorable de por los menos dos tercios del número legal de sus miembros y por un período de cinco años. No hay reelección inmediata. Ejerce sus atribuciones jurisdiccionales con arreglo a la Constitución, a su Ley Orgánica, al Nuevo Código Procesal Constitucional y a este Reglamento.
-* Artículo modificado por los siguientes dispositivos: 
-1. *Artículo primero de la RA 034-2005-P/TC*, publicada el 23 de abril de 2005. 
+* Artículo modificado por los siguientes dispositivos:
+1. *Artículo primero de la RA 034-2005-P/TC*, publicada el 23 de abril de 2005.
 *2. A**rtículo primero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.*
 #### **Art. 3. Sede y funcionamiento**
 El Tribunal Constitucional tiene como sede la ciudad de Arequipa. Puede celebrar audiencias en cualquier otra ciudad de la República.
 Las oficinas administrativas funcionan en la ciudad de Lima.
 #### **Art. 4. Reglamentación**
 Corresponde al Tribunal Constitucional dictar los Reglamentos para su propio funcionamiento, así como las disposiciones relacionadas con el régimen de trabajo de su personal y servidores dentro del ámbito de su Ley Orgánica. Dichos Reglamentos, una vez aprobados por el Pleno del Tribunal y autorizados por su Presidente, se publican en el Diario Oficial *El Peruano* .
-TÍTULO II 
+TÍTULO II
 **DE LAS ATRIBUCIONES DEL TRIBUNAL CONSTITUCIONAL**
 #### **Art. 5. Competencia***
 Corresponde al Tribunal Constitucional:
@@ -83,8 +83,8 @@ El orden de precedencia en el Tribunal Constitucional es el de Presidente, Vicep
 El quórum del Pleno del Tribunal Constitucional es de cinco de sus miembros.
 Para adoptar decisiones jurisdiccionales, el Tribunal Constitucional resuelve en armonía con las disposiciones legales correspondientes y su jurisprudencia.
 En ningún caso el Tribunal Constitucional puede dejar de resolver.
-* Artículo modificado por los siguientes dispositivos: 
-1. *Artículo primero de la RA **138-2015-P */TC, publicada el 14 de octubre de 2015. 
+* Artículo modificado por los siguientes dispositivos:
+1. *Artículo primero de la RA **138-2015-P */TC, publicada el 14 de octubre de 2015.
 *2. Artículo tercero de la RA **168-2021-P **/TC**, publicada el 18 de septiembre de 2021.*
 **Art. 10-A. Voto decisorio***
 El Presidente del Tribunal Constitucional cuenta con el voto decisivo para las causas que son competencia especial del Pleno en la que se produce un empate de ponencias. No le está permitido cambiar el sentido original de su decisión con el propósito de modificar el sentido del fallo. Cuando por alguna circunstancia el Presidente del Tribunal Constitucional no pudo intervenir para la resolución del caso, el voto decisorio recae en el Vicepresidente del Tribunal Constitucional. En caso este último no pudiese intervenir en la resolución del caso, el voto decisorio seguirá la regla de antigüedad, comenzando del magistrado más antiguo al menos antiguo hasta encontrar la mayoría necesaria para la resolución del caso.
@@ -94,9 +94,9 @@ El voto decisorio solo es de aplicación para resolver procesos de naturaleza ju
 El Tribunal conoce, en última y definitiva instancia, las resoluciones denegatorias de los procesos de hábeas corpus, amparo, hábeas data y cumplimiento, iniciadas ante los jueces respectivos, mediante dos Salas integradas por tres Magistrados. La sentencia requiere tres votos conformes.
 En caso de no reunir el número de votos requeridos, cuando ocurra alguna de las causas de vacancia que enumeran el artículo 16 de la Ley Nº 28301, cuando alguno de sus miembros esté impedido o para dirimir la discordia, se llama a los Magistrados de la otra Sala, en orden de antigüedad, comenzando del menos antiguo al más antiguo y, en último caso, al Presidente del Tribunal. En tales supuestos, el llamado puede usar la grabación de la audiencia realizada o citar a las partes para un nuevo informe.
 El Tribunal Constitucional puede declarar la improcedencia de un recurso de agravio constitucional cuando se incurra en las causales previstas en el Nuevo Código Procesal Constitucional y en su jurisprudencia.
-* Artículo modificado por los siguientes dispositivos: 
-1. Primer párrafo modificado por el artículo único de la RA 031-2006-P/TC, publicada el 2 de marzo de 2006. 
-2. *Artículo único de la RA 141-2014-P**/**TC*, publicada el 12 de septiembre de 2014. 
+* Artículo modificado por los siguientes dispositivos:
+1. Primer párrafo modificado por el artículo único de la RA 031-2006-P/TC, publicada el 2 de marzo de 2006.
+2. *Artículo único de la RA 141-2014-P**/**TC*, publicada el 12 de septiembre de 2014.
 3. *Artículo cuarto de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.*
 #### **Arte. 11-A. [Magistrado directo]***
 El magistrado llamado para dirimir la discordia es aquel que se encuentra integrando la otra Sala al momento que surge la discordia.
@@ -108,7 +108,7 @@ Para el trámite de las abstenciones, inhibiciones o excusas de los Magistrados 
 **a)** Las abstenciones, inhibiciones, excusas se tramitan por escrito y con fecha.
 **b)** La aceptación de las abstenciones, inhibiciones o excusas presentadas después de la vista de la causa debe ser aceptada por los dos magistrados restantes de la Sala.
 **c)** Cuando quien formula abstención, inhibición o excusa es el llamado a dirimir una discordia surgida en las Salas, bastará con la aceptación de dos magistrados que participaron en la vista de la causa.
-**d)**  No hay abstención, inhibición o excusa para resolver la abstención, inhibición o excusa de otro magistrado.
+**d)** No hay abstención, inhibición o excusa para resolver la abstención, inhibición o excusa de otro magistrado.
 **e)** Las abstenciones, inhibiciones o excusas proceden siempre que no se impida resolver.
 ** Artículo incorporado por el **artículo **1 de la RA 065A-2010-P**/**TC**, publicada el 26 de junio de 2010.*
 #### **Arte. 11-C. *Vista de la causa* ***
@@ -121,9 +121,9 @@ Para el trámite de las abstenciones, inhibiciones o excusas de los Magistrados 
 #### **Arte. 12. De la Presidencia y conformación de las Salas***
 El Presidente del Tribunal preside los Plenos administrativos y jurisdiccionales, así como las Audiencias Públicas de Pleno. Las Presidencias y conformación de las Salas son acordadas por el Pleno al inicio de cada año, a propuesta del Presidente del Tribunal.
 Ante la ausencia prolongada de un miembro de una Sala, previo acuerdo del Pleno, la conformación de esta es completada de manera transitoria por el Presidente del Tribunal, ocupando la posición originaria del magistrado reemplazado en la Sala.
-* Artículo modificado por los siguientes dispositivos: 
-1.* Artículo único de la RA 004-2009-P/**TC**, publicada el * 15 de enero de 2009. 
-2. *Artículo único de la RA 001A-2011-P**/TC*, publicada el 12 de enero de 2011. 
+* Artículo modificado por los siguientes dispositivos:
+1.* Artículo único de la RA 004-2009-P/**TC**, publicada el * 15 de enero de 2009.
+2. *Artículo único de la RA 001A-2011-P**/TC*, publicada el 12 de enero de 2011.
 3. *Artículo primero de la RA 067-2020-P/**TC**, publicada el 4 de junio de 2020.*
 #### **Arte. 13. Competencia especial del Pleno***
 Los procesos referidos en el artículo 11°, iniciados ante las respectivas Salas de las Cortes Superiores, y todos los que, al ser resueltos, pueden establecer jurisprudencia constitucional o apartarse de la precedente, deben ser vistos por el Pleno, a petición de cualquiera de sus miembros. En tales casos se procede conforme al artículo 5° de la Ley N° 28301.
@@ -132,19 +132,19 @@ Los procesos referidos en el artículo 11°, iniciados ante las respectivas Sala
 El Pleno o las Salas pueden solicitar o recibir los informes que estimen necesarios a los órganos de Gobierno y de la Administración y requerir respuesta oportuna de ellos, de acuerdo al artículo 115 del Nuevo Código Procesal Constitucional; así como solicitar o recibir información del (los) amicus curiae (amici curiarum), si fuera el caso, que permita esclarecer aspectos especializados que puedan surgir del estudio de los accionados.
 El plazo para recibir informes en calidad de amicus curiae o partícipe, vence 1 (un) día hábil antes de la audiencia pública.
 Quien tenga interés jurídicamente relevante en el resultado de un proceso, puede apersonarse solicitando ser declarado litisconsorte o tercero, según sea el caso.
-* Artículo incorporado por el artículo segundo de la RA 034-2005-P/TC, publicada el 23 de abril de 2005. Luego, fue modificado por los siguientes dispositivos: 
-1. Artículo primero de la RA 006-2020-P/TC, publicada el 27 de enero de 2021. 
-2. Artículo segundo de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021. 
+* Artículo incorporado por el artículo segundo de la RA 034-2005-P/TC, publicada el 23 de abril de 2005. Luego, fue modificado por los siguientes dispositivos:
+1. Artículo primero de la RA 006-2020-P/TC, publicada el 27 de enero de 2021.
+2. Artículo segundo de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.
 3. *Artículo primero de la RA 227-2021-P/TC, publicada el 14 de diciembre de 2021.*
 #### **Arte. 14. Acumulación de procesos**
 El Tribunal Constitucional puede, en cualquier momento, disponer la acumulación de procesos, cuando exista conexión entre ellos.
-TÍTULO III 
+TÍTULO III
 **DE LOS MAGISTRADOS**
 #### **Art. 15. Requisitos**
 Para ser Magistrado del Tribunal se requiere:
 **1.** Ser peruano de nacimiento;
 **2.** Ser ciudadano en ejercicio;
-**3.**  Ser mayor de cuarenta y cinco años;
+**3.** Ser mayor de cuarenta y cinco años;
 **4.** Haber sido Magistrado de la Corte Suprema o Fiscal Supremo, o Magistrado Superior o Fiscal Superior durante diez años, o haber ejercido la abogacía o la cátedra universitaria en materia jurídica durante quince años; y
 **5.** No estar comprendido en alguno de los supuestos enumerados en el artículo 12° de la Ley N° 28301.
 #### **Art. 16. Asunción del cargo**
@@ -172,7 +172,7 @@ Son deberes de los Magistrados del Tribunal Constitucional:
 **13.** Velar, a través de sus ponencias y la emisión de sus votos, por la correcta interpretación y el cabal cumplimiento de la jurisprudencia del Tribunal Constitucional;
 **14.** Cuidar los bienes públicos que son puestos a su servicio y promover el uso racional de los bienes de consumo que les provee el Estado. Esta obligación incluye el deber de dar cuenta documentada de los gastos que importan sus viajes oficiales o visitas al exterior con bolsa de viaje; y
 **15.** Presentar, luego de realizado un viaje oficial, un informe al Pleno sobre todo aquello que pueda ser de utilidad para el Tribunal Constitucional.
-** Numeral 2 modificado por el **artículo *primero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021. 
+** Numeral 2 modificado por el **artículo *primero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.
 *** Numeral 6 modificado por el artículo primero de la RA 059-2020-P/TC, publicada el 12 de mayo de 2020.*
 #### **Arte. 20. Derechos de los Magistrados***
 Los Magistrados tienen derecho a:
@@ -184,14 +184,14 @@ Los Magistrados tienen derecho a:
 En forma adicional a los servicios de seguridad social en materia de salud a carga del Estado, los Magistrados tienen derecho a los beneficios de seguros privados que se contraten en su favor y de sus familiares dependientes (cónyuge e hijos menores), beneficio que gozarán después de vencido su mandato; así como a los gastos de sepelio ya los honores internos a su carga en caso de muerte.
 Los ex magistrados del Tribunal Constitucional que quisieran continuar con la cobertura del seguro privado, la cubrirán en forma directa y personal, así como los eventuales efectos de la medición de siniestralidad.******
 * Artículo modificado por los siguientes dispositivos:
-* 1. Artículo primero de la RA 034-2005-P**/**TC*, publicada el 23 de abril de 2005. 
+* 1. Artículo primero de la RA 034-2005-P**/**TC*, publicada el 23 de abril de 2005.
 2. *Artículo primero de la RA 119-2018-P**/**TC**, publicada el 30 de mayo de 2018* .
 *** Párrafo final agregado por el artículo único de la RA 145-2018-P**/TC**, publicada el 23 de junio de 2018.*
 #### **Arte. 21. Suspensión y antejuicio**
 Los Magistrados del Tribunal Constitucional pueden ser suspendidos por el Pleno, como medida previa, siempre que incurran en delito flagrante. La suspensión requiere no menos de cuatro votos conformes.
 La comisión de delitos contra los deberes de función de los Magistrados del Tribunal se sujetan a lo dispuesto en los artículos 99° y 100° de la Constitución Política del Perú.
 Las infracciones constitucionales requieren de los dos tercios del número legal de Congresistas.
-TÍTULO IV 
+TÍTULO IV
 **DEL PRESIDENTE Y DEL VICEPRESIDENTE DEL TRIBUNAL**
 #### **Arte. 22. Elección del Presidente, Vicepresidente y duración del cargo***
 El Tribunal elige entre sus miembros, por votación secreta, a su Presidente. Para la elección, en primera votación, no se requieren menos de cinco votos. Si no se alcanzan, se procede a una segunda votación, en la que resulta elegido quien obtiene mayor número de votos. En caso de empate, se efectúa una última votación. Si el empate se repite, se elige al de mayor antigüedad en el cargo y, en caso de igualdad, al de mayor antigüedad en la colegiación profesional.
@@ -200,7 +200,7 @@ Por el mismo procedimiento señalado en este artículo se elige al Vicepresident
 Los electos asumen sus cargos dentro de la semana siguiente a su elección.******
 ** Artículo modificado por el artículo primero de la RA 034-2005-P**/TC**, publicada el 23 de abril de 2005.*
 ** Último párrafo modificado por los siguientes dispositivos:
-* 1. Artículo primero de la RA 076-2015-P**/**TC*, publicada el 28 de junio de 2015. 
+* 1. Artículo primero de la RA 076-2015-P**/**TC*, publicada el 28 de junio de 2015.
 2. *Artículo primero de la RA 074-2022-P/TC, publicada el 8 de junio de 2022.*
 #### **Art. 23. Atribuciones**
 El Presidente representa al Tribunal Constitucional y cumple las funciones que se señalan en la Constitución, en la Ley Orgánica y en este Reglamento.
@@ -229,20 +229,20 @@ Son deberes del Presidente:
 **20.** Cumplir con lo dispuesto en el segundo párrafo del artículo 19° de la Ley N° 27785; y,
 **21.** Disponer la adopción progresiva de las medidas necesarias para digitalizar los expedientes que se encuentren bajo la competencia jurisdiccional y custodia del Tribunal Constitucional.** ***
 **22.** Las demás que le señalen la Constitución y la Ley.** ****
-** Numeral 21 modificado por el artículo primero de la RA 051-2020-P**/**TC*, publicada el 1 de mayo de 2020. 
+** Numeral 21 modificado por el artículo primero de la RA 051-2020-P**/**TC*, publicada el 1 de mayo de 2020.
 *** Numeral 22 incorporado por el artículo primero de la RA 051-2020-P/TC, publicada el 1 de mayo de 2020.*
 #### **Arte. 25. Atribuciones complementarias**
 Corresponde, también, al Presidente del Tribunal:
-**1.**  Ejercer autoridad sobre los miembros de la Policía Nacional que presten servicios en la sede del Tribunal;
-**2.**  Disponer lo procedente sobre el acceso y permanencia en la sede del Tribunal de cualquier persona, ordenando, en su caso, el abandono del recinto o, cuando ello fuese legalmente necesario, la detención y puesta a disposición del Ministerio Público de quien contraviniere estas órdenes o incurriere en cualquier otro comportamiento ilícito; mi
-**3.**  Impartir las directrices y órdenes necesarias para el funcionamiento del servicio de seguridad del Tribunal.
+**1.** Ejercer autoridad sobre los miembros de la Policía Nacional que presten servicios en la sede del Tribunal;
+**2.** Disponer lo procedente sobre el acceso y permanencia en la sede del Tribunal de cualquier persona, ordenando, en su caso, el abandono del recinto o, cuando ello fuese legalmente necesario, la detención y puesta a disposición del Ministerio Público de quien contraviniere estas órdenes o incurriere en cualquier otro comportamiento ilícito; mi
+**3.** Impartir las directrices y órdenes necesarias para el funcionamiento del servicio de seguridad del Tribunal.
 #### **Art. 26. Delegación**
 El Presidente podrá delegar el ejercicio de las competencias que no implican una relación con el Pleno en los siguientes supuestos:
 **1.** En el Vicepresidente o en otro Magistrado, las relativas al personal, excepto la contratación laboral;
 **2.** En el Secretario General, las relativas a la formulación de planes de trabajo de orden jurisdiccional; y
 **3.** En el Director General de Administración, las funciones que le corresponden como órgano de contratación.
 En ningún caso podrá ser objeto de delegación el ejercicio de competencias que afecten las relaciones del Tribunal con otros órganos constitucionales del Estado.
-TÍTULO V 
+TÍTULO V
 **DEL PLENO**
 #### **Art. 27. Órgano de Gobierno**
 El Pleno es el máximo órgano de gobierno del Tribunal Constitucional. Está integrado por todos los Magistrados. Lo presidirá el Presidente del Tribunal; en su defecto, el Vicepresidente y, a falta de ambos, el Magistrado al que corresponde la precedencia según el artículo 9° de este Reglamento.
@@ -264,27 +264,27 @@ Además de las competencias establecidas en el artículo 202° de la Constituci�
 **14.** Aprobar, interpretar y modificar el presente Reglamento; y,
 **15.** Adoptar las medidas administrativas para el funcionamiento del Tribunal.
 ** Artículo modificado por el artículo primero de la RA 034-2005-P**/TC**, publicada el 23 de abril de 2005.*
-TÍTULO VI 
+TÍTULO VI
 **DE LAS AUDIENCIAS PÚBLICAS**
 #### **Art. 29. Audiencias***
 La audiencia pública es el acto procesal mediante el cual los magistrados escuchan a las partes ya los abogados que, oportunamente, solicitaron informar sobre los fundamentos de hecho y de derecho pertinentes.
 Las audiencias públicas se realizan los días hábiles. Excepcionalmente, se puede realizar audiencias en otros días. Se iniciarán a las horas que determinen el Pleno.
 Así también, con conocimiento previo de los magistrados, del Secretario Relator, así como de las partes, abogados y demás intervinientes autorizados a participar en ellas, las audiencias públicas pueden celebrarse, en tiempo real o simultáneo, con la participación no presencial de todas o algunas de las personas antes mencionadas. Los órganos de apoyo correspondientes del Tribunal Constitucional, garantizan su debida celebración a través de los medios tecnológicos respectivos. Las audiencias públicas con participación no presencial se someten a las mismas reglas que las presenciales en todo lo que resulte aplicable.
-* Artículo modificado por los siguientes dispositivos: 
-1. *Artículo primero de la RA 034-2005-P**/TC*, publicada el 23 de abril de 2005. 
-2. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018. 
+* Artículo modificado por los siguientes dispositivos:
+1. *Artículo primero de la RA 034-2005-P**/TC*, publicada el 23 de abril de 2005.
+2. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018.
 *3. Artículo primero de la RA 053-2020-P/TC, publicada el 25 de abril de 2020.*
 #### **Arte. 29-A. [Ausencia de audiencia pública en casos específicos]***
 Los expedientes que llegan al Tribunal Constitucional como consecuencia de la apelación por salto, recurso de agravio a favor del cumplimiento de sentencias del Tribunal Constitucional y del Poder Judicial y actos homogéneos no tendrán audiencia pública.
 ** Artículo incorporado por el artículo 1 de la RA 036-2011-P/TC, publicada el 8 de abril de 2011. Luego, fue modificado por el artículo cuarto de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.*
 #### **Art. 30. Notificaciones***
 El Tribunal Constitucional notificará sus resoluciones y actos procesales conforme al Reglamento del Sistema de Notificaciones Jurisdiccionales del Tribunal Constitucional .
-* Artículo modificado por los siguientes dispositivos: 
-1. Artículo primero de la RA 034-2005-P/TC, publicada el 23 de abril de 2005. 
-2. Artículo único de la RA 031-2006-P/TC, publicada el 2 de marzo de 2006. 
-3. Artículo 1 de la RA 071-B-2010-P/TC, publicada el 25 de julio de 2010. 
-4. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018. 
-5. Artículo segundo de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021. 
+* Artículo modificado por los siguientes dispositivos:
+1. Artículo primero de la RA 034-2005-P/TC, publicada el 23 de abril de 2005.
+2. Artículo único de la RA 031-2006-P/TC, publicada el 2 de marzo de 2006.
+3. Artículo 1 de la RA 071-B-2010-P/TC, publicada el 25 de julio de 2010.
+4. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018.
+5. Artículo segundo de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.
 6. Artículo primero de la RA 019-2026-P/TC, publicada el 19 de febrero de 2026. Antes de la modificación el artículo estaba redactado en los siguientes términos:
 *El Tribunal Constitucional notificará la vista de la causa y demás actos procesales en los correos electrónicos que proporcionarán las partes en el expediente, en el portal web institucional del Tribunal Constitucional y en la casilla electrónica de la ventanilla virtual del Tribunal Constitucional.*
 *Para ejercer el derecho a ser notificado en la casilla electrónica de la ventanilla virtual del Tribunal Constitucional las partes necesariamente señalarán una dirección electrónica y/o un número de telefonía móvil en el primer escrito de apersonamiento.*
@@ -293,13 +293,13 @@ El Tribunal Constitucional notificará sus resoluciones y actos procesales confo
 En los casos que son de conocimiento del Pleno el abocamiento es automático. Si uno o más magistrados no han participado en la audiencia pública, el Pleno decide sobre su abocamiento o no en atención a las razones de su ausencia. El magistrado abocado deberá visualizar la grabación de la audiencia o, de ser el caso, recibir un informe escrito u oral, dentro de los 5 días hábiles siguientes. Vencido dicho plazo emite su voto, salvo que se haya aprobado su abstención y que esta no impide hacer resolución.
 Cuando uno o más magistrados han cesado en sus funciones, el Presidente del Tribunal Constitucional, el de las Salas, o en su defecto el magistrado más antiguo, según corresponda, emitirá decreto señalando al magistrado que se aboca al conocimiento de la causa, siempre que el cesado no haya votado. Los decretos de abocamiento se notificarán en los correos electrónicos que proporcionarán las partes en el recurso de agravio constitucional o en el expediente, en el portal electrónico del Tribunal Constitucional ya través de la casilla electrónica de la ventanilla virtual del Tribunal Constitucional, pudiendo las partes solicitar informar en el término de tres días.
 * Artículo incorporado por el artículo segundo de la RA 119-2018-P/TC, publicada el 30 de mayo de 2018. Luego, fue modificado por los siguientes dispositivos:
-1. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018. 
+1. Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018.
 2. *Artículo segundo de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.*
 #### **Arte. 31. Solicitud de informe oral***
 El informe oral, para ser concedido, deberá ser solicitado, por escrito, hasta dentro de los tres días hábiles siguientes a la publicación del día de la audiencia en el portal electrónico del Tribunal Constitucional.
 En los casos de hábeas corpus con reo en cárcel o con detención domiciliaria, el informe oral sobre hechos se podrá escuchar vía telefónica, durante la audiencia, si ello fuere solicitado en el plazo señalado anteriormente.
-* Artículo modificado por los siguientes dispositivos: 
-1. Artículo único de la RA 001-2005-P/TC, publicada el 6 de enero de 2005. 
+* Artículo modificado por los siguientes dispositivos:
+1. Artículo único de la RA 001-2005-P/TC, publicada el 6 de enero de 2005.
 2. *Artículo primero de la RA 034-2005-P/TC, publicada el 23 de abril de 2005.*
 #### **Art. 32. Abogados hábiles**
 Sólo pueden ejercer la defensa ante el Tribunal Constitucional los abogados en ejercicio. En los informes orales, los letrados deben usar la medalla del Colegio de Abogados.
@@ -316,7 +316,7 @@ Cuando todas las causas programadas para la fecha hayan sido vistas o sea manifi
 El Presidente, en caso de que se produzcan desordenes en la Audiencia, puede ordenar el desalojo de la Sala, sin perjuicio de las sanciones establecidas en la ley.
 #### **Art. 37. Desistimiento**
 Para admitir a trámite el desistimiento debe ser presentado por escrito con firma legalizada ante el Secretario Relator del Tribunal Constitucional, Notario o, de ser el caso, el Director del Penal en el que se encuentre recluido el solicitante.
-TÍTULO VII 
+TÍTULO VII
 **DE LAS SESIONES**
 #### **Arte. 38. [Sesiones del Pleno]***
 Denomínase sesiones a las reuniones del Pleno del Tribunal Constitucional, con la participación de un número de Magistrados que formen quórum. La participación de los Magistrados puede ser presencial o no presencial. En este último caso, los órganos de apoyo correspondientes del Tribunal Constitucional, garantizan su debida celebración, en tiempo real o simultáneo, a través de los medios tecnológicos respectivos. Los Plenos que cuenten con participación no presencial se someten a las mismas reglas que los Plenos presenciales en todo lo que resulte aplicable y estrictamente necesario.
@@ -329,13 +329,13 @@ El Pleno puede sesionar, extraordinaria y excepcionalmente, en días no laborabl
 ** Artículo modificado por el artículo primero de la RA 143-2010-P/TC, publicada el 10 de enero de 2011.*
 #### **Art. 40. Procedimiento***
 Abierta la sesión, con el quórum reglamentario, los asuntos se abordarán conforme al siguiente procedimiento:
-**1.**  Informes;
-**2.**  Pedidos; y
-**3.**  Orden del día.
+**1.** Informes;
+**2.** Pedidos; y
+**3.** Orden del día.
 ** Artículo modificado por el artículo primero de la RA 046-2021-P/TC, publicada el 13 de marzo de 2021.*
 #### **Art. 41. Orden del día**
 El orden del día es fijado por el Presidente o, en su defecto, por el Vicepresidente. Para tal fin, tendrá en cuenta lo siguiente:
-**1.**  Se privilegiará los asuntos jurisdiccionales sobre los administrativos, salvo disposición del Presidente o de la mayoría del Pleno;
+**1.** Se privilegiará los asuntos jurisdiccionales sobre los administrativos, salvo disposición del Presidente o de la mayoría del Pleno;
 **2.** Se privilegiarán los asuntos jurisdiccionales constitucionalmente relevantes llegados al Tribunal y que requieran ser tratados con prontitud;
 **3.** Se dará continuidad a los asuntos que hubieran acordado tratar desde la sesión anterior o hubieran quedado pendientes;
 **4.** Se recibirá el informe del Secretario General sobre los expedientes aptos para la vista en audiencia pública; y,
@@ -361,8 +361,8 @@ Las votaciones serán nominales ya mano alzada.
 Los fundamentos singulares de voto o los votos singulares que se adoptan deben ser enviados por los Magistrados responsables al Secretario Relator, en el plazo máximo de siete (7) días hábiles contados desde el día siguiente al de la fecha de votación de la causa, bajo responsabilidad, salvo motivos justificados.
 En caso contrario, el Secretario Relator deja constancia en acta de la demora y se notifica y publica, en su caso, la resolución con los votos de los Magistrados que la suscriban.
 Los Magistrados tienen un plazo de dos (2) días hábiles para firmar la causa ya votada, contados a partir del día siguiente de la fecha en que la Secretaría Relatoría pone a su disposición el documento para la firma. En caso contrario, se procederá conforme a lo establecido en el párrafo anterior. 
-* Artículo modificado por los siguientes dispositivos: 
-1. Artículo primero de la RA 091-2015-P/TC, publicada el 24 de julio de 2015. 
+* Artículo modificado por los siguientes dispositivos:
+1. Artículo primero de la RA 091-2015-P/TC, publicada el 24 de julio de 2015.
 2. *Artículo primero de la RA 012-2021-P/TC, publicada el 9 de febrero de 2021.*
 #### **Arte. 44-A. Variación del voto***
 El Magistrado que ha emitido su voto, sólo puede variarlo con conocimiento del Pleno y previa fundamentación.
@@ -389,8 +389,8 @@ El procedimiento ante el Tribunal Constitucional es gratuito para las personas n
 El Tribunal puede imponer multas de 1 a 50 Unidades de Referencia Procesal, a cualquier persona, natural o jurídica, investida o sin función pública, e incluso a los abogados patrocinadores, que incumpla los requerimientos de comportarse con sujeción a lo dispuesto en el artículo 109 del Código Procesal Civil.
 El Tribunal gradúa la imposición de multas atendiendo a la conducta procesal de la parte y/o su abogado patrocinante.
 Lo recabado por concepto de multas constituye recursos propios del Tribunal Constitucional.
-* Artículo modificado por los siguientes dispositivos: 
-1. Artículo tercero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021. 
+* Artículo modificado por los siguientes dispositivos:
+1. Artículo tercero de la RA 168-2021-P/TC, publicada el 18 de septiembre de 2021.
 2. *Artículo primero de la RA 008-2024-P/TC, publicada el 26 de enero de 2024.*
 #### **Art. 50. Casos especiales***
 En los casos en que las instancias judiciales incumplan las sentencias del Tribunal Constitucional, éste, según sea el caso, pondrá el hecho en conocimiento del Congreso de la República, de la Corte Suprema, de la Fiscalía de la Nación, de la Junta Nacional de Justicia y del Colegio de Abogados respectivo; sin perjuicio de lo dispuesto por los artículos 26 y 27 del Nuevo Código Procesal Constitucional.
@@ -403,7 +403,7 @@ Las votaciones secretas se harán mediante papeleta. Tendrán lugar únicamente 
 #### **Arte. 53. Numeración de las sentencias***
 Las sentencias dictadas por el Tribunal Constitucional se enumeran, anualmente, en forma correlativa.
 ** Artículo modificado por el artículo primero de la RA 062-2020-P/TC, publicada el 29 de mayo de 2020.*
-TÍTULO VIII 
+TÍTULO VIII
 **DEL RECURSO DE QUEJA ANTE EL TRIBUNAL CONSTITUCIONAL**
 #### **Arte. 54. Objeto. Interposición***
 Contra la resolución que deniega el recurso de agravio constitucional procede recurso de queja. Se interpondrá ante el Tribunal Constitucional, dentro del plazo de cinco días siguientes a la notificación de la denegatoria. Al escrito que contiene el recurso y su fundamentación se anexa copia de la resolución recurrida, del recurso de agravio constitucional, del auto denegatorio del mismo y de las respectivas cédulas de notificación, certificadas por el abogado, salvo el caso del proceso de hábeas corpus.
@@ -415,7 +415,7 @@ Cuando el recurso de queja sea interpuesto por denegatoria del recurso de agravi
 *** Párrafo incorporado por el artículo primero de la RA 132-2015-P/TC, publicada el 26 de septiembre de 2015.*
 #### **Art. 56. Cuaderno de queja**
 El cuaderno de queja se mantendrá en el Archivo del Tribunal, agregando el original de la resolución que resuelve la queja, la constancia de la fecha de comunicación a la respectiva Sala y de la notificación a las partes.
-TÍTULO IX 
+TÍTULO IX
 **DEL PLAN DE TRABAJO**
 #### **Art. 57. Aprobación**
 El Tribunal Constitucional, con el fin de actuar con eficiencia y celeridad, deberá registrarse por un Plan de Trabajo de la actividad jurisdiccional, el mismo que deberá ser aprobado por el Pleno.
@@ -428,15 +428,15 @@ El Pleno o las Salas, según corresponda, adoptan criterios y procedimientos par
 El Plan de Trabajo y la distribución de los asuntos podrán ser modificados por el Pleno por razones de urgencia, calificadas por la mayoría.
 #### **Art. 61. Coordinación**
 El Pleno designará a dos Magistrados que se encargarán, en coordinación con el Secretario General, de la distribución de los expedientes de acuerdo con los criterios establecidos en el Plan de Trabajo, a fin de que queden aptos para ser vistos en audiencia pública y sean resueltos dentro de los plazos legales.
-TÍTULO X 
+TÍTULO X
 **DEL PERSONAL**
 #### **Art. 62. Régimen laboral**
 El personal al servicio del Tribunal Constitucional está sujeto al régimen laboral que determina la ley. El horario de trabajo es acordado por el Pleno, con sujeción a las disposiciones constitucionales.
 #### **Arte. 63. Período de evaluación***
 El personal será evaluado durante el segundo semestre de cada año. La evaluación la realiza el Pleno del Tribunal o una comisión designada por este. La evaluación comprende, además, la entrevista personal.
-* Artículo modificado por los siguientes dispositivos: 
-1. Artículo único de la RA 016-2006-P/TC, publicada el 27 de enero de 2006. 
-2. Artículo segundo de la RA 076-2015-P/TC, publicada el 28 de junio de 2015. 
+* Artículo modificado por los siguientes dispositivos:
+1. Artículo único de la RA 016-2006-P/TC, publicada el 27 de enero de 2006.
+2. Artículo segundo de la RA 076-2015-P/TC, publicada el 28 de junio de 2015.
 3. *Artículo único de la RA 306-2016-P/TC, publicada el 16 de noviembre de 2016.*
 #### **Arte. 64. Criterios de evaluación**
 La evaluación se ajusta a los siguientes criterios:
@@ -452,7 +452,7 @@ Los resultados de la evaluación forman el Cuadro General de Méritos para su in
 #### **Art. 66. Ratificación**
 Los Asesores Jurisdiccionales que obtengan el calificativo de sobresaliente y aprobado, deberán, además, ser ratificados por el Pleno del Tribunal.
 Si lo solicitan dos Magistrados, podrá revisarse la calificación de cualquier Asesor Jurisdiccional efectuándose una nueva evaluación.
-TÍTULO XI 
+TÍTULO XI
 **DEL CENTRO DE ESTUDIOS CONSTITUCIONALES**
 #### **Art. 67. Objeto***
 El Centro de Estudios Constitucionales es el órgano académico de investigación, capacitación y cumplimiento de los objetivos del Tribunal Constitucional.
@@ -461,7 +461,7 @@ El Centro de Estudios Constitucionales es el órgano académico de investigació
 Son multas del Centro de Estudios Constitucionales:
 **1.** Promover la investigación sobre temas constitucionales, de derechos humanos y procesales constitucionales;
 **2.** Fomentar la capacitación en las materias referidas en el inciso anterior;
-**3.**  Difundir el derecho constitucional y las disciplinas afines, a efecto de forjar el sentimiento y la cultura constitucional.
+**3.** Difundir el derecho constitucional y las disciplinas afines, a efecto de forjar el sentimiento y la cultura constitucional.
 **4.** Dirigir y administrar la Biblioteca Constitucional.
 **5.** Dirigir y administrar el Museo Constitucional.
 **6.** Otros que establezcan su reglamento.
@@ -473,7 +473,7 @@ El Centro de Estudios Constitucionales se rige por el Reglamento aprobado por el
 #### **Arte. 70. [Biblioteca y museo de temática constitucional]***
 El Tribunal Constitucional cuenta con una biblioteca especializada y un museo de temática constitucional. Su sede es el local central del Tribunal. Su gestión y administración está a cargo del director general del Centro de Estudios Constitucionales.
 ** Artículo incorporado por el artículo segundo de la RA 234-2018-P/TC, publicada el 14 de diciembre de 2018.*
-DISPOSICIONES 
+DISPOSICIONES
 FINALES Y TRANSITORIAS
 #### **Primera. [Publicación de resoluciones y sentencias]***
 Las resoluciones finales y las resoluciones aclaratorias de las mismas, recaídas en los procesos constitucionales, serán enviadas, dentro de las cuarenta y ocho horas siguientes a la fecha de su expedición, al Diario Oficial El Peruano para su publicación gratuita, dentro de los diez días siguientes a su remisión. La publicación debe contener la sentencia o resolución y las piezas del expediente que sean necesarias para comprender el derecho invocado y las razones que el Tribunal Constitucional tuvo para conceder o denegar la pretensión.
@@ -483,30 +483,30 @@ Las sentencias que se refieren a normas regionales u ordenanzas municipales se p
 La omisión o la demora en la publicación por el Diario Oficial El Peruano será puesta en conocimiento del Ministerio Público, para los fines de ley.
 El Pleno del Tribunal dispondrá, asimismo, que las resoluciones que expida, con excepción de los decretos, sean publicadas en su portal electrónico, sin perjuicio de la notificación a las partes en la casilla electrónica de la ventanilla virtual del Tribunal Constitucional.
 * Artículo modificado por los siguientes dispositivos:
-1. Artículo primero de la RA 034-2005-P/TC, publicada el 23 de abril de 2005. 
-2. Artículo único de la RA 016-2006-P/TC, publicada el 27 de enero de 2006. 
+1. Artículo primero de la RA 034-2005-P/TC, publicada el 23 de abril de 2005.
+2. Artículo único de la RA 016-2006-P/TC, publicada el 27 de enero de 2006.
 3. *Artículo primero de la RA 193-2018-P/TC, publicada el 7 de noviembre de 2018.*
 #### **Segunda. [Derogación de resoluciones administrativas]**
 Deróganse las Resoluciones Administrativas N°s. 111-2003-P/TC y 042-2004-P/TC, del 27 de agosto de 2003 y 10 de mayo de 2004, respectivamente.
 #### **Tercera. [Vigencia]**
 Este Reglamento entra en vigor el 1 de diciembre de 2004.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Constitucional            ### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
-Animales            ### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
-Constitucional            ### Mientras los vicios de motivación interna se refieren a los supuestos en los cuales la solución del caso no se deduce de las premisas...
-Constitucional            ### Indecopi no es competente para tramitar solicitudes de procedimiento concursal contra universidades privadas, pues para estas no aplican las disposiciones de la Ley General...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Constitucional### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
+Animales### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
+Constitucional### Mientras los vicios de motivación interna se refieren a los supuestos en los cuales la solución del caso no se deduce de las premisas...
+Constitucional### Indecopi no es competente para tramitar solicitudes de procedimiento concursal contra universidades privadas, pues para estas no aplican las disposiciones de la Ley General...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

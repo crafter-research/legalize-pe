@@ -17,11 +17,11 @@ disclaimer: true
 
 # Ley de Lucha contra el Tráfico Ilícito de Drogas
 
-Inicio ** Normas legales ** Ley de Lucha contra el Tráfico Ilícito de Drogas (DL 824) - Normas legales
+Inicio ** Normas legales ** Ley de Lucha contra el Tráfico Ilícito de Drogas (DL 824)- Normas legales
 - Penal
 - Procesal Penal
 # Ley de Lucha contra el Tráfico Ilícito de Drogas (DL 824) [actualizada]
-Por LP • Pasión por el Derecho -                  11 agosto, 2024                                            Compartimos con ustedes la** Ley de Lucha contra el Tráfico Ilícito de Drogas **aprobada mediante el **Decreto Legislativo 824**, publicado el 24 de abril de 1996.
+Por LP • Pasión por el Derecho - 11 agosto, 2024Compartimos con ustedes la** Ley de Lucha contra el Tráfico Ilícito de Drogas **aprobada mediante el **Decreto Legislativo 824**, publicado el 24 de abril de 1996.
 La última modificación de esta ley fue a partir de la Única Disposición Complementaria Derogatoria del DL 1241, publicado el 26 de setiembre de 2015.
 El texto está actualizado al mes de agosto de 2024.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F** y le aparecerá un recuadro para que lo escriba.
@@ -141,22 +141,22 @@ Las autoridades que resuelvan en definitiva los beneficios otorgados a los encau
 Mando se publique y cumpla, dando cuenta al Congreso de la República.
 Dado en la Casa de Gobierno, en Lima, a los veintitrés días del mes de abril de mil novecientos noventa y seis.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-Lizbeth Ubillus -                 4 abril, 2026                            La Fiscalía de la Nación inició diligencias preliminares tras la muerte de una persona y la existencia de aproximadamente 47 heridos durante una concentración...            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-3 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Noticias### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Lizbeth Ubillus - 4 abril, 2026La Fiscalía de la Nación inició diligencias preliminares tras la muerte de una persona y la existencia de aproximadamente 47 heridos durante una concentración...### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+3 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
 3 abril, 2026

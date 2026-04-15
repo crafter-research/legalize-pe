@@ -19,7 +19,7 @@ disclaimer: true
 
 - Civil
 # En el Perú tenemos el verdadero desalojo express… pero nadie lo usa
-Por Alan Pasco Arauco -                      9 agosto, 2019                                                        El Decreto Legislativo 1177, “Decreto Legislativo que establece el Régimen de Promoción del arrendamiento para Vivienda”, fue publicado en el Diario Oficial El Peruano el 18 de julio del 2015 y entró en vigencia al día siguiente.
+Por Alan Pasco Arauco - 9 agosto, 2019El Decreto Legislativo 1177, “Decreto Legislativo que establece el Régimen de Promoción del arrendamiento para Vivienda”, fue publicado en el Diario Oficial El Peruano el 18 de julio del 2015 y entró en vigencia al día siguiente.
 Este Decreto regula tres tipos contractuales de arrendamiento (en adelante, me referiré de forma conjunta a todos ellos como “los Contratos”), los cuales están pensados exclusivamente para la finalidad de “vivienda”:
 - Contrato de arrendamiento de inmueble destinado a vivienda
 - Contrato de arrendamiento de inmueble destinado a vivienda con opción de compra

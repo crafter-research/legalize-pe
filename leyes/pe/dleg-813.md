@@ -17,10 +17,10 @@ disclaimer: true
 
 # Ley Penal Tributaria
 
-Inicio ** Normas legales ** Ley Penal Tributaria - Normas legales
+Inicio ** Normas legales ** Ley Penal Tributaria- Normas legales
 - Penal
 # Ley Penal Tributaria [actualizada 2026]
-Por LP • Pasión por el Derecho -                  4 febrero, 2026                                            Compartimos con ustedes la** Ley penal tributaria **fue aprobada mediante el **Decreto Legislativo 813**, publicada el 19 de abril de 1996. 
+Por LP • Pasión por el Derecho - 4 febrero, 2026Compartimos con ustedes la** Ley penal tributaria **fue aprobada mediante el **Decreto Legislativo 813**, publicada el 19 de abril de 1996.
 El texto está actualizado al mes de febrero de 2026.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F** y le aparecerá un recuadro para que lo escriba.
 - Revise también el** Código Penal**
@@ -227,22 +227,22 @@ El proyecto no contiene un monto de caución excesivo, dado que, en primer térm
 **7.- DE LAS CONSECUENCIAS ACCESORIAS**
 En la ejecución de los delitos de Defraudación Tributaria se utiliza generalmente la organización de personas jurídicas, quienes se benefician ilícitamente. En este sentido, es necesario que la ciudadanía constate, que las sentencias emitidas por el Órgano Jurisdiccional, contengan medidas administrativas contra las personas jurídicas que se benefician con la comisión del delito.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

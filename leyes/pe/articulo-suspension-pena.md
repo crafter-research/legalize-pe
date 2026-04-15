@@ -22,7 +22,7 @@ Inicio ** Jurisprudencia ** Casación ** Jurisprudencia del artículo 57 del Có
 - Constitucional
 - Penal
 # Jurisprudencia del artículo 57 del Código Penal.- Requisitos (suspensión de la ejecución de la pena)
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  26 abril, 2023                                            **Artículo 57.- Requisitos ****para la suspensión de la ejecución de la pena***
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 26 abril, 2023**Artículo 57.- Requisitos ****para la suspensión de la ejecución de la pena***
 El juez puede suspender la ejecución de la pena siempre que se reúnan los requisitos siguientes:
 ## 1. Que la condena se refiera a pena privativa de libertad no mayor de cinco años.
 ## 2. Que la naturaleza, modalidad del hecho punible, comportamiento procesal y la personalidad del agente, permitan inferir al juez que aquel no volverá a cometer un nuevo delito. El pronóstico favorable sobre la conducta futura del condenado que formule la autoridad judicial requiere de debida motivación.
@@ -43,9 +43,9 @@ El juez puede suspender la ejecución de la pena siempre que se reúnan los requ
 ## **Concordancias**
 **CP:** arts. I, V, 41, 44-46.
 ## **Jurisprudencia del artículo 57 del Código Penal**
-- 
+-
 ### **Corte Suprema**
-- 
+-
 - **NUEVO:** Suspensión de la ejecución de la pena es una facultad del juez, mas no una obligación; el operador deóntico facultativo «puede» se impone conforme al art. 57 del Código Penal [Casación 2438-2024, Junín, f. j. 7.5]. Link: lpd.pe/EGQmK
 - **NUEVO:** Retroactividad benigna: Es viable reformar la pena efectiva firme a pena suspendida (aplicación del art. 57 del CP modificado) [Casación 2761-2023, Cañete]. Link: lpd.pe/pAQVw
 - **NUEVO:** En la suspensión de pena debe analizarse la posibilidad de resocialización del sentenciado, así como la prevalencia de la prevención especial de la pena sobre la prevención general [Casación 1786-2023, Cusco]. Link: lpd.pe/0BDJ5
@@ -75,9 +75,9 @@ El juez puede suspender la ejecución de la pena siempre que se reúnan los requ
 - Suspensión: Fiscal que comete un delito de mediana gravedad, pero actúa con «lealtad procesal», tiene una prognosis social favorable [Apelación 6-2020, Áncash]. Link: bit.ly/3NaiEV7
 - Es constitucional prohibir la suspensión de la pena a condenados por delito de agresiones contra mujeres [Consulta 27614-2018, Ayacucho]. Link: bit.ly/3mYAHTt
 - Control difuso: Se debe aplicar una pena suspendida para que el condenado habitual por OAF pueda cumplir con pensión de alimentos [Consulta 13825-2015, Del Santa]. Link: bit.ly/3E3kMYr
-- 
+-
 ### **Corte Superior**
-- 
+-
 - **NUEVO:** La extorsión como negocio del miedo no habilita una pena suspendida para el extorsionador [Exp. 3312-2024-70, f. j. 16]. Link: lpd.pe/z4nDZ
 - **NUEVO:** Criterios para determinar la competencia del incidente de sustitución de pena (retroactividad benigna) [Exp. 651-2021-96]. Link: lpd.pe/k64VD
 - **NUEVO:** Para imponer cárcel efectiva, debe analizarse antes si no concurren los presupuestos del artículo 57 del Código Penal para la suspensión de la ejecución de la pena [Exp. 7247-2019-81]. Link: lpd.pe/03D9g
@@ -85,34 +85,34 @@ El juez puede suspender la ejecución de la pena siempre que se reúnan los requ
 - Pena suspendida: El periodo de prueba es autónomo respecto de la pena privativa de libertad impuesta [Pleno Jurisdiccional Distrital Penal de Cusco, 2019]. Link: bit.ly/3LoXPEc
 - La pena suspendida se computa desde la expedición de la sentencia [Pleno Jurisdiccional Distrital Penal de Arequipa, 2014]. Link: bit.ly/43YYpzG
 - No es posible fijar un plazo de suspensión de la ejecución de la pena mayor a la pena impuesta [Pleno Jurisdiccional Distrital Procesal Penal de Áncash, 2014]. Link: bit.ly/40QuabD
-- 
+-
 ### **Tribunal Constitucional**
-- 
+-
 - **NUEVO:** Para el delito previo del lavado de activos, debe exigirse un estándar probatorio de sospecha fuerte y no menos [Exp. 03589-2021-PHC/TC]. Link: lpd.pe/k9EPb
 - **NUEVO:** La prohibición de suspensión de pena para delitos de colusión o peculado no es inconstitucional [Exp. 5228-2022-PHC/TC]. Link: lpd.pe/tcb45A
 - Fin de la suspensión de la pena persigue salvaguardar los fines de la «resocialización» [Exp. 5303-2006-PHC/TC]. Link: bit.ly/3Lsgxeb
-- 
+-
 ### **Derecho comparado**
-- 
+-
 - No es razonable denegar la suspensión de la pena por la posibilidad de que el acusado se lleve la impresión de que los hechos se pueden cometer sin consecuencia (España) [STC 75/2007]. Link: bit.ly/41A70ax
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

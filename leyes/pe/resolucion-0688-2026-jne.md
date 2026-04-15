@@ -61,7 +61,7 @@ Clavijo Chipoco
 
 Secretaria General
 
-1 Fecha límite para que las organizaciones políticas presenten padrones incrementales de afiliados, según la Ley N° 32536, y el Cronograma electoral actualizado de las Elecciones Regionales y Municipales 2026, aprobado con la Resolución N° 0003-2026-JNE, del 4 de enero 
+1 Fecha límite para que las organizaciones políticas presenten padrones incrementales de afiliados, según la Ley N° 32536, y el Cronograma electoral actualizado de las Elecciones Regionales y Municipales 2026, aprobado con la Resolución N° 0003-2026-JNE, del 4 de enero
 de 2026.
 
 2 Fecha límite para la aprobación del uso de los padrones de electores afiliados y no afiliados para elecciones primarias, según el Cronograma Electoral actualizado de las Elecciones Regionales y Municipales 2026, aprobado con la Resolución N° 0003-2026-JNE, del 4 de enero de 2026.

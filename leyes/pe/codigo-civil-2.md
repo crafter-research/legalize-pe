@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Civil ** Código Civil peruano (del artículo 1132 al 2122)- Civil
 - Jurisprudencia
 # Código Civil peruano (del artículo 1132 al 2122)
-Por LP • Pasión por el Derecho -                  22 enero, 2020                                            Del artículo 1132 al 2122 del Código Civil (Decreto Legislativo 295). 
+Por LP • Pasión por el Derecho - 22 enero, 2020Del artículo 1132 al 2122 del Código Civil (Decreto Legislativo 295).
 La primera parte del Código Civil, aquí (del artículo I del título preliminar al artículo 1131).
 ## **LIBRO VI: LAS OBLIGACIONES**
 ### **Sección primera: Las obligaciones y sus modalidades**
@@ -37,7 +37,7 @@ El bien debe entregarse con sus accesorios, salvo que lo contrario resulte de la
 #### **Artículo 1135.- Concurrencia de acreedores de bien inmueble**
 Cuando el bien es inmueble y concurren diversos acreedores a quienes el mismo deudor se ha obligado a entregarlo, se prefiere al acreedor de buena fe cuyo título ha sido primeramente inscrito o, en defecto de inscripción, al acreedor cuyo título sea de fecha anterior. Se prefiere, en este último caso, el título que conste de documento de fecha cierta más antigua.
 *Ver jurisprudencia aquí.*
-#### **Artículo 1136.- Concurrencia de acreedores de bien mueble** 
+#### **Artículo 1136.- Concurrencia de acreedores de bien mueble**
 Si el bien cierto que debe entregarse es mueble y lo reclamasen diversos acreedores a quienes el mismo deudor se hubiese obligado a entregarlo, será preferido el acreedor de buena fe a quien el deudor hizo tradición de él, aunque su título sea de fecha posterior. Si el deudor no hizo tradición del bien, será preferido el acreedor cuyo título sea de fecha anterior; prevaleciendo, en este último caso, el título que conste de documento de fecha cierta más antigua.
 *Ver jurisprudencia aquí.*
 #### **Artículo 1137.- Pérdida del bien**
@@ -57,7 +57,7 @@ Si como consecuencia de la pérdida, el deudor obtiene una indemnización o adqu
 *Ver jurisprudencia aquí.*
 #### **Artículo 1139.- Presunción de culpa del deudor**
 Se presume que la pérdida o deterioro del bien en posesión del deudor es por culpa suya, salvo prueba en contrario.
-#### **Artículo 1140.- Pérdida del bien en obligación proveniente de delito o falta** 
+#### **Artículo 1140.- Pérdida del bien en obligación proveniente de delito o falta**
 El deudor no queda eximido de pagar el valor del bien cierto, aunque éste se haya perdido sin culpa, cuando la obligación proviene de delito o falta. Esta regla no se aplica si el acreedor ha sido constituido en mora.
 #### **Artículo 1141.- Gastos de conservación**
 Los gastos de conservación son de cargo del propietario desde que se contrae la obligación hasta que se produce la entrega. Si quien incurre en ellos no es la persona a quien correspondía efectuarlos, el propietario debe reintegrarle lo gastado, más sus intereses.
@@ -72,7 +72,7 @@ Si el deudor omite efectuar la elección dentro del plazo establecido o el fijad
 Si la elección se confía a un tercero y éste no la efectúa, la hará el juez, sin perjuicio del derecho de las partes de exigir a aquel el pago de la indemnización que corresponda por su incumplimiento.
 #### **Artículo 1145.- Irrevocabilidad de la elección**
 La elección es irrevocable luego de ejecutada la prestación. La elección, comunicada a la otra parte, o a ambas si la practica un tercero o el juez, surte iguales efectos.
-#### **Artículo 1146.- Efectos anteriores a la individualización de bien incierto** 
+#### **Artículo 1146.- Efectos anteriores a la individualización de bien incierto**
 Antes de la individualización del bien, no puede el deudor eximirse de la entrega invocando la pérdida sin su culpa.
 Esta regla no se aplica cuando la elección debe efectuarse entre determinados bienes de la misma especie y todos ellos se pierden sin culpa del deudor.
 #### **Artículo 1147.- Reglas aplicables después de la elección**
@@ -152,7 +152,7 @@ La obligación alternativa se considera simple si todas las prestaciones, salvo 
 La obligación facultativa se determina únicamente por la prestación principal que forma el objeto de ella.
 #### **Artículo 1169.- Extinción de obligación facultativa**
 La obligación facultativa se extingue cuando la prestación principal es nula o imposible, aunque la prestación accesoria sea válida o posible de cumplir.
-#### **Artículo 1170.- Conversión de obligación facultativa en simple** 
+#### **Artículo 1170.- Conversión de obligación facultativa en simple**
 La obligación facultativa se convierte en simple si la prestación accesoria resulta nula o imposible de cumplir.
 #### **Artículo 1171.- Presunción de obligación facultativa**
 En caso de duda sobre si la obligación es alternativa o facultativa, se la tiene por facultativa.
@@ -400,7 +400,7 @@ Es moratorio cuanto tiene por finalidad indemnizar la mora en el pago.
 #### **Artículo 1243.- Tasa máxima de interés convencional**
 La tasa máxima del interés convencional compensatorio o moratorio, es fijada por el Banco Central de Reserva del Perú.
 Cualquier exceso sobre la tasa máxima da lugar a la devolución o a la imputación al capital, a voluntad del deudor.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1244.- Tasa de interés legal**
 La tasa del interés legal es fijada por el Banco Central de Reserva del Perú.
 *Ver jurisprudencia aquí.*
@@ -527,7 +527,7 @@ Para que exista novación es preciso que la voluntad de novar se manifieste indu
 *Ver jurisprudencia aquí.*
 #### **Artículo 1278.- Novación objetiva**
 Hay novación objetiva cuando el acreedor y el deudor sustituyen la obligación primitiva por otra, con prestación distinta o a título diferente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1279.- Actos que no constituyen novación**
 La emisión de títulos valores o su renovación, la modificación de un plazo o del lugar del pago, o cualquier otro cambio accesorio de la obligación, no producen novación.
 #### **Artículo 1280.- Novación subjetiva activa**
@@ -599,7 +599,7 @@ En tal caso, la obligación extinguida renace con todos sus accesorios, sin perj
 Por la transacción las partes, haciéndose concesiones recíprocas, deciden sobre algún asunto dudoso o litigioso, evitando el pleito que podría promoverse o finalizando el que está iniciado.
 Con las concesiones recíprocas, también se pueden crear, regular, modificar o extinguir relaciones diversas de aquellas que han constituido objeto de controversia entre las partes.
 La transacción tiene valor de cosa juzgada.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1303.- Contenido de la transacción**
 La transacción debe contener la renuncia de las partes a cualquier acción que tenga una contra otra sobre el objeto de dicha transacción.
 *Ver jurisprudencia aquí.*
@@ -647,13 +647,13 @@ El deudor no responde de los daños y perjuicios resultantes de la inejecución 
 *Ver jurisprudencia aquí.*
 #### **Artículo 1318.- Dolo**
 Procede con dolo quien deliberadamente no ejecuta la obligación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1319.- Culpa inexcusable**
 Incurre en culpa inexcusable quien por negligencia grave no ejecuta la obligación.
 *Ver jurisprudencia aquí.*
 #### **Artículo 1320.- Culpa leve**
 Actúa con culpa leve quien omite aquella diligencia ordinaria exigida por la naturaleza de la obligación y que corresponda a las circunstancias de las personas, del tiempo y del lugar.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1321.- Indemnización por dolo, culpa leve e inexcusable**
 Queda sujeto a la indemnización de daños y perjuicios quien no ejecuta sus obligaciones por dolo, culpa inexcusable o culpa leve.
 El resarcimiento por la inejecución de la obligación o por su cumplimiento parcial, tardío o defectuoso, comprende tanto el daño emergente como el lucro cesante, en cuanto sean consecuencia inmediata y directa de tal inejecución.
@@ -798,7 +798,7 @@ Los gastos y tributos que origine la celebración de un contrato se dividen por 
 *Ver jurisprudencia aquí.*
 #### **Artículo 1365.- Fin de contratos continuados**
 En los contratos de ejecución continuada que no tengan plazo convencional o legal determinado, cualquiera de las partes puede ponerle fin mediante aviso previo remitido por la vía notarial con una anticipación no menor de treinta días. Transcurrido el plazo correspondiente el contrato queda resuelto de pleno derecho.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1366.- Personas prohibidas de adquirir derechos reales por contrato, legado o subasta**
 No pueden adquirir derechos reales por contrato, legado o subasta pública, directa o indirectamente o por persona interpuesta:
 1. El Presidente y los Vicepresidentes de la República, los Senadores y Diputados, los Ministros de Estado y funcionarios de la misma jerarquía, los Magistrados de la Corte Suprema de Justicia y los del Tribunal de Garantías Constitucionales, el Fiscal de la Nación y los Fiscales ante la Corte Suprema de Justicia, los miembros del Jurado Nacional de Elecciones, el Contralor General de la República, el Presidente y Directores del Banco Central de Reserva del Perú y el Superintendente de Banca y Seguros, los bienes nacionales.
@@ -909,7 +909,7 @@ En los contratos nominados celebrados por adhesión o con arreglo a cláusulas g
 En los casos del artículo 1397 las cláusulas agregadas al formulario prevalecen sobre las de éste cuando sean incompatibles, aunque las últimas no hubiesen sido dejadas sin efecto.
 #### **Artículo 1401.- Interpretación de las estipulaciones**
 Las estipulaciones insertas en las cláusulas generales de contratación o en formularios redactados por una de las partes, se interpretan, en caso de duda, en favor de la otra.
-*Ver jurisprudencia aquí.*
+**
 #### **Título III: Objeto del contrato**
 #### **Artículo 1402.- Objeto del contrato**
 El objeto del contrato consiste en crear, regular, modificar o extinguir obligaciones.
@@ -1017,7 +1017,7 @@ En los casos de incumplimiento, las otras partes pueden optar por resolver el v�
 En los contratos con prestaciones no ejecutadas total o parcialmente, cualquiera de las partes puede ceder a un tercero su posición contractual.
 Se requiere que la otra parte preste su conformidad antes, simultáneamente o después del acuerdo de cesión.
 Si la conformidad del cedido hubiera sido prestada previamente al acuerdo entre cedente y cesionario, el contrato sólo tendrá efectos desde que dicho acuerdo haya sido comunicado al cedido por escrito de fecha cierta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1436.- Reglas aplicables a cesión de posición contractual**
 La forma de la trasmisión, la capacidad de las partes intervinientes, los vicios del consentimiento y las relaciones entre los contratantes se definen en función del acto que sirve de base a la cesión y se sujetan a las disposiciones legales pertinentes.
 #### **Artículo 1437.- Liberación del cedente**
@@ -1274,7 +1274,7 @@ Sin embargo, puede ser válida, a juicio del juez, la exoneración o limitación
 **Capítulo primero: Disposiciones generales**
 #### **Artículo 1529.- Definición**
 Por la compraventa el vendedor se obliga a transferir la propiedad de un bien al comprador y éste a pagar su precio en dinero.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 1530.- Gastos de entrega y transporte**
 Los gastos de entrega son de cargo del vendedor y los gastos de transporte a un lugar diferente del de cumplimiento son de cargo del comprador, salvo pacto distinto.
 #### **Artículo 1531.- Condiciones del contrato**
@@ -2628,7 +2628,7 @@ Por cada bien o persona jurídica se abrirá una partida registral independiente
 En el caso del Registro de Personas Naturales, en cada Registro que lo integra, se abrirá una sola partida por cada persona natural en la cual se extenderán los diversos actos inscribibles.
 Excepcionalmente, podrán establecerse otros elementos que determinen la apertura de una partida registral.
 ** Artículo incorporado por la Ley 31309, publicada el 24 de julio de 2021 (link: lpd.pe/0AvRd).*
-*Ver jurisprudencia aquí.*
+**
 #### **Título II: Registro de la propiedad inmueble**
 #### **Artículo 2018.- Primera inscripción de dominio**
 Para la primera inscripción de dominio, se debe exhibir títulos por un período ininterrumpido de cinco años o, en su defecto, títulos supletorios.
@@ -2657,7 +2657,7 @@ Si se trata de derechos de diferente naturaleza se aplican las disposiciones del
 *Ver jurisprudencia aquí.*
 #### **Artículo 2023.- Inscripción de contrato de opción**
 La inscripción de los contratos de opción otorga durante su vigencia derecho preferente sobre todo derecho real o personal que se inscriba con posterioridad.
-*Ver jurisprudencia aquí.*
+**
 #### **Título III: Registro de personas jurídicas**
 #### **Artículo 2024.- Libros que conforman el Registro de Personas Jurídicas**
 Este registro consta de los siguientes libros:
@@ -2817,7 +2817,7 @@ Todo derecho regularmente adquirido al amparo de un ordenamiento extranjero, com
 *Ver jurisprudencia aquí.*
 #### **Artículo 2051.- Aplicación de oficio de normas extranjeras**
 El ordenamiento extranjero competente según las normas de Derecho Internacional Privado peruanas, debe aplicarse de oficio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 2052.- La ley extranjera como prueba**
 Las partes litigantes pueden ofrecer las pruebas que tengan por conveniente sobre la existencia de la ley extranjera y su sentido. El juez puede rechazar o restringir los medios probatorios que no considere idóneos.
 *Ver jurisprudencia aquí.*
@@ -3054,22 +3054,22 @@ A partir de su vigencia, las disposiciones de este Código se aplicarán inclusi
 #### **Artículo 2122.- Reglas de prescripción y caducidad iniciadas antes de la vigencia del Código**
 La prescripción iniciada antes de la vigencia de este Código, se rige por las leyes anteriores. Empero, si desde que entra en vigencia, transcurre el tiempo requerido en él para la prescripción, ésta surte su efecto, aunque por dichas leyes se necesitare un lapso mayor. La misma regla se aplica a la caducidad.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Casación            ### ¿Trabajador puede recibir pensión por invalidez temporal de la AFP y subsidio por incapacidad temporal de EsSalud? [Casación 9478-2023, Junín]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Casación### ¿Trabajador puede recibir pensión por invalidez temporal de la AFP y subsidio por incapacidad temporal de EsSalud? [Casación 9478-2023, Junín]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

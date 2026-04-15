@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Legislación Básica ** TUO de la Ley de transparencia y acceso a la información pública...- Legislación Básica
 # TUO de la Ley de transparencia y acceso a la información pública (Ley 27806) [actualizada]
-Por Lex -                  13 junio, 2023                                            Compartimos con ustedes el TUO de la Ley de transparencia y acceso a la información Pública, Ley 27806, aprobada mediante Decreto Supremo 021-2019-JUS, publicado en el diario oficial ***El Peruano*** el 11 de diciembre de 2019.
+Por Lex - 13 junio, 2023Compartimos con ustedes el TUO de la Ley de transparencia y acceso a la información Pública, Ley 27806, aprobada mediante Decreto Supremo 021-2019-JUS, publicado en el diario oficial ***El Peruano*** el 11 de diciembre de 2019.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione Control+F y aparecerá un recuadro para que lo escriba.
 Actualizado a junio de 2023.
 - Revise también el nuevo **Reglamento de la Ley de transparencia y acceso a la información pública** [Decreto Supremo 007-2024-JUS]
@@ -30,7 +30,7 @@ Actualizado a junio de 2023.
 ## **TEXTO ÚNICO ORDENADO DE LA LEY Nº 27806**
 ## **LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA **
 ## **DECRETO SUPREMO Nº 021-2019-JUS**
-EL PRESIDENTE DE LA REPÚBLICA 
+EL PRESIDENTE DE LA REPÚBLICA
 CONSIDERANDO:
 Que, mediante Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública, se promueve la transparencia de los actos del Estado y regula el derecho fundamental del acceso a la información pública consagrado en el numeral 5 del artículo 2 de la Constitución Política del Perú;
 Que, mediante la Ley Nº 27927, Ley que modifica la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública, se modifican e incorporan varios artículos a la Ley Nº 27806;
@@ -67,7 +67,7 @@ El derecho de acceso a la información de los Congresistas de la República se r
 #### **Artículo 2.- Entidades de la Administración Pública**
 Para efectos de la presente Ley se entiende por entidades de la Administración Pública a las señaladas en el Artículo I del Título Preliminar de la Ley Nº 27444, Ley del Procedimiento Administrativo General.
 #### **Artículo 3.- Principio de publicidad**
-Todas las actividades y disposiciones de las entidades comprendidas en la presente Ley están sometidas al principio de publicidad. 
+Todas las actividades y disposiciones de las entidades comprendidas en la presente Ley están sometidas al principio de publicidad.
 Los funcionarios responsables de brindar la información correspondiente al área de su competencia deberán prever una infraestructura adecuada, así como la organización, sistematización y publicación de la información a la que se refiere a esta Ley.
 En consecuencia:
 **1.** Toda información que posea el Estado se presume pública, salvo las excepciones
@@ -83,12 +83,12 @@ El cumplimiento de esta disposición no podrá dar lugar a represalias contra lo
 #### **Artículo 5.- Publicación en los portales de las dependencias públicas**
 Las entidades de la Administración Pública establecerán progresivamente, de acuerdo a su presupuesto, la difusión a través de Internet de la siguiente información:
 **1 ****. **Datos generales de la entidad de la Administración Pública que incluyen principalmente las disposiciones y comunicados emitidos, su organización, organigrama, procedimientos, el marco legal al que está sujeta y el Único Ordenado de Procedimientos Administrativos, que la regula, si corresponde.
-**2.**  La información presupuestal que incluye datos sobre los presupuestos ejecutados, proyectos de inversión, partidas salariales y los beneficios de los altos funcionarios y el personal en general, así como sus remuneraciones y el porcentaje de personas con discapacidad del total de personal que labora en la entidad, con precisión de su situación laboral, cargos y nivel remunerativo.
-**3.**  Las adquisiciones de bienes y servicios que realicen. La publicación incluirá el detalle de los montos comprometidos, los proveedores, la cantidad y calidad de bienes y servicios adquiridos.
-**4.**  Actividades oficiales que desarrollarán o desarrollaron los altos funcionarios de la entidad respectiva, entendiéndose como tales a los titulares de la misma y los cargos del subsiguiente.
-**5.**  La información adicional que la entidad considera pertinente Lo dispuesto en este artículo no excepto la obligación a la que se refiere al Título IV de esta Ley
+**2.** La información presupuestal que incluye datos sobre los presupuestos ejecutados, proyectos de inversión, partidas salariales y los beneficios de los altos funcionarios y el personal en general, así como sus remuneraciones y el porcentaje de personas con discapacidad del total de personal que labora en la entidad, con precisión de su situación laboral, cargos y nivel remunerativo.
+**3.** Las adquisiciones de bienes y servicios que realicen. La publicación incluirá el detalle de los montos comprometidos, los proveedores, la cantidad y calidad de bienes y servicios adquiridos.
+**4.** Actividades oficiales que desarrollarán o desarrollaron los altos funcionarios de la entidad respectiva, entendiéndose como tales a los titulares de la misma y los cargos del subsiguiente.
+**5.** La información adicional que la entidad considera pertinente Lo dispuesto en este artículo no excepto la obligación a la que se refiere al Título IV de esta Ley
 relativa a la publicación de la información sobre las finanzas públicas.
-La entidad pública deberá identificar al funcionario responsable de la elaboración de los 
+La entidad pública deberá identificar al funcionario responsable de la elaboración de los
 portales de Internet.
 #### **Artículo 6.- De los plazos de la implementación**
 Las entidades públicas deberán contar con portales en Internet en los plazos que a continuación se indican:
@@ -97,7 +97,7 @@ Las entidades públicas deberán contar con portales en Internet en los plazos q
 **c)** Entidades de los Gobiernos Locales Provinciales y organismos desconcentrados a nivel provincial, hasta un año desde el inicio del nuevo período municipal, salvo que las posibilidades tecnológicas y / o presupuestales hicieran imposible su instalación.
 **d)** Entidades de los Gobiernos Locales Distritales, hasta dos años contados desde el inicio del nuevo período municipal, salvo que las posibilidades tecnológicas y / o presupuestales
 hicieran imposible su instalación.
-**e)** Entidades privadas que presten servicios públicos o ejerzan funciones administrativas, hasta el 1 de julio de 2003. 
+**e)** Entidades privadas que presten servicios públicos o ejerzan funciones administrativas, hasta el 1 de julio de 2003.
 Las autoridades encargadas de formular los presupuestos tomarán en cuenta estos plazos en la asignación de los recursos correspondientes.
 **Artículo 6-A. Plazos de actualización de la información pública en los portales de transparencia***
 **6-A.1.** La información que se publica en los portales de transparencia se actualiza de acuerdo a los plazos señalados en la presente ley, su reglamento o norma expresa según la materia.
@@ -123,7 +123,7 @@ Las de la Administración Pública tienen la obligación de proporcionar la info
 Asimismo, para los efectos de esta Ley, se considera como información pública cualquier tipo de documentación financiada por el presupuesto público que sirva de base a una decisión de naturaleza administrativa, así como las actas de reuniones oficiales.
 #### **Artículo 11.- Procedimiento**
 El acceso a la información pública se sujeta al siguiente procedimiento:
-**a)**  Toda solicitud de información debe ser dirigida al funcionario designado por la entidad de la Administración Pública para realizar esta labor. En caso de que este no hubiera sido designado, la solicitud se dirige al funcionario que tiene en su poder la información requerida o al superior inmediato. Las dependencias de la entidad tienen la obligación de encausar las solicitudes al funcionario encargado.
+**a)** Toda solicitud de información debe ser dirigida al funcionario designado por la entidad de la Administración Pública para realizar esta labor. En caso de que este no hubiera sido designado, la solicitud se dirige al funcionario que tiene en su poder la información requerida o al superior inmediato. Las dependencias de la entidad tienen la obligación de encausar las solicitudes al funcionario encargado.
 **b)** La entidad de la Administración Pública a la cual se haya presentado la solicitud de información debe otorgarla en un plazo no mayor de diez (10) días hábiles, sin perjuicio de lo establecido en el literal g).
 En el supuesto que la entidad de la Administración Pública no esté obligada a poseer la información solicitada y de conocer su ubicación o destino, debe reencausar la solicitud hacia la entidad obligada o hacia la que la posea, y poner en conocimiento de dicha circunstancia al solicitante .
 **c)** La denegatoria al acceso a la información se sujeta a lo dispuesto en el segundo párrafo del artículo 13 de la presente Ley.
@@ -146,37 +146,37 @@ El funcionario público responsable de dar información que de modo arbitrario o
 #### **Artículo 15.- Excepciones al ejercicio del derecho**
 El derecho de acceso a la información pública no podrá ser ejercido respecto a la información expresamente clasificada como secreta, que se sustente en razones de seguridad nacional, en concordancia con el artículo 163 de la Constitución Política del Perú, que además tenga como base fundamental garantizar la seguridad de las personas y cuya revelación originaría riesgo para la integridad territorial y / o subsistencia del sistema democrático, así como respecto a las actividades de inteligencia y contrainteligencia de la DINI dentro del marco que establece el Estado de derecho en función de las situaciones expresamente contempladas en esta Ley. En consecuencia la excepción comprende únicamente los siguientes supuestos:
 **1.** Información clasificada en el ámbito militar, tanto en el frente interno como externo:
-**a)**  Planes de defensa militar contra posibles agresiones de otros Estados, logísticos, de reserva y movilización y de operaciones especiales así como oficios y comunicaciones internas que hagan referencia expresa a los mismos.
-**b)**  Las operaciones y planos de inteligencia y contrainteligencia militar.
+**a)** Planes de defensa militar contra posibles agresiones de otros Estados, logísticos, de reserva y movilización y de operaciones especiales así como oficios y comunicaciones internas que hagan referencia expresa a los mismos.
+**b)** Las operaciones y planos de inteligencia y contrainteligencia militar.
 **c)** Desarrollos técnicos y / o científicos propios de la defensa nacional.
 **d)** Órdenes de operaciones, logísticas y conexas, relacionadas con planes de defensa militar contra posibles agresiones de otros Estados o de fuerzas irregulares militarizadas internas y / o externas, así como de operaciones en apoyo a la Policía Nacional del Perú, planes de movilización y operaciones especiales relativas a ellas.
 **e)** Planes de defensa de bases e instalaciones militares.
 **f)** El material bélico, sus componentes, accesorios, operatividad y / o ubicación características pondrían en riesgo los planes de defensa militar contra posibles agresiones de otros Estados o de fuerzas irregulares militarizadas internas y / o externas, así como de operación en apoyo a la Policía Nacional del Perú, planes de movilización y operaciones especiales a ellas.
 **g)** Información del Personal Militar que desarrolla actividades de Seguridad Nacional y que pueda poner en riesgo la vida e integridad de las personas involucradas.
-**2.**  Información clasificada en el ámbito de inteligencia tanto en el frente externo como interno: 
-**a)** Los planos estratégicos y de inteligencia, así como la información que ponga en riesgo sus fuentes. 
+**2.** Información clasificada en el ámbito de inteligencia tanto en el frente externo como interno:
+**a)** Los planos estratégicos y de inteligencia, así como la información que ponga en riesgo sus fuentes.
 **b)** Los informes que de hacerse públicos, perjudicarían la información de inteligencia.
 **c)** Aquellos informes oficiales de inteligencia que, de hacerse públicos, incidirían negativamente en las excepciones contempladas en el inciso a) del artículo 15 de la presente Ley.
-**d)**  Información relacionada con el alistamiento del personal y material.
-**e)**  Las actividades y planos estratégicos de inteligencia y contrainteligencia, de los organismos conformantes del Sistema de Inteligencia Nacional (SINA), así como la información que ponga en riesgo sus fuentes.
+**d)** Información relacionada con el alistamiento del personal y material.
+**e)** Las actividades y planos estratégicos de inteligencia y contrainteligencia, de los organismos conformantes del Sistema de Inteligencia Nacional (SINA), así como la información que ponga en riesgo sus fuentes.
 **f)** Información del personal civil o militar que desarrolla actividades de Seguridad Nacional y que pueda poner en riesgo la vida e integridad de las personas involucradas.
-**g)** La información de inteligencia que contemple alguno de los supuestos contenidos en el artículo 15 numeral 1. 
+**g)** La información de inteligencia que contemple alguno de los supuestos contenidos en el artículo 15 numeral 1.
 En los supuestos contenidos en este artículo los responsables de la clasificación son los titulares del sector o pliego respectivo, o los funcionarios designados por éste.
 Con posterioridad a los cinco años de la clasificación a la que se refiere el párrafo anterior, cualquier persona puede solicitar la información clasificada como secreta, la cual será entregada si el titular del sector o pliego respectivo considera que su divulgación no pone en riesgo la seguridad de las personas, la integridad territorial y / o subsistencia del sistema democrático. En caso contrario deberá fundamentalmente expresamente y por escrito por las razones para que se postergue la clasificación y el período que considera que debe continuar clasificado. Se aplican las mismas reglas si se requiere una nueva prórroga por un nuevo período. El documento que fundamenta que la información continúa como clasificada se pone en conocimiento del Consejo de Ministros, el cual puede desclasificarlo. Dicho documento también es puesto en conocimiento de la comisión ordinaria a la que se refiere el artículo 36 del Decreto Legislativo Nº 1141, Decreto Legislativo de Fortalecimiento y Modernización del Sistema de Inteligencia Nacional- SINA y de la Dirección Nacional de Inteligencia &#8211; DINI, dentro de los diez (10) días posteriores a su pronunciamiento. Lo señalado en este párrafo no impide que el Congreso de la República acceda a la información clasificada en cualquier momento de acuerdo a lo señalado en el artículo 18 de la presente Ley.
 La Ley del Sistema de Inteligencia Nacional &#8211; SINA y de la Dirección Nacional de Inteligencia &#8211; DINI señala el plazo de vigencia de la clasificación secreta, respecto de la información que produce el sistema; y el trámite para desclasificar, renovar y / o modificar la misma. La clasificación es objeto de revisión cada cinco años por el Consejo de Seguridad Nacional.
 #### **Artículo 16.- Excepciones al ejercicio del derecho: Información reservada***
 El derecho de acceso a la información pública no podrá ser ejercido con respecto a la información clasificada como reservada. En consecuencia la excepción comprende únicamente los supuestos siguientes:
 **1.** La información que por razones de seguridad nacional en el ámbito del orden interno cuya revelación originaría un riesgo a la integridad territorial y / o la subsistencia del sistema democrático. En consecuencia se considera reservada la información que tiene por finalidad prevenir y reprimir la criminalidad en el país y cuya revelación puede entorpecerla y comprende únicamente:
-**a)**  Los planes de operaciones policiales y de inteligencia, así como aquellos destinados a combatir el terrorismo, tráfico ilícito de drogas y organizaciones criminales, así como los oficios, partes y comunicaciones que se refieran expresamente a ellos.
+**a)** Los planes de operaciones policiales y de inteligencia, así como aquellos destinados a combatir el terrorismo, tráfico ilícito de drogas y organizaciones criminales, así como los oficios, partes y comunicaciones que se refieran expresamente a ellos.
 **b)** Las informaciones que impiden el curso de las investigaciones en su etapa policial dentro de los límites de la ley, incluidos los sistemas de recompensa, colaboración eficaz y protección de testigos, así como la interceptación de comunicaciones amparadas por la ley.
 **c)** Los planos de seguridad y defensa de instalaciones policiales, establecimientos penitenciarios, locales públicos y los de protección de dignatarios, así como los oficios, partes y comunicaciones que se refieran expresamente a ellos.
 **d)** El movimiento del personal que pudiera poner en riesgo la vida e integridad de las personas involucradas o afectar la seguridad ciudadana.
-**e)**  El armamento y material logístico comprometido en operaciones especiales y planos de seguridad y defensa del orden interno.
+**e)** El armamento y material logístico comprometido en operaciones especiales y planos de seguridad y defensa del orden interno.
 **f) **La información contenida en los Reportes de actividades con las sustancias químicas tóxicas y sus precursores listados en la Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y sobre su Destrucción; la información contenida en los Reportes sobre las instalaciones de producción de las sustancias químicas orgánicas definidas; la información relacionada con las inspecciones nacionales e inspecciones realizadas por la Técnica de la Organización para la Prohibición de las Armas Químicas; la información concerniente a los procesos productivos en donde intervienen sustancias químicas tóxicas y sus precursores de las Listas 1, 2 y 3 de dicha Convención; y la información concerniente al empleo de las sustancias químicas tóxicas y sus precursores de las Listas 1 y 2 de dicha Convención.
 **g)** La información relacionada a los datos, valores y medición específicos sobre cada uno de los criterios que deben concurrir para que las empresas operadoras procedan al corte del servicio público móvil y/o bloqueo del equipo terminal móvil.
-**2.**  Por razones de seguridad nacional y de eficacia de la acción externa del Estado, se considerará información clasificada en el ámbito de las relaciones externas del Estado, toda aquella cuya revelación originaría un riesgo a la seguridad e integridad territorial del Estado y la defensa nacional en el ámbito externo, al curso de las negociaciones internacionales y / o la subsistencia del sistema democrático. Estas excepciones son las siguientes:
+**2.** Por razones de seguridad nacional y de eficacia de la acción externa del Estado, se considerará información clasificada en el ámbito de las relaciones externas del Estado, toda aquella cuya revelación originaría un riesgo a la seguridad e integridad territorial del Estado y la defensa nacional en el ámbito externo, al curso de las negociaciones internacionales y / o la subsistencia del sistema democrático. Estas excepciones son las siguientes:
 **a)** Elementos de las negociaciones internacionales que revelan perjudicarían los procesos negociadores o alteran los acuerdos adoptados, no serán públicos por lo menos en el curso de las mismas.
-**b)**  Información que al ser divulgada oficialmente por el Ministerio de Relaciones Exteriores podría afectar negativamente las relaciones diplomáticas con otros países.
+**b)** Información que al ser divulgada oficialmente por el Ministerio de Relaciones Exteriores podría afectar negativamente las relaciones diplomáticas con otros países.
 **c)** La información oficial referida al tratamiento en el frente externo de la información clasificada en el ámbito militar, de acuerdo a lo señalado en el inciso a) del numeral 1 del artículo 15 de la presente Ley.
 **d)** Los contratos de asesoría financiera o legales para realizar operaciones de endeudamiento público o administración de deuda del Gobierno Nacional; que de revelarse, perjudicarían o alterarían los mercados financieros, no serán públicos por lo menos hasta que se concreten las mismas.
 En los casos contenidos en este artículo los responsables de la clasificación son los titulares del sector correspondiente o los funcionarios designados por éste. Una vez que desaparezca la causa que motivó la clasificación, la información reservada es de acceso público.
@@ -187,10 +187,10 @@ El derecho de acceso a la información pública no podrá ser ejercido respecto 
 **1.** La información que contiene consejos, recomendaciones u opiniones producidas como parte del proceso deliberativo y consultivo previo a la toma de una decisión de gobierno, salvo que dicha información sea pública. Una vez tomada la decisión, esta excepción cesa si la entidad de la Administración Pública opta por hacer referencia en forma expresa esos consejos, recomendaciones u opiniones.
 **2.** La información protegida por el secreto bancario, tributario, comercial, industrial, tecnológico y bursátil que están regulados, unos por el inciso 5 del artículo 2 de la Constitución, y los demás por la legislación pertinente.
 **3.** La información vinculada a investigaciones en trámite referidas al ejercicio de la potestad sancionadora de la Administración Pública, en cuyo caso la exclusión del acceso termina cuando la resolución que pone fi n al procedimiento queda consentida o cuando transcurren más de seis meses (6) desde que se inició el procedimiento administrativo sancionador, sin que se haya dictado resolución final.
-**4.**  La información preparada u obtenida por asesores jurídicos o abogados de las entidades de la Administración Pública cuya publicidad pueda revelar la estrategia a adoptar en la tramitación o defensa en un proceso administrativo o judicial, o de cualquier tipo de información protegida por el secreto profesional que debe guardar el abogado respecto de su asesorado. Esta excepción termina al concluir el proceso.
+**4.** La información preparada u obtenida por asesores jurídicos o abogados de las entidades de la Administración Pública cuya publicidad pueda revelar la estrategia a adoptar en la tramitación o defensa en un proceso administrativo o judicial, o de cualquier tipo de información protegida por el secreto profesional que debe guardar el abogado respecto de su asesorado. Esta excepción termina al concluir el proceso.
 **5.** La información referida a los datos personales cuya publicidad constituye una invasión de la intimidad personal y familiar. La información referida a la salud personal, se considera comprendida dentro de la intimidad personal. En este caso, sólo el juez puede ordenar la publicación sin perjuicio de lo establecido en el inciso 5 del artículo 2 de la Constitución Política del Estado.
 Por su parte, no opera la presente reserva cuando la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones requiera información respecto a los bienes e ingresos de los funcionarios públicos, o cuando requiera otra información pertinente para el cumplimiento de las funciones de la Unidad de Inteligencia Financiera del Perú &#8211; UIF-Perú.
-**6.**  Aquellas materias cuyo acceso esté expresamente excepto por la Constitución o por una Ley aprobada por el Congreso de la República.
+**6.** Aquellas materias cuyo acceso esté expresamente excepto por la Constitución o por una Ley aprobada por el Congreso de la República.
 La Ley del Sistema de Inteligencia Nacional &#8211; SINA y de la Dirección Nacional de Inteligencia &#8211; DINI señala el plazo de vigencia de la información de inteligencia producida por el sistema y clasificada como confidencial, a que se refiere el numeral 1 del presente artículo, siempre que se refiera a temas de seguridad nacional. Asimismo, norma el trámite para desclasificar, renovar y / o modificar la misma. La clasificación es objeto de revisión cada cinco años por el Consejo de Seguridad Nacional.
 #### **Artículo 18.- Regulación de las excepciones**
 Los casos establecidos en los artículos 15, 16 y 17 son los únicos en los que se puede limitar el derecho al acceso a la información pública, por lo que deben ser interpretados de manera restrictiva por tratarse de una limitación a un derecho fundamental. No se puede establecer por una norma de menor jerarquía ninguna excepción a la presente Ley.
@@ -198,7 +198,7 @@ La información contenida en las excepciones señaladas en los artículos 15, 16
 Para estos efectos, el Congreso de la República sólo tiene acceso mediante una Comisión Investigadora formada de acuerdo al artículo 97 de la Constitución Política del Perú y la Comisión establecida por el artículo 36 del Decreto Legislativo Nº 1141, Decreto Legislativo de Fortalecimiento y Modernización del Sistema de Inteligencia Nacional &#8211; SINA y de la Dirección Nacional de Inteligencia &#8211; DINI. Tratándose del Poder Judicial de acuerdo a las normas que regulan su funcionamiento, solamente el juez en ejercicio de sus atribuciones jurisdiccionales en un determinado caso y cuya información sea imprescindible para llegar a la verdad, puede solicitar la información a que se refiere cualquiera de las excepciones contenidas en este artículo. El Contralor General de la República tiene acceso a la información contenida en este artículo solamente dentro de una acción de control de su especialidad. El Defensor del Pueblo tiene acceso a la información en el ámbito de sus atribuciones de defensa de los derechos humanos. El Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones tiene acceso a la información siempre que sea necesaria para el cumplimiento de las funciones de la Unidad de Inteligencia Financiera del Perú &#8211; UIF-Perú.
 Los funcionarios públicos que tienen en su poder la información contenida en los artículos 15, 16 y 17 tienen la obligación de que ella no sea divulgada, siendo responsables si esto ocurre.
 El ejercicio de estas entidades de la administración pública se enmarca dentro de las limitaciones que señala la Constitución Política del Perú.
-Las excepciones señaladas en los puntos 15 y 16 incluyen los documentos que se generen 
+Las excepciones señaladas en los puntos 15 y 16 incluyen los documentos que se generen
 sobre estas materias y no se considerará como información clasificada, la relacionada a la violación de derechos humanos o de las Convenciones de Ginebra de 1949 realizada en cualquier circunstancia, por cualquier persona . Ninguna de las excepciones señaladas en este artículo pueden ser utilizadas en contra de lo establecido en la Constitución Política del Perú.
 #### **Artículo 19.- Información parcial**
 En caso de que un documento contenga, en forma parcial, información que, conforme a los artículos 15, 16 y 17 de esta Ley, no sea de acceso público, la entidad de la Administración Pública deberá permitir el acceso a la información disponible del documento .
@@ -213,41 +213,41 @@ Para tal efecto, la Autoridad Nacional de Transparencia y Acceso a la Informaci�
 ** Artículo modificado por el artículo 1 de la Ley 31783, publicada el 13 de junio de 2023.*
 ## **TÍTULO IV: TRANSPARENCIA SOBRE EL MANEJO DE LAS FINANZAS PÚBLICAS**
 #### **Artículo 23.- Objeto**
-Este título tiene como objeto fundamental otorgar mayor transparencia al manejo de las Finanzas Públicas, a través de la creación de mecanismos para acceder a la información de carácter fiscal, a fin de que los ciudadanos puedan ejercer supervisión sobre las Finanzas Públicas y permitir una adecuada rendición de cuentas. 
+Este título tiene como objeto fundamental otorgar mayor transparencia al manejo de las Finanzas Públicas, a través de la creación de mecanismos para acceder a la información de carácter fiscal, a fin de que los ciudadanos puedan ejercer supervisión sobre las Finanzas Públicas y permitir una adecuada rendición de cuentas.
 El presente título utiliza los términos que se señala a continuación:
 **a)** Información de finanzas públicas: aquella información referida a materia presupuestaria, financiera y contable del Sector Público.
 **b)** Gasto Tributario: se refiere a las exenciones de la base tributaria, deducciones autorizadas de la renta bruta, créditos fiscales deducidos de los impuestos por pagar, deducciones de las tasas impositivas e impuestos diferidos.
-**c)**  Gobierno General y Sector Público Consolidado: Se utilizarán las definiciones establecidas en el Decreto Legislativo Nº 1276, Decreto Legislativo que aprueba el Marco de la Responsabilidad y Transparencia Fiscal del Sector Público No Financiero.
+**c)** Gobierno General y Sector Público Consolidado: Se utilizarán las definiciones establecidas en el Decreto Legislativo Nº 1276, Decreto Legislativo que aprueba el Marco de la Responsabilidad y Transparencia Fiscal del Sector Público No Financiero.
 #### **Artículo 24.- Mecanismos de Publicación y Metodología**
 La publicación de la información a la que se refiere esta norma podrá ser realizada a través de los portales de Internet de las entidades, oa través de los diarios de mayor circulación en las localidades, donde otros se encuentran ubicados, así como a través de otros medios de acuerdo a la infraestructura de la localidad. El reglamento establecerá los mecanismos de divulgación en aquellas localidades en las que el número de habitantes no justifiquen la publicación por dichos medios.
-La metodología y las denominaciones empleadas en la elaboración de la información, deberán ser publicadas expresamente, a fin de permitir un análisis apropiado de la información. 
+La metodología y las denominaciones empleadas en la elaboración de la información, deberán ser publicadas expresamente, a fin de permitir un análisis apropiado de la información.
 Cuando la presente norma disponga que la información debe ser divulgada trimestralmente, ésta deberá publicarse dentro de los treinta (30) días calendario siguientes de concluido cada trimestre, y comprenderá, para efectos de comparación, la información de los dos períodos anteriores.
 ### **CAPÍTULO I: PUBLICACIÓN DE INFORMACIÓN SOBRE FINANZAS PÚBLICAS**
 #### **Artículo 25.- Información que deben publicar todas las Entidades de la Administración Pública**
 Toda Entidad de la Administración Pública publicará, trimestralmente, lo siguiente:
 **1.** Su Presupuesto, especificando: los ingresos, gastos, financiamiento, y resultados operativos de conformidad con los clasificadores presupuestales vigentes.
 **2.** Los proyectos de inversión pública en ejecución, especificando: el presupuesto total del proyecto, el presupuesto del período correspondiente y su nivel de ejecución y el presupuesto acumulado.
-**3.**  Información de su personal especificando: personal activo y, de ser el caso, pasivo, número de funcionarios, directivos, profesionales, técnicos, auxiliares, sean nombrados o contratados por un período mayor a tres (3) meses en el plazo de un año, sin importar el régimen laboral al que se encuentren sujetos, o la denominación del presupuesto o cargo que desempeñen; rango salarial por categoría y el gasto total de remuneraciones, bonificaciones, y cualquier otro concepto de índole remunerativo, sea pensionable o no.
+**3.** Información de su personal especificando: personal activo y, de ser el caso, pasivo, número de funcionarios, directivos, profesionales, técnicos, auxiliares, sean nombrados o contratados por un período mayor a tres (3) meses en el plazo de un año, sin importar el régimen laboral al que se encuentren sujetos, o la denominación del presupuesto o cargo que desempeñen; rango salarial por categoría y el gasto total de remuneraciones, bonificaciones, y cualquier otro concepto de índole remunerativo, sea pensionable o no.
 **4.** Información contenida en el Registro de procesos de selección de contrataciones y adquisiciones, especificando: los valores referenciales, nombres de contratistas, montos de los contratos, penalidades y sanciones y costo final, de ser el caso.
 **5.** Los avances realizados en los indicadores de desempeño establecidos en los planos estratégicos institucionales o en los indicadores que serán aplicados, en el caso de entidades que han suscrito Convenios de Gestión.
 Las Entidades de la Administración Pública están en la obligación de remitir la información de referencia al Ministerio de Economía y Finanzas, para que incluyan en su portal de Internet, dentro de los cinco (5) días calendario siguientes a su publicación.
-#### **Artículo 26.- Información que debe publicar el Ministerio de Economía y Finanzas** 
+#### **Artículo 26.- Información que debe publicar el Ministerio de Economía y Finanzas**
 El Ministerio de Economía y Finanzas publicará, adicionalmente a lo establecido en el artículo anterior, la siguiente información:
-**1.**  El Balance del Sector Público Consolidado, dentro de los noventa (90) días calendario de concluido el ejercicio fiscal, luego con los balances de los dos ejercicios anteriores.
+**1.** El Balance del Sector Público Consolidado, dentro de los noventa (90) días calendario de concluido el ejercicio fiscal, luego con los balances de los dos ejercicios anteriores.
 **2.** Los ingresos y gastos del Gobierno Central e Instancias Descentralizadas comprendidas en la Ley de Presupuesto del Sector Público, de conformidad con los Clasificadores de Ingresos, Gastos y Financiamiento vigente, trimestralmente, incluyendo: el presupuesto anual y el devengado, de acuerdo a los siguientes criterios (i) identificación institucional; (ii) clasificador funcional (función / programa); (iii) por genérica de gasto; y (iv) por fuente de financiamiento.
 **3.** Los proyectos de la Ley de Endeudamiento, Equilibrio Financiero y Presupuesto y su exposición de motivos, dentro de los dos (2) primeros días hábiles de setiembre, incluyendo: los cuadros generales sobre uso y fuentes y distribución funcional por genérica del gasto e institucional, a nivel de pliego.
 **4.** Información detallada sobre el saldo y perfil de la deuda pública externa e interna concertada o garantizada por el Sector Público Consolidado, trimestralmente, incluyendo: el tipo de acreedor, el monto, el plazo, la tasa de amortización pactada, el capital y los intereses pagados y por devengarse.
 **5.** El cronograma de desembolsos y amortizaciones realizadas, por cada fuente de financiamiento, trimestralmente, incluyendo: operaciones oficiales de crédito, otros depósitos y saldos de balance.
 **6.** Información sobre los proyectos de inversión pública cuyos estudios o ejecución hubiesen demandado recursos iguales o superiores a mil doscientas (1200) Unidades Impositivas Tributarias, trimestralmente, incluyendo: el presupuesto total del proyecto, el presupuesto ejecutado acumulado y presupuesto ejecutado anual.
-**7.**  El balance del Fondo de Estabilización Fiscal (FEF) dentro de los treinta (30) días calendario de conclusión del ejercicio fiscal.
+**7.** El balance del Fondo de Estabilización Fiscal (FEF) dentro de los treinta (30) días calendario de conclusión del ejercicio fiscal.
 **8.** Los resultados de la evaluación obtenida de conformidad con los indicadores aplicados, dentro de los noventa (90) días calendario siguientes de concluido el ejercicio fiscal.
 #### **Artículo 27.- Información que debe publicar el Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (FONAFE)**
 El FONAFE publicará, adicionalmente a lo establecido en el artículo 25, la siguiente información sobre las entidades bajo su ámbito:
 **1.** El presupuesto en forma consolidada, antes del 31 de diciembre del año anterior al inicio del período de ejecución presupuestal.
-**2.**  El Balance, así como la Cuenta de Ahorro, Inversión y Financiamiento, trimestralmente.
+**2.** El Balance, así como la Cuenta de Ahorro, Inversión y Financiamiento, trimestralmente.
 **3. ** Los Estados Financieros auditados, dentro de los ciento veinte (120) días calendario de conclusión del ejercicio fiscal.
-**4.**  Los indicadores de gestión que serán aplicados, cuando hayan celebrado Convenios de Gestión.
-**5.**  Los resultados de la evaluación obtenida de conformidad con los indicadores aplicados, dentro de los noventa (90) días calendario siguientes de concluido el ejercicio fiscal.
+**4.** Los indicadores de gestión que serán aplicados, cuando hayan celebrado Convenios de Gestión.
+**5.** Los resultados de la evaluación obtenida de conformidad con los indicadores aplicados, dentro de los noventa (90) días calendario siguientes de concluido el ejercicio fiscal.
 #### **Artículo 28.- Información que debe publicar la Oficina de Normalización Previsional (ONP)**
 La ONP, en calidad de Secretaría Técnica del Fondo Consolidado de Reserva Previsional (FCR), publicará, adicionalmente a lo establecido en el artículo 25, lo siguiente:
 **1.** Los Estados Financieros de cierre del ejercicio fiscal de Fondo Consolidado de Reserva Previsional (FCR) y del Fondo Nacional de Ahorro Público (FONAHPU), antes del 31 de marzo de cada año.
@@ -271,12 +271,12 @@ La Presidencia del Consejo de Ministros, con una anticipación no menor de tres 
 El presente régimen sancionador es aplicable las acciones u omisiones que infrinjan el régimen jurídico de la transparencia y acceso a la información pública, tipificadas en este Título, de conformidad con el artículo 4 de la presente Ley.
 #### **Artículo 35.- Clases de sanciones**
 **35.1** Las sanciones que pueden imponerse por las infracciones previstas en el presente régimen sancionador son las siguientes:
-**a)**  Amonestación escrita.
+**a)** Amonestación escrita.
 **b ****)** Suspensión sin goce de haber entre diez y ciento ochenta días.
-**c)**  Multa no mayor de cinco unidades impositivas tributarias.
-**d)**  Destitución.
+**c)** Multa no mayor de cinco unidades impositivas tributarias.
+**d)** Destitución.
 **e)** Inhabilitación.
-**35.2**  Las personas jurídicas bajo el régimen privado que prestan servicios públicos o ejercen función administrativa, en virtud de concesión, delegación o autorización del Estado están sujetas a la sanción de multa, conforme a la normativa de la materia.
+**35.2** Las personas jurídicas bajo el régimen privado que prestan servicios públicos o ejercen función administrativa, en virtud de concesión, delegación o autorización del Estado están sujetas a la sanción de multa, conforme a la normativa de la materia.
 #### **Artículo 36.- Tipificación de infracciones**
 Las infracciones se clasifican en leves, graves y muy graves, las cuales son tipificadas vía reglamentaria, de acuerdo a lo establecido en el numeral 4) del artículo 230 de la Ley Nº 27444, Ley del Procedimiento Administrativo General, mediante Decreto Supremo refrendado por el Ministerio de Justicia y Derechos Humanos.
 Sin perjuicio de las sanciones que en el marco de su competencia impongan las autoridades competentes, pueden ordenar la implementación de una o más medidas correctivas, con el objetivo de corregir o revertir los efectos que la conducta infractora hubiere ocasionado o evitar que esta se produzca nuevamente .
@@ -288,23 +288,23 @@ La responsabilidad de los funcionarios y servidores públicos por incumplimiento
 El presente régimen legal de transparencia se aplica a todas las instituciones integrantes del sistema de justicia: Poder Judicial, Ministerio Público, Junta Nacional de Justicia, Tribunal Constitucional y Academia de la Magistratura.
 #### **Artículo 39.- Obligaciones de transparencia**
 Las que forman parte del sistema de justicia están obligadas a publicar en sus propiedades portales de transparencia, por lo menos, la siguiente información:
-**1.**  La hoja de vida del juez o del fiscal, de los miembros de la Junta Nacional de Justicia, del Tribunal Constitucional y del Consejo Directivo de la Academia de la Magistratura. En esa publicación se incluye la información básica sobre su formación académica y experiencia laboral, sanciones disciplinarias impuestas, patrimonio conforme a su declaración jurada de ingresos y de bienes y rentas, sentencias, resoluciones o dictámenes emitidos o en las que haya participado como integrante de un colegiado.
+**1.** La hoja de vida del juez o del fiscal, de los miembros de la Junta Nacional de Justicia, del Tribunal Constitucional y del Consejo Directivo de la Academia de la Magistratura. En esa publicación se incluye la información básica sobre su formación académica y experiencia laboral, sanciones disciplinarias impuestas, patrimonio conforme a su declaración jurada de ingresos y de bienes y rentas, sentencias, resoluciones o dictámenes emitidos o en las que haya participado como integrante de un colegiado.
 **2.** La declaración jurada de intereses de los jueces, fiscales y, en general, de los miembros del sistema de justicia que verificar si están o no incursos en situaciones en las cuales sus intereses personales, laborales, económicos o financieros pueden estar en conflicto con el cumplimiento de los deberes y funciones del cargo.
 **3.** Todas las sentencias judiciales, dictámenes fiscales y jurisprudencia sistematizada de fácil acceso por materias, con una sumilla en lenguaje sencillo y amigable, conforme a los lineamientos y directrices establecidas por el Ministerio de Justicia y Derechos Humanos, a través de la Autoridad Nacional de Protección de Datos Personales, y en coordinación con el Poder Judicial y el Ministerio Público.
-**4.**  La relación de entrevistas y visitas que tienen los jueces y fiscales y, en general, de los miembros de la Junta Nacional de Justicia, del Tribunal Constitucional y de la Academia de la Magistratura, con indicación del asunto que las haya motivado.
+**4.** La relación de entrevistas y visitas que tienen los jueces y fiscales y, en general, de los miembros de la Junta Nacional de Justicia, del Tribunal Constitucional y de la Academia de la Magistratura, con indicación del asunto que las haya motivado.
 **5.** Los informes anuales de las entidades que integran el sistema de justicia sobre las actividades realizadas en el marco de sus competencias.
 **6.** Los informes elaborados por las ofi cinas de control del Poder Judicial y del Ministerio Público o las que hagan sus veces.
-**7.**  Los procesos de selección y nombramiento, ratificación y disciplinarios de los jueces y fiscales por la Junta Nacional de Justicia.
+**7.** Los procesos de selección y nombramiento, ratificación y disciplinarios de los jueces y fiscales por la Junta Nacional de Justicia.
 **8.** Información detallada y útil para la generación de políticas públicas en la materia.
 **9. ** Acceso al Registro Nacional de Abogados Sancionados por Mala Práctica Profesional, creado por el Decreto Legislativo 1265 y su reglamento aprobado por el Decreto Supremo 002-2017-JUS.
 #### **Artículo 40.- Supervisión de la Autoridad Nacional de Transparencia y de Acceso a la Información**
 La Autoridad Nacional de Transparencia y de Acceso a la Información estará a cargo de la supervisión del cumplimiento de las obligaciones de transparencia contenidas en la presente ley.
 ### **DISPOSICIONES TRANSITORIAS, COMPLEMENTARIAS Y FINALES**
 **Primera.-**La Administración Pública contará con un plazo de ciento cincuenta (150) días a partir de la publicación de la presente Ley para acondicionar su funcionamiento de acuerdo a las obligaciones que surgen de su normativa. Regirán dentro de ese plazo las disposiciones del Decreto Supremo Nº 018-2001-PCM, del Decreto de Urgencia Nº 035-2001 y de todas las normas que regulan el acceso a la información. Sin embargo, los artículos 8, 11 y 20 referidos a entidades obligadas a informar, al procedimiento y, el costo de reproducción respectivamente, entran en vigencia al día siguiente de la publicación de la presente Ley. El Poder Ejecutivo, a través de los Ministerios propiedad y del Consejo Nacional de Inteligencia, en su calidad de órgano rector del más alto nivel del Sistema de Inteligencia Nacional (SINA), elaborará el reglamento de la presente Ley,
-**Segunda.-**  Las entidades del Estado que cuenten con procedimientos aprobados referidos al acceso a la información, deberán adecuarlos a lo señalado en la presente Ley.
+**Segunda.-** Las entidades del Estado que cuenten con procedimientos aprobados referidos al acceso a la información, deberán adecuarlos a lo señalado en la presente Ley.
 **Tercera.-** Deróganse todas las normas que se opongan a la presente Ley.
 ## **REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN ****PÚBLICA DECRETO SUPREMO Nº 072-2003-PCM**
-EL PRESIDENTE DE LA REPÚBLICA 
+EL PRESIDENTE DE LA REPÚBLICA
 CONSIDERANDO:
 Que, mediante la Ley Nº 27806 se aprobó la Ley de Transparencia y Acceso a la Información Pública, con la finalidad de promover la transparencia de los actos de Estado y regular el derecho fundamental del acceso a la información consagrado en el numeral 5 del artículo 2 de la Constitución Política del Perú;
 Que, mediante la Ley Nº 27927 se modificaron y agregaron algunos artículos a la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública, estableciéndose en la Primera Disposición Transitoria, Complementaria y Final que el Poder Ejecutivo, a través de los Ministerios seleccionados y del Consejo Nacional de Inteligencia, en su calidad de órgano rector del más alto nivel del Sistema de Inteligencia Nacional (SINA), elaborará el correspondiente reglamento, el cual será aprobado por el Consejo de Ministros y publicado en un plazo no mayor de noventa ( 90) días contados a partir de la vigencia de dicha Ley;
@@ -322,7 +322,7 @@ Presidenta del Consejo de Ministros
 **JAIME QUIJANDRÍA SALMÓN**
 Ministro de Economía y Finanzas
 **EDUARDO IRIARTE JIMÉNEZ**
-Ministro de Transportes y Comunicaciones 
+Ministro de Transportes y Comunicaciones
 y encargado de la Cartera de Justicia
 **AURELIO LORET DE MOLA BÖHME**
 Ministro de Defensa
@@ -337,7 +337,7 @@ El presente Reglamento será de aplicación a las Entidades de la Administració
 La facultad de los Congresistas de la República de solicitar información a las entidades públicas se rige por el artículo 96 de la Constitución Política del Perú y el Reglamento del Congreso, por lo que no resulta aplicable en este caso el inciso 5) del artículo 2 de la Constitución.
 Las solicitudes de información entre entidades públicas se rigen por el deber de colaboración entre entidades reguladas en la Ley Nº 27444, Ley del Procedimiento Administrativo General.
 Este dispositivo no regula aquellos procedimientos para la obtención de copias de documentos que la Ley haya previsto como parte de las funciones de las Entidades y que se encuentran contenidos en su Texto Único de Procedimientos Administrativos.
-El derecho de las partes de acceder a la información contenida en expedientes 
+El derecho de las partes de acceder a la información contenida en expedientes
 administrativos se ejerce de acuerdo a lo establecido en el Artículo 160 de la Ley Nº 27444, Ley del Procedimiento Administrativo General, sin perjuicio de la vía procesal que el solicitante de la información decida utilizar para su exigencia en sede jurisdiccional.
 #### **Artículo 3.- Obligaciones de la máxima autoridad de la Entidad**
 Las obligaciones de la máxima autoridad de la Entidad, bajo responsabilidad, son las siguientes:
@@ -368,7 +368,7 @@ la Ley;
 **c. **Poner a disposición del solicitante la liquidación del costo de reproducción;
 **d. ** Entregar la información al solicitante, previa verificación de la cancelación del costo de reproducción;
 **e.** En caso se presenten los recursos de apelación ante la entidad que denegó el acceso a la información, debe elevarlos al Tribunal dentro de los dos (2) días hábiles siguientes a la presentación, teniendo en cuenta los artículos 139 y 144 del Texto Único Ordenado de la Ley Nº 27444 aprobada por Decreto Supremo Nº 006-2017-JUS.
-**f.  **En la solicitud de información debe ser rechazada por alguna de las razones previstas en la Ley, deberá comunicar este rechazo por escrito al solicitante, señalando obligatoriamente las razones de hecho y la excepción o excepciones que justifican la negativa total o parcial de entregar la información.
+**f. **En la solicitud de información debe ser rechazada por alguna de las razones previstas en la Ley, deberá comunicar este rechazo por escrito al solicitante, señalando obligatoriamente las razones de hecho y la excepción o excepciones que justifican la negativa total o parcial de entregar la información.
 En caso de vacancia o ausencia justificada del funcionario responsable de entregar la información, y cuando no haya sido designado un encargado de cumplir las funciones establecidas en el presente artículo, el Secretario General o quien haga sus veces asumirá las obligaciones establecidas en la Ley y el presente Reglamento.
 #### **Artículo 5-A.- Reglas para la adecuada actuación de los funcionarios responsables de entregar la información**
 Sin perjuicio de que las Entidades realicen los cambios orgánicos que consideren para el mejor ejercicio de sus funciones, la actuación de los funcionarios responsables se rige por las siguientes reglas:
@@ -386,7 +386,7 @@ obra en sus archivos.
 **f. **Conservar la información de acceso restringido que obre en su poder.
 Para los efectos de los supuestos previstos en los incisos a), b) y c), deberá tener en consideración los plazos establecidos en la Ley, a fin de permitir a los responsables de entregar la información el oportuno cumplimiento de las obligaciones a su cargo.
 #### **Artículo 7.- Responsabilidad por incumplimiento**
-Los funcionarios o servidores públicos incurren en falta administrativa en el trámite del procedimiento de acceso a la información y, por ende, son susceptibles de ser sancionados administrativamente, cuando de modo arbitrario obstruyan el acceso del solicitante a la información requerida, o la suministren de modo incompleto u obstaculicen de cualquier manera el cumplimiento de la Ley. 
+Los funcionarios o servidores públicos incurren en falta administrativa en el trámite del procedimiento de acceso a la información y, por ende, son susceptibles de ser sancionados administrativamente, cuando de modo arbitrario obstruyan el acceso del solicitante a la información requerida, o la suministren de modo incompleto u obstaculicen de cualquier manera el cumplimiento de la Ley.
 La responsabilidad de los funcionarios o servidores públicos se determinará conforme a los procedimientos establecidos para cada tipo de contratación.
 ## **TÍTULO II: PORTAL DE TRANSPARENCIA**
 #### **Artículo 8.- La presentación de la información en el Portal de Transparencia y la obligación de incrementar los niveles de transparencia**
@@ -394,7 +394,7 @@ Toda la información que se publique en el Portal de Transparencia deberá obser
 **a. **Será redactada y presentada teniendo en cuenta la necesidad de información de los usuarios de los servicios que brinda la entidad.
 **b. **Será redactada en un lenguaje que utilice expresiones simples, claras y directas.
 **c. **Deberá privilegiar las estructuras gramaticales simples, frases cortas, sin afectar la calidad de la información, y hacer uso del lenguaje técnico sólo cuando sea estrictamente necesario.
-**d.  **Cada entidad deberá publicar un glosario explicativo de la terminología técnica que utilice en el ámbito de sus funciones.
+**d. **Cada entidad deberá publicar un glosario explicativo de la terminología técnica que utilice en el ámbito de sus funciones.
 **e. **La información publicada en los Portales de Transparencia de las entidades de la Administración Pública a la que alude a la Ley Nº 29091 y su reglamento tienen carácter y valor oficial.
 **f. **Deberá ser cierta, completa y actualizada, bajo responsabilidad del funcionario del órgano o unidad orgánica que proporciona la información y del funcionario responsable de actualizar el Portal de Transparencia, de acuerdo al ámbito de sus competencias, y del titular de la entidad, cuando corresponda.
 De acuerdo a los artículos 1, 3, el inciso 5) del artículo 5 de la Ley, la información cuya publicación se encuentra expresamente prevista por la Ley, en otras leyes, en el presente Reglamento y en otras normas, constituir obligaciones mínimas y meramente enunciativas, por lo que las Entidades deben publicar en su Portal de Transparencia toda aquella información adicional que incremente los niveles de transparencia y resulte útil y oportuna para los ciudadanos.
@@ -418,7 +418,7 @@ Son obligaciones del funcionario responsable del Portal de Transparencia, las si
 **a. **Elaborar el Portal de Transparencia, en caso de entidad no cuente con él, en coordinación con las unidades orgánicas u órganos correspondientes;
 **b. **Recabar la información a ser difundida en el Portal de Transparencia de acuerdo con lo establecido en los artículos 5 y 25 de la Ley; y,
 **c. ** Mantener actualizada la información contenida en el Portal de Transparencia conforme a las reglas sobre la materia, señalando en él, la fecha de la última actualización.
-Todas las dependencias y funcionarios de la Entidad se encuentran obligados a atender los requerimientos de información del funcionario responsable del Portal de Transparencia, conforme al inciso a) del artículo 6 del presente Reglamento. 
+Todas las dependencias y funcionarios de la Entidad se encuentran obligados a atender los requerimientos de información del funcionario responsable del Portal de Transparencia, conforme al inciso a) del artículo 6 del presente Reglamento.
 Toda modificación sobre la forma y contenido del Portal de Transparencia Estándar, deberá ser coordinada con la Secretaría de Gestión Pública de la Presidencia del Consejo de Ministros.
 ## **TÍTULO III: PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN**
 #### **Artículo 10.- Presentación y formalidades de la solicitud**
@@ -427,7 +427,7 @@ El uso del formato contenido en el Anexo del presente Reglamento es opcional par
 **a. **Nombres, apellidos completos, número del documento de identificación que corresponda y domicilio. Tratándose de menores de edad no será necesario consignar el número del documento de identidad;
 **b. **De ser el caso, número de teléfono y / o correo electrónico;
 **c. **En caso de solicitud se presenta en la unidad de recepción de documentación de la Entidad, la solicitud debe contener firma del solicitante o huella digital, de no saber firmar o estar impedido de hacerlo;
-**d.  **Expresión concreta y precisa del pedido de información, así como cualquier otro dato que propicie la localización o facilite la búsqueda de la información solicitada;
+**d. **Expresión concreta y precisa del pedido de información, así como cualquier otro dato que propicie la localización o facilite la búsqueda de la información solicitada;
 **e. **En caso el solicitante conozca la dependencia que posea la información, deberá indicarlo en la solicitud; y,
 **f. **Opcionalmente, la forma o modalidad en la que prefiere el solicitante que la Entidad le entregue la información de conformidad con lo dispuesto en
 la Ley.
@@ -435,7 +435,7 @@ Si el solicitante no ha incluido el nombre del funcionario responsable o lo hubi
 Las formalidades establecidas en este artículo tienen como finalidad garantizar la satisfacción del derecho de acceso a la información pública, por lo que deben interpretarse en forma favorable a la admisión y decisión final de las pretensiones del solicitante.
 #### **Artículo 11.- El plazo de atención de las solicitudes, su cómputo y la subsanación de ****requisitos**
 El plazo a que se refiere al literal b) del Artículo 11 de la Ley, se empezará a computar a partir del día siguiente de la recepción de la solicitud de información a través de los medios establecidos en el primer párrafo del artículo 10 del presente Reglamento , salvo que aquella no cumpla con los requisitos señalados en los literales a), c) yd) del artículo anterior, en cuyo caso, procede la subsanación dentro de los dos días hábiles de comunicada, caso contrario, se considerará como no presentado, procediéndose al archivo de la misma. El plazo antes señalado se empezará a computar a partir de la subsanación del defecto u omisión.
-En todo caso, la Entidad deberá solicitar la subsanación en un plazo máximo de dos días 
+En todo caso, la Entidad deberá solicitar la subsanación en un plazo máximo de dos días
 hábiles de recibida la solicitud, transcurrido el cual, se entenderá por admitida.
 #### **Artículo 12.- Remisión de la información vía correo electrónico**
 La solicitud de información podrá responder vía correo electrónico cuando la naturaleza de la información solicitada y la capacidad de la Entidad así lo permita. En este caso, no se generará costo alguno al solicitante.
@@ -448,8 +448,8 @@ La liquidación del costo de reproducción sólo podrá incluir aquellos gastos 
 Cuando el solicitante incumpla con cancelar el monto previsto en el párrafo anterior o habiendo cancelado dicho monto, no requiera su entrega, dentro del plazo de treinta (30) días calendario contados a partir de la puesta a disposición de la liquidación o de la información, según corresponda, su solicitud será archivada.
 #### **Artículo 14.- ****Uso de la prórroga**
 La prórroga a que se refiere al inciso b) del artículo 11 de la Ley deberá ser comunicada al solicitante hasta el sexto día de presentación su solicitud. En esta comunicación deberá informársele la fecha en que se pondrá a su disposición la liquidación del costo de reproducción.
-#### **Artículo 15.- Entrega de la información solicitada en las unidades de recepción ****documentaria** 
-La solicitud de información que genera una respuesta que esté contenida en medio magnético o impresión, será puesta a disposición del solicitante en la unidad de recepción documentaria o el módulo habilitado para tales efectos, previa presentación 
+#### **Artículo 15.- Entrega de la información solicitada en las unidades de recepción ****documentaria**
+La solicitud de información que genera una respuesta que esté contenida en medio magnético o impresión, será puesta a disposición del solicitante en la unidad de recepción documentaria o el módulo habilitado para tales efectos, previa presentación
 de la constancia de pago en caso de existir costo de reproducción.
 #### **Artículo 15-A.- Encausamiento de las solicitudes de información **
 **15-A.1 **De conformidad con el inciso a) del artículo 11 de la Ley, las dependencias de la entidad encausan las solicitudes de información que reciban hacia el funcionario encargado dentro del mismo día de su presentación, más el término de la distancia, para las dependencias desconcentradas territorialmente .
@@ -458,16 +458,16 @@ de la constancia de pago en caso de existir costo de reproducción.
 #### **Artículo 15-B.- Falta de capacidad logística, operativa y de personal**
 **15-B.1** Para efectos de lo dispuesto por el inciso g) del artículo 11 de la Ley, se tiene en consideración los siguientes criterios:
 **1.** Constituye falta de capacidad logística la carencia o insuficiencia de medios que se requieran para reproducir la información solicitada.
-**2.**  Constituye falta de capacidad operativa la carencia de medios para la remisión de la información solicitada tales como servicio de correspondencia, soporte informático, línea de internet, entre otros que se utilicen para dicho fin.
+**2.** Constituye falta de capacidad operativa la carencia de medios para la remisión de la información solicitada tales como servicio de correspondencia, soporte informático, línea de internet, entre otros que se utilicen para dicho fin.
 **3.** La causal de falta de recursos humanos se aplica cuando la solicitud de acceso a la información pública debe ser atendida por una entidad u órgano que no cuente con personal suficiente para la atención inmediata o dentro del plazo, considerando el volumen de la información solicitada , sin afectar sustancialmente la continuidad del servicio o función pública de su competencia.
-**16 -B.2** Las condiciones indicadas deben constar en cualquier instrumento de gestión o acto de administración interna de fecha anterior a la solicitud, que acreditan las gestiones administrativas iniciadas para atender la deficiencia. 
-**15-B.3** Las condiciones señaladas no limitan el derecho del solicitante de acceder de manera directa a la documentación o información requerida. 
+**16 -B.2** Las condiciones indicadas deben constar en cualquier instrumento de gestión o acto de administración interna de fecha anterior a la solicitud, que acreditan las gestiones administrativas iniciadas para atender la deficiencia.
+**15-B.3** Las condiciones señaladas no limitan el derecho del solicitante de acceder de manera directa a la documentación o información requerida.
 **15-B.4** Las limitaciones logísticas u operativas pueden constituir violaciones al derecho de acceso a la información pública si estas se extienden por un plazo, que un juicio del Tribunal o de la Autoridad, sea irrazonable.
 #### **Artículo 16.- Límites para la utilización de la información reservada**
 Los entes autorizados para solicitar información reservada se encuentran limitados con respecto a los multas para los que debe seguir esta información, por cuanto solamente podrá ser utilizado para los fines a que se contraen las excepciones, y quien acceda a la misma es responsable administrativa, civil o penalmente por vulnerar un derecho de la persona amparado constitucionalmente.
 #### **Artículo 16-A. Información contenida en correos electrónicos**
 La información contenida en correos electrónicos de los funcionarios y servidores públicos es de acceso público, siempre que se trate de información institucional de naturaleza pública. El pedido de información debe ponerse en conocimiento del funcionario o servidor público titular del correo electrónico, quién debe proporcionar la información solicitada. No es de acceso público la información contenida en correos electrónicos que tengan carácter de secreta, reservada y confidencial, de acuerdo a lo previsto en los artículos 15, 16 y 17 del Texto Único Ordenado de la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública, aprobado por Decreto Supremo Nº 043-2003- PCM.
-Asimismo, conforme al artículo 13 de la Ley, el procesamiento de datos preexistentes opera respecto de información contenida en una base de datos electrónicos, o when la entidad tenga la obligación de gestionar la información en una base de datos electrónica, salvaguardando las excepciones previstas en los artículos 15, 16 y 17 del Texto Único Ordenado de la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública. 
+Asimismo, conforme al artículo 13 de la Ley, el procesamiento de datos preexistentes opera respecto de información contenida en una base de datos electrónicos, o when la entidad tenga la obligación de gestionar la información en una base de datos electrónica, salvaguardando las excepciones previstas en los artículos 15, 16 y 17 del Texto Único Ordenado de la Ley Nº 27806, Ley de Transparencia y Acceso a la Información Pública.
 Este procesamiento consiste en la presentación de la información bajo cualquier forma de clasificación, agrupación o similar que permite su utilización.
 #### **Artículo 16-B: Trámite del recurso de apelación**
 El procedimiento de apelación tiene por finalidad que el Tribunal conozca y resuelva, en última instancia, las impugnaciones presentadas contra las denegatorias de las entidades obligadas a entregar información. El Tribunal resuelve los recursos de apelación dentro del plazo de 10 días hábiles, a partir de su admisibilidad.
@@ -477,7 +477,7 @@ Las Entidades se encuentran ubicadas en centros poblados o en distritos en que e
 #### **Artículo 18.- Publicación de información sobre finanzas públicas**
 El Ministerio de Economía y Finanzas, para dar cumplimiento a lo señalado en el artículo 25 de la Ley, puede incluir en su Portal de Transparencia los enlaces de las Entidades comprendidas en los alcances del referido artículo, sin perjuicio del cumplimiento de la obligación de estas últimas de remitirle la información de rigor.
 #### **Artículo 19.- Información que debe publicar CONSUCODE**
-La información que debe publicar el Consejo Superior de Contrataciones y Adquisiciones del Estado &#8211; CONSUCODE en virtud del artículo 29 de la Ley, es la que las Entidades están obligadas a remitirle de conformidad con el artículo 46 del Texto Único Ordenado de la Ley de Contrataciones y Adquisiciones del Estado, aprobado por Decreto Supremo Nº 012-2001-PCM y el artículo 10 de su Reglamento, aprobado por Decreto Supremo Nº 013 2001-PCM. 
+La información que debe publicar el Consejo Superior de Contrataciones y Adquisiciones del Estado &#8211; CONSUCODE en virtud del artículo 29 de la Ley, es la que las Entidades están obligadas a remitirle de conformidad con el artículo 46 del Texto Único Ordenado de la Ley de Contrataciones y Adquisiciones del Estado, aprobado por Decreto Supremo Nº 012-2001-PCM y el artículo 10 de su Reglamento, aprobado por Decreto Supremo Nº 013 2001-PCM.
 ## **TÍTULO V REGISTRO DE LA INFORMACIÓN DE ACCESO RESTRINGIDO**
 #### **Artículo 20.- Desclasificación de la información reservada**
 La información clasificada como reservada debe desclasificarse mediante Resolución debidamente motivada del Titular del Sector o Pliego, según corresponda, o del designado por éste, una vez que desaparezca la causa que originó tal clasificación. En tal sentido, a partir de ese momento es de acceso público.
@@ -492,7 +492,7 @@ restringida;
 **e. ** El número, tipo de documento y la fecha con que se fundamentó ante el Consejo de Ministros el mantenimiento del carácter restringido de la información, cuando ello corresponda; y,
 **f. ** La fecha y la Resolución de desclasificación de la información de carácter reservado en el caso que hubiera desaparecido la causa que motivó su clasificación, cuando ello corresponda.
 #### **Artículo 22.- Informe anual al Congreso de la República**
-Para efectos de dar cumplimiento a lo dispuesto por el artículo 22 de la Ley, las Entidades remitirán a la Presidencia del Consejo de Ministros, según cronograma que esta última establezca, la información relativa a las solicitudes de acceso a la información atendidas y no atendidas. El incumplimiento de esta disposición por parte de las Entidades acarreará la responsabilidad de su Secretario General o quien haga sus veces. 
+Para efectos de dar cumplimiento a lo dispuesto por el artículo 22 de la Ley, las Entidades remitirán a la Presidencia del Consejo de Ministros, según cronograma que esta última establezca, la información relativa a las solicitudes de acceso a la información atendidas y no atendidas. El incumplimiento de esta disposición por parte de las Entidades acarreará la responsabilidad de su Secretario General o quien haga sus veces.
 La Presidencia del Consejo de Ministros remitirá el Informe Anual al Congreso de la República, antes del 31 de marzo de cada año.
 ## **TITULO VI: DE LA CONSERVACIÓN DE LA INFORMACIÓN**
 #### **Artículo 23.- De la gestión especializada de la información**
@@ -505,13 +505,13 @@ Los procedimientos para la digitalización de los documentos y la información, 
 Las Entidades no podrán cobrar monto alguno adicional a la reproducción de la información, a las personas que en su derecho de acceso a la información pública, soliciten información que deba ser ubicada y extraída de los archivos públicos.
 #### **Artículo 27.- Obligación de búsqueda de información extraviada y de comunicación de resultados**
 Sin perjuicio de las responsabilidades administrativas, civiles y / o penales que correspondan por el extravío o la destrucción, extracción, alteración o modificación, indebidas, de la información en poder de las Entidades, el responsable del Órgano de Administración de Archivos, quien haga sus veces o el funcionario poseedor de la información, según corresponda, deberán agotar, bajo responsabilidad, todas las acciones que resulten necesarias para recuperar la información afectada por cualquiera de las conductas señaladas.
-En el caso de que no existan los cargos mencionados o no se hayan nombrado, designado o encargado a sus responsables, la obligación antes señalada corresponda al Secretario General de la Entidad o, en su defecto, a la máxima autoridad administrativa. 
+En el caso de que no existan los cargos mencionados o no se hayan nombrado, designado o encargado a sus responsables, la obligación antes señalada corresponda al Secretario General de la Entidad o, en su defecto, a la máxima autoridad administrativa.
 Cuando se solicite información afectada por cualquiera de las situaciones señaladas en el primer párrafo, corresponda al responsable de atender la solicitud, informar de dicha situación a la persona solicitante, así como los avances o resultados de las acciones orientadas a recuperar la información o la imposibilidad de brindársela por no haberla podido recuperar.
 ## **TITULO VII: PROCEDIMIENTO SANCIONADOR**
 ### **CAPÍTULO I: DE LAS DISPOSICIONES GENERALES**
 #### **Artículo 28.- Prescripción**
 Las reglas de prescripción se rigen de acuerdo a lo establecido por la Ley Nº 30057, Ley del Servicio Civil y su Reglamento General.
-#### **Artículo 29.- Graduación de la sanción** 
+#### **Artículo 29.- Graduación de la sanción**
 Para la imposición de una sanción por infracción a la normativa de transparencia y acceso a la información pública, se utiliza los criterios establecidos en el principio de razonabilidad dispuesto en el inciso 3 del artículo 246 del Texto Único de la Ley Nº 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo Nº 006-2017-JUS, y lo señalado en el artículo 87 de la Ley Nº 30057, Ley del Servicio Civil, en lo que fuera aplicable.
 #### **Artículo 30.- Principios del procedimiento sancionador**
 El procedimiento sancionador en materia de transparencia y acceso a la información pública se rige por los principios de la potestad sancionadora descritos en la Ley Nº 30057, Ley del Servicio Civil y su Reglamento General.
@@ -526,25 +526,25 @@ En caso la sanción impuesta por la entidad sea la destitución o inhabilitació
 #### **Artículo 32.- Infracciones muy graves**
 Constituyen infracciones muy graves:
 **1** . Sustraer, destruir, extraviar, alterar y / o mutilar, total o parcialmente, la información en poder del Estado o las solicitudes de acceso a la información pública.
-**2.**  Emitir directivas, lineamientos y otras disposiciones de administración interna u órdenes que contravengan el régimen jurídico de la transparencia y el acceso a la información pública, incluidas las emitidas por la Autoridad en el ejercicio de sus funciones; o, que tengan por efecto el incumplimiento de las obligaciones contenidas en dicho régimen.
+**2.** Emitir directivas, lineamientos y otras disposiciones de administración interna u órdenes que contravengan el régimen jurídico de la transparencia y el acceso a la información pública, incluidas las emitidas por la Autoridad en el ejercicio de sus funciones; o, que tengan por efecto el incumplimiento de las obligaciones contenidas en dicho régimen.
 **3.** Impedir u obstaculizar a los funcionarios responsables en materia de transparencia y acceso a la información pública el cumplimiento de sus obligaciones en dichas materias.
 **4.** Sancionar o adoptar represalias de cualquier tipo contra los funcionarios responsables en materia de transparencia y acceso a la información pública, por cumplir con sus obligaciones.
 **5.** Negarse a cumplir con lo ordenado por la Autoridad en el ejercicio de sus funciones.
-**6.**  Denegar solicitudes de acceso a la información sin expresar motivación, con motivación aparente o apartándose de los precedentes vinculantes, y doctrina jurisprudencial vinculante del Tribunal Constitucional; así como de los precedentes vinculantes y opiniones consultivas vinculantes.
+**6.** Denegar solicitudes de acceso a la información sin expresar motivación, con motivación aparente o apartándose de los precedentes vinculantes, y doctrina jurisprudencial vinculante del Tribunal Constitucional; así como de los precedentes vinculantes y opiniones consultivas vinculantes.
 #### **Artículo 33.- Infracciones graves**
 Constituyen infracciones graves, las siguientes conductas:
-**1.**  Negarse a recibir las solicitudes de acceso a la información.
-**2.**  Impedir u obstaculizar el ejercicio de funciones de la Autoridad.
-**3.**  Incumplir injustificadamente con los plazos legales para atender las solicitudes de información.
-**4.**  Ampliar irrazonablemente el plazo para atender la información en los casos en los que se refiere al inciso g) del artículo 11 de la Ley.
+**1.** Negarse a recibir las solicitudes de acceso a la información.
+**2.** Impedir u obstaculizar el ejercicio de funciones de la Autoridad.
+**3.** Incumplir injustificadamente con los plazos legales para atender las solicitudes de información.
+**4.** Ampliar irrazonablemente el plazo para atender la información en los casos en los que se refiere al inciso g) del artículo 11 de la Ley.
 **5.** Atender las solicitudes de información entregando información desactualizada, incompleta e inexacta.
 **6.** No actualizar la información contenida en los portales de transparencia de acuerdos a los plazos establecidos por la normativa vigente; o actualizarla de manera incompleta, inexacta o ininteligible.
 **7. ** No incorporar el procedimiento de acceso a la información pública en el Texto Único de Procedimientos Administrativos (TUPA) de la entidad.
-**8.**  No adoptar las medidas para la designación del funcionario responsable de brindar información solicitada y / o de la elaboración y actualización del portal institucional en Internet.
+**8.** No adoptar las medidas para la designación del funcionario responsable de brindar información solicitada y / o de la elaboración y actualización del portal institucional en Internet.
 **9.** Exigir requisitos distintos o adicionales a los contemplados por ley para atender las solicitudes de información.
 **10.** Aprobar o efectuar cobros adicionales que no guarden relación con el costo de reproducción de la información.
 **11.** No responda las solicitudes de acceso a la información pública.
-**12.**  Impedir injustificadamente el acceso directo a la información solicitada.
+**12.** Impedir injustificadamente el acceso directo a la información solicitada.
 **13.** Denegar información atribuyéndole indebidamente la calidad de clasificada como secreta, reservada o confidencial.
 **14.** Clasificar como información secreta, reservada o confidencial, incumpliendo lo dispuesto en la Ley y los lineamientos de clasificación establecidos de conformidad con el artículo 5 del Decreto Legislativo Nº 1353.
 **15.** Incumplir la obligación de colaboración con la Autoridad. 16. No remitir, dentro del plazo establecido, la información solicitada por la Autoridad.
@@ -575,14 +575,14 @@ En caso de violación de normas de la Ley o del presente Reglamento, la Entidad 
 De conformidad con párrafo 35.2 del artículo 35 de la Ley, las personas jurídicas están sujetas a sanción de multa.
 El procedimiento sancionador comprende la fase instructora y la sancionadora. La fase instructora está a cargo del órgano de línea de la Autoridad que establezca el Reglamento de Organización y Funciones del Ministerio de Justicia y Derechos Humanos. La fase sancionadora está a cargo de la Autoridad.
 Los plazos y la estructura del procedimiento se ciñen a lo establecido por el artículo 35 del presente Reglamento.
-#### **Artículo 39.- Infracciones muy graves** 
+#### **Artículo 39.- Infracciones muy graves**
 Constituyen infracciones muy graves:
 **1.** Sustraer, destruir, extraviar, alterar y/o mutilar, total o parcialmente, las solicitudes de acceso a la información a las que esté obligada a entregar de conformidad con el artículo 9 de la Ley, y que no se encuentren publicadas.
 **2.** Emitir reglamentos, directivas, instrucciones u órdenes que contravengan el régimen jurídico de acceso a la información o que tengan por efecto el incumplimiento de las obligaciones contenidas en dicho régimen al que se encuentra obligada.
 **3.** Sancionar o adoptar represalias de cualquier tipo contra los empleados responsables en materia de acceso a la información pública, por cumplir con sus obligaciones.
 **4.** Negarse u omitir cumplir con lo ordenado por la Autoridad y el Tribunal en el ejercicio de sus funciones.
 **5.** Denegar solicitudes de acceso a la información sin expresar motivación o con motivación aparente.
-#### **Artículo 40.- Infracciones graves** 
+#### **Artículo 40.- Infracciones graves**
 Constituyen infracciones graves:
 **1.** Negarse a recibir las solicitudes de acceso a la información.
 **2.** Impedir u obstaculizar el ejercicio de funciones de la Autoridad.
@@ -593,10 +593,10 @@ Constituyen infracciones graves:
 **7.** No responder las solicitudes de acceso a la información pública.
 **8.** Denegar información atribuyéndole indebidamente la calidad de clasificada como secreta, reservada o confidencial.
 **9.** No remitir, dentro del plazo establecido, la información solicitada por la Autoridad.
-#### **Artículo 41.- Infracciones leves.** 
+#### **Artículo 41.- Infracciones leves.**
 Constituye infracción leve, la siguiente conducta:
 **1.** El incumplimiento de las demás obligaciones derivadas del régimen jurídico de la transparencia y el acceso a la información pública, que no se encuentren sancionadas como infracciones graves o muy graves.
-#### **Artículo 42. Sanciones administrativas** 
+#### **Artículo 42. Sanciones administrativas**
 En caso de violación de las normas de la Ley o del presente Reglamento, la Autoridad aplica las siguientes multas:
 1. Las infracciones leves son sancionadas hasta con una (1) unidad impositiva tributaria (UIT).
 **2.** Las infracciones graves son sancionadas con multa no menor de una (1) unidad impositiva tributaria (UIT) y hasta tres (3) unidades impositivas
@@ -605,31 +605,31 @@ tributarias (UIT).
 ### **DISPOSICIONES COMPLEMENTARIAS**
 #### **Primera.- Aplicación supletoria de la Ley Nº 27444**
 En todo lo no previsto expresamente en el presente Reglamento, será de aplicación lo dispuesto por la Ley Nº 27444, Ley del Procedimiento Administrativo General.
-#### **Segunda.- Difusión de la Ley y el Reglamento** 
+#### **Segunda.- Difusión de la Ley y el Reglamento**
 La Entidades promoverán la difusión de la aplicación de la Ley y del presente Reglamento
 entre su personal con la finalidad de optimizar su ejecución.
 #### **Tercera.- Adecuación del TUPA**
 Las Entidades que en sus Textos Únicos de Procedimientos Administrativos (TUPA) no cuenten con el procedimiento y determinación del costo de reproducción de acuerdo a la Ley y al presente Reglamento, asumirán el mismo hasta su adecuación.
-#### **Cuarta.- Implementación** 
+#### **Cuarta.- Implementación**
 Para efectos de la implementación del formato a que se refiere el artículo 10 del Reglamento, así como de la adecuación de los Textos Únicos de Procedimientos Administrativos (TUPA) a que se refiere a la Tercera Disposición Complementaria, las Entidades cuentan con (15) quince días útiles que rigen a partir de la publicación de la presente norma.
 ### **Descargue aquí el PDF**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Decreto Legislativo del Notariado (Decreto Legislativo 1049) [actualizado 2026]
-Constitucional            ### Constitución Política del Perú [actualizada 2026]
-Constitucional            ### Nuevo Código Procesal Constitucional (Ley 31307) [actualizado 2026]
-Constitucional            ### Reglamento Normativo del Tribunal Constitucional [actualizado 2026]
-Legislación Básica            ### Ley de Delitos Informáticos (Ley 30096) [actualizada]
-Cursos            ### Código Penal peruano [actualizado 2026]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Decreto Legislativo del Notariado (Decreto Legislativo 1049) [actualizado 2026]
+Constitucional### Constitución Política del Perú [actualizada 2026]
+Constitucional### Nuevo Código Procesal Constitucional (Ley 31307) [actualizado 2026]
+Constitucional### Reglamento Normativo del Tribunal Constitucional [actualizado 2026]
+Legislación Básica### Ley de Delitos Informáticos (Ley 30096) [actualizada]
+Cursos### Código Penal peruano [actualizado 2026]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

@@ -22,9 +22,9 @@ Inicio ** Jurisprudencia ** Casación ** Jurisprudencia del artículo 384 del C�
 - Penal
 - Procesal Penal
 # Jurisprudencia del artículo 384 del Código Penal.- Colusión simple y agravada
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  25 marzo, 2023                                            Artículo 384.- Colusión simple y agravada*
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 25 marzo, 2023Artículo 384.- Colusión simple y agravada*
 El funcionario o servidor público que, interviniendo directa o indirectamente, por razón de su cargo, en cualquier etapa de las modalidades de adquisición o contratación pública de bienes, obras o servicios, concesiones o cualquier operación a cargo del Estado concierta con los interesados para defraudar al Estado o entidad u organismo del Estado, según ley, será reprimido con pena privativa de libertad no menor de tres ni mayor de seis años; inhabilitación a que se refieren los incisos 1, 2 y 8 del artículo 36, de cinco a veinte años; y, con ciento ochenta a trescientos sesenta y cinco días-multa.
-## El funcionario o servidor público que, interviniendo directa o indirectamente, por razón de su cargo, en las contrataciones y adquisiciones de bienes, obras o servicios, concesiones o cualquier operación a cargo del Estado mediante concertación con los interesados, defraudare patrimonialmente al Estado o entidad u organismo del Estado, según ley, será reprimido con pena privativa de libertad no menor de seis ni mayor de quince años; inhabilitación a que se refieren los incisos 1, 2 y 8 del artículo 36, de cinco a veinte años; y, con trescientos sesenta y cinco a setecientos treinta días-multa. 
+## El funcionario o servidor público que, interviniendo directa o indirectamente, por razón de su cargo, en las contrataciones y adquisiciones de bienes, obras o servicios, concesiones o cualquier operación a cargo del Estado mediante concertación con los interesados, defraudare patrimonialmente al Estado o entidad u organismo del Estado, según ley, será reprimido con pena privativa de libertad no menor de seis ni mayor de quince años; inhabilitación a que se refieren los incisos 1, 2 y 8 del artículo 36, de cinco a veinte años; y, con trescientos sesenta y cinco a setecientos treinta días-multa.
 ## La pena será privativa de libertad no menor de quince ni mayor de veinte años; inhabilitación a que se refieren los incisos 1, 2 y 8 del artículo 36, de naturaleza perpetua, y, con trescientos sesenta y cinco a setecientos treinta días-multa, cuando ocurra cualquiera de los siguientes supuestos:
 ## 1. El agente actúe como integrante de una organización criminal, como persona vinculada o actúe por encargo de ella.
 ## 2. La conducta recaiga sobre programas con fines asistenciales, de apoyo o inclusión social o de desarrollo, siempre que el valor del dinero, bienes, efectos o ganancias involucrados supere las diez unidades impositivas tributarias.
@@ -39,7 +39,7 @@ El funcionario o servidor público que, interviniendo directa o indirectamente, 
 ## **Concordancias**
 **C:** arts. 41, 62, 76; **CP: **arts. 12, 29, 46A, 57, 61, 92, 93, 198, 397, 425, 426; **NCPP: **arts. 268, 286, 288, 289, 291.
 ## **Jurisprudencia del artículo 384 del Código Penal**
-- 
+-
 ### **Corte Suprema**
 - **NUEVO:** La adjudicación de la buena pro a una empresa que ofertó precios más altos que los demás postores no configura, por sí sola, una práctica colusoria, si dicha decisión se justificó en la evaluación de otros rubros, como ofertas y servicios adicionales [RN 2161-2013, Arequipa, f. j. 8]. Link: lpd.pe/y2vnQ
 - **NUEVO:** Obedecer las órdenes del empleador no constituye la eximente de «obediencia debida» en el delito de colusión (trabajador alegó que actuó por orden del gerente general de la empresa y que, por tanto, carecía de dolo para perjudicar al Estado) [Casación 166-2023, Madre de Dios]. Link: lpd.pe/NBr55
@@ -101,21 +101,21 @@ El funcionario o servidor público que, interviniendo directa o indirectamente, 
 - El delito de colusión ilegal es de modalidad comisiva y no omisiva porque requiere, del sujeto activo, ciertas maniobras (manipular datos, sobrevaluar los precios, entre otros) *[RN 2587-2011, Cusco, f. j. 4.3]*. Link: *bit.ly/3z5n9rH* 
 - Colusión es delito de infracción de deber y no propiamente patrimonial o común, de organización o de dominio —antes de la Ley 29758 que diferencia entre colusión simple y agravada— *[RN 215-2011, Huánuco, f. j. 4]*. Link: *bit.ly/3FNFIVf*
 - **NUEVO:** No basta la existencia de irregularidades para que se configure el delito, sino que esta debe ser producto de un pacto colusorio entre el funcionario y el tercero *[Queja NCPP 706-2023, Pasco, f. j. 4.7]*. Link: *lpd.pe/2MKwO*
-- 
+-
 ### **Corte Superior **
 - No es posible establecer una imputación subjetiva conjunta, sino alternativa por los delitos de colusión desleal y negociación incompatible *[Pleno Jurisdiccional Distrital Penal de Lima, 2011, tema 1]*. Link: *bit.ly/40zVNG8*
 - **NUEVO:** Delito continuado: No existe «dolo global» si el delito de colusión se cometió en dos gestiones diferentes, pues resulta imposible afirmar que conocía o podía conocer que sería reelegido para una segunda gestión (caso César Villanueva) *[Exp. 00045-2019-33, f. j. 18]*. Link: *lpd.pe/24AJE*
 - **NUEVO:** El delito de colusión no requiere una dádiva o ventaja económica a favor del funcionario público para su consumación, toda vez que el desvalor está en la concertación con fines de defraudación patrimonial (real o potencial) al Estado [Exp. 00019-2028-107, f. j. 7.14]. Link: lpd.pe/zdVYM
 - **NUEVO:** La falta de participación del tercero interesado en el contexto negocial para beneficiar a la empresa que representa hace decaer la imputación al funcionario público, pues la colusión es un delito de participación necesaria (caso Gasoducto Peruano) [Exp. 00051-2015-18, f. j 9.10]. Link: lpd.pe/z4me7 
 - No se exigen detalles exactos en relación con el pacto colusorio, dado su carácter clandestino, siendo suficiente el señalamiento de las diversas irregularidades administrativas *[Exp. 0016-2017-174, f. j. *8.2.2.1.8*]*. Link: *bit.ly/3lCM0Af*
-- 
+-
 ### **Tribunal Constitucional **
-- 
+-
 - **NUEVO:** En la colusión no puede considerarse como agravante la pluralidad de agentes, porque al ser un «delito de encuentro» la concertación es elemento constitutivo del tipo (no es posible que se pueda consumar con la única participación de una sola persona) [Exp. 01909-2024-PHC/TC, ff. jj. 33-34]. Link: lpd.pe/E61Rd
 - **NUEVO:** La prueba por indicios debe responder al dónde, cómo y cuándo se produce la concertación [Exp. 04554-2023-PHC/TC, f. j. 18]. Link: lpd.pe/pRbAd
 - **NUEVO:** Para configurar el delito de colusión, no basta con que el acusado haya tenido conocimiento de los hechos, sino que también realice acciones comisivas que, por los menos, constituyan el comienzo de ejecución de una acción típica dentro de un plan común [Exp. 04554-2023-PHC/TC, f. j. 11]. Link: lpd.pe/2MgMG
 - **NUEVO:** Colusión: No se puede condenar al imputado por el solo hecho de formar parte del «comité especial» que elaboró las bases administrativas de la licitación  [Exp. 04572-2022-PHC/TC, f. j. 14]. Link: lpd.pe/2VbrP
-- 
+-
 ### **Adicionales **
 - **NUEVO:** Aunque el alcalde tiene la obligación de verificar y supervisar la correcta contratación y ejecución de los proyectos la responsabilidad no es corporativa, sino debe determinarse en relación con las acciones u omisiones de cada uno de los funcionarios [Exp. 01231-2024-PHC/TC, f. j. 38]. Link: lpd.pe/ND86B
 - **NUEVO:** Colusión: Condenan a funcionarios por pagar el total de una obra que ni siquiera llegó al 50% de avance, bajo el pretexto de que «no se revierta el presupuesto por ser fin de año» [Casación 618-2020, Lambayeque, f. j. 6.13]. Link: lpd.pe/Ee3RW
@@ -130,22 +130,22 @@ El funcionario o servidor público que, interviniendo directa o indirectamente, 
 - **NUEVO:** Colusión: Conforme a la teoría de la infracción del deber, el extraneus únicamente tendría la condición de cómplice, más no de cómplice primario [Exp. 00065-2023-87, f. j. 3]. Link: lpd.pe/E63YR
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

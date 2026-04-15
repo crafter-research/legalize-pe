@@ -12,14 +12,14 @@ diarioOficial: "El Peruano"
 sector: "CONGRESO DE LA REPUBLICA"
 sumilla: "Código de los Niños y Adolescentes - Ley N.° 27337"
 materias:
-  - niños
-  - adolescentes
-  - familia
-  - derechos
-  - protección
-  - adopción
-  - tenencia
-  - alimentos
+ - niños
+ - adolescentes
+ - familia
+ - derechos
+ - protección
+ - adopción
+ - tenencia
+ - alimentos
 disclaimer: true
 ---
 

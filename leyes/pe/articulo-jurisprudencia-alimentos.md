@@ -21,7 +21,7 @@ Inicio ** Civil ** Jurisprudencia relevante y actualizada sobre alimentos- Civi
 - Jurisprudencia
 - Jurisprudencia sistematizada
 # Jurisprudencia relevante y actualizada sobre alimentos
-Por LP • Pasión por el Derecho -                  14 febrero, 2019                                            El Código Civil indica que **alimentos** es lo indispensable para el sustento, habitación, vestido, educación, instrucción y capacitación para el trabajo, asistencia médica y psicológica. Y también comprenden los gastos de la madre desde la concepción hasta el postparto. La personas obligadas a prestar alimentos de manera reciproca son a los cónyuges, descendientes y ascendientes.
+Por LP • Pasión por el Derecho - 14 febrero, 2019El Código Civil indica que **alimentos** es lo indispensable para el sustento, habitación, vestido, educación, instrucción y capacitación para el trabajo, asistencia médica y psicológica. Y también comprenden los gastos de la madre desde la concepción hasta el postparto. La personas obligadas a prestar alimentos de manera reciproca son a los cónyuges, descendientes y ascendientes.
 En el presente post hemos congregado jurisprudencia variopinta sobre la materia, que además es la causa más persistente en la judicatura. Desde acuerdos plenarios, hasta sentencias del Poder Judicial y del Tribunal Constitucional. Cabe agregar que este post se irá actualizando conforme se emitan nuevos pronunciamientos jurisprudenciales.
 **Sumario:**
 **Acuerdo plenario:**
@@ -113,22 +113,22 @@ Debe efectuarse la nueva liquidación de pensión devengado sin acumular la liqu
 # **• TC: Empresas que retengan remuneración por alimentos deben guardar copia de la sentencia [Exp. 02379-2015-PHD/TC, Loreto]**
 **Fundamento destacado: 8.** Así, desde una interpretación contrario sensu de dicha norma, toda entidad pública está obligada a custodiar los datos personales que sustentan sus actuaciones por el periodo de tiempo en que éstas se llevan a cabo. En caso contrario, podrían realizar actos que incidan sobre los derechos o intereses legítimos de las personas sin contar con adecuado sustento documentario para ello lo que constituiría una irregularidad manifiesta.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
 4 abril, 2026

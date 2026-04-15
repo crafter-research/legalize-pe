@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Constitucional ** TC: Tipos de sentencias y efectos de la jurisprudencia constitucional- Constitucional
 # TC: Tipos de sentencias y efectos de la jurisprudencia constitucional
-Por LP • Pasión por el Derecho -                  28 octubre, 2020                                            Compartimos con ustedes una didáctica clasificación de las sentencias que emite el Tribunal Constitucional, así como los efectos que producen cada una de ellas. Esta útil tipología está contenida en la sentencia recaída en el **Expediente 004-2004-CC/TC, Lima**.
+Por LP • Pasión por el Derecho - 28 octubre, 2020Compartimos con ustedes una didáctica clasificación de las sentencias que emite el Tribunal Constitucional, así como los efectos que producen cada una de ellas. Esta útil tipología está contenida en la sentencia recaída en el **Expediente 004-2004-CC/TC, Lima**.
 ## **La tipología y los efectos de la jurisprudencia constitucional**
 Sobre este tema, la doctrina ha establecido una doble clasificación: la primera distingue entre sentencias de especie o de principio, y la segunda entre sentencias estimativas o desestimativas. Veámoslas brevemente:
 Respecto a la primera clasificación se tiene:
@@ -91,22 +91,22 @@ En este caso el órgano de control de la constiucionalidad establece una manera 
 En ese entendido, se desestima la acción presentada contra una ley, o norma con rango de ley, previo rechazo de algún o algunos sentidos interpretativos considerados como infraccionantes del texto *supra*. Por ende, se establece la obligatoriedad de interpretar dicha norma de “acuerdo” con la Constitución; vale decir, de conformidad con la interpretación declarada como única, exclusiva y excluyentemente válida.
 Publicada el: **22 Abr de 2018 @ 09:53**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Constitucional            ### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
-Animales            ### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
-Constitucional            ### Mientras los vicios de motivación interna se refieren a los supuestos en los cuales la solución del caso no se deduce de las premisas...
-Constitucional            ### Indecopi no es competente para tramitar solicitudes de procedimiento concursal contra universidades privadas, pues para estas no aplican las disposiciones de la Ley General...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Constitucional### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
+Animales### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
+Constitucional### Mientras los vicios de motivación interna se refieren a los supuestos en los cuales la solución del caso no se deduce de las premisas...
+Constitucional### Indecopi no es competente para tramitar solicitudes de procedimiento concursal contra universidades privadas, pues para estas no aplican las disposiciones de la Ley General...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

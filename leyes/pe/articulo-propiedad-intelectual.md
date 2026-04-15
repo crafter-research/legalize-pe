@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Comercial ** ¿Qué estudia la propiedad intelectual?- Comercial
 # ¿Qué estudia la propiedad intelectual?
-Por Javier García -                  4 agosto, 2022                                            Cuando hablamos de **propiedad intelectual** estamos hablando de la alternativa que nos da el **sistema legal** para poder reconocer un derecho sobre mis creaciones, innovaciones o invenciones. Existen dos grandes ramas dentro de la propiedad intelectual que van a buscar y que van a darnos la dirección correcta para poder obtener esta protección.
+Por Javier García - 4 agosto, 2022Cuando hablamos de **propiedad intelectual** estamos hablando de la alternativa que nos da el **sistema legal** para poder reconocer un derecho sobre mis creaciones, innovaciones o invenciones. Existen dos grandes ramas dentro de la propiedad intelectual que van a buscar y que van a darnos la dirección correcta para poder obtener esta protección.
 ## **Propiedad Industrial**
 Por un lado, nos van a trasladar a la **Propiedad Industrial**, que es aquella que va a buscar proteger a todo aquel conjunto de productos que van a estar destinados a la industria o al comercio; son, básicamente, herramientas para participar en el mercado (**primer grupo**).
 Aquí encontramos dos grandes grupos: **los signos distintivos** y las **invenciones o nuevas tecnologías**.
@@ -41,22 +41,22 @@ Algunas de las herramientas que utiliza el Indecopi para promocionar y facilitar
 - Registro Virtual de Obras.
 Fuente: Indecopi.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Comercial            ### El fuero de atracción concursal: ¿cómo se aplica en los procedimientos concursales?
-Civil            ### ¿Cómo heredar una empresa o negocio familiar? Bien explicado
-Administrativo            ### Ley que amplía la ley de competencia notarial en asuntos no contenciosos y la Ley General de Sociedades (Ley 29560)
-Administrativo            ### Principales modelos societarios para las mypes
-Comercial            ### Aspirantes a notarios: Preguntas (y respuestas) de derecho comercial (examen tipo)
-Civil            ### Preferencia hipotecaria debe presentarse ante juez que conoce proceso de ejecución de garantía si ejecutor coactivo embarga el mismo bien [Pleno Jurisdiccional Distrital Comercial...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Comercial### El fuero de atracción concursal: ¿cómo se aplica en los procedimientos concursales?
+Civil### ¿Cómo heredar una empresa o negocio familiar? Bien explicado
+Administrativo### Ley que amplía la ley de competencia notarial en asuntos no contenciosos y la Ley General de Sociedades (Ley 29560)
+Administrativo### Principales modelos societarios para las mypes
+Comercial### Aspirantes a notarios: Preguntas (y respuestas) de derecho comercial (examen tipo)
+Civil### Preferencia hipotecaria debe presentarse ante juez que conoce proceso de ejecución de garantía si ejecutor coactivo embarga el mismo bien [Pleno Jurisdiccional Distrital Comercial...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

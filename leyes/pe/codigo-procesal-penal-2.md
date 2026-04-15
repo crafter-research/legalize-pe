@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Penal ** Procesal Penal ** Nuevo Código Procesal Penal (del artículo 446 al final)- Penal
 - Procesal Penal
 # Nuevo Código Procesal Penal (del artículo 446 al final)
-La última modificación se produjo el 12 de febrero de 2026 con la publicación, en el diario oficial El Peruano, del Decreto Legislativo 1735.Por LP • Pasión por el Derecho -                  12 febrero, 2026                                            Mediante el **Decreto Legislativo 957** se aprobó el nuevo **Código Procesal Penal **(NCPP), promulgado el 22 de julio de 2004 y publicado el 29 de julio de 2004. Entró en vigencia el **1 de julio de 2006**. 
+La última modificación se produjo el 12 de febrero de 2026 con la publicación, en el diario oficial El Peruano, del Decreto Legislativo 1735.Por LP • Pasión por el Derecho - 12 febrero, 2026Mediante el **Decreto Legislativo 957** se aprobó el nuevo **Código Procesal Penal **(NCPP), promulgado el 22 de julio de 2004 y publicado el 29 de julio de 2004. Entró en vigencia el **1 de julio de 2006**. 
 El texto que estamos presentando está dividido en dos partes, esta es la segunda parte (del artículo 446 al final), en **este link **se halla la** primera parte** (del título preliminar al artículo 445).
 La última modificación se produjo el 12 de febrero de 2026 con la publicación, en el diario oficial *El Peruano,* del Decreto Legislativo 1735.
 Lea también: **Publican Ley 31990 que modifica el proceso por colaboración eficaz (marzo de 2024)**
@@ -43,7 +43,7 @@ LOS PROCESOS ESPECIALES
 2. *Ley 31960,* publicada el 18 de diciembre de 2023 (link: lpd.pe/0qm7n).
 Clic aquí.
 *3. DL 1735, publicado el 12 de febrero de 2026. Específicamente, la Tercera Disposición Complementaria Modificatoria agregó el literal e) al numeral 1. Asimismo, añadió al numeral 2 la expresión «No obstante, una vez recabados los elementos de convicción pendientes, el fiscal debe incoar en forma obligatoria el proceso inmediato».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva***
 1. Al término del plazo de la detención policial establecido en el artículo 264, el Fiscal debe solicitar al Juez de la investigación preparatoria la incoación del proceso inmediato. El Juez, dentro de las cuarenta y ocho horas (48) siguientes al requerimiento fiscal, realiza una audiencia única de incoación para determinar la procedencia del proceso inmediato. La detención del imputado se mantiene hasta la realización de la audiencia.
 2. Dentro del mismo requerimiento de incoación, el Fiscal debe acompañar el expediente fiscal y comunicar si requiere la imposición de alguna medida coercitiva, que asegure la presencia del imputado en el desarrollo de todo el proceso inmediato. El requerimiento de incoación debe contener, en lo que resulte pertinente, los requisitos establecidos en el numeral 2 del artículo 336.
@@ -72,7 +72,7 @@ Para los supuestos comprendidos en los literales b) o c), numeral 1 del artícul
 Clic **aquí**.
 4. DL 1735, publicado el 12 de febrero de 2026. Específicamente, la Tercera Disposición Complementaria Modificatoria modificó el segundo párrafo del numeral 7. Asimismo, agregó los numerales 8, 9, 10, 11 y 12. Antes de la reforma, el segundo párrafo del numeral 7 decía lo siguiente:
 *«Para los supuestos comprendidos en los literales b) y c), numeral 1 del artículo 446, rige el procedimiento antes descrito en lo que corresponda. Solo en estos supuestos, el requerimiento se presenta luego de culminar las diligencias preliminares o, en su defecto, antes de los treinta (30) días de formalizada la Investigación Preparatoria».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 448. Audiencia única de juicio Inmediato***
 1. Recibido el auto que incoa el proceso inmediato. El Juez penal competente realiza la audiencia única de juicio inmediato en el día. En todo caso, su realización no debe exceder las setenta y dos (72) horas desde la recepción, bajo responsabilidad funcional.
 2. La audiencia única de juicio inmediato es oral, pública e inaplazable. Rige lo establecido en el artículo 85. Las partes son responsables de preparar y convocar a sus órganos de prueba, garantizando su presencia en la Audiencia.
@@ -83,12 +83,12 @@ Clic **aquí**.
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1194, publicado el 30 de agosto de 2015 *(*link: bit.ly/458YwZm).
 *2. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN II: EL PROCESO POR RAZÓN DE LA FUNCIÓN PÚBLICA**
 ## **TÍTULO I: EL PROCESO POR DELITOS DE FUNCIÓN ATRIBUIDOS A ALTOS FUNCIONARIOS PÚBLICOS**
 #### **Artículo 449. Disposiciones aplicables**
 El proceso penal contra los altos funcionarios públicos taxativamente designados en el artículo 99 de la Constitución por los delitos que cometan en el ejercicio de sus funciones y hasta cinco años después de haber cesado en él, se regirá por las reglas del proceso común, salvo las que se establecen en este Título.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 450. Reglas específicas para la incoación del proceso penal***
 1. La incoación de un proceso penal, en los supuestos del artículo anterior, requiere la previa interposición de una denuncia constitucional, en las condiciones establecidas por el Reglamento del Congreso y la Ley, por el Fiscal de la Nación, el agraviado por el delito o por los Congresistas; y, en especial, como consecuencia del procedimiento parlamentario, la resolución acusatoria de contenido penal aprobada por el Congreso.
 2. El Fiscal de la Nación, en el plazo de cinco días de recibida la resolución acusatoria de contenido penal y los recaudos correspondientes, emitirá la correspondiente Disposición, mediante la cual formalizará la Investigación Preparatoria, se dirigirá a la Sala Penal de la Corte Suprema a fin de que nombre, entre sus miembros, al Vocal Supremo que actuará como Juez de la Investigación Preparatoria y a los integrantes de la Sala Penal Especial que se encargará del Juzgamiento, y designará a los Fiscales Supremos que conocerán de las etapas de Investigación Preparatoria y de Enjuiciamiento.
@@ -101,7 +101,7 @@ El proceso penal contra los altos funcionarios públicos taxativamente designado
 9. El plazo que se refiere al artículo 99 de la Constitución no interrumpe ni suspende la prescripción de la acción penal de conformidad con el artículo 84 del Código Penal.
 10. Vencido el plazo de cinco años, previsto en el artículo 99 de la Constitución, siempre que no se haya incoado el proceso penal, el ex alto funcionario público estará sometido a las reglas del proceso penal común.
 ** Artículo modificado por la Ley 31308, publicada el 24 de julio de 2021 (link: bit.ly/45ctfVr).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 451. Conversión del procedimiento común y acumulación**
 1. Si en el curso de un proceso penal común, se determina que uno de los imputados está incurso en el artículo 99° de la Constitución, el Juez de la causa, de oficio o a pedido del Ministerio Público o de otro sujeto procesal, previa audiencia con la intervención de los mismos, remitirá copia de lo actuado a la Fiscalía de la Nación para que se proceda a la formulación de la denuncia constitucional correspondiente; si el Fiscal de la Nación no está conforme con la resolución judicial solicitará la intervención de la Sala Penal de la Corte Suprema para que se pronuncie al respecto. La Sala resolverá, mediante resolución inimpugnable y previa audiencia con asistencia de las partes.
 2. Cuando el hecho sea atribuido a varios imputados y sólo alguno de ellos debe ser sujeto al procedimiento parlamentario de acusación constitucional, la causa deberá separarse para que se continúe en la jurisdicción ordinaria contra quienes no proceda este procedimiento. Se remitirá copia certificada de lo actuado al Fiscal de la Nación contra los restantes, para que proceda conforme lo dispone el numeral anterior. Si el Congreso emite resolución acusatoria, las causas deberán acumularse y serán tramitadas según las reglas especiales previstas en este Título.
@@ -110,7 +110,7 @@ El proceso penal contra los altos funcionarios públicos taxativamente designado
 1. El procesamiento por la comisión de delitos comunes imputados a los Congresistas de la República, el Defensor del Pueblo y los miembros del Tribunal Constitucional durante el ejercicio de su mandato es de competencia de la Corte Suprema de Justicia de la República y se rigen por las reglas del proceso común, así como por lo establecido en el presente Título.
 2. El procesamiento de los funcionarios señalados en el numeral anterior por la comisión de delitos comunes antes de asumir el mandato será de competencia del juzgado penal ordinario, según las reglas del proceso común.
 ** Artículo modificado por la Ley 31308, publicada el 24 de julio de 2021 (link: bit.ly/45ctfVr).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 453. Reglas del proceso***
 1. La investigación y juzgamiento, en los supuestos del numeral 1 del artículo anterior, están a cargo de la Fiscalía Suprema y la Corte Suprema de Justicia, respectivamente.
 2. Ante la disposición de formalización de la investigación preparatoria u otros requerimientos fiscales a nivel de diligencias preliminares, la Sala Penal de la Corte Suprema designará, entre sus miembros, al Juez Supremo de Investigación Preparatoria y a los integrantes de la Sala Penal Especial Suprema, que se encargará del juzgamiento; y, el Fiscal de la Nación hará lo propio respecto a los Fiscales Supremos que conocerán de las etapas de investigación preparatoria y de enjuiciamiento.
@@ -127,7 +127,7 @@ El proceso penal contra los altos funcionarios públicos taxativamente designado
 *2. Ley 31308, publicada el 24 de julio de 2021 (link: bit.ly/45ctfVr).*
 *3. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz). *El artículo 2 de este DL solo modificó el numeral 2 del artículo 454.
 *Clic **aquí**.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 455. Disposiciones aplicables**
 El proceso penal en estos casos se regirá por las reglas del proceso común, con las excepciones previstas en el artículo anterior.
 ## **SECCIÓN III: EL PROCESO DE SEGURIDAD**
@@ -145,23 +145,23 @@ El proceso penal en estos casos se regirá por las reglas del proceso común, co
 8. Cuando no pueda contarse con la presencia del imputado, se podrán leer sus declaraciones anteriores, así como la prevista en el numeral anterior.
 9. Es imprescindible que en el acto oral se interrogue al perito que emitió el dictamen sobre el estado de salud mental del imputado, sin perjuicio de disponerse, de ser el caso, la ampliación de dicho dictamen por el mismo u otro perito.
 10. La sentencia versará sobre la absolución o sobre la aplicación de una medida de seguridad.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 458. Transformación al proceso común y advertencia**
 1. Si después de la instalación del juicio oral, como consecuencia del debate, el Juez advierte que no es de aplicación el artículo 456° y que es posible aplicar una pena al imputado, el Juez dictará la resolución de transformación del proceso y advertirá al imputado de la modificación de su situación jurídica, dándole la oportunidad de defenderse, sin perjuicio de dar intervención a las partes. En este caso se suspenderá el acto oral y se reiniciará antes del plazo previsto en el numeral 3) del artículo 360°.
 2. Rigen, análogamente, las reglas sobre acusación ampliatoria si el Fiscal considera que se presenta lo establecido en el numeral anterior, así como las reglas sobre correlación entre acusación y sentencia.
 3. Si se ha deliberado en ausencia del imputado en virtud del artículo anterior, se deberán repetir aquellas partes del juicio en las que el inculpado no estaba presente.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN IV: PROCESO POR DELITO DE EJERCICIO PRIVADO DE LA ACCIÓN PENAL**
 #### **Artículo 459. Querella**
 1. En los delitos sujetos a ejercicio privado de la acción penal, el directamente ofendido por el delito formulará querella, por sí o por su representante legal, nombrado con las facultades especiales establecidas por el Código Procesal Civil, ante el Juzgado Penal Unipersonal.
 2. El directamente ofendido por el delito se constituirá en querellante particular. La querella que formule cumplirá con los requisitos establecidos en el artículo 109°, con precisión de los datos identificatorios y del domicilio del querellado.
 3. Al escrito de querella se acompañará copias del mismo para cada querellado y, en su caso, del poder correspondiente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 460. Control de Admisibilidad**
 1. Si el Juez considera que la querella no es clara o está incompleta, dispondrá que el querellante particular, dentro de tercer día, aclare o subsane la omisión respecto a los puntos que señale. Si el querellante no lo hiciere, se expedirá resolución dando por no presentada la querella y ordenando su archivo definitivo.
 2. Consentida o ejecutoriada esta resolución, se prohíbe renovar querella sobre el mismo hecho punible.
 3. El Juez, por auto especialmente motivado, podrá rechazar de plano la querella cuando sea manifiesto que el hecho no constituye delito, o la acción esté evidentemente prescrita, o verse sobre hechos punibles de acción pública.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 461. Investigación preliminar**
 1. Cuando se ignore el nombre o domicilio de la persona contra quien se quiere dirigir la querella, o cuando para describir clara, precisa y circunstanciadamente el delito fuere imprescindible llevar a cabo una investigación preliminar, el querellante solicitará al Juez en su escrito de querella su inmediata realización, indicando las medidas pertinentes que deben adoptarse. El Juez Penal, si correspondiere, ordenará a la Policía Nacional la realización de la investigación en los términos solicitados por el querellante, fijando el plazo correspondiente, con conocimiento del Ministerio Público.
 2. La Policía Nacional elevará al Juez Penal un Informe Policial dando cuenta del resultado de la investigación preliminar ordenada. El querellante, una vez notificado de la recepción del documento policial, deberá completar la querella dentro del quinto día de notificado. Si no lo hiciere oportunamente caducará el derecho de ejercer la acción penal.
@@ -171,22 +171,22 @@ El proceso penal en estos casos se regirá por las reglas del proceso común, co
 3. Instalada la audiencia se instará a las partes, en sesión privada, a que concilien y logren un acuerdo. Si no es posible la conciliación, sin perjuicio de dejar constancia en el acta de las razones de su no aceptación, continuará la audiencia en acto público, siguiendo en lo pertinente las reglas del juicio oral. El querellante particular tendrá las facultades y obligaciones del Ministerio Público, sin perjuicio de poder ser interrogado.
 4. Los medios de defensa que se aleguen en el escrito de contestación o en el curso del juicio oral se resolverán conjuntamente en la sentencia.
 5. Si el querellante, injustificadamente, no asiste a la audiencia o se ausente durante su desarrollo, se sobreseerá la causa.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 463. Medidas de coerción personal**
 1. Únicamente podrá dictarse contra el querellado la medida de comparecencia, simple o restrictiva, según el caso. Las restricciones sólo se impondrán si existen fundamentos razonables de peligro de fuga o de entorpecimiento de la actividad probatoria.
 2. Si el querellado, debidamente notificado, no asiste al juicio oral o se ausente durante su desarrollo, se le declarará reo contumaz y se dispondrá su conducción compulsiva, reservándose el proceso hasta que sea habido.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 464. Abandono y desistimiento**
 1. La inactividad procesal durante tres meses, produce el abandono del proceso, que será declarado de oficio.
 2. En cualquier estado del proceso, el querellante puede desistirse o transigir.
 3. El que se ha desistido de una querella o la ha abandonado, no podrá intentarla de nuevo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 465. Muerte o incapacidad del querellante **
 Muerto o incapacitado el querellante antes de concluir el juicio oral, cualquiera de sus herederos podrá asumir el carácter de querellante particular, si comparecen dentro de los treinta días siguientes de la muerte o incapacidad.
 #### **Artículo 466. Recursos**
 1. Contra la sentencia procede recurso de apelación. Rigen las reglas comunes para la admisión y trámite del citado recurso.
 2. Contra la sentencia de la Sala Penal Superior no procede recurso alguno.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 467. Publicación o lectura de la sentencia**
 En los delitos contra el honor cometidos mediante la palabra oral o escrita o la imagen por cualquier medio de comunicación social, a solicitud del querellante particular y a costa del sentenciado, podrá ordenarse la publicación o lectura, según el caso, de las sentencias condenatorias firmes.
 ## **SECCIÓN V: EL PROCESO DE TERMINACIÓN ANTICIPADA**
@@ -200,13 +200,13 @@ Los procesos podrán terminar anticipadamente, observando las siguientes reglas:
 6. Si el Juez considera que la calificación jurídica del hecho punible y la pena a imponer, de conformidad con lo acordado, son razonables y obran elementos de convicción suficientes, dispondrá en la sentencia la aplicación de la pena indicada, la reparación civil y las consecuencias accesorias que correspondan enunciando en su parte resolutiva que ha habido acuerdo. Rige lo dispuesto en el artículo 398º. Sin perjuicio de ello, el juez de la investigación preparatoria podrá desvincularse sobre la determinación de la pena a imponer si considera que no se ha cumplido con los parámetros expresados en el numeral 2 del artículo 57 del Código Penal, para cuyo efecto podrá probar el acuerdo parcial e imponer la pena que corresponda a su naturaleza, debiendo motivar sus razones.
 7. La sentencia aprobatoria del acuerdo puede ser apelada por los demás sujetos procesales. Los demás sujetos procesales, según su ámbito de intervención procesal, pueden cuestionar la legalidad del acuerdo y, en su caso, el monto de la reparación civil. En este último caso, la Sala Penal Superior puede incrementar la reparación civil dentro de los límites de la pretensión del actor civil.
 ** Artículo modificado por la Ley 32348, publicada el 23 de mayo de 2025 (link: lpd.pe/px8Gv)*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 469. Proceso con pluralidad de hechos punibles e imputados**
 En los procesos por pluralidad de hechos punibles o de imputados, se requerirá del acuerdo de todos los imputados y por todos los cargos que se incrimine a cada uno. Sin embargo, el Juez podrá aprobar acuerdos parciales si la falta de acuerdo se refiere a delitos conexos y en relación con los otros imputados, salvo que ello perjudique la investigación o si la acumulación resulta indispensable.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 470. Declaración inexistente**
 Cuando no se llegue a un acuerdo o éste no sea aprobado, la declaración formulada por el imputado en este proceso se tendrá como inexistente y no podrá ser utilizada en su contra.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 471. Reducción adicional acumulable***
 El imputado que se acoja a este proceso recibirá un beneficio de reducción de la pena de una sexta parte. Este beneficio es adicional y se acumulará al que reciba por confesión, en tanto esta sea útil y anterior a la celebración del proceso especial.
 La acumulación no procede cuando el imputado tenga la calidad de reincidente o habitual, de conformidad con los artículos 46-B y 46-C del Código Penal, en cuyo caso solo recibe el beneficio correspondiente a la terminación anticipada.
@@ -215,7 +215,7 @@ La reducción de la pena por terminación anticipada no procede cuando al imputa
 *1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
 *2. DL 1382, publicado el 28 de agosto de 2018 (link: bit.ly/3OCoLBS).*
 *3. Ley 30963, publicada el 18 de junio de 2019 (link: lpd.pe/pmY7m).*
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN VI: PROCESO POR COLABORACIÓN EFICAZ**
 #### **Artículo 472. Solicitud***
 1. El Fiscal está facultado a promover o recibir solicitudes de colaboración eficaz y, en su caso, cuando se planteen verbalmente, a levantar las actas correspondientes, a fin de iniciar el procedimiento de corroboración y, si corresponde, a suscribir el Acuerdo de Beneficios y Colaboración, con persona natural o jurídica que se encuentre o no sometida a un proceso penal, así como con quien ha sido sentenciado, en virtud de la colaboración que presten a las autoridades para la eficacia de la justicia penal. Cuando la Policía toma conocimiento de una posible colaboración eficaz, bajo responsabilidad funcional, comunica inmediatamente al Fiscal para que proceda conforme a sus atribuciones.
@@ -227,7 +227,7 @@ La reducción de la pena por terminación anticipada no procede cuando al imputa
 2. Ley 30737, publicada el 12 de marzo de 2018 (link: lpd.pe/kvjYe).
 3. DL 1735, publicado el 12 de febrero de 2026. Específicamente, la Tercera Disposición Complementaria Modificatoria modificó el numeral 1 que, antes de la reforma decía lo siguiente:
 *«1. El Fiscal está facultado a promover o recibir solicitudes de colaboración eficaz y, en su caso, cuando se planteen verbalmente, a levantar las actas correspondientes, a fin de iniciar el procedimiento de corroboración y, si corresponde, a suscribir el Acuerdo de Beneficios y Colaboración, con persona natural o jurídica que se encuentre o no sometida a un proceso penal, así como con quien ha sido sentenciado, en virtud de la colaboración que presten a las autoridades para la eficacia de la justicia penal».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 473. Fase de corroboración***
 1. Recibida la solicitud, el Fiscal podrá disponer el inicio del procedimiento por colaboración eficaz, ordenando las diligencias de corroboración que considere pertinentes para determinar la eficacia de la información proporcionada. En estos casos podrá requerir la intervención de la Policía Nacional del Perú para que, bajo su conducción, realice las diligencias de corroboración y eleve un Informe Policial.
 2. Los procesos, incluyendo las investigaciones preparatorias que se siguen contra el aspirante, continuarán con su tramitación correspondiente.
@@ -248,7 +248,7 @@ La reducción de la pena por terminación anticipada no procede cuando al imputa
 4. Ley 30737, publicada el 12 de marzo de 2018 (link: lpd.pe/kvjYe).
 5. Ley 31990, publicada el 21 de marzo de 2024 (link: lpd.pe/pJOmA).
 Clic **aquí**.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 473-A. Participación del agraviado***
 1. El agraviado, deberá ser citado al final de la fase de corroboración. Si asiste se le deberá informar que uno de los aspectos que abarca el procedimiento en curso es el hecho delictivo en su perjuicio y, acto seguido, se le preguntará acerca del monto de la reparación civil que considere adecuada a sus intereses. Asimismo, se le indicará si desea intervenir en el procedimiento y, en su momento, firmar el acta del Acuerdo de Beneficios y Colaboración.
 2. El agraviado como sujeto procesal no participa de las diligencias de corroboración.
@@ -272,7 +272,7 @@ Clic **aquí**.
 3. DL 1735, publicado el 12 de febrero de 2026. Específicamente, la Tercera Disposición Complementaria Modificatoria modificó los literales a y b del numeral 2 que, antes de la reforma, decían lo siguiente:
 *«a) Asociación ilícita, terrorismo, lavado de activos, delitos informáticos, contra la humanidad, trata de personas y sicariato.*
 *b) Para todos los casos de criminalidad organizada previstos en la ley de la materia».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 475. Requisitos de la eficacia de la información y beneficios premiales***
 1. La información que proporcione el colaborador debe permitir, alternativa o acumulativamente:
 **a)** Evitar la continuidad, permanencia o consumación del delito, o disminuir sustancialmente la magnitud o consecuencias de su ejecución. Asimismo, impedir o neutralizar futuras acciones o daños que podrían producirse cuando se está ante una banda u organización criminal.
@@ -296,7 +296,7 @@ Clic **aquí**.
 *b) Conocer las circunstancias en las que se planificó y ejecutó el delito, o las circunstancias en las que se viene planificando o ejecutando.*
 *c) Identificar a los autores y partícipes de un delito cometido o por cometerse o a los integrantes de la organización delictiva y su funcionamiento, de modo que permita desarticularla o menguarla o detener a uno o varios de sus miembros;*
 *d) Entregar los instrumentos, efectos, ganancias y bienes delictivos relacionados con las actividades de la organización delictiva, averiguar el paradero o destino de los mismos, o indicar las fuentes de financiamiento y aprovisionamiento de la organización delictiva».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 476. El Acta de colaboración eficaz &#8211; denegación del Acuerdo***
 1. El Fiscal, culminados los actos de investigación, si considera procedente la concesión de los beneficios que correspondan, elaborará un acta con el colaborador en la que constará:
 **a. **El beneficio acordado;
@@ -305,7 +305,7 @@ Clic **aquí**.
 2. El Fiscal, si estima que la información proporcionada no permite la obtención de beneficio alguno, por no haberse corroborado suficientemente sus aspectos fundamentales, denegará la realización del Acuerdo y dispondrá se proceda respecto del solicitante conforme a lo que resulte de las actuaciones de investigación que ordenó realizar. Esta Disposición no es impugnable.
 3. En los casos en que se demuestre la inocencia de quien fue involucrado por el colaborador, el Fiscal deberá informarle de su identidad, siempre que se advierta indicios de que a sabiendas hizo la imputación falsa para los fines legales correspondientes.
 ** Artículo modificado por el DL 1301, publicado el 30 de diciembre de 2016 (link: bit.ly/3OA4lcQ).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos***
 1. Si la información proporcionada por el colaborador arroja indicios suficientes de participación delictiva de las personas sindicadas por este o de otras personas naturales o jurídicas, será materia —de ser el caso— de la correspondiente investigación y decisión por el Ministerio Público a efectos de determinar la persecución y ulterior sanción de los responsables.
 2. El Fiscal decide si lo actuado en la carpeta fiscal de colaboración eficaz será incorporado en todo o en parte al proceso o procesos correspondientes, debiendo cautelar la identidad del declarante.
@@ -318,7 +318,7 @@ Clic **aquí**.
 1. Ley 30737, publicada el 12 de marzo de 2018 (link: lpd.pe/kvjYe).
 2. Ley 31990, publicada el 21 de marzo de 2024 (link: lpd.pe/pJOmA).
 Clic **aquí**.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio***
 1. Cuando el proceso por colaboración eficaz está referido a hechos que son materia de un proceso penal que se encuentra en la etapa de investigación o incluso si no existe investigación, el Acuerdo de Beneficios y Colaboración se remitirá al Juez de la Investigación Preparatoria conjuntamente con los actuados formados al efecto para el control de legalidad respectivo.
 2. El Juez Penal, en el plazo de cinco (05) días, mediante resolución inimpugnable, podrá formular observaciones al contenido del acta y a la concesión de los beneficios. En la misma resolución ordenará devolver lo actuado al Fiscal.
@@ -330,7 +330,7 @@ Clic **aquí**.
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1301, publicado el 30 de diciembre de 2016 (link: bit.ly/3OA4lcQ).
 2. Ley 30737, publicada el 12 de marzo de 2018 (link: lpd.pe/kvjYe).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 478. Colaboración durante las otras etapas del proceso contradictorio***
 1. Cuando el proceso por colaboración eficaz se inicia estando el proceso contradictorio en el Juzgado Penal y antes del inicio del juicio oral, el Fiscal —previo los trámites de verificación correspondientes— remitirá el acta con sus recaudos al Juez Penal, quien celebrará para dicho efecto una audiencia privada especial.
 2. El Juzgado Penal procederá, en lo pertinente, conforme a lo dispuesto en el artículo anterior. La resolución que se pronuncie sobre la procedencia o improcedencia de los beneficios es susceptible de recurso de apelación, de conocimiento de la Sala Penal Superior.
@@ -386,7 +386,7 @@ Clic **aquí**.
 3. Cuando el requerimiento se sustente en varias declaraciones de aspirantes a colaborador eficaz, estas serán valoradas solo si están corroboradas de manera independiente en su propia carpeta Fiscal de colaboración.
 4. Cuando el requerimiento se sustente en una o más declaraciones de aspirantes a colaborador eficaz o de testigos protegidos, el Fiscal informará de manera reservada al Juez sobre la identidad de dichas personas, a fin de evitar la doble valoración de una misma declaración.
 ** Artículo incorporado el** DL 1301, publicado el 30 de diciembre de 2016 (link: bit.ly/3OA4lcQ), y luego modificado por la Ley 31990, publicada el 21 de marzo de 2024 (link: lpd.pe/pJOmA). Clic **aquí**.*
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN VII: EL PROCESO POR FALTAS**
 #### **Artículo 482. Competencia***
 1. [*Derogado*]
@@ -406,36 +406,36 @@ Clic **aquí**.
 4. Si el imputado no admite los cargos, de inmediato se le interrogará, luego se hará lo propio con la persona ofendida si está presente y, seguidamente, se recibirán las pruebas admitidas y las que han presentado las partes, siguiendo las reglas ordinarias, adecuadas a la brevedad y simpleza del proceso por faltas.
 5. La audiencia constará de una sola sesión. Sólo podrá suspenderse por un plazo no mayor de tres días, de oficio o a pedido de parte, cuando resulte imprescindible la actuación de algún medio probatorio. Transcurrido el plazo, el juicio deberá proseguir conforme a las reglas generales, aun a falta del testigo o perito requerido.
 6. Escuchados los alegatos orales, el Juez dictará sentencia en ese acto o dentro del tercero día de su culminación sin más dilación. Rige lo dispuesto en el numeral 3 del presente artículo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 485. Medidas de coerción**
 1. El Juez sólo podrá dictar mandato de comparecencia sin restricciones contra el imputado.
 2. Cuando el imputado no se presente voluntariamente a la audiencia, podrá hacérsele comparecer por medio de la fuerza pública, y si fuera necesario se ordenará la prisión preventiva hasta que se realice y culmine la audiencia, la cual se celebrará inmediatamente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 486. Recurso de apelación**
 1. Contra la sentencia procede recurso de apelación. Los autos serán elevados en el día al Juez Penal.
 2. Recibida la apelación, el Juez Penal resolverá en el plazo improrrogable de diez días, por el solo mérito de lo actuado, si es que el recurrente no exprese la necesidad de una concreta actuación probatoria, en cuyo caso se procederá conforme a las reglas comunes, en cuanto se adecuen a su brevedad y simpleza. Los Abogados Defensores presentarán por escrito los alegatos que estimen, sin perjuicio del informe oral que puedan realizar en la vista de la causa, la que se designará dentro de los veinte días de recibos los autos.
 3. Contra la sentencia del Juez Penal no procede recurso alguno. Su ejecución corresponderá al Juez que dictó la sentencia de primera instancia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 487. Desistimiento o transacción**
 En cualquier estado de la causa, el agraviado o querellante puede desistirse o transigir, con lo que se dará por fenecido el proceso.
-*Ver jurisprudencia aquí.*
+**
 # **LIBRO SEXTO: LA EJECUCIÓN Y LAS COSTAS**
 ## **SECCIÓN I: LA EJECUCIÓN DE LA SENTENCIA**
 #### **Artículo 488. Derechos**
 1. El condenado, el tercero civil y las personas jurídicas afectadas podrán ejercer, durante la ejecución de la sentencia condenatoria, los derechos y las facultades que este Código y las Leyes le otorgan.
 2. El condenado y las demás partes legitimadas están facultadas a plantear ante el Juez de la Investigación Preparatoria los requerimientos y observaciones que legalmente correspondan respecto de la ejecución de la sanción penal, de la reparación civil y de las demás consecuencias accesorias impuestas en la sentencia.
 3. Sin perjuicio de lo establecido en los numerales anteriores, corresponde al Ministerio Público el control de la ejecución de las sanciones penales en general, instando las medidas de supervisión y control que correspondan, y formulando al Juez de la Investigación Preparatoria los requerimientos que fueren necesarios para la correcta aplicación de la Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 489. Ejecución Penal**
 1. La ejecución de las sentencias condenatorias firmes, salvo lo dispuesto por el Código de Ejecución Penal respecto de los beneficios penitenciarios, serán de competencia del Juez de la Investigación Preparatoria.
 2. El Juez de la Investigación Preparatoria está facultado para resolver todos los incidentes que se susciten durante la ejecución de las sanciones establecidas en el numeral anterior. Hará las comunicaciones dispuestas por la Ley y practicará las diligencias necesarias para su debido cumplimiento.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 490. Cómputo de la pena privativa de libertad**
 1. Si el condenado se halla en libertad y la sentencia impone pena privativa de libertad efectiva, el Juez de la Investigación Preparatoria dispondrá lo necesario para su captura.
 2. Producida la captura, el Juez de la Investigación Preparatoria, una vez que esté plenamente acreditada la identidad del condenado, realizará el cómputo de la pena, descontando de ser el caso el tiempo de detención, de prisión preventiva y de detención domiciliaria que hubiera cumplido, así como de la privación de libertad sufrida en el extranjero como consecuencia del procedimiento de extradición instaurado para someterlo a proceso en el país.
 3. El cómputo será siempre reformable, aun de oficio, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.
 4. La fijación del cómputo de la pena se comunicará inmediatamente al Juzgado que impuso la sanción y al Instituto Nacional Penitenciario.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 491. Incidentes de modificación de la sentencia***
 1. El Ministerio Público, el condenado y su defensor, según corresponda, podrán plantear, ante el Juez de la Investigación Preparatoria incidentes relativos a la conversión y revocación de la conversión de penas, a la revocación de la suspensión de la ejecución de la pena y de la reserva del fallo condenatorio, y a la extinción o vencimiento de la pena.
 2. Los incidentes relativos a la revocación de la suspensión de la ejecución de la pena y de la reserva del fallo condenatorio, y a la extinción o vencimiento de la pena deberán ser resueltos dentro del término de cinco días de recibida la solicitud o requerimiento, previa audiencia a las demás partes. Si fuera necesario incorporar elementos de prueba, el Juez de la Investigación Preparatoria, aun de oficio, y con carácter previo a la realización de la audiencia o suspendiendo ésta, ordenará una investigación sumaria por breve tiempo que determinará razonablemente, después de la cual decidirá. La Policía realizará dichas diligencias, bajo la conducción del Fiscal.
@@ -444,22 +444,22 @@ En cualquier estado de la causa, el agraviado o querellante puede desistirse o t
 5. Asimismo, las solicitudes sobre refundición o acumulación de penas son de competencia del Juzgado Penal Colegiado. Serán resueltas previa realización de una audiencia con la concurrencia del Fiscal, del condenado y su defensor.
 6. En todos los casos, el conocimiento del recurso de apelación corresponde a la Sala Penal Superior.
 ** Artículo modificado por el DL 1300, publicado el 30 de diciembre de 2016 (link: bit.ly/44MOj57).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 492. Medidas de seguridad privativas de la libertad**
 1. Las reglas establecidas en esta sección regirán para las medidas de seguridad privativas de la libertad en lo que sean aplicables.
 2. El Juez Penal examinará, periódicamente, la situación de quien sufre una medida de internación. Fijará un plazo no mayor de seis meses entre cada examen, y decidirá previa audiencia teniendo a la vista el informe médico del establecimiento y del perito. La decisión versará sobre la cesación o continuación de la medida y en este último caso, podrá ordenar la modificación del tratamiento.
 3. Cuando el Juez tenga conocimiento, por informe fundado, de que desaparecieron las causas que motivaron la internación, procederá a su sustitución o cancelación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 493. Ejecución Civil y de las demás consecuencias accesorias**
 1. La reparación civil se hará efectiva conforme a las previsiones del Código Procesal Civil, con intervención del Fiscal Provincial y del actor civil.
 2. Para la ejecución forzosa del pago de la multa y de la venta o adjudicación del bien objeto de comiso se aplicará, en lo pertinente, las normas del Código Procesal Civil.
 3. Los incidentes que se plantean durante la ejecución de la reparación civil y de las demás consecuencias accesorias serán resueltos en el plazo de tres días, previa audiencia que se realizará con las partes que asistan al acto. Contra la resolución que resuelve el incidente procede recurso de apelación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 494. Incautación y Comiso**
 1. Cuando en la sentencia se ordene el comiso de algún bien, el Juez de la Investigación Preparatoria, de no estar asegurado judicialmente, dispondrá su aprehensión. A los bienes materia de comiso se le dará el destino que corresponda según su naturaleza, conforme a las normas de la materia.
 2. Los bienes incautados no sujetos a comiso, serán devueltos a quien se le incautaron, inmediatamente después de la firmeza de la sentencia. Si hubieran sido entregados en depósito provisional, se notificará al depositario la entrega definitiva.
 3. Los bienes incautados de propiedad del condenado que no fueron objeto de comiso, podrán ser inmediatamente embargados para hacer efectivo el cobro de las costas del proceso y de la responsabilidad pecuniaria y civil declarada en la sentencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 495. Sentencia declarativa de falsedad instrumental**
 1. Cuando una sentencia declare falso un instrumento público, corresponderá al Juez de la Investigación Preparatoria ordenar que el acto sea reconstruido, suprimido o reformado. Si es del caso, ordenará las rectificaciones registrales que correspondan.
 2. Si el documento ha sido extraído de un archivo, será restituido a él, con nota marginal en cada página, y se agregará copia de la sentencia que hubiera establecido la falsedad total o parcial.
@@ -474,7 +474,7 @@ En cualquier estado de la causa, el agraviado o querellante puede desistirse o t
 3. Las costas están a cargo del vencido, pero el órgano jurisdiccional puede eximirlo, total o parcialmente, cuando hayan existido razones serias y fundadas para promover o intervenir en el proceso.
 4. La decisión sobre las costas sólo será recurrible autónomamente, siempre que fuere posible recurrir la resolución principal que la contiene y por la vía prevista para ella.
 5. No procede la imposición de costas en los procesos por faltas, inmediatos, terminación anticipada y colaboración eficaz. Tampoco procede en los procesos por ejercicio privado de la acción penal si culmina por transacción o desistimiento.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 498. Contenido**
 1. Las costas están constituidas por:
 **a)** Las tasas judiciales, en los procesos por delitos de acción privada, o cualquier otro tributo que corresponda por actuación judicial;
@@ -486,7 +486,7 @@ En cualquier estado de la causa, el agraviado o querellante puede desistirse o t
 1. Están exentos del pago de costas los representantes del Ministerio Público, los miembros de las Procuradurías Públicas del Estado, y los abogados y apoderados o mandatarios de las partes, así como los Poderes Ejecutivo, Legislativo y Judicial, el Ministerio Público, los Órganos Constitucionalmente Autónomos, los Gobiernos Regionales y Locales, y las Universidades Públicas.
 2. Se exonerará de la imposición de costas en el proceso penal a quien obtiene auxilio judicial, de conformidad con lo dispuesto en el Código Procesal Civil. El auxilio judicial penal se entiende para estos solos efectos y, en lo pertinente, rigen las disposiciones del Título VIl de la Sección Tercera del citado Código.
 3. Cuando el denunciante hubiere provocado el procedimiento por medio de una denuncia falsa o temeraria, se le impondrá total o parcialmente el pago de costas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 500. Fijación de las costas al imputado**
 1. Las costas serán impuestas al imputado cuando sea declarado culpable, incluso cuando se apliquen los artículos 62° y 68° del Código Penal. También se impondrán cuando se imponga una medida de seguridad.
 2. Cuando en una sentencia se pronuncian absoluciones y condenas, se establecerá el porcentaje que asumen el respectivo imputado y el que corresponde a los demás condenados conforme al numeral anterior.
@@ -507,7 +507,7 @@ En cualquier estado de la causa, el agraviado o querellante puede desistirse o t
 #### **Artículo 504. Incidentes de ejecución y recursos**
 1. Las costas serán pagadas por quien promovió un incidente de ejecución que le resultó desfavorable. Si la decisión en el incidente le es favorable, las costas se impondrán a quien se opuso a su pretensión, en la proporción que fije el órgano jurisdiccional. Si nadie se opuso al requerimiento del que promovió el incidente y obtuvo decisión favorable, no se impondrán costas.
 2. Las costas serán pagadas por quien interpuso un recurso sin éxito o se desistió de su prosecución. Si gana el recurso, las costas se impondrán a quien se opuso a su pretensión impugnatoria, en la proporción que fije el órgano jurisdiccional. Si no medió oposición al recurso que ganó el recurrente, no se impondrán costas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 505. Resolución sobre las costas**
 1. La condena en costas se establece por cada instancia, pero si la resolución de segunda instancia revoca la de primera instancia, la parte vencida pagará las costas de ambas. Este criterio se aplica también para lo que resuelva la Corte Suprema en el recurso de casación.
 2. Cuando corresponde distribuir el pago de costas entre varios, el órgano judicial fijará con precisión el porcentaje que debe sufragar cada uno de los responsables, sin perjuicio de la solidaridad.
@@ -519,7 +519,7 @@ En cualquier estado de la causa, el agraviado o querellante puede desistirse o t
 4. Interpuesta la observación, se conferirá traslado a la otra parte por tres días. Con su absolución, se conferirá traslado a la otra parte por tres días. Con su absolución o sin ella, el Juez de la Investigación Preparatoria resolverá. La resolución es apelable sin efecto suspensivo. La Sala Penal Superior absolverá el grado, sin otro trámite que la vista de la causa, en la que los abogados de las partes podrán asistir para hacer uso de la palabra.
 5. Las costas deben pagarse inmediatamente después de ejecutoriada la resolución que las aprueba. En caso de mora devengan intereses legales. El Juez de la Investigación Preparatoria exigirá el pago de las costas. Las resoluciones que expida son inimpugnables.
 6. Las costas se hacen efectivas por el Juez de la Investigación Preparatoria a través del procedimiento establecido en el artículo 716° del Código Procesal Civil.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 507. Anticipo de gastos**
 1. Cuando sea necesario efectuar un gasto, el órgano jurisdiccional respectivo lo estimará, y quien ofreció la medida lo anticipará, consignando la suma necesaria para llevar a cabo la diligencia.
 2. Si está en imposibilidad de sufragar el anticipo del gasto, siempre que sea posible y la medida imprescindible, lo hará el Estado con cargo a su devolución cuando corresponda.
@@ -529,7 +529,7 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 #### **Artículo 508. Normatividad aplicable**
 1. Las relaciones de las autoridades peruanas con las extranjeras y con la Corte Penal Internacional en materia de cooperación judicial internacional se rigen por los Tratados Internacionales celebrados por el Perú y, en su defecto, por el principio de reciprocidad en un marco de respeto de los derechos humanos.
 2. Si existiere tratado, sus normas regirán el trámite de cooperación judicial internacional. Sin perjuicio de ello, las normas de derecho interno, y en especial este Código, servirán para interpretarlas y se aplicarán en todo lo que no disponga en especial el Tratado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 509. Documentación**
 1. Los requerimientos que presenta la autoridad extranjera y demás documentos que envíen, deben ser acompañados de una traducción al castellano.
 2. Si la documentación es remitida por intermedio de la autoridad central del país requirente o por vía diplomática, no necesita legalización.
@@ -556,7 +556,7 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 **m)** Entrega vigilada de bienes delictivos.
 2. La Cooperación Judicial Internacional también comprenderá los actos de asistencia establecidos en el Estatuto de la Corte Penal Internacional y desarrollados en este Código.
 ** Artículo modificado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 512. Autoridad Central***
 1. La Fiscalía de la Nación es la Autoridad Central en materia de cooperación jurídica internacional, quien, cuando así lo permitan los tratados, se comunica de manera directa con las Autoridades Centrales extranjeras.
 2. Corresponde a la Autoridad Central, con el apoyo del Ministerio de Relaciones Exteriores cuando así corresponda, gestionar y realizar el seguimiento de las solicitudes de cooperación jurídica internacional, cautelar los plazos y absolver consultas formuladas por las autoridades extranjeras y nacionales.
@@ -569,11 +569,11 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 #### **Artículo 513. Procedencia**
 1. La persona procesada, acusada o condenada como autor o partícipe que se encuentra en otro Estado, puede ser extraditada a fin de ser juzgada o de cumplir la sanción penal que le haya sido impuesta como acusada presente.
 2. Cuando la extradición, en ausencia de Tratado, se sustente en el principio de reciprocidad, la Fiscalía de la Nación y el Ministerio de Relaciones Exteriores informarán al Poder Judicial los casos en que tal principio ha sido invocado por el Perú y en los que ha sido aceptado por el país extranjero involucrado en el procedimiento de extradición, así como los casos en que el país extranjero ha hecho lo propio en Perú lo hubiere dado curso y aceptado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 514. Autoridades que intervienen**
 1. Corresponde decidir la extradición, pasiva o activa, al Gobierno mediante Resolución Suprema expedida con acuerdo del Consejo de Ministros, previo informe de una Comisión Oficial presidida por el Ministerio de Justicia e integrada por el Ministerio de Relaciones Exteriores.
 2. La decisión del Gobierno requiere la necesaria intervención de la Sala Penal de la Corte Suprema, que emitirá una resolución consultiva, que la remitirá juntamente con las actuaciones formadas al efecto al Ministerio de Justicia, con conocimiento de la Fiscalía de la Nación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 515. Carácter de la resolución consultiva de la Corte Suprema**
 1. Cuando la Sala Penal de la Corte Suprema emita resolución consultiva negativa a la extradición, el Gobierno queda vinculado a esa decisión.
 2. Si la resolución consultiva es favorable a la entrega o considera procedente solicitar la extradición a un país extranjero, el Gobierno puede decidir lo que considere conveniente.
@@ -581,7 +581,7 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 #### **Artículo 516. Ámbito**
 1. La persona procesada, acusada o condenada como autor o partícipe de un delito cometido en un país extranjero y que se encuentre en territorio nacional, sea como residente, como turista o de paso, puede ser extraditada a fin de ser investigada o juzgada o para que cumpla la sanción impuesta como reo presente.
 2. La concesión de la extradición está condicionada a la existencia de garantías de una recta impartición de justicia en el Estado requirente; y, si una extradición anteriormente intentada por el Estado requirente, ante un tercer Estado, hubiese sido rechazada por haberla considerado con implicancia política. La Fiscalía de la Nación y el Ministerio de Relaciones Exteriores podrán informar si el Estado requirente presenta algún cuestionamiento o existen antecedentes al respecto.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 517. Rechazo de la extradición***
 1. No procede la extradición si el hecho materia del proceso no constituya delito tanto en el Estado requirente como en el Perú, y si en ambas legislaciones no tenga prevista una pena privativa de libertad igual o mayor a los dos años. Si se requiere una extradición por varios delitos, bastará que uno de ellos cumpla con esa condición para que proceda respecto de los restantes delitos.
 2. La extradición no tendrá lugar, igualmente:
@@ -598,7 +598,7 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 **c) **El Estado requirente no diere seguridades de que se computará el tiempo de privación de libertad que demande el trámite de extradición, así como el tiempo que el extraditado hubiese sufrido en el curso del proceso que motivó el requerimiento;
 **d)** El delito por el que se solicita la extradición tuviere pena de muerte en el Estado requirente y éste no diere seguridades de que no será aplicable.
 ** Artículo modificado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 518. Requisitos de la demanda de extradición***
 - La demanda de extradición debe contener:
 **a)** Una descripción del hecho punible, con mención expresa de la fecha, lugar y circunstancias de su comisión y sobre la identificación de la víctima, así como la tipificación legal que corresponda al hecho punible;
@@ -609,7 +609,7 @@ LA COOPERACIÓN JUDICIAL INTERNACIONAL
 2. En todos los casos, con o sin tratado, la demanda de extradición debe contener la prueba necesaria que establezca indicios suficientes de la comisión del hecho delictuoso y de la participación del reclamado en dichos hechos.
 3. Si la demanda de extradición no estuviera debidamente instruida o completa, la Autoridad Central a instancia del órgano jurisdiccional y en coordinación con el Ministerio de Relaciones Exteriores pedirá al Estado requirente corrija o complete la solicitud y la documentación.
 ** Artículo modificado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 519****.**** Concurso de extradiciones**
 1. Si varios Estados solicitan la extradición de la misma persona por el mismo delito, se decidirá la preferencia, según las siguientes circunstancias:
 **a) **La existencia de Tratados que vinculen al Perú con el Estado requirente;
@@ -643,7 +643,7 @@ El procedimiento de extradición pasiva se inicia:
 3. El juez resuelve en audiencia la medida de coerción personal que corresponda al caso. De dictarse detención preventiva con fines de extradición, ésta no puede extenderse más allá del plazo razonable.
 4. Contra el auto de detención preventiva con fines de extradición procede el recurso de apelación, que puede ser interpuesto en el plazo de tres (3) días de notificada la decisión.
 ** Artículo incorporado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 521-B. Recepción y calificación de la demanda***
 1. En el supuesto de los numerales 2) y 3) del artículo 521, el Estado requirente debe presentar la demanda de extradición en un plazo no mayor a sesenta (60) días. Con la presentación de la demanda al Ministerio de Relaciones Exteriores se suspende el plazo antes señalado. De no presentarse la demanda de extradición dentro del plazo establecido, se dispone la inmediata libertad del reclamado.
 2. La Fiscalía de la Nación remite la demanda de extradición al juez que conoce del procedimiento para que califique la demanda. Si advierte que ésta adolece de algún requisito coordina con la Fiscalía de la Nación para que en un plazo no mayor de treinta (30) días de notificado el Estado requirente corrija o complete la demanda y preste las garantías necesarias de ser el caso.
@@ -679,16 +679,16 @@ El procedimiento de extradición pasiva se inicia:
 *1. DL 983, publicado el 22 de julio de 2007 (link: bit.ly/3OnRERc).*
 *2. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
 *3. DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 523-A. Extradición simplificada o voluntaria***
 El reclamado en cualquier estado del procedimiento de extradición puede dar su consentimiento libre y expreso a ser extraditado por el delito materia del pedido, no siendo necesario recibir la demanda de extradición. En ese caso, la autoridad que conozca de la detención preventiva o del pedido de extradición da por concluido el procedimiento. La Sala Penal de la Corte Suprema, sin trámite alguno, dicta la resolución consultiva que corresponda a la extradición; en caso de ser favorable, remite los actuados al Ministerio de Justicia y Derechos Humanos para los fines de Ley.
 ** Artículo incorporado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 523-B. Entrega diferida y temporal***
 Cuando la persona reclamada es procesada o está cumpliendo condena en el Perú, por hechos distintos a los que motivan la solicitud de extradición, el Estado peruano puede aplazar la entrega de la persona reclamada hasta que concluyan las actuaciones procesales o termine de cumplir su condena. Si el delito hubiera sido cometido con posterioridad al delito que motiva la extradición, el reclamado puede ser entregado siempre que el delito cometido en territorio nacional, sea sancionable con una pena menor.
 Si fuera concedida la extradición de una persona que esté cumpliendo condena en el Perú, ésta podrá ser entregada temporalmente al Estado requirente para que sea sometida a proceso. La persona entregada es mantenida bajo custodia en el estado requirente y será devuelta al Perú después de la terminación de su proceso, o cuando ya no sea necesaria su presencia.
 ** Artículo incorporado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 524. Extradición de tránsito**
 1. El tránsito de un extraditado de un tercer Estado y el de sus guardas, por el territorio nacional, será permitido, mediante la presentación de copia auténtica del documento que conceda la extradición y de la solicitud correspondiente, salvo si a ello no se opusieren graves motivos de orden público o de derechos humanos. La autorización y, en su caso, la denegación será dispuesta por la Fiscalía de la Nación, en coordinación con los Ministerios de Justicia y de Relaciones Exteriores.
 2. Si el medio de transporte empleado es el aéreo, la autorización será necesaria solamente cuando tuviere alguna escala prevista en territorio nacional.
@@ -699,7 +699,7 @@ Si fuera concedida la extradición de una persona que esté cumpliendo condena e
 2. El pedido de extradición procede cuando el delito que se persigue tiene una sanción igual o mayor a dos años de pena privativa de la libertad o si el reclamado tiene por cumplir una pena no menor a un año al momento de presentarse la solicitud; siempre que no sea posible utilizar otros mecanismos tecnológicos y de comunicación para la comparecencia a juicio del reclamado, atendiendo a la gravedad del hecho delictivo o a las condiciones especiales del reclamado.
 3. Para dar curso al procedimiento de extradición activa, el juez que conoce del proceso penal debe pronunciarse sobre el pedido de extradición. La resolución de requerimiento de extradición activa debe precisar los hechos objeto de imputación, su calificación legal, la conminación penal, los indicios suficientes que vinculen al reclamado como autor o partícipe en los hechos delictivos imputados, y, en su caso, la declaración de ausencia o contumacia, así como la orden de detención con fines de extradición. La resolución desestimatoria es apelable ante la Sala Penal Superior, que resuelve previa audiencia con citación e intervención de las partes que concurran al acto en el plazo de cinco días.
 ** Artículo modificado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 526. Procedimiento***
 1. El juez, luego de emitir la resolución respectiva, forma el cuaderno de extradición conteniendo, en lo pertinente, la documentación señalada en los numerales 1) y 2) del artículo 518, así como la que acredita que el reclamado ha sido ubicado en el país requerido, además de la justificación y los elementos de prueba conforme a los tratados y la legislación interna del Estado requerido.
 2. El cuaderno es remitido a la Sala Penal de la Corte Suprema, la que decide atendiendo al cumplimiento de los plazos establecidos en los tratados de extradición o los que hubiera establecido el Estado requerido. Si la Sala declara procedente el pedido de extradición, el cuaderno se remite dentro de las 24 horas al Ministerio de Justicia y Derechos Humanos. Si se declara improcedente, se devuelve lo actuado al órgano jurisdiccional requirente.
@@ -707,7 +707,7 @@ Si fuera concedida la extradición de una persona que esté cumpliendo condena e
 4. Emitida la Resolución Suprema se dispone la traducción del cuaderno de extradición, de ser el caso. La presentación formal de la extradición corresponde a la Fiscalía de la Nación con el concurso del Ministerio de Relaciones Exteriores.
 5. Una vez presentada la solicitud de extradición ante el Estado requerido, corresponde a la Autoridad Central hacer el seguimiento de la solicitud hasta que se obtenga respuesta y supervisar su ejecución según las condiciones que hubiese establecido el Estado requerido.
 ** Artículo modificado por el DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 527. Detención Preventiva con fines de extradición***
 1. En casos de urgencia, y especialmente cuando haya peligro de fuga, el juez Penal puede solicitar al Estado requerido, por intermedio de la Autoridad Central, dictar mandato de detención preventiva con fines de extradición.
 2. El mandato de detención preventiva también puede solicitarse conjuntamente con la demanda formal de extradición.
@@ -744,7 +744,7 @@ Si fuera concedida la extradición de una persona que esté cumpliendo condena e
 #### **Artículo 533. Traslado al extranjero de persona privada de libertad**
 1. La comparecencia y el traslado temporal al extranjero de una persona privada de libertad por la justicia peruana, sólo podrá autorizarse si el requerido presta su consentimiento, con asistencia de un abogado defensor, y siempre que su presencia en el país no fuera necesaria para una investigación y juzgamiento.
 2. La autoridad extranjera deberá comprometerse a mantener en custodia física a la persona traslada y la devolverá luego de acabadas la diligencias que originaron su traslado, sin necesidad de extradición o en un tiempo que no exceda de sesenta días o el que le resta para el cumplimiento de la condena, según el plazo que se cumpla primero, a menos que el requerido, la Fiscalía de la Nación y la autoridad extranjera consientan prorrogarlo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 534. Salvoconducto**
 1. La comparecencia de toda persona ante la autoridad extranjera, autorizada por la justicia peruana, está condicionada a que se le conceda un salvoconducto, bajo el cual, mientras se encuentre en el Estado requirente, no podrá:
 **a)** Ser detenida o enjuiciada por delitos anteriores a su salida del territorio nacional;
@@ -802,7 +802,7 @@ Si fuera concedida la extradición de una persona que esté cumpliendo condena e
 *1. Ley 29305, publicada el 22 de diciembre de 2008 (link: lpd.pe/k6e3O).*
 *2. DL 1281, publicado el 29 de diciembre de 2016 (link: bit.ly/3Yfxw86).*
 *3. DU 018-2020, publicado el 24 de enero de 2020 (link: bit.ly/43KsSjz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 543. Trámite para disponer el traslado de extranjero condenado en el Perú***
 1. La Autoridad Central forma el cuaderno de traslado con los siguientes documentos:
 **a)** La solicitud expresa de la persona condenada o su representante;
@@ -1020,22 +1020,22 @@ Quedan derogados:
 2. El Código Procesal Penal, aprobado por Decreto Legislativo Nº 638, y las demás normas ampliatorias y modificatorias.
 3. Todas las leyes y disposiciones que se opongan a la presente ley.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Procesal Penal            ### La patología del «doble conforme» como barrera de admisibilidad en la casación penal
-**                Noticias            ### [VIVO] Tomás Gálvez sustenta proyecto de nueva Ley Orgánica del Ministerio Público
-Penal            ### El orden procesal como garantía de defensa: nulidad por inversión de acumulación y prórroga   
-Jurisprudencia            ### ÚLTIMO: Sala confirma prisión preventiva dictada en contra de Adrián Villar (lea la resolución)
-Penal            ### [VIVO] Clase modelo sobre cuestión previa y cuestión prejudicial. Llena el formulario para recibir las diapositivas
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Procesal Penal### La patología del «doble conforme» como barrera de admisibilidad en la casación penal
+** Noticias### [VIVO] Tomás Gálvez sustenta proyecto de nueva Ley Orgánica del Ministerio Público
+Penal### El orden procesal como garantía de defensa: nulidad por inversión de acumulación y prórroga  
+Jurisprudencia### ÚLTIMO: Sala confirma prisión preventiva dictada en contra de Adrián Villar (lea la resolución)
+Penal### [VIVO] Clase modelo sobre cuestión previa y cuestión prejudicial. Llena el formulario para recibir las diapositivas
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

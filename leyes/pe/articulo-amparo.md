@@ -23,15 +23,15 @@ Inicio ** Artículos ** Abogados ** Amparo: características, derechos protegido
 - Estudiantes
 - Procesal Constitucional
 # Amparo: características, derechos protegidos, tipos y procedimiento
-Por LP • Pasión por el Derecho -                  9 febrero, 2026                                            Lee también: **Curso de especialización en procesos constitucionales**
+Por LP • Pasión por el Derecho - 9 febrero, 2026Lee también: **Curso de especialización en procesos constitucionales**
 Lee también: **Constitución Política del Perú [actualizada 2026]**
 **Sumario:** 1. Antecedentes y regulación constitucional, 2. Concepto y características, 3. Objeto de protección: derechos protegidos por el proceso de amparo, 4. Objeto de control: los actos lesivos en el amparo, 5. Procedimiento del proceso de amparo.
 Inscríbete aquí Más información
 El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Derecho procesal constitucional* (2018, PUCP), escrito por el exmagistrado del Tribunal Constitucional, **César Landa Arroyo**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, lo esencial que uno debe conocer sobre el proceso de amparo.
 ## **1. Antecedentes y regulación constitucional**
 La Constitución de 1979 incorporó el proceso de amparo como un mecanismo de defensa de los derechos fundamentales de la persona distintos de la libertad personal. La vigente Constitución de 1993 recoge el amparo en su artículo 200 inciso 2 con el siguiente tenor:
-Son garantías constitucionales: 
-[&#8230;] 
+Son garantías constitucionales:
+[&#8230;]
 La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución, con excepción de los señalados en el inciso siguiente.
 No procede contra normas legales ni contra resoluciones judiciales nadas de procedimiento regular.
 Lea también: **Descargue en PDF «El amparo virtual», la obra más reciente del TC**
@@ -102,22 +102,22 @@ Si la sentencia de segunda instancia declara infundada o improcedente la demanda
 Resuelta la demanda en última instancia, si es declarada fundada retorna al juzgado de primera instancia que admitió la demanda, a fin de que se decrete la ejecución de lo ordenado en la sentencia (artículo 59). Si luego de ejecutada la sentencia sobreviniera un acto sustancialmente homogéneo al declarado lesivo, podrá ser denunciado ante el juez de ejecución a fin de que se declare la homogeneidad y se amplíe la protección del amparo, incorporando y ordenando la represión del acto lesivo sobreviniente (artículo 60 del mismo CPConst.).
 Inscríbete aquí Más información
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-Constitucional            ### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
-Abogados            ### Conteo de la prescripción civil en el proceso penal
-Animales            ### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+Constitucional### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
+Abogados### Conteo de la prescripción civil en el proceso penal
+Animales### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

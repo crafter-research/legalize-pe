@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** ¿Cuáles son los regímenes laborales en el Perú? Bien explicado- Laboral
 # ¿Cuáles son los regímenes laborales en el Perú? Bien explicado
-Por Jesús Miguel Chanamé Arriola -                  7 diciembre, 2021                                            **Sumario:** 1. Introducción; 2. ¿Qué es un régimen laboral especial?; 3. Listado: tipos y clasificación 3.1 Régimen laboral general; 3.2 Régimen laboral del sector público; 3.3 Régimen laboral del sector privado; 3.3.1 Según la actividad o tamaño de la empresa; 3.3.2 Según la naturaleza del trabajo o por la forma de prestación del  servicio; 3.3.3 Según las condiciones especiales del trabajador; 4. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 7 diciembre, 2021**Sumario:** 1. Introducción; 2. ¿Qué es un régimen laboral especial?; 3. Listado: tipos y clasificación 3.1 Régimen laboral general; 3.2 Régimen laboral del sector público; 3.3 Régimen laboral del sector privado; 3.3.1 Según la actividad o tamaño de la empresa; 3.3.2 Según la naturaleza del trabajo o por la forma de prestación del  servicio; 3.3.3 Según las condiciones especiales del trabajador; 4. Conclusiones.
 ## **1. Introducción**
 La legislación laboral es dispersa, aun cuando tengamos la norma general de regulación del TUO de la Ley de Competitividad y Productividad Laboral del Decreto Legislativo 728. Sin embargo, no abarca la heterogeneidad de tipos de actividad que existen en nuestro ordenamiento.
 En ese sentido, se reconoce la existencia de regímenes laborales en la actividad privada, pero con características especiales, así como otros que no lo son y que se rigen por normas propias. El artículo 45 de la LPCL señala que los trabajadores de regímenes especiales se seguirán rigiendo por sus propias normas.
@@ -89,22 +89,22 @@ En el sector privado se pueden clasificar 3 tipos de regímenes laborales: segú
 [2] CAMPOS, Sara (2019) Regímenes laborales especiales. Lima: Gaceta Jurídica.
 [3] CAMPOS, Sara. Ibídem.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

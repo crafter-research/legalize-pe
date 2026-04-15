@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** Services: ¿Qué es la intermediación laboral? Bien explicado- Laboral
 # Services: ¿Qué es la intermediación laboral? Bien explicado
-Por Jesús Miguel Chanamé Arriola -                  13 diciembre, 2021                                            **Sumario:** 1. Introducción; 1.1 Base legal o normativa; 2. Definición y conceptualización; 2.1 Campo de aplicación; 2.2 Registro; 2.2.1 Registro de contratos de trabajadores; 3. Derechos de los trabajadores; 3.1. Límites de contratación; 3.1.1 Porcentaje limitativo por ley; 4. Tipos; 4.1 Cooperativas de Trabajadores; 5. Desnaturalización; 6. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 13 diciembre, 2021**Sumario:** 1. Introducción; 1.1 Base legal o normativa; 2. Definición y conceptualización; 2.1 Campo de aplicación; 2.2 Registro; 2.2.1 Registro de contratos de trabajadores; 3. Derechos de los trabajadores; 3.1. Límites de contratación; 3.1.1 Porcentaje limitativo por ley; 4. Tipos; 4.1 Cooperativas de Trabajadores; 5. Desnaturalización; 6. Conclusiones.
 ## **1. Introducción**
 La intermediación laboral o «services», es una forma de descentralizar las actividades de la empresa. Tal como lo explica el abogado Toyama, la intermediación laboral supone dos elementos claves: i) se verifica un destaque exclusivamente de trabajadores al centro de trabajo —o el radio de acción— de la empresa usuaria; y ii) los trabajadores laborarán bajo las órdenes de los jefes y supervisores de la empresa usuaria, es ella la que definirá el contenido de la prestación personal [1].
 - Lea también: **Diferencias entre tercerización e intermediación laboral**
@@ -103,22 +103,22 @@ La intermediación tiene como objeto exclusivo la prestación de servicios de in
 [1] TOYAMA, Miyagusuku. El Derecho inidividual del trabajo en el Perú: Un enfoque teórico-práctico. Lima: Gaceta Jurídica, 2020.
 [2] VALDERRAMA, Luis y TARAZONA, Manolo. Régimen laboral explicado 2018. Lima: Gaceta Jurídica, 2018.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

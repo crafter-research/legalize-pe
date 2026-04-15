@@ -23,7 +23,7 @@ Inicio ** Administrativo ** Ley 32069, Ley General de Contrataciones Públicas (
 - Legislación Básica
 - Normas legales
 # Ley 32069, Ley General de Contrataciones Públicas (actualizada 2026)
-La Ley 32069, Ley General de Contrataciones Públicas, publicada el 24 de junio de 2024, entró en vigencia el 22 de abril de 2025, al cumplirse los 90 días calendario desde la publicación de su reglamento; por tanto, se encuentra plenamente vigente y constituye el nuevo marco normativo aplicable a las contrataciones públicas en el Perú.Por LP • Pasión por el Derecho -                  4 febrero, 2026                                            Compartimos con ustedes la** Ley 32069**, Ley General de Contrataciones Públicas, publicada el 24 de junio de 2024 en el diario oficial ***El Peruano***; así como sus posteriores modificaciones. La más reciente modificación se produjo con el Decreto Legislativo 1715, publicado el 4 de febrero de 2026.
+La Ley 32069, Ley General de Contrataciones Públicas, publicada el 24 de junio de 2024, entró en vigencia el 22 de abril de 2025, al cumplirse los 90 días calendario desde la publicación de su reglamento; por tanto, se encuentra plenamente vigente y constituye el nuevo marco normativo aplicable a las contrataciones públicas en el Perú.Por LP • Pasión por el Derecho - 4 febrero, 2026Compartimos con ustedes la** Ley 32069**, Ley General de Contrataciones Públicas, publicada el 24 de junio de 2024 en el diario oficial ***El Peruano***; así como sus posteriores modificaciones. La más reciente modificación se produjo con el Decreto Legislativo 1715, publicado el 4 de febrero de 2026.
 **IMPORTANTE:** La **Ley 32069** entró en vigencia el 22 de abril de 2025, a los 90 días calendario a partir del día siguiente a la publicación de su Reglamento, que se realizó el 22 de enero de 2025. Para descargar el Reglamento, clic **AQUÍ**.
 - Revise también el **Reglamento de la ****Ley General de Contrataciones Públicas [Decreto Supremo 009-2025-EF] **(actualizado)
 - Revise también el **Decreto Legislativo del Sistema Nacional de Abastecimiento (DL 1439) **[actualizado]
@@ -32,14 +32,14 @@ La Ley 32069, Ley General de Contrataciones Públicas, publicada el 24 de junio 
 - Revise también el** Código Penal** [actualizado]
 - Revise también la **Constitución Política del Perú** [realmente actualizada]
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F **y le aparecerá un recuadro para que lo escriba.
-## 
+##
 ## **LEY Nº 32069**
 **LA PRESIDENTA DE LA REPÚBLICA**
 POR CUANTO:
 **EL CONGRESO DE LA REPÚBLICA;**
 Ha dado la Ley siguiente:
 ## **LEY GENERAL DE CONTRATACIONES PÚBLICAS**
-### 
+###
 **TÍTULO I**
 **DISPOSICIONES GENERALES**
 #### **Artículo 1. Objeto de la Ley**
@@ -351,11 +351,11 @@ De otro modo, estos impedimentos se aplican conforme a las siguientes precisione
 *En cuanto a los consejeros regionales, el impedimento para ser participante, postor, contratista o subcontratista del Estado se aplica para todo proceso de contratación pública que se convoque dentro de la circunscripción territorial del gobierno regional del cual forman parte. Este alcance es el mismo tanto durante el ejercicio del cargo, como hasta seis (06) meses posteriores de haberlo dejado. *
 *Los alcaldes, durante el ejercicio del cargo, se encuentran impedidos de ser participantes, postores, contratistas o subcontratistas en todo proceso de contratación a nivel nacional. Sin embargo, una vez dejado el cargo y hasta seis (06) meses después, el impedimento se aplica solo en los procesos de contratación que se convoquen en el territorio en el cual ejercieron sus funciones.*
 * En relación con los regidores, estos se encuentran impedidos de ser participantes, postores, contratistas o subcontratistas en los procesos de contratación que se convoquen en el territorio en el cual ejercen sus funciones, durante el ejercicio del cargo y hasta seis (06) meses después de haberlo dejado. **[Opinión D000016-2025-OECE-DTN]. Clic aquí.*
-Para la aplicación de la desafectación de los impedimentos en razón del parentesco mediante la acreditación de contratos que provienen de procedimientos de selección competitivos y no competitivos, se requiere el cumplimiento de manera concurrente de las siguientes condiciones: i) que el pariente del impedido haya perfeccionado al menos un contrato en el mismo tipo de objeto al que postula; ii) que el pariente del impedido haya ejecutado las prestaciones que devienen de dicho contrato perfeccionado. Así pues, tratándose de bienes y obras, la ejecución debe haberse verificado dentro de los dos años previos a la convocatoria del procedimiento de selección, a la contratación no competitiva, o a la adjudicación de un contrato menor; y, tratándose de servicios, la experiencia por ejecución debe acreditarse por dos años consecutivo. 
-Cuando la acreditación de la desafectación de los impedimentos en razón de parentesco se sustente en la ejecución de contratos menores, se requiere del cumplimiento concurrente de las siguientes condiciones: i) que el pariente del impedido haya ejecutado cuatro contratos menores en el mismo tipo de objeto al que postula; ii) que dicha ejecución, en el caso de bienes y obras se efectúe dentro de los dos años previos a la convocatoria del procedimiento de selección, a la contratación no competitiva, o a la adjudicación de un contrato menor, y, tratándose de servicios, la experiencia por ejecución debe acreditarse por dos años consecutivos. 
-Para cumplir con la condición referida a la ejecución de los contratos que devienen de procedimientos de selección competitivos y no competitivos, dentro del límite temporal establecido en la normativa de contrataciones públicas, el proveedor deberá acreditar el efectivo cumplimiento de las prestaciones contratadas. Para tal efecto, podrá presentar, según corresponda, la conformidad de la prestación, el acta de recepción respectiva, resolución de liquidación, constancia de prestación, entre otros. 
-A efectos de verificar el cumplimiento de la condición referida a la ejecución de los contratos que devienen de contrato menores, dentro del límite temporal establecido en la normativa de contrataciones públicas; el proveedor deberá acreditar el efectivo cumplimiento de las prestaciones contratadas. conforme a las disposiciones que regulen dichos contratos. 
-La exigencia de “dos años consecutivos” previstas para los contratos de servicios, debe interpretarse en sentido estricto, como un requisito de continuidad temporal ininterrumpida en la ejecución del servicio, a fin de garantizar que la experiencia del proveedor refleje una actividad habitual en la transacción del servicio. 
+Para la aplicación de la desafectación de los impedimentos en razón del parentesco mediante la acreditación de contratos que provienen de procedimientos de selección competitivos y no competitivos, se requiere el cumplimiento de manera concurrente de las siguientes condiciones: i) que el pariente del impedido haya perfeccionado al menos un contrato en el mismo tipo de objeto al que postula; ii) que el pariente del impedido haya ejecutado las prestaciones que devienen de dicho contrato perfeccionado. Así pues, tratándose de bienes y obras, la ejecución debe haberse verificado dentro de los dos años previos a la convocatoria del procedimiento de selección, a la contratación no competitiva, o a la adjudicación de un contrato menor; y, tratándose de servicios, la experiencia por ejecución debe acreditarse por dos años consecutivo.
+Cuando la acreditación de la desafectación de los impedimentos en razón de parentesco se sustente en la ejecución de contratos menores, se requiere del cumplimiento concurrente de las siguientes condiciones: i) que el pariente del impedido haya ejecutado cuatro contratos menores en el mismo tipo de objeto al que postula; ii) que dicha ejecución, en el caso de bienes y obras se efectúe dentro de los dos años previos a la convocatoria del procedimiento de selección, a la contratación no competitiva, o a la adjudicación de un contrato menor, y, tratándose de servicios, la experiencia por ejecución debe acreditarse por dos años consecutivos.
+Para cumplir con la condición referida a la ejecución de los contratos que devienen de procedimientos de selección competitivos y no competitivos, dentro del límite temporal establecido en la normativa de contrataciones públicas, el proveedor deberá acreditar el efectivo cumplimiento de las prestaciones contratadas. Para tal efecto, podrá presentar, según corresponda, la conformidad de la prestación, el acta de recepción respectiva, resolución de liquidación, constancia de prestación, entre otros.
+A efectos de verificar el cumplimiento de la condición referida a la ejecución de los contratos que devienen de contrato menores, dentro del límite temporal establecido en la normativa de contrataciones públicas; el proveedor deberá acreditar el efectivo cumplimiento de las prestaciones contratadas. conforme a las disposiciones que regulen dichos contratos.
+La exigencia de “dos años consecutivos” previstas para los contratos de servicios, debe interpretarse en sentido estricto, como un requisito de continuidad temporal ininterrumpida en la ejecución del servicio, a fin de garantizar que la experiencia del proveedor refleje una actividad habitual en la transacción del servicio.
 Para aplicar la desafectación de los impedimentos por razón de parentesco, el proveedor durante su registro para intervenir en un procedimiento de selección deberá presentar una Declaración Jurada de Desafectación de Impedimento. Posteriormente, en la etapa de admisión de las ofertas, el postor deberá acompañar dicha Declaración Jurada de la documentación sustentatoria, conforme a lo previsto en el Anexo N° 5 de las Bases Estándar. Luego de ello, de resultar ganador de la buena pro, a efectos de perfeccionar el contrato, el postor deberá presentar la Declaración Jurada actualizada de Desafectación de Impedimento prevista en el Anexo que las Bases Estándar establezcan de acuerdo con el tipo de procedimiento de selección correspondiente, conjuntamente con la documentación sustentatoria que acredite su condición de desafectado.
 La normativa de contrataciones públicas no ha establecido un listado taxativo de documentos exigibles, por lo que corresponde al postor presentar la documentación pertinente que demuestre de manera fehaciente el cumplimiento de las condiciones previstas por el inciso 2 del numeral 30.1 del artículo 30 de la Ley, considerando lo indicado en el segundo párrafo del numeral 2.2.1 de la presente opinión. *[Opinión D000057-2025-OECE-DTN]. Clic aquí.*
 *La excepción a la aplicación de los impedimentos en razón del parentesco, previstos en el grupo 2, se sustenta en la experiencia adquirida previamente por el pariente de los impedidos señalados en el primero grupo; es decir, en la habitual transacción del bien, servicio u obra que constituye el giro del negocio del proveedor en el mercado. En ese sentido, la razón de ser de la desafectación prevista por la norma es permitir la participación en los procesos de contratación de aquellos proveedores que, pese a mantener un vínculo de parentesco, demuestran experiencia efectiva de acuerdo con las condiciones objetivas que dicho dispositivo normativo contempla. *
@@ -391,7 +391,7 @@ La normativa de contrataciones públicas no ha establecido un listado taxativo d
 **a)** Respecto de personas jurídicas o por representación: tipos 3.A, 3.B, 3.E, 3.F y 3.G.
 **b)** Derivados de sanciones administrativas, civiles y penales o por inclusión en otros registros: los señalados en el tipo 4.B.
 **33.2.** En el supuesto de excepción referido a los impedimentos en razón del parentesco establecido en el numeral 2 del párrafo 30.1 del artículo 30, la entidad contratante remite al órgano de control institucional la declaración jurada presentada por el proveedor, en la que se haga constar la condición de desafectación que habilite su participación en el proceso de contratación.
-### 
+###
 **TÍTULO III **
 **MODALIDADES Y HERRAMIENTAS PARA LA CONTRATACIÓN PÚBLICA EFICIENTE **
 **CAPÍTULO I **
@@ -933,7 +933,7 @@ La sanción de exclusión del registro de instituciones arbitrales y centros de 
 **100.1.** La responsabilidad derivada de las infracciones previstas en el párrafo 94.2 del artículo 94 es objetiva, salvo en aquellos tipos infractores que admitan la posibilidad de justificar la conducta.
 **100.2.** El reglamento establece las reglas del procedimiento sancionador, los rangos correspondientes a las sanciones establecidas en los literales b) y c) del párrafo 94.2 del artículo 94 de la presente ley. La gradualidad, proporcionalidad, caducidad, eximentes de responsabilidad de la imposición de la sanción y demás reglas necesarias se determinan conforme a lo previsto en al párrafo 92.2 del artículo 92 de la presente ley.
 **100.3.** Las infracciones establecidas en el presente artículo prescriben, a los cuatro años de cometidas, en concordancia con lo establecido en el artículo 252 del Texto Único Ordenado de la Ley 27444, Ley del Procedimiento Administrativo General, aprobado mediante Decreto Supremo 004-2019-JUS.
-### 
+###
 ### **DISPOSICIONES COMPLEMENTARIAS FINALES **
 #### **PRIMERA. Prevalencia de las normas de contratación pública **
 **1.** La presente ley prevalece sobre las normas del procedimiento administrativo general, de derecho público y sobre aquellas de derecho privado que sean aplicables, salvo en el caso de los procedimientos administrativos sancionadores a cargo del Tribunal de Contrataciones Públicas, y de los procedimientos administrativos sancionadores a cargo del OECE respecto de las infracciones de instituciones arbitrales y centros de administración de juntas de prevención y resolución de disputas; así como en el caso de los contratos estandarizados que se regulan conforme a sus cláusulas. Son de aplicación supletoria a los regímenes especiales de contratación siempre que no resulten incompatibles con tales normas especiales, sin perjuicio de la aplicación de los principios de la presente ley.
@@ -1089,9 +1089,9 @@ El numeral 3 de la décima tercera disposición complementaria final entra en vi
 ### **DISPOSICIÓN COMPLEMENTARIA MODIFICATORIA**
 #### **ÚNICA. Modificación de la Ley 31589, Ley que garantiza la reactivación de obras públicas paralizadas, modificada por el Decreto Legislativo 1584**
 Se modifica el párrafo 5.12 del artículo 5 de la Ley 31589, Ley que garantiza la reactivación de obras públicas paralizadas, modificada por el Decreto Legislativo 1584, en los siguientes términos:
-**Artículo 5. Reactivación de la obra pública paralizada contratada bajo la aplicación de la Ley de Contrataciones del Estado** 
-[&#8230;] **5.12** Las entidades pueden contratar el saldo de obra que incluya el diseño y construcción a través de las modalidades llave en mano que incluye el expediente técnico de obra, o concurso oferta, según corresponda, conforme a los requisitos, condiciones y demás disposiciones establecidas para dichas modalidades en el Reglamento de la Ley 30225, Ley de Contrataciones del Estado, aprobado por el Decreto Supremo 344-2018-EF, o norma que lo sustituya’. 
-### 
+**Artículo 5. Reactivación de la obra pública paralizada contratada bajo la aplicación de la Ley de Contrataciones del Estado**
+[&#8230;] **5.12** Las entidades pueden contratar el saldo de obra que incluya el diseño y construcción a través de las modalidades llave en mano que incluye el expediente técnico de obra, o concurso oferta, según corresponda, conforme a los requisitos, condiciones y demás disposiciones establecidas para dichas modalidades en el Reglamento de la Ley 30225, Ley de Contrataciones del Estado, aprobado por el Decreto Supremo 344-2018-EF, o norma que lo sustituya’.
+###
 ### **DISPOSICIONES COMPLEMENTARIAS TRANSITORIAS**
 #### **PRIMERA. Integración de las herramientas digitales que conforman la Pladicop***
 **1. **La información del Sistema Electrónico de Contrataciones del Estado (SEACE), el RNP, la herramienta digital para contratos menores y otros sistemas complementarios sobre contrataciones públicas forman parte de la Pladicop.
@@ -1160,7 +1160,7 @@ Presidente del Congreso de la República
 **ARTURO ALEGRÍA GARCÍA **
 Primer Vicepresidente del Congreso de la República
 **A LA SEÑORA PRESIDENTA DE LA REPÚBLICA**
-** POR TANTO:** 
+** POR TANTO:**
 Mando se publique y cumpla.
 Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de junio del año dos mil veinticuatro.
 **DINA ERCILIA BOLUARTE ZEGARRA **
@@ -1169,22 +1169,22 @@ Presidenta de la República
 Presidente del Consejo de Ministros
 ### **Descargue en PDF la ley original (sin las modificatorias) aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

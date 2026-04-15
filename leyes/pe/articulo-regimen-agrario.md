@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** Novedades del régimen laboral agrario. Alcances de la Ley 31110- Laboral
 # Novedades del régimen laboral agrario. Alcances de la Ley 31110
-Por LP • Pasión por el Derecho -                  22 enero, 2021                                            **Sumario.** 1. Introducción, 2. Ámbito de aplicación, 3. Contratación y beneficios sociales, 3.1 Jornada laboral, 3.2. Remuneración del régimen agrario, 3.3 Descanso vacacional, 3.4 Participación en utilidades, 4. Indemnización por despido arbitrario, 5. Obligaciones del empleador, 5.1 Restricciones al empleador: tercerización e intermediación, 5.2 Obligaciones de garantizar condiciones de trabajo, 5.3 Condiciones para madres trabajadoras, 5.4  Seguro complementario de riesgo (SCR), 6. Seguridad y salud en el trabajo.
+Por LP • Pasión por el Derecho - 22 enero, 2021**Sumario.** 1. Introducción, 2. Ámbito de aplicación, 3. Contratación y beneficios sociales, 3.1 Jornada laboral, 3.2. Remuneración del régimen agrario, 3.3 Descanso vacacional, 3.4 Participación en utilidades, 4. Indemnización por despido arbitrario, 5. Obligaciones del empleador, 5.1 Restricciones al empleador: tercerización e intermediación, 5.2 Obligaciones de garantizar condiciones de trabajo, 5.3 Condiciones para madres trabajadoras, 5.4  Seguro complementario de riesgo (SCR), 6. Seguridad y salud en el trabajo.
 - Lea también: **¡Atención! Ley del régimen laboral agrario [Ley 31110]**
 ## **1. Introducción**
 Como sabemos, mediante la **Ley 31087**, el Congreso derogó el régimen laboral agrario o Ley de Promoción Agraria, Ley 27360. Luego legisló sobre la misma materia mediante la **Ley 31110**, el actual régimen vigente.
@@ -52,7 +52,7 @@ Cabe precisar que la norma establece para este tipo de trabajo que la jornada la
 3.2. Remuneración del régimen agrario
 Los trabajadores se encuentran en la facultad de elegir que tanto sus gratificaciones como su CTS, sean percibidos en los plazos legalmente establecidos para los trabajadores sujetos al régimen general de la actividad privada.
 La **remuneración básica** (RB) no puede ser menor a la Remuneración Mínima Vital (RMV); las gratificaciones legales equivalen a 16.66% de la RB y la compensación por tiempo de servicios equivale a 9.72% de la RB.
-Adicionalmente, se ha establecido una **bonificación especial** equivalente o «Bonificación Especial por Trabajo Agrario» (denominado BETA)  al 30% de la RMV con carácter no remunerativo, no constituyendo remuneración para efecto legal.
+Adicionalmente, se ha establecido una **bonificación especial** equivalente o «Bonificación Especial por Trabajo Agrario» (denominado BETA) al 30% de la RMV con carácter no remunerativo, no constituyendo remuneración para efecto legal.
 En cuanto a la asignación familiar es el 10% de la remuneración mínima vital.
 ### **3.3 Descanso vacacional**
 Las vacaciones truncas se calculan sobre la base de los días trabajados y corresponde a 8.33% de la RB.
@@ -86,22 +86,22 @@ b. En caso la empresa en el año fiscal previo hubieran declarado 100 o más tra
 Más información **aquí**.
 régimen agrario ley 31110 régimen agrario ley 31110 régimen agrario ley 31110 régimen
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-César David Ojeda Quiroz -                 4 abril, 2026                            Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+César David Ojeda Quiroz - 4 abril, 2026Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
 4 abril, 2026

@@ -22,8 +22,8 @@ Inicio ** Legislación ** Código Procesal Civil peruano (actualizado 2025)- Le
 - Civil
 - Procesal Civil
 # Código Procesal Civil peruano (actualizado 2025)
-Contiene la última modificación de la Ley 32377, publicada el 7 de junio de 2025.Por LP • Pasión por el Derecho -                  7 junio, 2025                                            Mediante el **Decreto Legislativo 768**, de fecha 4 de marzo de 1992, se promulgó el Código Procesal Civil. Posteriormente, mediante el Decreto Ley 25940, se modificaron varios artículos. Téngase en cuenta que el DL 768, Código Procesal Civil, recién entró en vigencia el 28 de julio de 1993 con los cambios realizados por el D-L 25940.
-Valga apuntar también que mediante Resolución Ministerial 010-93-JUS se autorizó la publicación del Texto Único Ordenado del Código Procesal Civil, promulgado el 8 de enero de 1993 y publicado el 22 de abril del mismo año. 
+Contiene la última modificación de la Ley 32377, publicada el 7 de junio de 2025.Por LP • Pasión por el Derecho - 7 junio, 2025Mediante el **Decreto Legislativo 768**, de fecha 4 de marzo de 1992, se promulgó el Código Procesal Civil. Posteriormente, mediante el Decreto Ley 25940, se modificaron varios artículos. Téngase en cuenta que el DL 768, Código Procesal Civil, recién entró en vigencia el 28 de julio de 1993 con los cambios realizados por el D-L 25940.
+Valga apuntar también que mediante Resolución Ministerial 010-93-JUS se autorizó la publicación del Texto Único Ordenado del Código Procesal Civil, promulgado el 8 de enero de 1993 y publicado el 22 de abril del mismo año.
 Ahora bien, el texto que compartimos con ustedes es el **Código Procesal Civil** original con todas sus modificaciones actualizadas.
 Recientemente, el Código sufrió una modificación con la publicación de la Ley 32377, el 11 de abril de 2025.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione Control+F y le aparecerá un recuadro para que lo escriba.
@@ -1506,7 +1506,7 @@ Cuando la urgencia del caso lo requiere, el Juez puede habilitar día y hora par
 #### **Artículo 289.- Irrecusabilidad***
 Son irrecusables el Juez y el Secretario de Juzgado de conformidad con el artículo 761.
 ** Artículo modificado por el D-L 25940, publicado el 11 de diciembre de 1992 (link: lpd.pe/kPLGb).*
-#### **Artículo 290.- Pericia** 
+#### **Artículo 290.- Pericia**
 Si hay riesgo de que el transcurso del tiempo u otra circunstancia alteren el estado o situación de personas, lugares, bienes o documentos, puede pedirse que se practique la correspondiente pericia.
 #### **Artículo 291.- Testigos**
 Cuando por ancianidad, enfermedad o ausencia inminente de una persona, sea indispensable recibir su declaración, el interesado puede solicitar su testimonio.
@@ -2851,8 +2851,8 @@ El perjudicado por una medida cautelar dictada en proceso en que no es parte, pu
 ** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**). Luego, este artículo fue derogado por la Primera Disposición Derogatoria de la **Ley 27584**, publicada el 7 de diciembre de 2001 (link: **lpd.pe/2GX6E**). *
 #### **Artículo 541.- [Derogado]***
 ** Artículo modificado por los siguientes dispositivos:*
-*1. **D-L 25940**, publicado el 11 de diciembre de 1992 (link:* *lpd.pe/kPLGb**).* 
-*2. **Ley 26810**, publicada el 18 de junio de 1997 (link:* *lpd.pe/2V7NO**).* 
+*1. **D-L 25940**, publicado el 11 de diciembre de 1992 (link:* *lpd.pe/kPLGb**).*
+*2. **Ley 26810**, publicada el 18 de junio de 1997 (link:* *lpd.pe/2V7NO**).*
 *3. **Ley 27352**, publicada el 9 de octubre de 2000 (link:* *lpd.pe/k9q8N**). *
 *Posteriormente este artículo fue derogado por la Primera Disposición Derogatoria de la **Ley 27584**, publicada el 7 de diciembre de 2001 (link: **lpd.pe/2GX6E**). *
 #### **Artículo 542.- [Derogado]***
@@ -3357,7 +3357,7 @@ No obstante, pueden afectarse los bienes señalados en los incisos 3 y 4, cuando
 Cuando el embargo en forma de depósito recae en bienes muebles del obligado, éste será constituido en depositario, salvo que se negare a aceptar la designación, en cuyo caso se procederá al secuestro de los mismos, procediéndose de la manera como se indica en el párrafo siguiente.
 Cuando el secuestro recae en bienes muebles del obligado, éstos serán depositados a orden del Juzgado. En este caso, el custodio será de preferencia un almacén legalmente constituido, el que asume la calidad de depositario, con las responsabilidades civiles y penales previstas en la ley. Asimismo, está obligado a presentar los bienes dentro del día siguiente al de la intimación del Juez, sin poder invocar derecho de retención.
 Tratándose de dinero, joyas, piedras y metales preciosos u otros bienes similares, serán depositados en el Banco de la Nación.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 *Ver jurisprudencia aquí.*
 #### **Artículo 650.- Embargo de inmueble sin inscripción registral o inscrito a nombre de tercera persona***
 Cuando se trata de inmueble no inscrito, la afectación puede limitarse al bien mismo, con exclusión de sus frutos, debiendo nombrarse necesariamente como depositario al propio obligado. Esta afectación no lo obliga al pago de renta, pero deberá conservar la posesión inmediata.
@@ -3367,17 +3367,17 @@ También en caso que se acredite, de modo fehaciente que el bien pertenece al de
 *Ver jurisprudencia aquí.*
 #### **Artículo 651.- Secuestro de bienes dentro de una unidad de producción o de comercio***
 Pueden secuestrarse bienes muebles que se encuentran dentro de una fábrica o comercio, cuando éstos, aisladamente, no afecten el proceso de producción o de comercio.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 #### **Artículo 652.- Secuestro de títulos de crédito***
 Cuando se afecten títulos-valores o documentos de crédito en general, éstos serán entregados al custodio haciéndose la anotación respectiva en el documento, conjuntamente con copia certificada de su designación y del acta de secuestro, a fin de representar a su titular. El custodio queda obligado a todo tipo de gestiones y actuaciones que tiendan a evitar que el título se perjudique y a depositar de inmediato a la orden del Juzgado, el dinero que obtenga.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 #### **Artículo 653.- Cateo en el embargo en depósito o en el secuestro***
 Si al momento de la ejecución de la medida se advierte el ocultamiento de bienes afectables, o si éstos resultan manifiestamente insuficientes para cubrir su monto, podrá el Auxiliar jurisdiccional, a pedido de parte, hacer la búsqueda en los ambientes que ésta le indique, sin caer en excesos ni causar daño innecesario. Puede, incluso, atendiendo a circunstancias plenamente justificadas, proceder a la búsqueda en la persona del afectado, respetando el decoro de ésta.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 #### **Artículo 654.- Retribución del custodio***
 El custodio, antes de la aceptación del encargo, debe proponer el monto de la retribución por su servicio, estimada por día, semana o mes, según las circunstancias, la que será tomada en cuenta por el Juez al señalar la retribución.
 Está exceptuado el Banco de la Nación cuando se trata del dinero por el que debe abonar interés legal de acuerdo a las disposiciones legales sobre la materia.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 #### **Artículo 655.- Obligaciones del depositario y del custodio**
 Los órganos de auxilio judicial están en el deber de conservar los bienes en depósito o custodia en el mismo estado en que los reciben, en el local destinado para ello, a la orden del Juzgado y con acceso permanente para la observación por las partes y veedor, si lo hay. Asimismo, darán cuenta inmediata al Juez de todo hecho que pueda significar alteración de los objetos en depósito o secuestro y los que regulen otras disposiciones, bajo responsabilidad civil y penal.
 #### **Artículo 656.- Embargo en forma de inscripción**
@@ -3390,7 +3390,7 @@ Para tal efecto, todas las Entidades Financieras deberán comunicar a la Superin
 *Ver jurisprudencia aquí.*
 #### **Artículo 658.- Ejecución de la retención***
 El Secretario interviniente sentará el acta de embargo en presencia del retenedor, a quien le dejará la cédula de notificación correspondiente, haciendo constar el dicho de éste sobre la posesión de los bienes y otros datos relevantes. Si se niega a firmar, dejará constancia de su negativa.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 #### **Artículo 659.- Falsa declaración del retenedor**
 Si el intimado para la retención niega falsamente la existencia de créditos o bienes, será obligado a pagar el valor de éstos al vencimiento de la obligación, sin perjuicio de la responsabilidad penal a que haya lugar.
 #### **Artículo 660.- Doble pago**
@@ -3778,7 +3778,7 @@ En los avisos de remate se expresa:
 6.- El nombre del funcionario que efectuará el remate;
 7.- El porcentaje que debe depositarse para participar en el remate; y
 8.- El nombre del Juez y del Secretario de Juzgado, y la firma de éste.
-** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).* 
+** Artículo modificado por el **D-L 25940**, publicado el 11 de diciembre de 1992 (link: **lpd.pe/kPLGb**).*
 *Ver jurisprudencia aquí.*
 #### **Artículo 735.- Requisito para ser postor**
 Sólo se admitirá como postor a quien antes del remate haya depositado, en efectivo o cheque de gerencia girado a su nombre, una cantidad no menor al diez por ciento del valor de tasación del bien o los bienes, según sea su interés. No está obligado a este depósito el ejecutante o el tercero legitimado. A los postores no beneficiados se les devolverá el íntegro de la suma depositada al terminar el remate.
@@ -4357,8 +4357,8 @@ Si la adjudicación a los erogantes no fuera posible, el consejo entregará el h
 “La demanda se tramita como proceso sumarísimo.”
 “**Artículo 195.- **El acreedor, aunque el crédito esté sujeto a condición o a plazo, puede pedir que se declaren ineficaces respecto de él los actos gratuitos del deudor por los que renuncie a derechos o con los que disminuya su patrimonio conocido y perjudiquen el cobro del crédito. Se considera la existencia de perjuicio cuando del acto del deudor resulta la imposibilidad de pagar íntegramente la prestación debida, o se agrava la posibilidad de cobro.
 Tratándose de acto a título oneroso deben concurrir, además, los siguientes requisitos:
--  Si el crédito es anterior al acto de disminución patrimonial, que el tercero haya tenido conocimiento del perjuicio a los derechos del acreedor que, según las circunstancias, haya estado en razonable situación de conocer o de no ignorarlos y el perjuicio eventual a los mismos.
--  Si el acto cuya ineficacia se solicita fuera anterior al surgimiento del crédito, que el deudor y el tercero lo hubiesen celebrado con el propósito de perjudicar la satisfacción del crédito del futuro acreedor. Se presume dicha intención en el deudor cuando ha dispuesto de bienes de cuya existencia había informado por escrito al futuro acreedor. Se presume la intención del tercero cuando conocía o estaba en aptitud de conocer el futuro crédito y que el deudor carece de otros bienes registrados.
+- Si el crédito es anterior al acto de disminución patrimonial, que el tercero haya tenido conocimiento del perjuicio a los derechos del acreedor que, según las circunstancias, haya estado en razonable situación de conocer o de no ignorarlos y el perjuicio eventual a los mismos.
+- Si el acto cuya ineficacia se solicita fuera anterior al surgimiento del crédito, que el deudor y el tercero lo hubiesen celebrado con el propósito de perjudicar la satisfacción del crédito del futuro acreedor. Se presume dicha intención en el deudor cuando ha dispuesto de bienes de cuya existencia había informado por escrito al futuro acreedor. Se presume la intención del tercero cuando conocía o estaba en aptitud de conocer el futuro crédito y que el deudor carece de otros bienes registrados.
 Incumbe al acreedor la prueba sobre la existencia del crédito y, en su caso, la concurrencia de los requisitos indicados en los incisos 1 y 2 de este artículo. Corresponde al deudor y al tercero la carga de la prueba sobre la inexistencia del perjuicio, o sobre la existencia de bienes libres suficientes para garantizar la satisfacción del crédito.”
 “**Artículo 200.-** La ineficacia de los actos gratuitos se tramita como proceso sumarísimo; la de los actos onerosos como proceso de conocimiento. Son especialmente procedentes las medidas cautelares destinadas a evitar que el perjuicio resulte irreparable.
 Quedan a salvo las disposiciones pertinentes en materia de quiebra.”
@@ -4399,11 +4399,11 @@ El informe y las cuentas se entienden aprobados si dentro del plazo de caducidad
 Las reglas contenidas en este Artículo son de aplicación supletoria a todos los demás casos en los que exista deber legal o convencional de presentar cuentas de ingresos y gastos o informes de gestión.”
 “**Artículo 795.-** Puede solicitarse, como proceso sumarísimo, la remoción del albacea que no ha empezado la facción de inventarios dentro de los noventa días de la muerte del testador, o de protocolizado el testamento, o de su nombramiento judicial, lo que corresponda, o dentro de los treinta días de haber sido requerido notarialmente con tal objeto por los sucesores.”
 “**Artículo 815.- **La herencia corresponde a los herederos legales cuando:
--  El causante muere sin dejar testamento; el que otorgó ha sido declarado nulo total o parcialmente; ha caducado por falta de comprobación judicial; o se declara inválida la desheredación.
--  El testamento no contiene institución de heredero, o se ha declarado la caducidad o invalidez de la disposición que lo instituye.
--  El heredero forzoso muere antes que el testador, renuncia a la herencia o la pierde por indignidad o desheredación y no tiene descendientes.
--  El heredero voluntario o el legatario muere antes que el testador; o por no haberse cumplido la condición establecida por éste; o por renuncia, o por haberse declarado indignos a estos sucesores sin sustitutos designados.
--  El testador que no tiene herederos forzosos o voluntarios instituidos en testamento, no ha dispuesto de todos sus bienes en legados, en cuyo caso la sucesión legal sólo funciona con respecto a los bienes de que no dispuso.
+- El causante muere sin dejar testamento; el que otorgó ha sido declarado nulo total o parcialmente; ha caducado por falta de comprobación judicial; o se declara inválida la desheredación.
+- El testamento no contiene institución de heredero, o se ha declarado la caducidad o invalidez de la disposición que lo instituye.
+- El heredero forzoso muere antes que el testador, renuncia a la herencia o la pierde por indignidad o desheredación y no tiene descendientes.
+- El heredero voluntario o el legatario muere antes que el testador; o por no haberse cumplido la condición establecida por éste; o por renuncia, o por haberse declarado indignos a estos sucesores sin sustitutos designados.
+- El testador que no tiene herederos forzosos o voluntarios instituidos en testamento, no ha dispuesto de todos sus bienes en legados, en cuyo caso la sucesión legal sólo funciona con respecto a los bienes de que no dispuso.
 La declaración judicial de herederos por sucesión total o parcialmente intestada, no obsta al preterido por la declaración haga valer los derechos que le confiere el artículo 664.”
 “**Artículo 853.-** Cuando todos los herederos son capaces y están de acuerdo en la partición, la hacen por escritura pública tratándose de bienes inscritos en registros públicos. En los demás casos, es suficiente documento privado con firmas notarialmente legalizadas.”
 “**Artículo 865.-** Es nula la partición hecha con preterición de algún sucesor. La pretensión es imprescriptible y se tramita como proceso de conocimiento.
@@ -4445,7 +4445,7 @@ En los casos previstos en los dos primeros párrafos de este Artículo, cabe pac
 Cuando su domicilio no sea conocido ni conocible, puede hacerse la comunicación mediante publicaciones en el diario encargado de los avisos judiciales y en otro de mayor circulación de la localidad, por tres veces con intervalo de cinco días entre cada aviso. En este caso, el plazo se cuenta desde el día siguiente al de la última publicación.”
 “**Artículo 1597.-** Si el retrayente conoce la transferencia por cualquier medio distinto del indicado en el Artículo 1596, el plazo se cuenta a partir de la fecha de tal conocimiento. Para este caso, la presunción contenida en el Artículo 2012 sólo es oponible después de un año de la inscripción de la transferencia.”
 **[Artículos 1906 hasta 1922]***
-** Artículos derogados por el **D-L 25935**, publicado el 10 de diciembre de 1992 (link:* *lpd.pe/kPAPP**).* 
+** Artículos derogados por el **D-L 25935**, publicado el 10 de diciembre de 1992 (link:* *lpd.pe/kPAPP**).*
 **Artículo 2011:** Se agrega el siguiente párrafo:
 “Lo dispuesto en el párrafo anterior no se aplica, bajo responsabilidad del Registrador, cuando se trate de parte que contenga una resolución judicial que ordene la inscripción. De ser el caso, el Registrador podrá solicitar al Juez las aclaraciones o información complementaria que precise, o requerir se acredite el pago de los tributos aplicables, sin perjudicar la prioridad del ingreso al Registro.”
 “**Artículo 2037.-** Las inscripciones se hacen en el Registro del lugar donde permanentemente se va a ejercer el mandato o la representación.”
@@ -4503,22 +4503,22 @@ Contra lo resuelto por la Corte Superior procede recurso de casación.”
 3. Las demás disposiciones administrativas incompatibles con este Código.
 .
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
-Civil            ### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
-Civil            ### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
-Civil            ### Balotario notarial: el poder y la representación según el Código Civil
-Civil            ### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
-Civil            ### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Civil### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
+Civil### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
+Civil### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
+Civil### Balotario notarial: el poder y la representación según el Código Civil
+Civil### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
+Civil### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

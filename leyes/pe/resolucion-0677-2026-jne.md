@@ -37,7 +37,7 @@ Por lo tanto, el Pleno del Jurado Nacional de Elecciones, en uso de sus atribuci
 
 RESUELVE
 
-1.- APROBAR EL USO, para las elecciones primarias de las Elecciones Regionales y Municipales 2026, del padrón de electores afiliados de la organización política MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS, elaborado por el Registro Nacional de Identificación y Estado Civil, el cual contiene un total de 2 434 
+1.- APROBAR EL USO, para las elecciones primarias de las Elecciones Regionales y Municipales 2026, del padrón de electores afiliados de la organización política MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS, elaborado por el Registro Nacional de Identificación y Estado Civil, el cual contiene un total de 2 434
 afiliados.
 
 2.- PONER A DISPOSICIÓN de la Oficina Nacional de Procesos Electorales el padrón de electores afiliados de la organización política MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS, que se encuentra alojado en el servidor informático del Jurado Nacional de Elecciones.

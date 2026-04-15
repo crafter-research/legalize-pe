@@ -17,11 +17,11 @@ disclaimer: true
 
 # Código Procesal Penal
 
-Inicio ** Legislación Básica ** Código Procesal Penal peruano - Legislación Básica
+Inicio ** Legislación Básica ** Código Procesal Penal peruano- Legislación Básica
 - Penal
 - Procesal Penal
 # Código Procesal Penal peruano [actualizado 2026]
-Contiene la última modificación del Decreto Legislativo 1735, publicado en el diario oficial El Peruano el 12 de febrero de 2026. Por LP • Pasión por el Derecho -                  12 febrero, 2026                                            Mediante el **Decreto Legislativo 957** se aprobó el nuevo **Código Procesal Penal **(**NCPP**), promulgado el 22 de julio de 2004 y publicado el 29 de julio de 2004. Entró en vigencia el **1 de julio de 2006**.
+Contiene la última modificación del Decreto Legislativo 1735, publicado en el diario oficial El Peruano el 12 de febrero de 2026.Por LP • Pasión por el Derecho - 12 febrero, 2026Mediante el **Decreto Legislativo 957** se aprobó el nuevo **Código Procesal Penal **(**NCPP**), promulgado el 22 de julio de 2004 y publicado el 29 de julio de 2004. Entró en vigencia el **1 de julio de 2006**.
 El texto que presentamos está actualizado y revisado al mes de febrero de 2026. Está dividido en dos partes. Esta es la primera parte (del artículo I del título preliminar al artículo 445). En **este link **se halla la** segunda parte** (del artículo 446 al final).
 La última modificación se produjo el 12 de febrero de 2026 con la publicación, en el diario oficial *El Peruano,* del Decreto Legislativo 1735.
 Para ubicar de manera rápida el artículo o la palabra clave que desea, presione Control+F y le aparecerá un recuadro para que lo escriba.
@@ -194,16 +194,16 @@ DISPOSICIONES TRANSITORIAS
 **3.** Las partes intervendrán en el proceso con iguales posibilidades de ejercer las facultades y derechos previstos en la Constitución y en este Código. Los jueces preservarán el principio de igualdad procesal, debiendo allanar todos los obstáculos que impidan o dificulten su vigencia.
 **4.** Las resoluciones son recurribles, en los casos y en el modo previsto por la Ley. Las sentencias o autos que ponen fin a la instancia son susceptibles de recurso de apelación.
 **5.** El Estado garantiza la indemnización por los errores judiciales.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo II. Presunción de inocencia**
 **1.** Toda persona imputada de la comisión de un hecho punible es considerada inocente, y debe ser tratada como tal, mientras no se demuestre lo contrario y se haya declarado su responsabilidad mediante sentencia firme debidamente motivada. Para estos efectos, se requiere de una suficiente actividad probatoria de cargo, obtenida y actuada con las debidas garantías procesales.
 En caso de duda sobre la responsabilidad penal debe resolverse a favor del imputado.
 **2.** Hasta antes de la sentencia firme, ningún funcionario o autoridad pública puede presentar a una persona como culpable o brindar información en tal sentido.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo III. Interdicción de la persecución penal múltiple**
 Nadie podrá ser procesado, ni sancionado más de una vez por un mismo hecho, siempre que se trate del mismo sujeto y fundamento. Este principio rige para las sanciones penales y administrativas. El derecho penal tiene preeminencia sobre el derecho administrativo.
 La excepción a esta norma es la revisión por la Corte Suprema de la sentencia condenatoria expedida en alguno de los casos en que la acción está indicada taxativamente como procedente en este Código.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo IV. Titular de la acción penal***
 **1.** El Ministerio Público es titular del ejercicio público de la acción penal en los delitos y tiene el deber de la carga de la prueba. Asume la conducción jurídica de la investigación que implica la orientación legal de las acciones que realiza la Policía dentro de los parámetros de la ley para la obtención de los elementos de prueba, indicios o lo que se considere necesario para la investigación, garantizando el respeto de los derechos procesales de las personas.
 **2.** El Ministerio Público está obligado a actuar con objetividad, indagando por intermedio de la Policía Nacional del Perú los hechos constitutivos del delito, que determinen y acrediten la responsabilidad o inocencia del imputado. Con esta finalidad, conduce jurídicamente los actos de investigación que realiza la Policía Nacional del Perú.
@@ -212,35 +212,35 @@ La excepción a esta norma es la revisión por la Corte Suprema de la sentencia 
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 *2. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo V. Competencia judicial**
 **1.** Corresponde al órgano jurisdiccional la dirección de la etapa intermedia y, especialmente, del juzgamiento, así como expedir las sentencias y demás resoluciones previstas en la Ley.
 **2.** Nadie puede ser sometido a pena o medida de seguridad sino por resolución del órgano jurisdiccional determinado por la Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo VI. Legalidad de las medidas limitativas de derechos**
 Las medidas que limitan derechos fundamentales, salvo las excepciones previstas en la Constitución, sólo podrán dictarse por la autoridad judicial, en el modo, forma y con las garantías previstas por la Ley. Se impondrán mediante resolución motivada, a instancia de la parte procesal legitimada. La orden judicial debe sustentarse en suficientes elementos de convicción, en atención a la naturaleza y finalidad de la medida y al derecho fundamental objeto de limitación, así como respetar el principio de proporcionalidad.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo VII. Vigencia e interpretación de la Ley procesal penal**
 **1.** La Ley procesal penal es de aplicación inmediata, incluso al proceso en trámite, y es la que rige al tiempo de la actuación procesal. Sin embargo, continuarán rigiéndose por la Ley anterior, los medios impugnatorios ya interpuestos, los actos procesales con principio de ejecución y los plazos que hubieran empezado.
 **2.** La Ley procesal referida a derechos individuales que sea más favorable al imputado, expedida con posterioridad a la actuación procesal, se aplicará retroactivamente, incluso para los actos ya concluidos, si fuera posible.
 **3.** La Ley que coacte la libertad o el ejercicio de los derechos procesales de las personas, así como la que limite un poder conferido a las partes o establezca sanciones procesales, será interpretada restrictivamente. La interpretación extensiva y la analogía quedan prohibidas mientras no favorezcan la libertad del imputado o el ejercicio de sus derechos.
 **4.** En caso de duda insalvable sobre la Ley aplicable debe estarse a lo más favorable al reo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo VIII. Legitimidad de la prueba**
 **1.** Todo medio de prueba será valorado sólo si ha sido obtenido e incorporado al proceso por un procedimiento constitucionalmente legítimo.
 **2.** Carecen de efecto legal las pruebas obtenidas, directa o indirectamente, con violación del contenido esencial de los derechos fundamentales de la persona.
 **3.** La inobservancia de cualquier regla de garantía constitucional establecida a favor del procesado no podrá hacerse valer en su perjuicio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo IX. Derecho de Defensa***
 **1.** Toda persona tiene derecho inviolable e irrestricto a que se le informe de sus derechos, a que se le comunique de inmediato y detalladamente la imputación formulada en su contra, y a ser asistida por un Abogado Defensor de su elección o, en su caso, por un abogado de oficio, desde que es citada o detenida por la autoridad. También tiene derecho a que se le conceda un tiempo razonable para que prepare su defensa; a ejercer su autodefensa material; a intervenir, en plena igualdad, en la actividad probatoria; y, en las condiciones previstas por la Ley, a utilizar los medios de prueba pertinentes. El ejercicio del derecho de defensa se extiende a todo estado y grado del procedimiento, en la forma y oportunidad que la ley señala.
 **2.** Nadie puede ser obligado o inducido a declarar o a reconocer culpabilidad contra sí mismo, contra su cónyuge, o sus parientes dentro del cuarto grado de consanguinidad o segundo de afinidad.
 **3.** El proceso penal garantiza, también, el ejercicio de los derechos de información y de participación procesal a la persona agraviada o perjudicada por el delito. La autoridad pública está obligada a velar por su protección y a brindarle un trato acorde con su condición.
 **4.** Las partes, durante la investigación fiscal, tienen el derecho de solicitar al Ministerio Público la remisión de manera virtual de la totalidad o parte de la carpeta fiscal en copias simples. El fiscal encargado de conducir la investigación está obligado, bajo responsabilidad funcional, a remitir al correo electrónico indicado la totalidad o parte de la carpeta fiscal requerida sin costo alguno para la parte solicitante. Este mismo supuesto se aplica para las copias certificadas digitales.
 ** Artículo modificado por la Ley 32374, publicada el 7 de junio de 2025 (link: lpd.pe/XCeANz). Se agregó el numeral 4.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo X. Prevalencia de las normas de este Título**
 Las normas que integran el presente Título prevalecen sobre cualquier otra disposición de este Código. Serán utilizadas como fundamento de interpretación.
-*Ver jurisprudencia aquí.*
+**
 # **LIBRO PRIMERO: ****DISPOSICIONES GENERALES**
 ## **SECCIÓN I: LA ACCIÓN PENAL**
 #### **Artículo 1. Acción penal**
@@ -249,7 +249,7 @@ La acción penal es pública.
 **2.** En los delitos de persecución privada corresponde ejercerla al directamente ofendido por el delito ante el órgano jurisdiccional competente. Se necesita la presentación de querella.
 **3.** En los delitos que requieren la previa instancia del directamente ofendido por el delito, el ejercicio de la acción penal por el Ministerio Público está condicionado a la denuncia de la persona autorizada para hacerlo. No obstante, ello, el Ministerio Público puede solicitar al titular de la instancia la autorización correspondiente.
 **4.** Cuando corresponde la previa autorización del Congreso o de otro órgano público para el ejercicio de la acción penal, se observará el procedimiento previsto por la Ley para dejar expedita la promoción de la acción penal.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 2. Principio de oportunidad***
 **1.** El Ministerio Público, de oficio o a pedido del imputado y con su consentimiento, podrá abstenerse de ejercitar la acción penal en cualquiera de los siguientes casos:
 **a)** Cuando el agente haya sido afectado gravemente por las consecuencias de su delito, culposo o doloso, siempre que este último sea reprimido con pena privativa de libertad no mayor de cuatro años, y la pena resulte innecesaria.
@@ -274,20 +274,20 @@ En estos casos, el Fiscal promueve indefectiblemente la acción penal y procede 
 2. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 3. DU 008-2020, publicado el 9 de enero de 2020 (link: bit.ly/3OnSJZg).
 4. Disposición complementaria derogatoria del DL 1695, publicado el 20 de enero de 2026 (link: lpd.pe/zj5Wa).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 3. Comunicación al Juez de la continuación de la investigación**
 El Ministerio Público comunicará al Juez de la Investigación Preparatoria su decisión formal de continuar con las investigaciones preparatorias.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 4. Cuestión previa**
 **1.** La cuestión previa procede cuando el Fiscal decide continuar con la Investigación Preparatoria omitiendo un requisito de procedibilidad explícitamente previsto en la Ley. Si el órgano jurisdiccional la declara fundada se anulará lo actuado.
 **2.** La Investigación Preparatoria podrá reiniciarse luego que el requisito omitido sea satisfecho.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 5. Cuestión prejudicial**
 **1.** La cuestión prejudicial procede cuando el Fiscal decide continuar con la Investigación Preparatoria, pese a que fuere necesaria en vía extra &#8211; penal una declaración vinculada al carácter delictuoso del hecho incriminado.
 **2.** Si se declara fundada, la Investigación Preparatoria se suspende hasta que en la otra vía recaiga resolución firme. Esta decisión beneficia a todos los imputados que se encuentren en igual situación jurídica y que no la hubieren deducido.
 **3.** En caso de que el proceso extra &#8211; penal no haya sido promovido por la persona legitimada para hacerlo, se le notificará y requerirá para que lo haga en el plazo de treinta días computados desde el momento en que haya quedado firme la resolución suspensiva. Si vencido dicho plazo no cumpliera con hacerlo, el Fiscal Provincial en lo Civil, siempre que se trate de un hecho punible perseguible por ejercicio público de la acción penal, deberá promoverlo con citación de las partes interesadas. En uno u otro caso, el Fiscal está autorizado para intervenir y continuar el proceso hasta su terminación, así como sustituir al titular de la acción si éste no lo prosigue.
 **4.** De lo resuelto en la vía extra &#8211; penal depende la prosecución o el sobreseimiento definitivo de la causa.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 6. Excepciones**
 **1.** Las excepciones que pueden deducirse son las siguientes:
 **a)** Naturaleza de juicio, cuando se ha dado al proceso una sustanciación distinta a la prevista en la Ley.
@@ -296,12 +296,12 @@ El Ministerio Público comunicará al Juez de la Investigación Preparatoria su 
 **d)** Amnistía.
 **e)** Prescripción, cuando por el vencimiento de los plazos señalados por el Código Penal se haya extinguido la acción penal o el derecho de ejecución de la pena.
 **2.** En caso que se declare fundada la excepción de naturaleza de juicio, el proceso se adecuará al trámite reconocido en el auto que la resuelva. Si se declara fundada cualquiera de las excepciones previstas en los cuatro últimos literales, el proceso será sobreseído definitivamente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 7. Oportunidad de los medios de defensa**
 **1.** La cuestión previa, cuestión prejudicial y las excepciones se plantean una vez que el Fiscal haya decidido continuar con las investigaciones preparatorias o al contestar la querella ante el Juez y se resolverán necesariamente antes de culminar la Etapa Intermedia.
 **2.** La cuestión previa y las excepciones también se pueden deducir durante la Etapa Intermedia, en la oportunidad fijada por la Ley.
 **3.** Los medios de defensa referidos en este dispositivo, pueden ser declarados de oficio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 8. Trámite de los medios de defensa**
 1. La cuestión previa, cuestión prejudicial y las excepciones que se deduzcan durante la Investigación Preparatoria serán planteadas mediante solicitud debidamente fundamentada ante el Juez de la Investigación Preparatoria que recibió la comunicación señalada en el artículo 3°, adjuntando, de ser el caso, los elementos de convicción que correspondan.
 2. El Juez de la Investigación Preparatoria, una vez que ha recabado información del Fiscal acerca de los sujetos procesales apersonados en la causa y luego de notificarles la admisión del medio de defensa deducido, dentro del tercer día señalará fecha para la realización de la audiencia, la que se realizará con quienes concurran a la misma. El Fiscal asistirá obligatoriamente y exhibirá el expediente fiscal para su examen inmediato por el Juez en ese acto.
@@ -309,32 +309,32 @@ El Ministerio Público comunicará al Juez de la Investigación Preparatoria su 
 4. El Juez de la Investigación Preparatoria resolverá inmediatamente o, en todo caso, en el plazo de dos días luego de celebrada la vista. Excepcionalmente, y hasta por veinticuatro horas, podrá retener el expediente fiscal para resolver el medio de defensa deducido, que se hará mediante auto debidamente fundamentado.
 5. Cuando el medio de defensa se deduce durante la Etapa Intermedia, en la oportunidad fijada en el artículo 350°, se resolverán conforme a lo dispuesto en el artículo 352°.
 6. La cuestión previa, cuestión prejudicial y las excepciones deducidas a favor de uno de los imputados beneficia a los demás, siempre que se encuentren en igual situación jurídica.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 9. Recurso de Apelación**
 1. Contra el auto expedido por el Juez de la Investigación Preparatoria procede recurso de apelación.
 2. Concedido el recurso de apelación, el Juez de la Investigación Preparatoria dispondrá, antes de la elevación del recurso a la Sala Penal Superior, que dentro del quinto día se agreguen a los actuados formados en sede judicial las copias certificadas pertinentes del expediente fiscal. Si transcurre el plazo sin que se haya agregado las copias correspondientes, el Juez inmediatamente elevará los actuados a la Sala Penal Superior, la que sin perjuicio de poner este hecho en conocimiento del Fiscal Superior instará al Fiscal Provincial para que complete el cuaderno de apelación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 10. Indicios de delitos en proceso extra &#8211; penal**
 1. Cuando en la sustanciación de un proceso extra &#8211; penal aparezcan indicios de la comisión de un delito de persecución pública el Juez de oficio o a pedido de parte, comunicará al Ministerio Público para los fines consiguientes.
 2. Si el Fiscal luego de las primeras diligencias decide continuar con la Investigación Preparatoria lo comunicará al Juez extra penal, quien suspenderá el proceso, siempre que considere que la sentencia penal puede influir en la resolución que le corresponde dictar.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN II: LA ACCIÓN CIVIL**
 #### **Artículo 11. Ejercicio y contenido**
 1. El ejercicio de la acción civil derivada del hecho punible corresponde al Ministerio Público y, especialmente, al perjudicado por el delito. Si el perjudicado se constituye en actor civil, cesa la legitimación del Ministerio Público para intervenir en el objeto civil del proceso.
 2. Su ámbito comprende las acciones establecidas en el artículo 93° del Código Penal e incluye, para garantizar la restitución del bien y, siempre que sea posible, la declaración de nulidad de los actos jurídicos que correspondan, con citación de los afectados.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 12. Ejercicio alternativo y accesoriedad**
 1. El perjudicado por el delito podrá ejercer la acción civil en el proceso penal o ante el Orden Jurisdiccional Civil. Pero una vez que se opta por una de ellas, no podrá deducirla en la otra vía jurisdiccional.
 2. Si la persecución penal no pudiese proseguir, ya sea que se disponga la reserva del proceso o se suspenda por alguna consideración legal, la acción civil derivada del hecho punible podrá ser ejercida ante el Orden Jurisdiccional Civil.
 3. La sentencia absolutoria o el auto de sobreseimiento no impedirá al órgano jurisdiccional pronunciarse sobre la acción civil derivada del hecho punible válidamente ejercida, cuando proceda.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 13. Desistimiento**
 1. El actor civil podrá desistirse de su pretensión de reparación civil hasta antes del inicio de la Etapa Intermedia del proceso. Ello no perjudica su derecho a ejercerlo en la vía del proceso civil.
 2. El desistimiento genera la obligación del pago de costas.
 #### **Artículo 14. Transacción**
 1. La acción civil derivada del hecho punible podrá ser objeto de transacción.
 2. Una vez que la transacción se formalice ante el Juez de la Investigación Preparatoria, respecto de la cual no se permite oposición del Ministerio Público, el Fiscal se abstendrá de solicitar reparación civil en su acusación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 15. Nulidad de transferencias**
 1. El Ministerio Público o el actor civil, según los casos, cuando corresponda aplicar lo dispuesto en el artículo 97° del Código Penal o cuando se trate de bienes sujetos a decomiso de conformidad con el artículo 102 del citado Código, que hubieran sido transferidos o gravados fraudulentamente, sin perjuicio de la anotación preventiva y/o de otra medida que corresponda, solicitarán en el mismo proceso penal la nulidad de dicha transferencia o gravamen recaído sobre el bien.
 2. El procedimiento se sujetará a las siguientes reglas:
@@ -343,7 +343,7 @@ El Ministerio Público comunicará al Juez de la Investigación Preparatoria su 
 **c) **El Juez, absuelto el trámite o transcurrido el plazo respectivo, de ser el caso, citará a una audiencia dentro del quinto día para la actuación de las pruebas ofrecidas y escuchar los alegatos de los participantes. A su culminación, con las conclusiones escritas de las partes, el Juez dictará resolución dando por concluido el procedimiento incidental. Están legitimados a intervenir en la actuación probatoria las partes y las personas indicadas en el numeral anterior.
 **d)** El órgano jurisdiccional competente para dictar sentencia se pronunciará sobre la nulidad demandada. Todos los legitimados para intervenir en este incidente pueden participar en todas las actuaciones procesales que puedan afectar su derecho y, especialmente, en el juicio oral, en que podrán formular alegatos escritos y orales. En este último caso intervendrán luego del tercero civil.
 **e)** Esta pretensión también puede interponerse durante la Etapa Intermedia, en el momento fijado por la Ley.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN III: LA JURISDICCIÓN Y COMPETENCIA**
 ## **TÍTULO I: ****LA JURISDICCIÓN**
 #### **Artículo 16.** **Potestad jurisdiccional**
@@ -360,12 +360,12 @@ La jurisdicción penal ordinaria no es competente para conocer:
 1. De los delitos previstos en el artículo 173° de la Constitución.
 2. De los hechos punibles cometidos por adolescentes.
 3. De los hechos punibles en los casos previstos en el artículo 149° de la Constitución.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LA COMPETENCIA**
 #### **Artículo 19. Determinación de la competencia**
 1. La competencia es objetiva, funcional, territorial y por conexión.
 2. Por la competencia se precisa e identifica a los órganos jurisdiccionales que deben conocer un proceso.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 20. Efectos de las cuestiones de competencia**
 Las cuestiones de competencia no suspenderán el procedimiento. No obstante, si se producen antes de dictarse el auto de citación de juicio, se suspenderá la audiencia hasta la decisión del conflicto.
 ### **CAPÍTULO I: LA COMPETENCIA POR ****EL TERRITORIO**
@@ -376,7 +376,7 @@ La competencia por razón del territorio se establece en el siguiente orden:
 3. Por el lugar donde se descubrieron las pruebas materiales del delito.
 4. Por el lugar donde fue detenido el imputado.
 5. Por el lugar donde domicilia el imputado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 22. Delitos cometidos en un medio de transporte**
 1. Si el delito es cometido en un medio de transporte sin que sea posible determinar con precisión la competencia territorial, corresponde conocer al Juez del lugar de llegada más próximo. En este caso el conductor del medio de transporte pondrá el hecho en conocimiento de la autoridad policial del lugar indicado.
 2. La autoridad policial informará de inmediato al Fiscal Provincial para que proceda con arreglo a sus atribuciones.
@@ -405,7 +405,7 @@ Compete a la Sala Penal de la Corte Suprema:
 7. Resolver la recusación planteada contra sus Magistrados.
 8. Juzgar en los casos de delitos de función que señala la Constitución.
 9. Entender de los demás casos que este Código y las Leyes determinan.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 27. Competencia de las Salas Penales de las Cortes Superiores**
 Compete a las Salas Penales de las Cortes Superiores:
 1. Conocer del recurso de apelación contra los autos y las sentencias en los casos previstos por la Ley, expedidos por los Jueces de la Investigación Preparatoria y los Jueces Penales —colegiados o unipersonales—.
@@ -416,7 +416,7 @@ Compete a las Salas Penales de las Cortes Superiores:
 6. Designar al Vocal menos antiguo de la Sala para que actúe como Juez de la Investigación Preparatoria en los casos previstos por la Ley, y realizar el juzgamiento en dichos casos.
 7. Resolver la recusación planteada contra sus Magistrados.
 8. Conocer los demás casos que este Código y las Leyes determinen.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 28. Competencia material y funcional de los Juzgados Penales**
 1. Los Juzgados Penales Colegiados, integrados por tres jueces, conocerán materialmente de los delitos que tengan señalados en la Ley, en su extremo mínimo, una pena privativa de libertad mayor de seis años.
 2. Los Juzgados Penales Unipersonales conocerán materialmente de aquellos cuyo conocimiento no se atribuya a los Juzgados Penales Colegiados.
@@ -430,7 +430,7 @@ Compete a las Salas Penales de las Cortes Superiores:
 **b)** Del recurso de apelación interpuesto contra las sentencias expedidas por el Juez de Paz Letrado;
 **c)** Del recurso de queja en los casos previstos por la Ley;
 **d)** De la dirimencia de las cuestiones de competencia entre los Jueces de Paz Letrados.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 29. Competencia de los Juzgados de la Investigación Preparatoria**
 Compete a los Juzgados de la Investigación Preparatoria:
 1. Conocer las cuestiones derivadas de la constitución de las partes durante la Investigación Preparatoria.
@@ -440,7 +440,7 @@ Compete a los Juzgados de la Investigación Preparatoria:
 5. Ejercer los actos de control que estipula este Código.
 6. Ordenar, en caso de delito con resultado de muerte, si no se hubiera inscrito la defunción, y siempre que se hubiera identificado el cadáver, la correspondiente inscripción en el Registro Nacional de Identificación y Estado Civil.
 7. Conocer de los demás casos que este Código y las Leyes determinen.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 30. Competencia de los Juzgados de Paz Letrados**
 Compete a los Juzgados de Paz Letrados conocer de los procesos por faltas.
 ### **CAPÍTULO III: LA COMPETENCIA POR CONEXIÓN**
@@ -451,7 +451,7 @@ Existe conexión de procesos en los siguientes casos:
 3. Cuando varias personas vinculadas por una misma voluntad criminal hayan cometido diversos hechos punibles en tiempo y lugar diferentes.
 4. Cuando el hecho delictuoso ha sido cometido para facilitar otro delito o para asegurar la impunidad.
 5. Cuando se trate de imputaciones recíprocas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 32. Competencia por conexión***
 En los supuestos de conexión previstos en el artículo 31, la competencia se determinará:
 1. En el numeral 1), le corresponde al Juez que conoce del delito con pena más grave. A igual gravedad, corresponde al Juez que primero recibió la comunicación prevista en el artículo 3.
@@ -468,10 +468,10 @@ En los supuestos de conexión previstos en el artículo 31, la competencia se de
 #### **Artículo 34. Declinatoria de competencia**
 1. Durante la Investigación Preparatoria el imputado, el actor civil o el tercero civil podrán pedir declinatoria de competencia.
 2. La petición procede cuando el Juez se avoca al conocimiento de un delito que no le corresponde por razón de la materia, de jerarquía o de territorio. El Juez la resolverá, de conformidad con el trámite previsto —en lo pertinente— en el artículo 8 *in fine*, mediante resolución fundamentada.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 35.** **Oportunidad para la petición de declinatoria**
 La petición de declinatoria de competencia se interpondrá dentro de los diez días de formalizada la investigación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 36.**** Remisión del proceso**
 Consentida la resolución que la declara fundada, el proceso será remitido a quien corresponda, con conocimiento de las partes.
 #### **Artículo 37.**** Recurso de apelación**
@@ -481,11 +481,11 @@ Los actos procesales válidamente realizados antes de la declinatoria conservan 
 ### **CAPÍTULO II: LA TRANSFERENCIA DE COMPETENCIA**
 #### **Artículo 39. Procedencia **
 La transferencia de competencia se dispone únicamente cuando circunstancias insalvables impidan o perturben gravemente el normal desarrollo de la investigación o del juzgamiento, o cuando sea real o inminente el peligro incontrolable contra la seguridad del procesado o su salud, o cuando sea afectado gravemente el orden público.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 40. Trámite**
 1. La transferencia podrá solicitarla el Fiscal, el imputado, y las demás partes puntualizando los fundamentos y adjuntando la prueba. Formado el incidente se pondrá en conocimiento de los demás sujetos procesales, quienes, en el término de cinco días, expondrán lo conveniente. Vencido el plazo será elevado el incidente.
 2. La Sala resolverá en el plazo de tres días.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 41. Resolución**
 1. La transferencia de competencia del Juez dentro del mismo Distrito Judicial, será resuelta por la Sala Penal Superior.
 2. Cuando se trate del Juez de distinto Distrito Judicial, o de la Sala Penal Superior, la resolverá la Sala Penal Suprema.
@@ -493,11 +493,11 @@ La transferencia de competencia se dispone únicamente cuando circunstancias ins
 #### **Artículo 42. Contienda de competencia por requerimiento**
 1. Cuando el Juez toma conocimiento que otro de igual jerarquía también conoce del mismo caso sin que le corresponda, de oficio o a petición de las partes, solicitará la remisión del proceso. Además de la copia de la resolución, adjuntará los elementos de juicio pertinentes.
 2. El Juez requerido resolverá en el término de dos días hábiles. Si acepta, remitirá lo actuado, con conocimiento de las partes. Si declara improcedente la remisión formará el cuaderno respectivo y lo elevará en el término de tres días a la Sala Penal Superior, para que resuelva en última instancia dentro del quinto día de recibidos los autos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 43. Contienda de competencia por inhibición**
 1. Cuando el Juez se inhibe, de oficio o a instancia de las partes, remitirá copia de las piezas pertinentes a otro Juez si hubiera detenido; en caso contrario remitirá el proceso.
 2. Si el segundo Juez también se inhibe elevará las copias en el plazo de un día hábil, o el principal, para que la Sala Penal Superior resuelva.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 44. Consulta del Juez**
 1. Cuando el Juez tome conocimiento que su superior jerárquico conoce el mismo hecho punible o uno conexo consultará mediante oficio si debe remitir lo actuado.
 2. Cuando el superior tenga conocimiento de que ante un Juez inferior en grado se sigue un proceso que le corresponde, ya sea por razón del delito o por delitos conexos, pedirá de oficio o a petición de las partes la remisión de los actuados.
@@ -510,11 +510,11 @@ La transferencia de competencia se dispone únicamente cuando circunstancias ins
 ### **CAPÍTULO IV: LA ACUMULACIÓN**
 #### **Artículo 46. Acumulación de procesos independientes**
 Cuando en los casos de conexión hubiera procesos independientes, la acumulación tendrá lugar observando las reglas de la competencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 47. Acumulación obligatoria y facultativa**
 1. La acumulación es obligatoria en el supuesto del numeral 2) del artículo 31°.
 2. En los demás casos será facultativa, siempre que los procesos se encuentren en el mismo estado e instancia, y no ocasionen grave retardo en la administración de justicia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 48. Acumulación de oficio o a pedido de parte**
 1. La acumulación puede ser decidida de oficio o a pedido de las partes, o como consecuencia de una contienda de competencia que conduzca hacia ella.
 2. Contra la resolución que ordena la acumulación durante la Investigación Preparatoria procede recurso de apelación ante la Sala Penal Superior, que resolverá en el término de cinco días hábiles.
@@ -524,7 +524,7 @@ La acumulación para el Juzgamiento puede ser ordenada de oficio o a petición d
 La acumulación es improcedente, cuando uno de los procesos es por acción pública y el otro por acción privada; o, cuando uno de ellos se tramita en la jurisdicción ordinaria y el otro en la militar.
 #### **Artículo 51. Separación de procesos acumulados e imputaciones conexas**
 Excepcionalmente, para simplificar el procedimiento y decidir con prontitud, siempre que existan elementos suficientes para conocer con independencia, es procedente la separación de procesos acumulados o de imputaciones o delitos conexos que, requieran de diligencias especiales o plazos más dilatados para su sustanciación, salvo que se considere que la unidad es necesaria para acreditar los hechos. A estos efectos se dispondrá la formación de cuadernos separados.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 52. Resolución y diligencias urgentes**
 Mientras estuviera pendiente la decisión sobre cuestiones de competencia, está permitido resolver sobre la libertad o privación de la libertad del imputado, así como actuar diligencias de carácter urgente e irrealizables ulteriormente o que no permitan ninguna prórroga. La Sala Penal dará prioridad a los incidentes de acumulación en el señalamiento de vista de la causa.
 ### **CAPÍTULO V: LA INHIBICIÓN Y RECUSACIÓN**
@@ -537,14 +537,14 @@ Mientras estuviera pendiente la decisión sobre cuestiones de competencia, está
 **e)** Cuando hubieran aconsejado o manifestado su opinión sobre la causa a alguna de las partes del proceso o exista cualquier otra causa, fundada en motivos graves, que afecte su imparcialidad. Esta disposición alcanza también a los fiscales en los mismos términos, incurriendo en falta muy grave prevista en la Ley 29277, Ley de la Carrera Judicial.
 2. La inhibición se hará constar por escrito, con expresa indicación de la causal invocada. Se presentará a la Sala Penal Superior en el caso del Juez de la Investigación Preparatoria y del Juez Penal, con conocimiento de las partes, y elevando copia certificada de los actuados. La Sala decidirá inmediatamente, previo traslado a las partes por el plazo común de tres días.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 54. Requisitos de la recusación***
 1. Si el Juez no se inhibe, puede ser recusado por las partes. La recusación se formulará por escrito, bajo sanción de inadmisibilidad, siempre que la recusación se sustente en alguna de las causales señaladas en el artículo 53°, esté explicada con toda claridad la causal que invoca y se adjunten, si los tuviera, los elementos de convicción pertinentes. También será inadmisible y se rechazará de plano por el propio Juez de la causa, la recusación que se interponga fuera del plazo legal.
 2. La recusación será interpuesta hasta antes de la emisión del acto que pone fin a cada etapa del proceso. No obstante ello, si con posterioridad al inicio de la audiencia el Juez advierte —por sí o por intermedio de las partes— un hecho constitutivo de causal de inhibición deberá declararse de oficio. El Juez que no cumpla con inhibirse en este supuesto incurre en falta muy grave prevista en la Ley 29277, Ley de la Carrera Judicial.
 3. Cuando se trate del procedimiento recursal, la recusación será interpuesta hasta un día hábil antes de la audiencia de vista de la causa. El órgano revisor tiene el deber de conceder el plazo de tres días a las partes para que ejerzan el derecho de recusar al Juez o a los jueces de revisión. Los integrantes del órgano revisor que no cumplan con este deber incurren en falta muy grave prevista en la Ley 29277, Ley de la Carrera Judicial.
 4. Todas las causales de recusación deben ser alegadas al mismo tiempo.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw). En el numeral 2, se detalla que la recusación «será interpuesta hasta antes de la emisión del acto que pone fin a cada etapa del proceso», además de indicar como una falta grave al juez que no se inhiba en el supuesto indicado. En el numeral 3, se modificó y agregó lo siguiente: «[&#8230;] hasta un día hábil antes de la audiencia de vista de la causa. El órgano [&#8230;] Judicial».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 55. Reemplazo del inhibido o recusado**
 1. Producida la inhibición o recusación, el inhibido o recusado será reemplazado de acuerdo a Ley, con conocimiento de las partes.
 2. Si las partes no están conformes con la inhibición o aceptación de la recusación, podrán interponer apelación ante el Magistrado de quien se trate, a fin de que el superior inmediato decida el incidente dentro del tercer día.
@@ -554,7 +554,7 @@ Si el Juez recusado rechaza de plano la recusación o no conviene con ésta, for
 #### **Artículo 57. Trámites especiales**
 1. Cuando se trata de miembros de órganos jurisdiccionales colegiados, se seguirá el mismo procedimiento previsto en los artículos anteriores, pero corresponderá decidir al mismo órgano colegiado integrándose por otro magistrado. Contra lo decidido no procede ningún recurso.
 2. Si la recusación es contra todos los integrantes del órgano judicial colegiado, conocerá de la misma el órgano jurisdiccional llamado por la Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 58. Inhibición y recusación de secretarios y auxiliares jurisdiccionales**
 Las mismas reglas regirán respecto a los Secretarios y a quienes cumplan una función de auxilio judicial en el procedimiento. El órgano judicial ante el cual actúan, decidirá inmediatamente reemplazándolo durante ese trámite por el llamado por Ley.
 #### **Artículo 59. Actuaciones impostergables **
@@ -568,26 +568,26 @@ Mientras esté pendiente de resolver la inhibición o recusación, el Juez podr�
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *2. Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 2 (link: lpd.pe/Xe7Bw), en el cual se precisa que la Policía Nacional es quien lleva a cabo la investigación preliminar y la investigación preparatoria.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 61. Atribuciones y obligaciones***
 1. El Fiscal actúa en el proceso penal con independencia de criterio. Adecua sus actos a un criterio objetivo, rigiéndose únicamente por la Constitución y la Ley, sin perjuicio de las directivas o instrucciones de carácter general que emita la Fiscalía de la Nación.
 2. Conduce jurídicamente la Investigación Preparatoria. Dispone de inmediato, en caso de delito flagrante o de existir detenido, el inicio de la investigación preliminar y, en el término no mayor de veinticuatro horas en los casos de delitos de tráfico ilícito de drogas, terrorismo, sicariato, extorsión, secuestro, feminicidio y criminalidad organizada. En caso de no existir detenido ni flagrancia y, en otro tipo de delitos, lo hará en el término no mayor de cuarenta y ocho horas a fin de indagar por intermedio de la Policía Nacional del Perú no sólo las circunstancias que permitan comprobar la imputación, sino también las que sirvan para eximir o atenuar la responsabilidad del imputado. Solicitará al Juez las medidas que considere necesarias, cuando corresponda hacerlo.
 3. Interviene en la emisión de la disposición para la investigación preliminar que está a cargo de la Policía Nacional del Perú, e interviene permanentemente desde la formalización de la Investigación Preparatoria y durante todo el desarrollo del proceso. Tiene legitimación para interponer los recursos y medios de impugnación que la Ley establece.
 4. Está obligado a apartarse del conocimiento de una investigación o proceso cuando esté incurso en las causales de inhibición establecidas en el artículo 53°.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024. Específicamente, se modificaron los numerales 2 y 3 (link: lpd.pe/Xe7Bw). En el numeral 2, se especifican los plazos para la investigación preliminar en caso de flagrancia y no flagrancia, además de los tipos de delitos que los conforman. En el numeral 3, se precisa que la Policía Nacional está a cargo de la investigación preliminar.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 62. Exclusión del Fiscal**
 1. Sin perjuicio de lo dispuesto en la Ley Orgánica del Ministerio Público, el superior jerárquico de un Fiscal, de oficio o a instancia del afectado, podrá reemplazarlo cuando no cumple adecuadamente con sus funciones o incurre en irregularidades. También podrá hacerlo, previa las indagaciones que considere convenientes, cuando esté incurso en las causales de recusación establecidas respecto de los jueces.
 2. El Juez está obligado a admitir la intervención del nuevo Fiscal designado por el superior.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 63. Actividad y distribución de funciones**
 1. El ámbito de la actividad del Ministerio Público, en lo no previsto por este Código, será el señalado por su Ley Orgánica.
 2. Corresponde al Fiscal de la Nación, de conformidad con la Ley, establecer la distribución de funciones de los miembros del Ministerio Público.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 64. Disposiciones y requerimientos**
 1. El Ministerio Público formulará sus Disposiciones, Requerimientos y Conclusiones en forma motivada y específica, de manera que se basten a sí mismos, sin remitirse a las decisiones del Juez, ni a Disposiciones o Requerimientos anteriores.
 2. Procederá oralmente en la audiencia y en los debates, y por escrito en los demás casos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 65. La investigación del delito destinada a ejercitar la acción penal***
 1. El Ministerio Público, en la investigación del delito destinada a ejercitar la acción penal, deberá obtener los elementos de convicción necesarios para la acreditación de los hechos delictivos, así como para identificar a los autores o partícipes en su comisión. Con la finalidad de garantizar la mayor eficacia en la lucha contra el delito, el Ministerio Público y la Policía Nacional deben cooperar y actuar de forma conjunta y coordinada, debiendo diseñar protocolos de actuación, sin perjuicio de dar cumplimiento a lo dispuesto en los artículos 69 y 333.
 2. El Fiscal, en cuanto tenga noticia del delito, dispone de forma inmediata que la Policía Nacional del Perú realice las diligencias preliminares.
@@ -598,11 +598,11 @@ Mientras esté pendiente de resolver la inhibición o recusación, el Juez podr�
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *3. Ley 32130, publicada el 10 de octubre de 2024, que modificó los numerales 2, 3 y 4 (link: lpd.pe/Xe7Bw). En el numeral 2, se indica que ahora la Policía es quien se encarga de las diligencias preliminares. Luego, en el numeral 3, se añade que el fiscal dispone los plazos para los actos de investigación; y, finalmente, en el numeral 4, se precisan las estrategias que les corresponden al fiscal y a la Policía en la investigación del delito.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 66. Poder coercitivo**
 1. En caso de inconcurrencia a una citación debidamente notificada bajo apercibimiento, el Ministerio Público dispondrá la conducción compulsiva del omiso por la Policía Nacional.
 2. Realizada la diligencia cuya frustración motivó la medida, o en todo caso, antes de que transcurran veinticuatro horas de ejecutada la orden de fuerza, el Fiscal dispondrá su levantamiento, bajo responsabilidad.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: LA POLICÍA**
 #### **Artículo 67. Función de investigación de la Policía Nacional***
 1. La Policía Nacional del Perú en cumplimiento de sus funciones debe, inclusive por propia iniciativa, tomar conocimiento de los delitos y comunicar inmediatamente al Fiscal, debiendo realizar, las diligencias de investigación urgentes o inaplazables, que formarán parte de las diligencias preliminares y de la carpeta fiscal, para impedir sus consecuencias, individualizar a sus autores y partícipes, así como reunir y asegurar los elementos de prueba que puedan servir para la aplicación de la ley penal.
@@ -613,7 +613,7 @@ Similar función desarrollará tratándose de delitos dependientes de instancia 
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 3. Ley 32130, publicada el 10 de octubre de 2024, que modificó el primer párrafo del numeral 1y el literal l) del mismo numeral, además del numeral 2 (link: lpd.pe/Xe7Bw). En el primer numeral, se indica que las diligencias de investigación urgentes o inaplazables forman parte de la carpeta fiscal; mientras que en el numeral 2, se añade que la Policía debe comunicar las diligencias preliminares al Ministerio Público y que no están subordinados ante el fiscal. Además, en esta modificación se cambia el rótulo del artículo, que anteriormente se denominaba «Función de investigación de la Policía».
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 68. Atribuciones de la Policía Nacional del Perú***
 **1.** La Policía Nacional del Perú en función de investigación, sin perjuicio de lo dispuesto en el artículo 67 y en las normas sobre investigación, bajo la conducción del Fiscal, puede realizar los siguientes actos de investigación:
 **a.** Recibir las denuncias escritas o sentar el acta de las verbales, así como tomar declaraciones a los denunciantes.
@@ -635,19 +635,19 @@ Similar función desarrollará tratándose de delitos dependientes de instancia 
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 2. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw). En el primer numeral, se indica que las diligencias de investigación urgentes o inaplazables forman parte de la carpeta fiscal; mientras que en el numeral 2, se añade que la Policía debe comunicar las diligencias preliminares al Ministerio Público y que no están subordinados ante el fiscal. Además, en esta modificación se cambia el rótulo del artículo, que anteriormente se denominaba «Función de investigación de la Policía».
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 68-A. Operativo de revelación del delito***
 1. Ante la inminente perpetración de un delito y durante su comisión, el Fiscal, en coordinación con la Policía, podrá disponer la realización de un operativo con la finalidad de identificar y, de ser el caso, detener a sus presuntos autores, perennizándolo a través del medio idóneo, conforme a las circunstancias del caso. Asimismo, para el esclarecimiento de un evento delictivo dicho operativo debe realizarse de manera conjunta entre el Fiscal y la Policía.
 2. En los supuestos en los que se les imposibilite a la Fiscalía estar presente en el operativo de manera inmediata, la Policía debe proceder a ejecutarlo sin su presencia cuando se amenace la vida, la integridad o la libertad personal de la víctima. Sin embargo, debe apersonarse lo más pronto posible al lugar de los hechos a fin de convalidar los actos realizados por la Policía.
 3. Para el operativo el Fiscal podrá disponer la asistencia y participación de otras entidades, siempre que no genere un riesgo para la integridad de los intervinientes y para la realización del operativo.
 ** Artículo incorporado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX). Luego, este artículo fue modificado por el **DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 69. Instrucciones del Fiscal de la Nación***
 Sin perjuicio de las coordinaciones específicas entre el Fiscal y la Policía Nacional en el marco de sus competencias para cada caso, el Fiscal de la Nación regulará mediante Instrucciones Generales los requisitos legales y las formalidades de las actuaciones de investigación que deben cumplir los fiscales, así como los mecanismos de coordinación que ellos deben mantener con la Policía Nacional para el adecuado cumplimiento de lo previsto en este Código.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz). Clic **aquí**.*
 #### **Artículo 70. Prohibición de informar**
 La Policía podrá informar a los medios de comunicación social acerca de la identidad de los imputados. Cuando se trate de la víctima, testigos, o de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible requerirá la previa autorización del Fiscal.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: EL IMPUTADO Y EL ABOGADO DEFENSOR**
 ### **CAPÍTULO I: EL IMPUTADO**
 #### **Artículo 71. Derechos del imputado**
@@ -661,7 +661,7 @@ La Policía podrá informar a los medios de comunicación social acerca de la id
 **f) **Ser examinado por un médico legista o en su defecto por otro profesional de la salud, cuando su estado de salud así lo requiera.
 3. El cumplimiento de lo prescrito en los numerales anteriores debe constar en acta, ser firmado por el imputado y la autoridad correspondiente. Si el imputado se rehúsa a firmar el acta se hará constar la abstención, y se consignará el motivo si lo expresare. Cuando la negativa se produce en las primeras diligencias de investigación, previa intervención del Fiscal se dejará constancia de tal hecho en el acta.
 4. Cuando el imputado considere que durante las Diligencias Preliminares o en la Investigación Preparatoria no se ha dado cumplimiento a estas disposiciones, o que sus derechos no son respetados, o que es objeto de medidas limitativas de derechos indebidas o de requerimientos ilegales, puede acudir en vía de tutela al Juez de la Investigación Preparatoria para que subsane la omisión o dicte las medidas de corrección o de protección que correspondan. La solicitud del imputado se resolverá inmediatamente, previa constatación de los hechos y realización de una audiencia con intervención de las partes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 72. Identificación del imputado**
 1. Desde el primer acto en que intervenga el imputado, será identificado por su nombre, datos personales, señas particulares y, cuando corresponda, por sus impresiones digitales a través de la oficina técnica respectiva.
 2. Si el imputado se abstiene de proporcionar esos datos o lo hace falsamente, se le identificará por testigos o por otros medios útiles, aun contra su voluntad.
@@ -692,14 +692,14 @@ El Director del Centro Hospitalario en donde el procesado reciba asistencia méd
 4. La declaración de contumacia o ausencia no suspende la Investigación Preparatoria ni la Etapa Intermedia respecto del contumaz o ausente. Esta declaración no altera el curso del proceso con respecto a los demás imputados.
 5. Si la declaración de ausencia o contumacia se produce durante el juicio oral, el proceso debe archivarse provisionalmente respecto de aquél. En todo caso, el contumaz o ausente puede ser absuelto pero no condenado.
 6. Con la presentación del contumaz o ausente, y realizadas las diligencias que requieran su intervención, cesa dicha condición, debiendo dejarse sin efecto el mandato de conducción compulsiva, así como todas las comunicaciones que se hubieran cursado con tal objeto. Este mandato no afecta la orden de detención o prisión preventiva a la que estuviera sujeto el procesado.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: EL ABOGADO DEFENSOR**
 #### **Artículo 80. Derecho a la defensa técnica **
 El Servicio Nacional de la Defensa de Oficio, a cargo del Ministerio de Justicia, proveerá la defensa gratuita a todos aquellos que dentro del proceso penal, por sus escasos recursos no puedan designar abogado defensor de su elección, o cuando resulte indispensable el nombramiento de un abogado defensor de oficio para garantizar la legalidad de una diligencia y el debido proceso.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 81. Compatibilidad del patrocinio **
 El Abogado Defensor puede ejercer el patrocinio de varios imputados de un mismo proceso, siempre que no exista incompatibilidad de defensa entre ellos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 82. Defensa conjunta **
 Los Abogados que forman Estudios Asociados pueden ejercer la defensa de un mismo procesado, sea de manera conjunta o separada. Si concurren varios abogados asociados a las diligencias, uno solo ejercerá la defensa, debiendo limitarse los demás a la interconsulta que reservadamente le solicite su colega.
 #### **Artículo 83. Efectos de la notificación***
@@ -721,7 +721,7 @@ El abogado defensor está prohibido de recurrir al uso de mecanismos dilatorios 
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 *2. Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 7 (link: lpd.pe/Xe7Bw), en el que indica que ahora el abogado defensor puede tener acceso a los documentos policiales en todo el desarrollo del proceso.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 85. Reemplazo del abogado defensor***
 1. Si el abogado defensor no concurre a la diligencia para la que es citado, y ésta es de carácter inaplazable, será reemplazado por otro que, en ese acto, designe el procesado, o por un defensor público, llevándose adelante la diligencia.
 Son audiencias inaplazables las previstas en los artículos 271, 345, 351, 367, 447 y 448.
@@ -733,20 +733,20 @@ Son audiencias inaplazables las previstas en los artículos 271, 345, 351, 367, 
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO III: LA DECLARACIÓN DEL IMPUTADO**
 #### **Artículo 86. Momento y carácter de la declaración***
 1. En el curso de las actuaciones procesales, en todas las etapas del proceso y con arreglo a lo dispuesto por este Código, el imputado tiene derecho a prestar declaración, sea de manera presencial o por videoconferencia en circunstancias particulares debidamente justificadas, y a ampliarla, a fin de ejercer su defensa y responder a los cargos formulados en su contra. Las ampliaciones de declaración procederán si fueren pertinentes y no aparezcan sólo como un procedimiento dilatorio o malicioso.
 2. Durante la Investigación Preparatoria el imputado, sin perjuicio de hacerlo ante la Policía con las previsiones establecidas en este Código, prestará declaración ante el Fiscal mediante las modalidades mencionadas en el numeral 1, con la necesaria asistencia de su abogado defensor, cuando éste lo ordene o cuando el imputado lo solicite.
 3. Durante el Juicio la declaración se recibirá en la oportunidad y forma prevista para dicho acto.
 ** Artículo modificado por la Ley 32374, publicada el 7 de junio de 2025 (link: lpd.pe/XCeANz). Se modificaron los numerales 1 y 2.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 87. Instrucciones preliminares**
 1. Antes de comenzar la declaración del imputado, se le comunicará detalladamente el hecho objeto de imputación, los elementos de convicción y de pruebas existentes, y las disposiciones penales que se consideren aplicables. De igual modo se procederá cuando se trata de cargos ampliatorios o de la presencia de nuevos elementos de convicción o de prueba. Rige el numeral 2) del artículo 71°.
 2. De igual manera, se le advertirá que tiene derecho a abstenerse de declarar y que esa decisión no podrá ser utilizada en su perjuicio. Asimismo, se le instruirá que tiene derecho a la presencia de un abogado defensor, y que si no puede nombrarlo se le designará un defensor de oficio. Si el abogado recién se incorpora a la defensa, el imputado tiene derecho a consultar con él antes de iniciar la diligencia y, en su caso, a pedir la postergación de la misma.
 3. El imputado también será informado de que puede solicitar la actuación de medios de investigación o de prueba, a efectuar las aclaraciones que considere convenientes durante la diligencia, así como a dictar su declaración durante la etapa de Investigación Preparatoria.
 4. Sólo se podrá exhortar al imputado a que responda con claridad y precisión las preguntas que se le formulen. El Juez, o el Fiscal durante la investigación preparatoria, podrán hacerle ver los beneficios legales que puede obtener si coopera al pronto esclarecimiento de los hechos delictuosos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 88. Desarrollo de la declaración***
 1. La diligencia se inicia requiriendo al imputado declarar respecto a:
 **a)** Nombre, apellidos, sobrenombre o apodo, si lo tuviere, lugar y fecha de nacimiento, edad, estado civil, profesión u ocupación, domicilio real y procesal, principales sitios de residencia anterior, así como nombres y apellidos de sus padres, cónyuge e hijos y de las personas con quienes vive.
@@ -766,18 +766,18 @@ Son audiencias inaplazables las previstas en los artículos 271, 345, 351, 367, 
 ## **TÍTULO III: LAS PERSONAS JURÍDICAS**
 #### **Artículo 90. Incorporación al proceso**
 Las personas jurídicas, siempre que sean pasibles de imponérseles las medidas previstas en los artículos 104° y 105° del Código Penal, deberán ser emplazadas e incorporadas en el proceso, a instancia del Fiscal.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 91. Oportunidad y trámite**
 1. El requerimiento del Fiscal se producirá una vez cumplido el trámite estipulado en el artículo 3°. La solicitud deberá ser formulada al Juez de la Investigación Preparatoria hasta antes de darse por concluida la Investigación Preparatoria. Será necesario que se indique la identificación y el domicilio de la persona jurídica, la relación sucinta de los hechos en que se funda el petitorio y la fundamentación legal correspondiente.
 2. El trámite que seguirá el Juez Penal para resolver el pedido será el estipulado en el artículo 8, con la activa intervención de la persona jurídica emplazada.
 #### **Artículo 92. Designación de apoderado judicial**
 1. Una vez que la persona jurídica es incorporada al proceso, se requerirá a su órgano social que designe un apoderado judicial. No podrá designarse como tal a la persona natural que se encuentre imputada por los mismos hechos.
 2. Si, previo requerimiento, en el plazo de cinco días, no se designa un apoderado judicial, lo hará el Juez.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 93. Derechos y garantías**
 1. La persona jurídica incorporada en el proceso penal, en lo concerniente a la defensa de sus derechos e intereses legítimos, goza de todos los derechos y garantías que este Código concede al imputado.
 2. Su rebeldía o falta de apersonamiento, luego de haber sido formalmente incorporada en el proceso, no obstaculiza el trámite de la causa, quedando sujeta a las medidas que en su oportunidad pueda señalar la sentencia.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO IV: LA VÍCTIMA**
 ### **CAPÍTULO I: EL AGRAVIADO**
 #### **Artículo 94. Definición**
@@ -785,7 +785,7 @@ Las personas jurídicas, siempre que sean pasibles de imponérseles las medidas 
 2. En los delitos cuyo resultado sea la muerte del agraviado tendrán tal condición los establecidos en el orden sucesorio previsto en el artículo 816° del Código Civil.
 3. También serán considerados agraviados los accionistas, socios, asociados o miembros, respecto de los delitos que afectan a una persona jurídica cometidos por quienes las dirigen, administran o controlan.
 4. Las asociaciones en los delitos que afectan intereses colectivos o difusos, cuya titularidad lesione a un número indeterminado de personas, o en los delitos incluidos como crímenes internacionales en los Tratados Internacionales aprobados y ratificados por el Perú, podrán ejercer los derechos y facultades atribuidas a las personas directamente ofendidas por el delito, siempre que el objeto social de la misma se vincule directamente con esos intereses y haya sido reconocida e inscrita con anterioridad a la comisión del delito objeto del procedimiento.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 95. Derechos del agraviado**
 1. El agraviado tendrá los siguientes derechos:
 **a)** A ser informado de los resultados de la actuación en que haya intervenido, así como del resultado del procedimiento, aun cuando no haya intervenido en él, siempre que lo solicite;
@@ -794,10 +794,10 @@ Las personas jurídicas, siempre que sean pasibles de imponérseles las medidas 
 **d)** A impugnar el sobreseimiento y la sentencia absolutoria.
 2. El agraviado será informado sobre sus derechos cuando interponga la denuncia, al declarar preventivamente o en su primera intervención en la causa.
 3. Si el agraviado fuera menor o incapaz tendrá derecho a que durante las actuaciones en las que intervenga, sea acompañado por persona de su confianza.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 96. Deberes del agraviado **
 La intervención del agraviado como actor civil no lo exime del deber de declarar como testigo en las actuaciones de la investigación y del juicio oral.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 97. Designación de apoderado común**
 Cuando se trate de numerosos agraviados por el mismo delito, que se constituyan en actor civil, si el Juez considera que su número puede entorpecer el normal desarrollo de la causa, siempre que no existan defensas incompatibles, representen intereses singulares o formulen pretensiones diferenciadas, dispondrá nombren un apoderado común. En caso no exista acuerdo explícito el Juez designará al apoderado.
 ### **CAPÍTULO II: EL ACTOR CIVIL**
@@ -805,11 +805,11 @@ Cuando se trate de numerosos agraviados por el mismo delito, que se constituyan 
 La acción reparatoria en el proceso penal solo podrá ser ejercitada por quien resulte perjudicado por el delito, es decir, por quien según la ley civil esté legitimado para reclamar la reparación y, en su caso, los daños y perjuicios producidos por el delito.
 Tratándose de víctimas menores de edad, el defensor público de víctimas o el abogado del Centro de Emergencia Mujer del Ministerio de la Mujer y Poblaciones Vulnerables asumen la representación legal para el proceso penal y podrán presentar la correspondiente solicitud de constitución en actor civil.
 **Artículo modificado por la Ley 31146, publicada el 30 de marzo de 2021 (link: bit.ly/47cGoPR).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 99. Concurrencia de peticiones**
 1. La concurrencia de peticiones se resolverá siguiendo el orden sucesorio previsto en el Código Civil. Tratándose de herederos que se encuentren en el mismo orden sucesorio, deberán designar apoderado común, y de no existir acuerdo explícito, el Juez procederá a hacerlo.
 2. En los supuestos indicados en el numeral 3 del artículo 94° el Juez, luego de escuchar a los que se han constituido en actor civil, designará apoderado común.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 100. Requisitos para constituirse en actor civil**
 1. La solicitud de constitución en actor civil se presentará por escrito ante el Juez de la Investigación Preparatoria.
 2. Esta solicitud debe contener, bajo sanción de inadmisibilidad:
@@ -817,30 +817,30 @@ Tratándose de víctimas menores de edad, el defensor público de víctimas o el
 **b)** La indicación del nombre del imputado y, en su caso, del tercero civilmente responsable, contra quien se va a proceder;
 **c)** El relato circunstanciado del delito en su agravio y exposición de las razones que justifican su pretensión; y,
 **d)** La prueba documental que acredita su derecho, conforme al artículo 98°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 101. Oportunidad de la constitución en actor civil **
 La constitución en actor civil deberá efectuarse antes de la culminación de la Investigación Preparatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 102. Trámite de la constitución en actor civil***
 1. El Juez de la Investigación Preparatoria, una vez que ha recabado información del Fiscal acerca de los sujetos procesales apersonados en la causa y luego de notificarles la solicitud de constitución en actor civil resolverá dentro del tercer día.
 2. Rige en lo pertinente, y a los solos efectos del trámite, el artículo 8, siempre que alguna de las partes haya manifestado dentro del tercer día hábil su oposición mediante escrito fundamentado.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 103. Recurso de apelación**
 1. Contra la resolución que se pronuncia sobre la constitución en actor civil procede recurso de apelación.
 2. La Sala Penal Superior resolverá de conformidad con lo dispuesto en el artículo 420°.
 #### **Artículo 104. Facultades del actor civil**
 El actor civil, sin perjuicio de los derechos que se le reconocen al agraviado, está facultado para deducir nulidad de actuados, ofrecer medios de investigación y de prueba, participar en los actos de investigación y de prueba, intervenir en el juicio oral, interponer los recursos impugnatorios que la Ley prevé, intervenir -cuando corresponda- en el procedimiento para la imposición de medidas limitativas de derechos, y formular solicitudes en salvaguarda de su derecho.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 105. Facultades adicionales del actor civil **
 La actividad del actor civil comprenderá también la colaboración con el esclarecimiento del hecho delictivo y la intervención de su autor o partícipe, así como acreditar la reparación civil que pretende. No le está permitido pedir sanción.
 #### **Artículo 106. Impedimento de acudir a la vía extra &#8211; penal**
 La constitución en actor civil impide que presente demanda indemnizatoria en la vía extra &#8211; penal. El actor civil que se desiste como tal antes de la acusación fiscal no está impedido de ejercer la acción indemnizatoria en la otra vía.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO III: EL QUERELLANTE PARTICULAR**
 #### **Artículo 107. Derechos del querellante particular**
 En los delitos de ejercicio privado de la acción penal, conforme al numeral 2 del artículo 1°, el directamente ofendido por el delito podrá instar ante el órgano jurisdiccional, siempre conjuntamente, la sanción penal y pago de la reparación civil contra quien considere responsable del delito en su agravio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 108. Requisitos para constituirse en querellante particular**
 1. El querellante particular promoverá la acción de la justicia mediante querella.
 2. El escrito de querella debe contener, bajo sanción de inadmisibilidad:
@@ -848,19 +848,19 @@ En los delitos de ejercicio privado de la acción penal, conforme al numeral 2 d
 **b) **El relato circunstanciado del hecho punible y exposición de las razones fácticas y jurídicas que justifican su pretensión, con indicación expresa de la persona o personas contra la que se dirige;
 **c) **La precisión de la pretensión penal y civil que deduce, con la justificación correspondiente; y,
 **d)** El ofrecimiento de los medios de prueba correspondientes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 109. Facultades del querellante particular**
 1. El querellante particular está facultado para participar en todas las diligencias del proceso, ofrecer prueba de cargo sobre la culpabilidad y la reparación civil, interponer recursos impugnatorios referidos al objeto penal y civil del proceso, y cuantos medios de defensa y requerimientos en salvaguarda de su derecho.
 2. El querellante particular podrá intervenir en el procedimiento a través de un apoderado designado especialmente a este efecto. Esta designación no lo exime de declarar en el proceso.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 110. Desistimiento del querellante particular **
 El querellante particular podrá desistirse expresamente de la querella en cualquier estado del procedimiento, sin perjuicio del pago de costas. Se considerará tácito el desistimiento cuando el querellante particular no concurra sin justa causa a las audiencias correspondientes, a prestar su declaración o cuando no presente sus conclusiones al final de la audiencia. En los casos de incomparecencia, la justa causa deberá acreditarse, de ser posible, antes del inicio de la diligencia o, en caso contrario, dentro de las cuarenta y ocho horas siguientes a la fecha fijada para aquella.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO V: EL TERCERO CIVIL**
 #### **Artículo 111. Citación a personas que tengan responsabilidad civil**
 1. Las personas que conjuntamente con el imputado tengan responsabilidad civil por las consecuencias del delito, podrán ser incorporadas como parte en el proceso penal a solicitud del Ministerio Público o del actor civil.
 2. La solicitud deberá ser formulada al Juez en la forma y oportunidad prevista en los artículos 100° &#8211; 102°, con indicación del nombre y domicilio del emplazado y su vínculo jurídico con el imputado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 112. Trámite**
 1. El trámite en sede judicial para la constitución en parte del tercero civil será el previsto —en lo pertinente— en el artículo 102°, con su activa intervención.
 2. Si el Juez considera procedente el pedido, mandará notificar al tercero civil para que intervenga en el proceso, con copia del requerimiento. También dará inmediato conocimiento al Ministerio Público, acompañando el cuaderno, para que le otorgue la intervención correspondiente.
@@ -869,7 +869,7 @@ El querellante particular podrá desistirse expresamente de la querella en cualq
 1. El tercero civil, en lo concerniente a la defensa de sus intereses patrimoniales goza de todos los derechos y garantías que este Código concede al imputado.
 2. Su rebeldía o falta de apersonamiento, luego de haber sido incorporado como parte y debidamente notificado, no obstaculiza el trámite del proceso, quedando obligado a los efectos indemnizatorios que le señale la sentencia.
 3. El asegurador podrá ser llamado como tercero civilmente responsable, si éste ha sido contratado para responder por la responsabilidad civil.
-*Ver jurisprudencia aquí.*
+**
 LIBRO SEGUNDO
 LA ACTIVIDAD PROCESAL
 ## **SECCIÓN I: PRECEPTOS GENERALES**
@@ -880,10 +880,10 @@ LA ACTIVIDAD PROCESAL
 2. Cuando una persona no comprenda el idioma o no se exprese con facilidad, se le brindará la ayuda necesaria para que el acto pueda desarrollarse regularmente.
 3. Deberá proveérseles traductor o intérprete, según corresponda, a las personas que ignoren el castellano, a quienes se les permita hacer uso de su propio idioma, así como a los sordomudos y a quienes tengan algún impedimento para darse a entender.
 4. Los documentos y las grabaciones en un idioma distinto del español deberán ser traducidos cuando sea necesario.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 115. Declaraciones e interrogatorios con intérpretes**
 Las personas serán interrogadas en castellano o por intermedio de un traductor o intérprete, cuando corresponda. El Juez podrá permitir, expresamente, el interrogatorio directo en otro idioma o forma de comunicación. En tal caso, la traducción o la interpretación precederán a las respuestas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 116. Lugar**
 1. Las actuaciones procesales se realizarán en el Despacho del Fiscal o del Juez, según el caso.
 2. No obstante ello, el Fiscal o el Juez podrán constituirse en cualquier lugar del territorio nacional, cuando resulte indispensable, y no sea imposible o de muy difícil consecución, conocer directamente elementos de convicción decisivos en una causa bajo su conocimiento.
@@ -892,27 +892,27 @@ Salvo disposición legal en contrario, las actuaciones procesales podrán ser re
 #### **Artículo 118.**** Juramento**
 1. Cuando se requiera juramento, se recibirá según las creencias de quien lo hace, después de instruirlo sobre la sanción que se haría acreedor por la comisión del delito contra la Administración de Justicia. El declarante prometerá decir la verdad en todo cuanto sepa y se le pregunte.
 2. Si el declarante se niega a prestar juramento en virtud de creencias religiosas o ideológicas, se le exigirá promesa de decir la verdad, con las mismas advertencias del párrafo anterior.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 119. Interrogatorio**
 1. Las personas que sean interrogadas deberán responder de viva voz y sin consultar notas ni documentos, con excepción de los peritos y de quienes sean autorizados para ello, incluso los imputados, en razón de sus condiciones o de la naturaleza de los hechos o circunstancias del proceso.
 2. El declarante será invitado a manifestar cuanto conozca sobre el asunto de que se trate y después, si es necesario, se le interrogará. Las preguntas que se le formulen no serán impertinentes, capciosas ni sugestivas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 119-A. Audiencia***
 1. La presencia física del imputado es obligatoria en la audiencia del juicio, conforme al inciso 1) del artículo 356, así como en aquellos actos procesales dispuestos por ley.
 2. Excepcionalmente, a pedido del fiscal, del imputado o por disposición del juez, podrá utilizarse el método de videoconferencia en casos que el imputado se encuentre privado de su libertad y su traslado al lugar de la audiencia encuentre dificultades por la distancia o porque exista peligro de fuga.
 ** Artículo incorporado por la Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: LAS ACTAS**
 #### **Artículo 120. Régimen General**
 1. La actuación procesal, fiscal o judicial, se documenta por medio de acta, utilizándose de ser posible los medios técnicos que correspondan.
 2. El acta debe ser fechada con indicación del lugar, año, mes, día y hora en que haya sido redactada, las personas que han intervenido y una relación sucinta o integral —según el caso— de los actos realizados. Se debe hacer constar en el acta el cumplimiento de las disposiciones especiales previstas para las actuaciones que así lo requieran.
 3. Será posible la reproducción audiovisual de la actuación procesal, sin perjuicio de efectuarse la transcripción respectiva en un acta. La Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, cada uno en su ámbito, en función a las posibilidades de la Institución, dictarán disposiciones que permitan su utilización.
 4. El acta será suscrita por el funcionario o autoridad que dirige y por los demás intervinientes, previa lectura. Si alguno no puede o no quiere firmar, se dejará constancia de ese hecho. Si alguien no sabe firmar, podrá hacerlo, en su lugar, otra persona, a su ruego o bien un testigo de actuación, sin perjuicio de que se imprima su huella digital.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 121. Invalidez del acta**
 1. El acta carecerá de eficacia sólo si no existe certeza sobre las personas que han intervenido en la actuación procesal, o si faltare la firma del funcionario que la ha redactado.
 2. La omisión en el acta de alguna formalidad sólo la privará de sus efectos, o tornará invalorable su contenido, cuando ellas no puedan ser suplidas con certeza sobre la base de otros elementos de la misma actuación o actuaciones conexas, o no puedan ser reproducidas con posterioridad y siempre que provoquen un agravio específico e insubsanable a la defensa del imputado o de los demás sujetos procesales.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO III: LAS DISPOSICIONES Y LAS RESOLUCIONES**
 #### **Artículo 122. Actos del Ministerio Público**
 1. El Ministerio Público, en el ámbito de su intervención en el proceso, dicta Disposiciones y Providencias, y formula Requerimientos.
@@ -921,22 +921,22 @@ Salvo disposición legal en contrario, las actuaciones procesales podrán ser re
 4. Los Requerimientos se formulan para dirigirse a la autoridad judicial solicitando la realización de un acto procesal.
 5. Las Disposiciones y los Requerimientos deben estar motivados. En el caso de los requerimientos, de ser el caso, estarán acompañados de los elementos de convicción que lo justifiquen.
 6. Rige, en lo pertinente, el artículo 127°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 123. Resoluciones judiciales**
 1. Las Resoluciones judiciales, según su objeto son decretos, autos y sentencias. Salvo los decretos, deben contener la exposición de los hechos debatidos, el análisis de la prueba actuada, la determinación de la Ley aplicable y lo que se decide, de modo claro y expreso.
 2. Los decretos se dictan sin trámite alguno. Los autos se expiden, siempre que lo disponga este Código, previa audiencia con intervención de las partes. Las sentencias se emiten según las reglas previstas en este Código.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 124. Error material, aclaración y adición**
 1. El Juez podrá corregir, en cualquier momento, los errores puramente materiales o numéricos contenidos en una resolución.
 2. En cualquier momento, el Juez podrá aclarar los términos oscuros, ambiguos o contradictorios en que estén redactadas las resoluciones o podrá adicionar su contenido, si hubiera omitido resolver algún punto controvertido, siempre que tales actos no impliquen una modificación de lo resuelto.
 3. Dentro de los tres días posteriores a la notificación, las partes podrán solicitar la aclaración o la adición de los pronunciamientos. La solicitud suspenderá el término para interponer los recursos que procedan.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 125. Firma**
 1. Sin perjuicio de disposiciones especiales y de las normas establecidas en la Ley Orgánica del Poder Judicial, las resoluciones serán firmadas por los jueces o por los miembros del Juzgado o de la Sala en que actuaron.
 2. La falta de alguna firma, fuera de lo dispuesto en la Ley Orgánica del Poder Judicial, provocará la ineficacia del acto, salvo que la resolución no se haya podido firmar por un impedimento invencible surgido después de haber participado en la deliberación y votación.
 #### **Artículo 126. Poder coercitivo **
 El Fiscal y el Juez podrán requerir la intervención de la fuerza pública y disponer las medidas necesarias para el cumplimiento seguro y regular de los actos que ordenen en el ejercicio de sus funciones.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO IV: LAS NOTIFICACIONES Y CITACIONES**
 #### **Artículo 127. Notificación***
 1. Las disposiciones y las resoluciones deben ser notificadas a los sujetos procesales, por medio físico o electrónico, dentro de las veinticuatro horas después de ser dictadas, salvo que se disponga un plazo menor.
@@ -946,20 +946,20 @@ El Fiscal y el Juez podrán requerir la intervención de la fuerza pública y di
 5. Cuando la notificación deba practicarse por medio de lectura, se leerá el contenido de la resolución y si el interesado solicita copia se le entregará.
 6. Rige, en lo pertinente, lo dispuesto en el Código Procesal Civil, con las precisiones establecidas en los reglamentos respectivos que dictarán la Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, en el ámbito que les corresponda, sin contravenir las disposiciones vigentes.
 ** Artículo modificado por la Ley 32068, publicada el 21 de junio de 2024 (link: lpd.pe/2Mxon).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 128****.**** Notificación por edictos **
 Cuando se ignore el lugar donde se encuentra la persona que deba ser notificada, la resolución se le hará saber por edicto que se publicará en el Diario Oficial de la sede de la Corte Superior o a través del Portal o página web de la Institución, sin perjuicio de las medidas convenientes para localizarlo.
 La Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, sin perjuicio de la reglamentación de este artículo, podrán disponer, en el ámbito que les respecta, que se publiquen, en el Diario Oficial, listas de personas requeridas por la justicia.
-*Ver jurisprudencia aquí.*
+**
 Artículo 129. Citaciones
 1. Las víctimas, testigos, peritos, intérpretes y depositarios, podrán ser citados por medio de la Policía o por el personal oficial de la Fiscalía o del órgano jurisdiccional, según las directivas que sobre el particular dicte el órgano de gobierno respectivo.
 2. En caso de urgencia podrán ser citados verbalmente, por teléfono, por correo electrónico, fax, telegrama o cualquier otro medio de comunicación, de lo que se hará constar en autos.
 3. Los militares y policías en situación de actividad serán citados por conducto del superior jerárquico respectivo, salvo disposición contraria de la Ley.
 4. El respectivo Reglamento de Citaciones, dictado por la Fiscalía de la Nación y el Consejo Ejecutivo del Poder Judicial, en el ámbito que les respecta, establecerá las precisiones que correspondan.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 130****.**** Constancia **
 El resultado de las diligencias practicadas para efectuar las citaciones y notificaciones se hará constar por escrito.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 131****.**** Defecto de la notificación**
 1. Siempre que cause efectiva indefensión, la notificación no surtirá efecto cuando:
 **a)** Haya existido error sobre la identidad de la persona notificada;
@@ -967,7 +967,7 @@ El resultado de las diligencias practicadas para efectuar las citaciones y notif
 **c)** En la diligencia no conste la fecha o, cuando corresponda, la fecha de entrega de la copia;
 **d)** Si en la copia entregada falta la firma de quien ha efectuado la notificación.
 2. El vicio en la notificación se convalida si el afectado procede de manera que ponga de manifiesto haber tomado conocimiento oportuno del contenido de la disposición o resolución, o si ésta, no obstante carecer de un requisito formal, ha cumplido su finalidad.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO V: ****COMUNICACIÓN ENTRE AUTORIDADES**
 #### **Artículo 132****. ****Forma**
 1. Cuando un acto procesal, una diligencia o una información relacionadas con la causa deban ejecutarse por intermedio de otra autoridad, el Juez o el Fiscal podrán encomendarle su cumplimiento.
@@ -976,7 +976,7 @@ El resultado de las diligencias practicadas para efectuar las citaciones y notif
 4. Cuando la delegación del acto tenga por destinataria a otro Juez o Fiscal, se cursará el exhorto correspondiente para su tramitación inmediata.
 5. La autoridad requerida, colaborará con los jueces, el Ministerio Público y la Policía y tramitará, sin demora, los requerimientos que reciban de ellos.
 6. El órgano de gobierno del Poder Judicial y el Fiscal de la Nación dictarán los reglamentos correspondientes y podrán celebrar convenios con otras instituciones públicas para requerir y compartir información así como establecer sistemas de comunicación por internet entre jueces y fiscales.
-*Ver jurisprudencia aquí.*
+**
 Artículo 133. Exhortos a autoridades extranjeras
 1. Los requerimientos dirigidos a jueces, fiscales o autoridades extranjeras se efectuarán por exhortos y serán diligenciados en la forma establecida por los Tratados y costumbres internacionales o, en su defecto, por este Código y las demás Leyes del país.
 2. Por medio de la Fiscalía de la Nación o, en su caso, de la Corte Suprema de Justicia, se canalizarán las comunicaciones al Ministerio de Relaciones Exteriores, el cual, cuando corresponda las tramitará por la vía diplomática.
@@ -985,11 +985,11 @@ Artículo 133. Exhortos a autoridades extranjeras
 #### **Artículo 134****.**** Contenido del Expediente Fiscal**
 1. El Fiscal, con motivo de su actuación procesal, abrirá un expediente para la documentación de las actuaciones de la investigación. Contendrá la denuncia, el Informe Policial de ser el caso, las diligencias de investigación que hubiera realizado o dispuesto ejecutar, los documentos obtenidos, los dictámenes periciales realizados, las actas y las disposiciones y providencias dictadas, los requerimientos formulados, las resoluciones emitidas por el Juez de la Investigación Preparatoria, así como toda documentación útil a los fines de la investigación.
 2. El Fiscal de la Nación reglamentará todo lo relacionado con la formación, custodia, conservación, traslado, recomposición y archivo de las actuaciones del Ministerio Público en su función de investigación del delito. Podrá disponer la utilización de los sistemas tecnológicos que se consideren necesarios para el registro, archivo, copia, transcripción y seguridad del expediente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 135. Requerimientos del Fiscal**
 1. Los requerimientos que el Fiscal formula al Juez de la Investigación Preparatoria deben acompañarse con el expediente original o con las copias certificadas correspondientes, según la investigación esté concluida o no, o en todo caso si la remisión del expediente original no producirá retraso grave o perjuicio a las partes y a la investigación.
 2. El Fiscal de la Nación emitirá las directivas e instrucciones necesarias para garantizar y uniformizar la presentación de las actuaciones que deben acompañar los requerimientos fiscales al Juez de la Investigación Preparatoria, cuando la investigación no esté concluida.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 136. Contenido del Expediente Judicial**
 1. Una vez que se dicta el auto de citación a juicio, el Juez Penal ordenará formar el respectivo Expediente Judicial. En este Expediente se anexarán:
 **a)** Los actuados relativos al ejercicio de la acción penal y de la acción civil derivada del delito;
@@ -999,7 +999,7 @@ Artículo 133. Exhortos a autoridades extranjeras
 **e) **Las resoluciones expedidas por el Juez de la Investigación Preparatoria y, de ser el caso, los elementos de convicción que las sustentan;
 **f) **Las resoluciones emitidas durante la etapa intermedia y los documentos, informes y dictámenes periciales que hayan podido recabarse, así como —de ser el caso— las actuaciones complementarias realizadas por el Ministerio Público.
 2. El Consejo Ejecutivo del Poder Judicial reglamentará todo lo relacionado con la formación, custodia, conservación, traslado, recomposición y archivo del expediente judicial. Podrá disponer la utilización de los sistemas tecnológicos que se consideren necesarios para el registro, archivo, copia, transcripción y seguridad del expediente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 137. Traslados, remisión y resolución sobre la formación del expediente judicial**
 1. Formado el expediente judicial, se pondrá en Secretaría a disposición del Ministerio Público y de los demás sujetos procesales por el plazo de cinco días para su revisión, eventual solicitud de copias, simples o certificadas, y, en su caso, para instar la incorporación de alguna pieza de las contempladas en el artículo anterior o la exclusión de una que no corresponda incorporar. De esta última solicitud se correrá traslado a las demás partes por igual plazo.
 2. El Juez resolverá, dentro del segundo día de culminado el plazo anterior, mediante auto inimpugnable, la solicitud de incorporación o exclusión de piezas procesales.
@@ -1009,12 +1009,12 @@ Artículo 133. Exhortos a autoridades extranjeras
 2. El Ministerio Público, cuando sea necesario para el cumplimiento de la Investigación Preparatoria, está facultado para obtener de otro Fiscal o del Juez copia de las actuaciones procesales relacionadas con otros procesos e informaciones escritas de su contenido.
 3. Si el estado de la causa no lo impide, ni obstaculiza su normal prosecución, siempre que no afecte irrazonablemente derechos fundamentales de terceros, el Fiscal o el Juez podrán ordenar la expedición de copias, informes o certificaciones que hayan sido pedidos mediante solicitud motivada por una autoridad pública o por particulares que acrediten legítimo interés en obtenerlos.
 ** Artículo modificado por la Ley 32068, publicada el 21 de junio de 2024 (link: lpd.pe/2Mxon). Clic **aquí**. *
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 139. Prohibición de publicación de la actuación procesal**
 1. Está prohibida la publicación de las actuaciones procesales realizadas cuando se está desarrollando la Investigación Preparatoria o la Etapa Intermedia. Asimismo, está prohibida la publicación, incluso parcial, de las actuaciones del juicio oral cuando se producen en los supuestos de privacidad de la audiencia.
 2. Está prohibida la publicación de las generales de Ley y de imágenes de testigos o víctimas menores de edad, salvo que el Juez, en interés exclusivo del menor, permita la publicación.
 3. Cuando los sujetos procesales y demás participantes en las actuaciones procesales infrinjan esta prohibición, el Fiscal o el Juez, según el caso, están facultados a imponerles una multa y ordenar, de ser posible, el cese de la publicación indebida. Rige, en lo pertinente los artículos 110° y 111° del Código Procesal Civil.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 140. Reemplazo de los originales faltantes por copias**
 1. Cuando, por cualquier causa se destruya, se pierda o sea sustraído el expediente, o el original de las disposiciones y resoluciones o de otros actos procesales necesarios, la copia certificada tendrá el valor del original y será insertado en el lugar en que debería encontrarse el original.
 2. Con tal fin, el Fiscal o el Juez, según el caso, incluso de oficio, ordenará, a quien tenga la copia, entregarla a la Secretaría, sin perjuicio del derecho de obtener gratuitamente otra copia certificada.
@@ -1027,7 +1027,7 @@ Artículo 133. Exhortos a autoridades extranjeras
 #### **Artículo 142. Regulación**
 1. Las actuaciones procesales se practican puntualmente en el día y hora señalados, sin admitirse dilación.
 2. Sin perjuicio de lo dispuesto en el numeral anterior, los plazos de la actividad procesal regulados por este Código son por días, horas y el de la distancia. Se computan según el calendario común.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 143. Cómputo **
 Los plazos se computarán:
 1. Cuando son por horas, desde el instante en que se produjo el acto procesal, incluyendo las horas del día inhábil, salvo expresa disposición contraria de la Ley.
@@ -1035,21 +1035,21 @@ Los plazos se computarán:
 3. Sólo se computará los días inhábiles tratándose de medidas coercitivas que afectan la libertad personal y cuando la Ley lo permita.
 4. Salvo lo dispuesto en el numeral 3) para el caso de medidas coercitivas que afectan la libertad personal, cuando un plazo venza en día inhábil, se prorroga de pleno derecho al día siguiente hábil.
 5. Los plazos comunes se computarán desde el día siguiente hábil de la última notificación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 144. Caducidad**
 1. El vencimiento de un plazo máximo implica la caducidad de lo que se pudo o debió hacer, salvo que la Ley permita prorrogarlo.
 2. Los plazos que sólo tienen como fin regular la actividad de Fiscales y Jueces, serán observados rigurosamente por ellos. Su inobservancia sólo acarrea responsabilidad disciplinaria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 145. Reposición del plazo**
 1. Cuando factores de fuerza mayor o de caso fortuito, o por defecto en la notificación que no le sea imputable, se haya visto impedido de observar un plazo y desarrollar en él una actividad prevista en su favor, podrá obtener la reposición íntegra del plazo, con el fin de realizar el acto omitido o ejercer la facultad concedida por la Ley, a su pedido.
 2. La solicitud de reposición del plazo se presentará por escrito en el plazo de veinticuatro horas luego de desaparecido el impedimento o de conocido el acontecimiento que da nacimiento al plazo.
 3. La solicitud deberá contener:
 **a)** La indicación concreta del motivo que imposibilitó la observación del plazo, su justificación y la mención de todos los elementos de convicción de los cuales se vale para comprobarlo; y,
 **b)** La actividad omitida y la expresión de voluntad de llevarla a cabo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 146. Subsidiariedad**
 El Fiscal o el Juez podrán fijar plazos a falta de previsión legal o por autorización de ésta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 147. Renuncia de plazos**
 1. Los sujetos procesales podrán renunciar, total o parcialmente, a los plazos establecidos en su favor, por manifestación expresa.
 2. Si el plazo fuere común, la abreviación o la renuncia requerirán el consentimiento de todas las partes y la aprobación del Juez.
@@ -1059,14 +1059,14 @@ El Fiscal o el Juez podrán fijar plazos a falta de previsión legal o por autor
 ## **TÍTULO III: LA NULIDAD**
 #### **Artículo 149. Taxatividad**
 La inobservancia de las disposiciones establecidas para las actuaciones procesales es causal de nulidad sólo en los casos previstos por la Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 150. Nulidad absoluta **
 No será necesaria la solicitud de nulidad de algún sujeto procesal y podrán ser declarados aun de oficio, los defectos concernientes:
 a) A la intervención, asistencia y representación del imputado o de la ausencia de su defensor en los casos en que es obligatoria su presencia;
 b) Al nombramiento, capacidad y constitución de Jueces o Salas;
 c) A la promoción de la acción penal, y a la participación del Ministerio Público en las actuaciones procesales que requieran su intervención obligatoria;
 d) A la inobservancia del contenido esencial de los derechos y garantías previstos por la Constitución.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 151. Nulidad relativa**
 1. Excepto en los casos de defectos absolutos, el sujeto procesal afectado deberá instar la nulidad por el vicio, cuando lo conozca.
 2. La solicitud de nulidad deberá describir el defecto y proponer la solución correspondiente.
@@ -1078,17 +1078,17 @@ d) A la inobservancia del contenido esencial de los derechos y garantías previs
 **b)** Cuando quienes tengan derecho a impugnarlo hayan aceptado, expresa o tácitamente, los efectos del acto;
 **c)** Si, no obstante su irregularidad, el acto ha conseguido su fin respecto de los interesados o si el defecto no ha afectado los derechos y las facultades de los intervinientes.
 2. El saneamiento no procederá cuando el acto irregular no modifique, de ninguna manera, el desarrollo del proceso ni perjudique la intervención de los interesados.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 153. Saneamiento**
 1. Los defectos deberán ser saneados, siempre que sea posible, renovando el acto, rectificando el error o cumpliendo con el acto omitido, de oficio o a instancia del interesado.
 2. Bajo pretexto de renovación del acto, rectificación del error o cumplimiento del acto omitido, no puede retrotraerse el proceso a períodos ya precluidos, salvo los casos expresamente previstos por este Código.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 154. Efectos de la nulidad**
 1. La nulidad de un acto anula todos los efectos o actos consecutivos que dependen de él. El Juez precisará los actos dependientes que son anulados.
 2. Los defectos deberán ser subsanados, siempre que sea posible, renovando el acto, rectificando su error o cumpliendo el acto omitido.
 3. La declaración de nulidad conlleva la regresión del proceso al estado e instancia en que se ha cumplido el acto nulo. Sin embargo, no se podrá retraer el proceso a etapas ya precluidas salvo en los casos en que así correspondiere de acuerdo con las normas del recurso de apelación o de casación.
 4. La declaración de nulidad de actuaciones realizadas durante la Investigación Preparatoria, no importará la reapertura de ésta. Asimismo, las nulidades declaradas durante el desarrollo del juicio oral no retrotraerán el procedimiento a la etapa de investigación o a la etapa intermedia.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN II: LA PRUEBA**
 ## **TÍTULO I: PRECEPTOS GENERALES**
 #### **Artículo 155. Actividad probatoria**
@@ -1097,17 +1097,17 @@ d) A la inobservancia del contenido esencial de los derechos y garantías previs
 3. La Ley establecerá, por excepción, los casos en los cuales se admitan pruebas de oficio.
 4. Los autos que decidan sobre la admisión de la prueba pueden ser objeto de reexamen por el Juez de la causa, previo traslado al Ministerio Público y a los demás sujetos procesales.
 5. La actuación probatoria se realizará, en todo caso, teniendo en cuenta el estado físico y emocional de la víctima.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 156. Objeto de prueba**
 1. Son objeto de prueba los hechos que se refieran a la imputación, la punibilidad y la determinación de la pena o medida de seguridad, así como los referidos a la responsabilidad civil derivada del delito.
 2. No son objeto de prueba las máximas de la experiencia, las Leyes naturales, la norma jurídica interna vigente, aquello que es objeto de cosa juzgada, lo imposible y lo notorio.
 3. Las partes podrán acordar que determinada circunstancia no necesita ser probada, en cuyo caso se valorará como un hecho notorio. El acuerdo se hará constar en el acta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 157. Medios de prueba**
 1. Los hechos objeto de prueba pueden ser acreditados por cualquier medio de prueba permitido por la Ley. Excepcionalmente, pueden utilizarse otros distintos, siempre que no vulneren los derechos y garantías de la persona, así como las facultades de los sujetos procesales reconocidas por la Ley. La forma de su incorporación se adecuará al medio de prueba más análogo, de los previstos, en lo posible.
 2. En el proceso penal no se tendrán en cuenta los límites probatorios establecidos por las Leyes civiles, excepto aquellos que se refieren al estado civil o de ciudadanía de las personas.
 3. No pueden ser utilizados, aun con el consentimiento del interesado, métodos o técnicas idóneos para influir sobre su libertad de autodeterminación o para alterar la capacidad de recordar o valorar los hechos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 158. Valoración**
 1. En la valoración de la prueba el Juez deberá observar las reglas de la lógica, la ciencia y las máximas de la experiencia, y expondrá los resultados obtenidos y los criterios adoptados.
 2. En los supuestos de testigos de referencia, declaración de arrepentidos o colaboradores y situaciones análogas, sólo con otras pruebas que corroboren sus testimonios se podrá imponer al imputado una medida coercitiva o dictar en su contra sentencia condenatoria.
@@ -1115,10 +1115,10 @@ d) A la inobservancia del contenido esencial de los derechos y garantías previs
 **a) **Que el indicio esté probado;
 **b)** Que la inferencia esté basada en las reglas de la lógica, la ciencia o la experiencia;
 **c)** Que cuando se trate de indicios contingentes, éstos sean plurales, concordantes y convergentes, así como que no se presenten contraindicios consistentes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 159. Utilización de la prueba**
 1. El Juez no podrá utilizar, directa o indirectamente, las fuentes o medios de prueba obtenidos con vulneración del contenido esencial de los derechos fundamentales de la persona.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LOS MEDIOS DE PRUEBA**
 ### **CAPÍTULO I: LA CONFESIÓN**
 #### **Artículo 160. Valor de prueba de la confesión***
@@ -1131,7 +1131,7 @@ d) A la inobservancia del contenido esencial de los derechos y garantías previs
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. Ley 32130, publicada el 10 de octubre de 2024, que modificó el literal c) del numeral 2 (link: lpd.pe/Xe7Bw), en el que se señala que la confesión también tendrá valor probatorio si se presenta ante la Policía en la subetapa de la investigación preliminar y, además, esta debe ser registrada en dispositivos audiovisuales.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 161. Efecto de la confesión sincera***
 El juez puede disminuir prudencialmente la pena hasta en una tercera parte por debajo del mínimo legal, si se cumplen los presupuestos establecidos en el artículo 160. Este beneficio es inaplicable en los supuestos de flagrancia, de irrelevancia de la admisión de los cargos en atención a los elementos probatorios incorporados en el proceso y cuando el agente tenga la condición de reincidente o habitual de conformidad con los artículos 46-B y 46-C del Código Penal.
 Este beneficio también es inaplicable en los casos del delito previsto en el artículo 108-B o por cualquiera de los delitos comprendidos en el Capítulo I: artículos 153, 153-A, 153-B, 153-C, 153-D, 153-E, 153-F, 153-G, 153-H, 153-I, 153-J y Capítulos IX, X y XI del Título IV del Libro Segundo del Código Penal.
@@ -1139,34 +1139,34 @@ Este beneficio también es inaplicable en los casos del delito previsto en el ar
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1382, publicado el 28 de agosto de 2018 (link: bit.ly/3OCoLBS).
 3. Ley 30963, publicada el 18 de junio de 2019 (link: lpd.pe/pmY7m).
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: EL TESTIMONIO**
 #### **Artículo 162. Capacidad para rendir testimonio**
 1. Toda persona es, en principio, hábil para prestar testimonio, excepto el inhábil por razones naturales o el impedido por la Ley.
 2. Si para valorar el testimonio es necesario verificar la idoneidad física o psíquica del testigo, se realizarán las indagaciones necesarias y, en especial, la realización de las pericias que correspondan. Esta última prueba podrá ser ordenada de oficio por el Juez.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 163. Obligaciones del testigo**
 1. Toda persona citada como testigo tiene el deber de concurrir, salvo las excepciones legales correspondientes, y de responder a la verdad a las preguntas que se le hagan. La comparecencia del testigo constituirá siempre suficiente justificación cuando su presencia fuere requerida simultáneamente para dar cumplimiento a obligaciones laborales, educativas o de otra naturaleza y no le ocasionará consecuencias jurídicas adversas bajo circunstancia alguna.
 2. El testigo no puede ser obligado a declarar sobre hechos de los cuales podría surgir su responsabilidad penal. El testigo tendrá el mismo derecho cuando, por su declaración, pudiere incriminar a alguna de las personas mencionadas en el numeral 1) del artículo 165°.
 3. El testigo policía, militar o miembro de los sistemas de inteligencia del Estado no puede ser obligado a revelar los nombres de sus informantes. Si los informantes no son interrogados como testigos, las informaciones dadas por ellos no podrán ser recibidas ni utilizadas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 164. Citación y conducción compulsiva**
 1. La citación del testigo se efectuará de conformidad con el artículo 129°. Cuando se trata de funcionarios públicos o de dependientes, el superior jerárquico o el empleador, según el caso, están en la obligación de facilitar, bajo responsabilidad, la concurrencia del testigo en el día y hora en que es citado.
 2. El testigo también podrá presentarse espontáneamente, lo que se hará constar.
 3. Si el testigo no se presenta a la primera citación se le hará comparecer compulsivamente por la fuerza pública.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 165. Abstención para rendir testimonio**
 1. Podrán abstenerse de rendir testimonio el cónyuge del imputado, los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad, y aquel que tuviera relación de convivencia con él. Se extiende esta facultad, en la misma medida, a los parientes por adopción, y respecto de los cónyuges o convivientes aún cuando haya cesado el vínculo conyugal o convivencial. Todos ellos serán advertidos, antes de la diligencia, del derecho que les asiste para rehusar a prestar testimonio en todo o en parte.
 2. Deberán abstenerse de declarar, con las precisiones que se detallarán, quienes según la Ley deban guardar secreto profesional o de Estado:
 **a) **Los vinculados por el secreto profesional no podrán ser obligados a declarar sobre lo conocido por razón del ejercicio de su profesión, salvo los casos en los cuales tengan la obligación de relatarlo a la autoridad judicial. Entre ellos se encuentran los abogados, ministros de cultos religiosos, notarios, médicos y personal sanitario, periodistas u otros profesionales dispensados por Ley expresa. Sin embargo, estas personas, con excepción de ministros de cultos religiosos, no podrán negar su testimonio cuando sean liberadas por el interesado del deber de guardar secreto.
 **b)** Los funcionarios y servidores públicos si conocen de un secreto de Estado, esto es, de una información clasificada como secreta o reservada, tienen la obligación de comunicárselo a la autoridad que los cite. En estos casos se suspenderá la diligencia y se solicitará información al Ministro del Sector a fin de que, en el plazo de quince días, precise si, en efecto, la información requerida se encuentra dentro de los alcances de las excepciones establecidas en el texto único ordenado de la Ley de la materia.
 3. Si la información requerida al testigo no se encuentra incursa en las excepciones previstas en la Ley de la materia, se dispondrá la continuación de la declaración. Si la información ha sido clasificada como secreta o reservada, el Juez, de oficio o a solicitud de parte, en tanto considere imprescindible la información, requerirá la información por escrito e inclusive podrá citar a declarar al o los funcionarios públicos que correspondan, incluso al testigo inicialmente emplazado, para los esclarecimientos correspondientes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 166. Contenido de la declaración**
 1. La declaración del testigo versa sobre lo percibido en relación con los hechos objeto de prueba.
 2. Si el conocimiento del testigo es indirecto o se trata de un testigo de referencia, debe señalar el momento, lugar, las personas y medios por los cuales lo obtuvo. Se insistirá, aun de oficio, en lograr la declaración de las personas indicadas por el testigo de referencia como fuente de conocimiento. Si dicho testigo se niega a proporcionar la identidad de esa persona, su testimonio no podrá ser utilizado.
 3. No se admite al testigo expresar los conceptos u opiniones que personalmente tenga sobre los hechos y responsabilidades, salvo cuando se trata de un testigo técnico.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 167. Testimonio de Altos Dignatarios**
 1. El Presidente de la República, Presidente del Consejo de Ministros, Congresistas, Ministros de Estado, Magistrados del Tribunal Constitucional, Vocales de la Corte Suprema, Fiscal de la Nación, Fiscales Supremos, miembros del Consejo Nacional de la Magistratura, Jurado Nacional de Elecciones y del Consejo Supremo de Justicia Militar, Comandantes Generales de los Institutos Armados, Director General de la Policía Nacional, Presidente del Banco Central de Reserva, Superintendencia de Banca y Seguros, Contralor General de la República, Presidentes de las Regiones, Cardenales, Arzobispos, Obispos, o autoridades superiores de otros cultos religiosos, y demás personas que la Ley señale, declararán, a su elección, en su domicilio o en su despacho. El Juez podrá disponer se reciba su testimonio por escrito, cursando el pliego interrogatorio correspondiente, el mismo que se elaborará a instancia de las partes.
 2. Se procederá en la forma ordinaria, salvo el caso de los Presidentes de los Poderes del Estado y del Presidente del Consejo de Ministros, cuando el Juez considere indispensable su comparecencia para ejecutar un acto de reconocimiento, de confrontación o por otra necesidad.
@@ -1183,20 +1183,20 @@ A los miembros del Cuerpo Diplomático o Consular acreditados en el Perú se les
 5. A continuación se le interrogará sobre los hechos que conozca y la actuación de las personas que le conste tengan relación con el delito investigado; asimismo, se le interrogará sobre toda circunstancia útil para valorar su testimonio. Se procura la claridad y objetividad del testigo por medio de preguntas oportunas y observaciones precisas.
 6. Son inadmisibles las preguntas capciosas, impertinentes o sugestivas, salvo esta última, en el contrainterrogatorio. El fiscal o el juez, según la etapa procesal que corresponda, las rechazará, de oficio o a pedido de algún sujeto procesal.
 ** Artículo modificado por la Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 171. Testimonios especiales**
 1. Si el testigo es mudo, sordo o sordo mudo, o cuando no hable el castellano, declarará por medio de intérprete.
 2. El testigo enfermo o imposible de comparecer será examinado en el lugar donde se encuentra. En caso de peligro de muerte o de viaje inminente, si no es posible aplicar las reglas de prueba anticipada, se le tomará declaración de inmediato.
 3. Cuando deba recibirse testimonio de menores y de personas que hayan resultado víctimas de hechos que las han afectado psicológicamente, se podrá disponer su recepción en privado. Si el testimonio no se actuó bajo las reglas de la prueba anticipada, el Juez adoptará las medidas necesarias para garantizar la integridad emocional del testigo y dispondrá la intervención de un perito psicólogo, que llevará a cabo el interrogatorio propuesto por las partes. Igualmente, permitirá la asistencia de un familiar del testigo.
 4. Cuando se requiere que el testigo reconozca a una persona o cosa, debe describirla antes de serle presentada. Luego relatará, con la mayor aproximación posible, el lugar, el tiempo, el estado y demás circunstancias en que se hallaba la persona o cosa cuando se realizó el hecho.
 5. Para la declaración del agraviado, rigen las mismas reglas prescritas para los testigos.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO III: LA PERICIA**
 #### **Artículo 172. Procedencia**
 1. La pericia procederá siempre que, para la explicación y mejor comprensión de algún hecho, se requiera conocimiento especializado de naturaleza científica, técnica, artística o de experiencia calificada.
 2. Se podrá ordenar una pericia cuando corresponda aplicar el artículo 15° del Código Penal. Ésta se pronunciará sobre las pautas culturales de referencia del imputado.
 3. No regirán las reglas de la prueba pericial para quien declare sobre hechos o circunstancias que conoció espontáneamente aunque utilice para informar las aptitudes especiales que posee en una ciencia, arte o técnica. En este caso regirán las reglas de la prueba testimonial.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 173. Nombramiento***
 1. El Juez competente, y, durante la Investigación Preparatoria, el Fiscal o el Juez de la Investigación Preparatoria en los casos de prueba anticipada, nombrará un perito. Escogerá especialistas donde los hubiere y, entre éstos, a quienes se hallen sirviendo al Estado, los que colaborarán con el sistema de justicia penal gratuitamente. En su defecto, lo hará entre los designados o inscritos, según las normas de la Ley Orgánica del Poder Judicial. Sin embargo, se podrá elegir dos o más peritos cuando resulten imprescindibles por la considerable complejidad del asunto o cuando se requiera el concurso de distintos conocimientos en diferentes disciplinas. A estos efectos se tendrá en consideración la propuesta o sugerencia de las partes.
 2. La labor pericial que corresponda se encomendará sin necesidad de designación expresa y observando las competencias legalmente asignadas, a la Dirección de Criminalística de la Policía Nacional del Perú o a sus oficinas descentralizadas a nivel Nacional, al Instituto de Medicina Legal y Ciencias Forenses, al Sistema Nacional de Control, así como a los organismos del Estado que desarrollan labor científica o técnica en temas de su especialidad y campo funcional, los que prestarán su auxilio gratuitamente. También podrá encomendarse la labor pericial a universidades, institutos de investigación o personas jurídicas en general, siempre que reúnan las cualidades necesarias para tal fin, con conocimiento de las partes. En toda investigación, los exámenes o pericias criminalísticas oficiales son realizados por la Dirección de Criminalística de la Policía Nacional del Perú o por sus oficinas descentralizadas a nivel nacional y, solo en el caso de que no puedan realizar la pericia por carecer de peritos para realizarla o de material de laboratorio o insumos necesarios, la pericia criminalística oficial puede ser realizada por otra entidad.
@@ -1205,7 +1205,7 @@ A los miembros del Cuerpo Diplomático o Consular acreditados en el Perú se les
 2. DL 1152, publicado el 11 de diciembre de 2012 (link: bit.ly/43UXHSF).
 3. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 4. Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 2 (link: lpd.pe/Xe7Bw), en el cual se resalta que las pericias criminalísticas oficiales son realizadas principalmente por la Dirección de Criminalística de la Policía Nacional del Perú y, de no poder, procederá a realizarlas otra entidad.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 174. Procedimiento de designación y obligaciones del perito**
 1. El perito designado conforme al numeral 1) del artículo 173° tiene la obligación de ejercer el cargo, salvo que esté incurso en alguna causal de impedimento. Prestará juramento o promesa de honor de desempeñar el cargo con verdad y diligencia, oportunidad en que expresará si le asiste algún impedimento. Será advertido de que incurre en responsabilidad penal, si falta a la verdad.
 2. La disposición o resolución de nombramiento precisará el punto o problema sobre el que incidirá la pericia, y fijará el plazo para la entrega del informe pericial, escuchando al perito y a las partes. Los honorarios de los peritos, fuera de los supuestos de gratuidad, se fijarán con arreglo a la Tabla de Honorarios aprobada por Decreto Supremo y a propuesta de una Comisión interinstitucional presidida y nombrada par el Ministerio de Justicia.
@@ -1213,7 +1213,7 @@ A los miembros del Cuerpo Diplomático o Consular acreditados en el Perú se les
 1. No podrá ser nombrado perito, el que se encuentra incurso en las mismas causales previstas en los numerales 1) y 2) &#8216;a&#8217; del artículo 165°. Tampoco lo será quien haya sido nombrado perito de parte en el mismo proceso o en proceso conexo, quien está suspendido o inhabilitado en el ejercicio de su profesión, y quien haya sido testigo del hecho objeto de la causa.
 2. El perito se excusará en los casos previstos en el numeral anterior. Las partes pueden tacharlo por esos motivos. En tales casos, acreditado el motivo del impedimento, será subrogado. La tacha no impide la presentación del informe pericial.
 3. El perito será subrogado, previo apercibimiento, si demostrase negligencia en el desempeño de la función.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 176. Acceso al proceso y reserva**
 1. El perito tiene acceso al expediente y demás evidencias que estén a disposición judicial a fin de recabar las informaciones que estimen convenientes para el cumplimiento de su cometido. Indicarán la fecha en que iniciará las operaciones periciales y su continuación.
 2. El perito deberá guardar reserva, bajo responsabilidad, de cuanto conozca con motivo de su actuación.
@@ -1221,7 +1221,7 @@ A los miembros del Cuerpo Diplomático o Consular acreditados en el Perú se les
 1. Producido el nombramiento del perito, los sujetos procesales, dentro del quinto día de notificados u otro plazo que acuerde el Juez, pueden designar, cada uno por su cuenta, los peritos que considere necesarios.
 2. El perito de parte está facultado a presenciar las operaciones periciales del perito oficial, hacer las observaciones y dejar las constancias que su técnica les aconseje.
 3. Las operaciones periciales deben esperar la designación del perito de parte, salvo que sean sumamente urgentes o en extremo simples.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 178. Contenido del informe pericial oficial**
 - El informe de los peritos oficiales contendrá:
 **a) **El nombre, apellido, domicilio y Documento Nacional de Identidad del perito, así como el número de su registro profesional en caso de colegiación obligatoria.
@@ -1232,7 +1232,7 @@ A los miembros del Cuerpo Diplomático o Consular acreditados en el Perú se les
 **f)** Las conclusiones.
 **g) **La fecha, sello y firma.
 2. El informe pericial no puede contener juicios respecto a la responsabilidad o no responsabilidad penal del imputado en relación con el hecho delictuoso materia del proceso.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 179. Contenido del informe pericial de parte**
 El perito de parte, que discrepe con las conclusiones del informe pericial oficial puede presentar su propio informe, que se ajustará a las prescripciones del artículo 178°, sin perjuicio de hacer el análisis crítico que le merezca la pericia oficial.
 #### **Artículo 180. Reglas adicionales***
@@ -1242,35 +1242,35 @@ El perito de parte, que discrepe con las conclusiones del informe pericial ofici
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *2. Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 1 (link: lpd.pe/Xe7Bw), en el cual se indica que las observaciones al informe pericial pueden presentarse en un plazo igual al otorgado al perito oficial, según el principio de igualdad procesal.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 181. Examen pericial**
 1. El examen o interrogatorio del perito en la audiencia se orientará a obtener una mejor explicación sobre la comprobación que se haya efectuado respecto al objeto de la pericia, sobre los fundamentos y la conclusión que sostiene. Tratándose de dictámenes periciales emitidos por una entidad especializada, el interrogatorio podrá entenderse con el perito designado por la entidad.
 2. En el caso de informes periciales oficiales discrepantes se promoverá, de oficio inclusive, en el curso del acto oral un debate pericial.
 3. En el caso del artículo 180°.2, es obligatorio abrir el debate entre el perito oficial y el de parte.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO IV: EL CAREO**
 #### **Artículo 182. Procedencia**
 1. Cuando entre lo declarado por el imputado y lo declarado por otro imputado, testigo o el agraviado surjan contradicciones importantes, cuyo esclarecimiento requiera oír a ambos, se realizará el careo.
 2. De igual manera procede el careo entre agraviados o entre testigos o éstos con los primeros.
 3. No procede el careo entre el imputado y la víctima menor de catorce años de edad, salvo que quien lo represente o su defensa lo solicite expresamente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 183. Reglas del careo**
 1. El Juez hará referencia a las declaraciones de los sometidos a careo, les preguntará si las confirman o las modifican, invitándoles, si fuere necesario, a referirse recíprocamente a sus versiones.
 2. Acto seguido, el Ministerio Público y los demás sujetos procesales podrán interrogar, a los sometidos a careo exclusivamente sobre los puntos materia de contradicción y que determinaron la procedencia de la diligencia.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO V: LA PRUEBA DOCUMENTAL**
 #### **Artículo 184. Incorporación**
 1. Se podrá incorporar al proceso todo documento que pueda servir como medio de prueba. Quien lo tenga en su poder está obligado a presentarlo, exhibirlo o permitir su conocimiento, salvo dispensa, prohibición legal o necesidad de previa orden judicial.
 2. El Fiscal, durante la etapa de Investigación Preparatoria, podrá solicitar directamente al tenedor del documento su presentación, exhibición voluntaria y, en caso de negativa, solicitar al Juez la orden de incautación correspondiente.
 3. Los documentos que contengan declaraciones anónimas no podrán ser llevados al proceso ni utilizados en modo alguno, salvo que constituyan el cuerpo del delito o provengan del imputado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 185. Clases de documentos **
 Son documentos los manuscritos, impresos, fotocopias, fax, disquetes, películas, fotografías, radiografías, representaciones gráficas, dibujos, grabaciones magnetofónicas y medios que contienen registro de sucesos, imágenes, voces; y, otros similares.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 186. Reconocimiento**
 1. Cuando sea necesario se ordenará el reconocimiento del documento, por su autor o por quien resulte identificado según su voz, imagen, huella, señal u otro medio, así como por aquél que efectuó el registro. Podrán ser llamados a reconocerlo personas distintas, en calidad de testigos, si están en condiciones de hacerlo.
 2. También podrá acudirse a la prueba pericial cuando corresponda establecer la autenticidad de un documento.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 187. Traducción, Transcripción y Visualización de documentos**
 1. Todo documento redactado en idioma distinto del castellano, será traducido por un traductor oficial.
 2. Cuando el documento consista en una cinta magnetofónica, el Juez o el Fiscal en la Investigación Preparatoria dispondrá, de ser el caso, su transcripción en un acta, con intervención de las partes.
@@ -1278,7 +1278,7 @@ Son documentos los manuscritos, impresos, fotocopias, fax, disquetes, películas
 4. Cuando la transcripción de la cinta magnetofónica o cinta de vídeo, por su extensión demande un tiempo considerable, el acta podrá levantarse en el plazo de tres días de realizada la respectiva diligencia, previo traslado de la misma por el plazo de dos días para las observaciones que correspondan. Vencido el plazo sin haberse formulado observaciones, el acta será aprobada inmediatamente; de igual manera, el Juez o el Fiscal resolverán las observaciones formuladas al acta, disponiendo lo conveniente.
 #### **Artículo 188. Requerimiento de informes **
 El Juez o el Fiscal durante la Investigación Preparatoria podrá requerir informes sobre datos que consten en registros oficiales o privados, llevados conforme a Ley. El incumplimiento de ese requerimiento, el retardo en su producción, la falsedad del informe o el ocultamiento de datos, serán corregidos con multa, sin perjuicio de la responsabilidad penal correspondiente, y de la diligencia de inspección o revisión y de incautación, si fuera el caso.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO VI: LOS OTROS MEDIOS DE PRUEBA**
 ### **SUBCAPÍTULO I: EL RECONOCIMIENTO**
 #### **Artículo 189. Reconocimientos de personas**
@@ -1287,21 +1287,21 @@ El Juez o el Fiscal durante la Investigación Preparatoria podrá requerir infor
 3. Durante la investigación preparatoria deberá presenciar el acto el defensor del imputado o, en su defecto, el Juez de la Investigación Preparatoria, en cuyo caso se considerará la diligencia un acto de prueba anticipada.
 4. Cuando varias personas deban reconocer a una sola, cada reconocimiento se practicará por separado, sin que se comuniquen entre sí. Si una persona debe reconocer a varias, el reconocimiento de todas podrá efectuarse en un solo acto, siempre que no perjudique el fin de esclarecimiento o el derecho de defensa.
 5. Si fuere necesario identificar a otras personas distintas del imputado, se procederá, en lo posible, según las reglas anteriores.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 190. Otros reconocimientos**
 1. Cuando se disponga reconocer voces, sonidos y cuanto pueda ser objeto de percepción sensorial, se observarán, en lo aplicable, las disposiciones previstas en el artículo anterior.
 2. Sin perjuicio de levantar el acta respectiva, se podrá disponer que se documente mediante prueba fotográfica o videográfica o mediante otros instrumentos o procedimientos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 191. Reconocimiento de cosas**
 1. Las cosas que deben ser objeto del reconocimiento serán exhibidas en la misma forma que los documentos.
 2. Antes de su reconocimiento, se invitará a la persona que deba reconocerlo a que lo describa. En lo demás, regirán análogamente las reglas previstas en el artículo 189°.
-*Ver jurisprudencia aquí.*
+**
 ### **SUBCAPÍTULO II: LA INSPECCIÓN JUDICIAL Y LA RECONSTRUCCIÓN**
 #### **Artículo 192. Objeto**
 1. Las diligencias de inspección judicial y reconstrucción son ordenadas por el Juez, o por el Fiscal durante la investigación preparatoria.
 2. La inspección tiene por objeto comprobar las huellas y otros efectos materiales que el delito haya dejado en los lugares y cosas o en las personas.
 3. La reconstrucción del hecho tiene por finalidad verificar si el delito se efectuó, o pudo acontecer, de acuerdo con las declaraciones y demás pruebas actuadas. No se obligará al imputado a intervenir en el acto, que deberá practicarse con la mayor reserva posible.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 193.** **Adecuación**
 La inspección, en cuanto al tiempo, modo y forma, se adecua a la naturaleza del hecho investigado y a las circunstancias en que ocurrió.
 La inspección se realizará de manera minuciosa, comprendiendo la escena de los hechos y todo lo que pueda constituir prueba material de delito.
@@ -1309,7 +1309,7 @@ La inspección se realizará de manera minuciosa, comprendiendo la escena de los
 1. Ambas diligencias deben realizarse, de preferencia, con la participación de testigos y peritos.
 2. Asimismo, se dispondrá que se levanten planos o croquis del lugar y se tome fotografías, grabaciones o películas de las personas o cosas que interesen a la causa.
 3. En los delitos contra la libertad sexual no se exigirá la concurrencia de los agraviados menores de edad, o de las víctimas que pueden ser afectadas psicológicamente con su participación.
-*Ver jurisprudencia aquí.*
+**
 ### **SUBCAPÍTULO III: LAS PRUEBAS ESPECIALES**
 #### **Artículo 195. Levantamiento de Cadáver***
 1. Cuando se trate de una muerte sospechosa de haber sido causada por un hecho punible, se procederá al levantamiento del cadáver, de ser posible, con participación de personal policial especializado en criminalística, haciendo constar en acta.
@@ -1322,13 +1322,13 @@ En todos estos supuestos, se dejará constancia de dicha diligencia y se dará c
 2. Ley 29986, publicada el 18 de enero de 2013 (link: lpd.pe/0JO3P).
 3. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *Clic **aquí**.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 196. Necropsia***
 1. Cuando sea probable que se trate de un caso de criminalidad se practicará la necropsia para determinar la causa de la muerte. En el contexto de declaratoria de emergencia sanitaria nacional, regional o local y cuando exista sospecha criminal, la necropsia y los actos previos se realizarán conforme a los protocolos emitidos para tal efecto por la autoridad sanitaria competente, en coordinación con el Ministerio Público.
 2. En caso de muerte producida por accidente en un medio de transporte, o como resultado de un desastre natural o enfermedad epidémica o pandémica que implique la declaratoria de emergencia sanitaria nacional, regional o local, en que las causas de la misma sea consecuencia directa de estos hechos, no será exigible la necropsia sin perjuicio de la identificación del cadáver antes de la entrega a sus familiares. Es obligatoria la necropsia al cadáver de quien tenía a cargo la conducción del medio de transporte siniestrado. En los demás casos se practica a solicitud de parte o de sus familiares.
 3. La necropsia será practicada por peritos. El Fiscal decidirá si él o su adjunto deban presenciarla. Al acto pueden asistir los abogados de los demás sujetos procesales e incluso acreditar peritos de parte.
 ** Artículo modificado por la Ley 31212, publicada el 10 de junio de 2021 (link: bit.ly/454TblJ).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 197. Embalsamamiento de cadáver**
 Cuando se trate de homicidio doloso o muerte sospechosa de criminalidad, el Fiscal, previo informe médico, puede autorizar o disponer el embalsamamiento a cargo de profesional competente, cuando lo estime pertinente para los fines del proceso. En ese mismo supuesto la incineración sólo podrá ser autorizada por el Juez después de expedida sentencia firme.
 #### **Artículo 198. Examen de vísceras y materias sospechosas**
@@ -1337,21 +1337,21 @@ Cuando se trate de homicidio doloso o muerte sospechosa de criminalidad, el Fisc
 #### **Artículo 199. Examen de lesiones y de agresión sexual**
 1. En caso de lesiones corporales se exigirá que el perito determine el arma o instrumento que la haya ocasionado, y si dejaron o no deformaciones y señales permanentes en el rostro, puesto en peligro la vida, causado enfermedad incurable o la pérdida de un miembro u órgano y, en general, todas las circunstancias que conforme al Código Penal influyen en la calificación del delito.
 2. En caso de agresión sexual, el examen médico será practicado exclusivamente por el médico encargado del servicio con la asistencia, si fuera necesario de un profesional auxiliar. Sólo se permitirá la presencia de otras personas previo consentimiento de la persona examinada.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 200. Examen en caso de aborto**
 En caso de aborto, se hará comprobar la preexistencia del embarazo, los signos demostrativos de la interrupción del mismo, las causas que lo determinaron, los probables autores y las circunstancias que sirvan para la determinación del carácter y gravedad del hecho.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 201. Preexistencia y Valorización**
 1. En los delitos contra el patrimonio deberá acreditarse la preexistencia de la cosa materia del delito, con cualquier medio de prueba idóneo.
 2. La valorización de las cosas o bienes o la determinación del importe del perjuicio o daños sufridos, cuando corresponda, se hará pericialmente, salvo que no resulte necesario hacerlo por existir otro medio de prueba idóneo o sea posible una estimación judicial por su simplicidad o evidencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 201-A. Informes técnicos oficiales especializados de la Contraloría General de la República***
 Los informes técnicos especializados elaborados fuera del proceso penal por la Contraloría General de la República en el cumplimiento de sus funciones tienen la calidad de pericia institucional extraprocesal cuando hayan servido de mérito para formular denuncia penal en el caso establecido por el literal b) del inciso 2 del artículo 326 del presente Código o cuando habiendo sido elaborados en forma simultánea con la investigación preparatoria sean ofrecidos como elemento probatorio e incorporados debidamente al proceso para su contradicción.
 La respectiva sustentación y el correspondiente examen o interrogatorio se efectúa con los servidores que designe la entidad estatal autora del informe técnico.
 Cualquier aclaración de los informes de control que se requiera para el cumplimiento de los fines del proceso deberá ser solicitada al respectivo ente emisor.
 El juez desarrolla la actividad y valoración probatoria de conformidad con el inciso 2 del artículo 155 y el inciso 1 del artículo 158 del presente Código.
 ** Artículo incorporado por la Ley 30214, publicada el 29 de junio de 2014 (link: lpd.pe/0AZWK).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO III: LA BÚSQUEDA DE PRUEBAS Y RESTRICCIÓN DE DERECHOS**
 ### **CAPÍTULO I: PRECEPTOS GENERALES**
 #### **Artículo 202.**** Legalidad procesal**
@@ -1361,12 +1361,12 @@ Cuando resulte indispensable restringir un derecho fundamental para lograr los
 2. Los requerimientos del Ministerio Público serán motivados y debidamente sustentados. El Juez de la Investigación Preliminar, salvo norma específica, decidirá inmediatamente, sin trámite alguno. Si no existiere riesgo fundado de pérdida de finalidad de la medida, el Juez de la Investigación Preliminar deberá correr traslado previamente a los sujetos procesales y, en especial, al afectado. Asimismo, para resolver, podrá disponer mediante resolución inimpugnable la realización de una audiencia con intervención del Ministerio Público y de los demás sujetos procesales, que se realizará con los asistentes.
 3. Cuando la Policía o el Ministerio Público, siempre que no se requiera previamente resolución judicial, ante supuestos de urgencia o peligro por la demora y con estrictos fines de averiguación, restringa derechos fundamentales de las personas, corresponde al Fiscal solicitar inmediatamente la confirmación judicial. El Juez de la Investigación Preparatoria, sin trámite alguno, decidirá en el mismo día o a más tardar al día siguiente confirmando o desaprobando la medida ejecutada por la Policía o la Fiscalía, salvo que considere indispensable el previo traslado a los sujetos procesales o, en su caso, la realización de una audiencia con intervención del Fiscal y del afectado. La resolución que ordena el previo traslado o la audiencia no es impugnable.
 4. Respecto de la realización de la audiencia, rige en lo pertinente el artículo 8.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 204. Impugnación**
 1. Contra el auto dictado por el Juez de la Investigación Preparatoria en los supuestos previstos en el artículo anterior, el Fiscal o el afectado pueden interponer recurso de apelación, dentro del tercer día de ejecutada la medida. La Sala Penal Superior absolverá el grado, previa audiencia, con intervención de los sujetos procesales legitimados.
 2. El afectado también puede solicitar el reexamen de la medida ante el Juez de la Investigación Preparatoria si nuevas circunstancias establecen la necesidad de un cambio de la misma. El Juez, discrecionalmente, decidirá si la decisión la adopta previo traslado a los demás sujetos procesales o mediante una audiencia que señalará al efecto. Contra el auto que resuelve la solicitud de reexamen procede recurso de apelación, según el trámite previsto en el numeral anterior.
 3. Contra los autos expedidos por la Sala Penal Superior dictados en primera instancia sólo procede recurso de reposición.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: EL CONTROL DE IDENTIDAD Y LA VIDEOVIGILANCIA**
 ### **SUBCAPÍTULO I: EL CONTROL DE IDENTIDAD POLICIAL**
 #### **Artículo 205. Control de identidad policial***
@@ -1385,7 +1385,7 @@ Cuando resulte indispensable restringir un derecho fundamental para lograr los
 ** Artículo modificado *por los siguientes dispositivos:
 1. DL 1574, publicado el 5 de octubre de 2023 (link: bit.ly/3tiqZy5).
 *2. Ley 32130, publicada el 10 de octubre de 2024, que modificó los numerales 1, 3 y 5 (link: lpd.pe/Xe7Bw). En el numeral 1, ahora la Policía no necesita comunicar al fiscal o juez para requerir la identidad de una persona; además, el intervenido puede exigir al policía un registro en audio o video de la intervención. En el numeral 3, se precisa que la Policía también debe comunicar por escrito al Ministerio Público si el intervenido está relacionado con un hecho delictuoso. En el numeral 5, se indica que ahora la Policía no necesita orden del Ministerio Público para fotografiar al imputado, pero sí debe comunicarle.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 206. Controles policiales públicos en delitos graves***
 1. Para el descubrimiento y ubicación de los partícipes en un delito causante de grave alarma social y para la incautación de instrumentos, efectos o pruebas del mismo, la Policía Nacional —comunicando al Ministerio Público— puede establecer controles en las vías, lugares o establecimientos públicos, en la medida indispensable a estos fines, al objeto de proceder a la identificación de las personas que transiten o se encuentren en ellos, al registro de los vehículos y al control superficial de los efectos personales, con el fin de comprobar que no se porten sustancias o instrumentos prohibidos o peligrosos.
 2. La Policía abrirá un Libro-Registro de Controles Policiales Públicos, donde consta el resultado de las diligencias, con las actas correspondientes, las mismas que se pone en conocimiento del Ministerio Público.
@@ -1401,7 +1401,7 @@ Estos medios técnicos de investigación se disponen cuando resulten indispens
 4. Las medidas previstas en el presente artículo también se pueden llevar a cabo si, por la naturaleza y ámbito de la investigación, se ven irremediablemente afectadas terceras personas.
 5. Para su utilización como prueba en el juicio, rige el procedimiento de control previsto para la intervención de comunicaciones
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO III: LAS PESQUISAS**
 #### **Artículo 208. Motivos y objeto de la inspección***
 1. La Policía Nacional, por si o por disposición Fiscal, inspecciona o realiza pesquisas en lugares abiertos, cosas o personas, cuando existan motivos plausibles para considerar que se encontrarán rastros del delito o cuando considere que en determinado lugar se oculta el imputado o alguna persona prófuga.
@@ -1410,14 +1410,14 @@ Ante la comprobación de los supuestos señalados debe comunicar de manera inmed
 3. Si el hecho no dejó rastros o efectos materiales o si estos han desaparecido o han sido alterados, se describirá el estado actual, procurando consignar el anterior, el modo, tiempo y causa de su desaparición y alteración, y los medios de convicción de los cuales se obtuvo ese conocimiento. Análogamente se procederá cuando la persona buscada no se halla en el lugar.
 4. De ser posible se levantarán planos de señales, descriptivos y fotográficos y toda otra operación técnica, adecuada y necesaria al efecto.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 209. Retenciones***
 1. La Policía, por propia iniciativa, dando cuenta al Fiscal, o por disposición de aquel, cuando resulte necesario que se practique una pesquisa, puede disponer que durante la diligencia no se ausenten las personas halladas en el lugar o que comparezca cualquier otra.
 2. La retención podrá durar cuatro (4) horas, excepcionalmente puede ampliarse hasta por el mismo plazo, en casos relacionados con los delitos de sicariato, extorsión, secuestro y criminalidad sistemática, luego de lo cual se debe recabar, inmediatamente, orden judicial para extender en el tiempo la presencia de los intervenidos.
 ** Artículos modificados por los siguientes dispositivos:*
 - *Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
 - *Artículo modificado por el DL 1735, publicado el 12 de febrero de 2026 (link: lpd.pe/NVb5p). Específicamente, la Tercera Disposición Complementaria Modificatoria modificó el segundo párrafo que, antes del cambio, estaba redactado en los siguientes términos: «2. La retención sólo podrá durar cuatro horas, luego de lo cual se debe recabar, inmediatamente, orden judicial para extender en el tiempo la presencia de los intervenidos».*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 210. Registro de personas***
 1. La Policía, por sí —dando cuenta al Fiscal— o por orden de aquél, cuando existan fundadas razones para considerar que una persona oculta en su cuerpo o ámbito personal bienes relacionados con el delito, procederá a registrarla. Antes de su realización se invitará a la persona a que exhiba y entregue el bien buscado. Si el bien se presenta no se procederá al registro, salvo que se considere útil proceder a fin de completar las investigaciones.
 2. El registro se efectuará respetando la dignidad y, dentro de los límites posibles, el pudor de la persona. Corresponderá realizarlo a una persona del mismo sexo del intervenido, salvo que ello importe demora en perjuicio de la investigación.
@@ -1425,7 +1425,7 @@ Ante la comprobación de los supuestos señalados debe comunicar de manera inmed
 4. Antes de iniciar el registro se expresará al intervenido las razones de su ejecución, y se le indicará del derecho que tiene de hacerse asistir en ese acto por una persona de su confianza, siempre que ésta se pueda ubicar rápidamente y sea mayor de edad.
 5. De todo lo acontecido se levanta un acta, la misma que se redacta en el lugar de los hechos, siempre y cuando las circunstancias del caso lo permitan, de lo contrario se realiza de manera obligatoria en la Comisaría de la jurisdicción. Dicha acta es firmada por todos los intervinientes directos en la respectiva diligencia. Si alguien no lo hiciera, se expone la razón.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO IV: LA INTERVENCIÓN CORPORAL**
 #### **Artículo 211. Examen corporal del imputado**
 1. El Juez de la Investigación Preparatoria, a solicitud dei Ministerio Público, puede ordenar un examen corporal del imputado para establecer hechos significativos de la investigación, siempre que el delito esté sancionado con pena privativa de libertad mayor de cuatro años. Con esta finalidad, aún sin el consentimiento del imputado, pueden realizarse pruebas de análisis sanguíneos, pruebas genético-moleculares u otras intervenciones corporales, así como exploraciones radiológicas, siempre efectuadas por un médico u otro profesional especializado. La diligencia está condicionada a que no se tema fundadamente un daño grave para la salud del imputado, para lo cual si resulta necesario se contará con un previo dictamen pericial.
@@ -1433,29 +1433,29 @@ Ante la comprobación de los supuestos señalados debe comunicar de manera inmed
 3. El Fiscal podrá ordenar la realización de ese examen si el mismo debe realizarse con urgencia o hay peligro por la demora, y no puede esperar la orden judicial. En ese caso, el Fiscal instará inmediatamente la confirmación judicial.
 4. La diligencia se asentará en acta. En esta diligencia estará presente el Abogado Defensor del imputado, salvo que no concurra pese a la citación correspondiente o que exista fundado peligro de que la prueba se perjudique si no se realiza inmediatamente, en cuyo caso podrá estar presente una persona de la confianza del intervenido siempre que pueda ser ubicada en ese acto. En el acta se dejará constancia de la causal invocada para prescindir de la intervención del Abogado Defensor y de la intervención de la persona de confianza del intervenido.
 5. El Ministerio Público, o la Policía Nacional con conocimiento del Fiscal, sin orden judicial, podrán disponer mínimas intervenciones para observación, como pequeñas extracciones de sangre, piel o cabello que no provoquen ningún perjuicio para su salud, siempre que el experto que lleve a cabo la intervención no la considere riesgosa. En caso contrario, se pedirá la orden judicial, para lo cual se contará con un previo dictamen pericial que establezca la ausencia de peligro de realizarse la intervención.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 212. Examen corporal de otras personas**
 1. Otras personas no inculpadas también pueden ser examinadas sin su consentimiento, sólo en consideración de testigos, siempre que deba ser constatado, para el esclarecimiento de los hechos, si se encuentra en su cuerpo determinada huella o secuela del delito.
 2. En otras personas no inculpadas, los exámenes para la constatación de descendencia y la extracción de análisis sanguíneos sin el consentimiento del examinado son admisibles si no cabe temer ningún daño para su salud y la medida es indispensable para la averiguación de la verdad. Los exámenes y la extracción de análisis sanguíneos sólo pueden ser efectuados por un médico.
 3. Los exámenes o extracciones de análisis sanguíneos pueden ser rehusados por los mismos motivos que el testimonio. Si se trata de menores de edad o incapaces, decide su representante legal, salvo que esté inhabilitado para hacerlo por ser imputado en el delito, en cuyo caso decide el Juez.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 213. Examen corporal para prueba de alcoholemia***
 1. La Policía, ya sea en su misión de prevención de delitos o en el curso de una inmediata intervención como consecuencia de la posible comisión de un delito mediante la conducción de vehículos, podrá realizar la comprobación de tasas de alcoholemia en aire aspirado.
 2. Si el resultado de la comprobación es positiva o, en todo caso, si se presentan signos evidentes de estar bajo la influencia de bebidas alcohólicas u otro tipo de sustancia prohibida, el intervenido será retenido y conducido al centro de control sanitario correspondiente para realizar la prueba de intoxicación en sangre o en otros fluidos según la prescripción del facultativo.
 3. La Policía, según el numeral 1) del presente artículo, elabora un acta de las diligencias realizadas, abre un Libro-Registro en el que se hace constar las comprobaciones de aire aspirado realizadas. En caso sea positivo el resultado de la prueba de alcoholemia, comunica lo ejecutado al Ministerio Público adjuntando un informe razonado de su intervención.
 4. Cuando se trata de una intervención como consecuencia de la posible comisión de un delito y deba procederse con arreglo al numeral 2) del presente artículo, rige lo dispuesto en el numeral 4) del artículo 210.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO V: EL ALLANAMIENTO**
 #### **Artículo 214. Solicitud y ámbito del allanamiento**
 1. Fuera de los casos de flagrante delito o de peligro inminente de su perpetración, y siempre que existan motivos razonables para considerar que se oculta el imputado o alguna persona evadida, o que se encuentran bienes delictivos o cosas relevantes para la investigación, el Fiscal solicitará el allanamiento y registro domiciliario de una casa habitación, casa de negocio, en sus dependencias cerradas, o en recinto habitado temporalmente, y de cualquier otro lugar cerrado, siempre que sea previsible que le será negado el ingreso en acto de función a un determinado recinto.
 2. La solicitud consignará la ubicación concreta del lugar o lugares que habrán de ser registrados, la finalidad específica del allanamiento, las diligencias a practicar, y el tiempo aproximado que durará.
 3. Los motivos que determinaron el allanamiento sin orden judicial constarán detalladamente en el acta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 215. Contenido de la resolución**
 1. La resolución autoritativa contendrá: el nombre del Fiscal autorizado, la finalidad específica del allanamiento y, de ser el caso, las medidas de coerción que correspondan, la designación precisa del inmueble que será allanado y registrado, el tiempo máximo de la duración de la diligencia, y el apercibimiento de Ley para el caso de resistencia al mandato.
 2. La orden tendrá una duración máxima de dos semanas, después de las cuales caduca la autorización, salvo que haya sido expedida por tiempo determinado o para un período determinado, en cuyo caso constarán esos datos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 216. Desarrollo de la diligencia***
 1. Al iniciarse la diligencia se entregará una copia de la autorización al imputado siempre que se encuentre presente o a quien tenga la disponibilidad actual del lugar, comunicándole la facultad que tiene de hacerse representar o asistir por una persona de su confianza.
 2. Si no se encuentran las personas arriba indicadas, la copia se entregará y el aviso se dirigirá a un vecino, a una persona que conviva con él, y a falta de ellos, sólo de ser posible, al portero o a quien haga sus veces.
@@ -1463,21 +1463,21 @@ Ante la comprobación de los supuestos señalados debe comunicar de manera inmed
 El registro e incautación se llevará a cabo con o sin la presencia del investigado y con la presencia obligatoria de un abogado de la defensa pública, el mismo que deberá estar presente desde el inicio de la ejecución de la medida bajo responsabilidad funcional. Si el investigado está presente y manifiesta su deseo de contar con su abogado defensor particular, ello no suspenderá la ejecución de la orden judicial, la misma que continuará ejecutándose con la presencia del abogado de la defensa pública hasta que se haga presente en el lugar el abogado defensor particular del investigado.
 El Fiscal en la solicitud de allanamiento consigna la asistencia de un defensor público para el desarrollo de la diligencia. El Juez en su resolución autoritativa dispone la presencia de este.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 3 (link: lpd.pe/Xe7Bw). Posteriormente, esta Ley fue modificada por la Ley 32138, publicada el 19 de octubre de 2024, que terminó por modificar, nuevamente, el numeral 3. Este numeral tenía dos párrafos y ahora tiene tres (link: lpd.pe/0ZBdz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 217. Solicitud del Fiscal para incautación y registro de personas**
 1. Cuando sea el caso, el Fiscal solicitará que el allanamiento comprenda la detención de personas y también la incautación de bienes que puedan servir como prueba o ser objeto de decomiso. En este caso se hará un inventario en varios ejemplares, uno de los cuales se dejará al responsable del recinto allanado.
 2. El allanamiento, si el Fiscal lo decide, podrá comprender el registro personal de las personas presentes o que lleguen, cuando considere que las mismas pueden ocultar bienes delictivos o que se relacionen con el mismo. El Fiscal, asimismo, podrá disponer, consignando los motivos en el acta, que determinada persona no se aleje antes de que la diligencia haya concluido. El trasgresor será retenido y conducido nuevamente y en forma coactiva al lugar.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO VI: LA EXHIBICIÓN FORZOZA Y LA INCAUTACIÓN**
 ### **SUBCAPÍTULO I: LA EXHIBICIÓN E INCAUTACIÓN DE BIENES**
 #### **Artículo 218. Solicitud del Fiscal**
 1. Cuando el propietario, poseedor, administrador, tenedor u otro requerido por el Fiscal para que entregue o exhiba un bien que constituye cuerpo del delito y de las cosas que se relacionen con él o que sean necesarias para el esclarecimiento de los hechos investigados, se negare a hacerlo o cuando la Ley así lo prescribiera, el Fiscal, solicitará al Juez de la Investigación Preparatoria ordene su incautación o exhibición forzosa. La petición será fundamentada y contendrá las especificaciones necesarias.
 2. La Policía no necesitará autorización del Fiscal ni orden judicial cuando se trata de una intervención en flagrante delito o peligro inminente de su perpetración, de cuya ejecución dará cuenta inmediata al Fiscal. Cuando existe peligro por la demora, la exhibición o la incautación debe disponerla el Fiscal. En todos estos casos, el Fiscal una vez que tomó conocimiento de la medida o dispuso su ejecución, requerirá al Juez de la Investigación Preparatoria la correspondiente resolución confirmatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 219. Contenido de la resolución**
 1. La resolución autoritativa especificará el nombre del Fiscal autorizado, la designación concreta del bien o cosa cuya incautación o exhibición se ordena y, de ser necesario, autorización para obtener copia o fotografía o la filmación o grabación con indicación del sitio en el que tendrá lugar, y el apercibimiento de Ley para el caso de desobediencia al mandato.
 2. Se aplicará, en lo pertinente, las mismas reglas para la resolución confirmatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 220. Diligencia de secuestro o exhibición**
 1. Obtenida la autorización, el Fiscal la ejecutará inmediatamente, contando con el auxilio policial. Si no se perjudica la finalidad de la diligencia, el Fiscal señalará día y hora para la realización de la diligencia, con citación de las partes. Al inicio de la diligencia se entregará copia de la autorización al interesado, si se encontrare presente.
 2. Los bienes objeto de incautación deben ser registrados con exactitud y debidamente individualizados, estableciéndose los mecanismos de seguridad para evitar confusiones o alteración de su estado original; igualmente se debe identificar al funcionario o persona que asume la responsabilidad o custodia del material incautado. De la ejecución de la medida se debe levantar un acta, que será firmada por los participantes en el acto.
@@ -1485,11 +1485,11 @@ Corresponde al Fiscal determinar con precisión las condiciones y las personas q
 3. Sin perjuicio de lo anterior, si se trata de incautación de bienes muebles se procederá de manera que se tomen bajo custodia y —si es posible— se inscribirá en el registro correspondiente. Si se trata de bienes inmuebles o de un derecho sobre él, adicionalmente a su ocupación, se operará de manera que se anote en el registro respectivo dicha medida, en cuyo caso se instará la orden judicial respectiva.
 4. Lo dispuesto en los dos numerales anteriores es aplicable cuando la exhibición o incautación es realizada por la Policía o el Fiscal en los casos previstos en el artículo 216.2
 5. La Fiscalía de la Nación, a fin de garantizar la autenticidad de lo incautado, dictará el Reglamento correspondiente a fin de normar el diseño y control de la cadena de custodia, así como el procedimiento de seguridad y conservación de los bienes incautados.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 221. Conservación y Exhibición**
 1. Según la naturaleza y estado del bien incautado, se dispondrá su debida conservación o custodia.
 2. En el caso de la exhibición se describirá fielmente en el acta lo constatado, sin perjuicio de reproducirlo, empleando el medio técnico disponible.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos*******
 1. El Fiscal y la Policía con conocimiento del primero podrá devolver al agraviado o a terceros los objetos incautados o entregar los incautados que ya fueron utilizados en la actividad investigadora, con conocimiento del Juez de la Investigación Preparatoria. Asimismo, podrá devolverlos al imputado si no tuvieren ninguna relación con el delito. La devolución podrá ordenarse provisionalmente y en calidad de depósito, pudiendo disponerse su exhibición cuando fuera necesario.
 Los bienes sustraídos u otorgados en un acto de extorsión serán entregados al agraviado. Igual regla se aplica con el dinero, fondos o activos que hayan sido objeto de congelamiento por denuncia del delito de extorsión, de conformidad con lo dispuesto en el artículo 3-B de la Ley N° 27693, Ley que crea la Unidad de Inteligencia Financiera-Perú.
@@ -1498,7 +1498,7 @@ El fiscal antes de presentar alguna medida establecida para asegurar los fondos 
 ** Artículo modificado por el DL 1735, publicado el 12 de febrero de 2026 (link: lpd.pe/NVb5p). Específicamente, la Tercera Disposición Complementaria Modificatoria realizó adiciones al numeral 1. Antes de la reforma el numeral tenía dos párrafos. El primer párrafo se mantuvo intacto, mientras que se hizo adiciones al segundo párrafo y se creó un tercer párrafo. Antes de la reforma, el numeral 1 decía lo siguiente:*
 *1. El Fiscal y la Policía con conocimiento del primero podrá devolver al agraviado o a terceros los objetos incautados o entregar los incautados que ya fueron utilizados en la actividad investigadora, con conocimiento del Juez de la Investigación Preparatoria. Asimismo, podrá devolverlos al imputado si no tuvieren ninguna relación con el delito. La devolución podrá ordenarse provisionalmente y en calidad de depósito, pudiendo disponerse su exhibición cuando fuera necesario.*
 *Los bienes sustraídos serán entregados al agraviado.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 223. Remate o subasta del bien incautado***
 1. Cuando no se ha identificado al autor o al perjudicado, el bien incautado, transcurridos seis meses, es rematado. El remate se realiza, previa decisión de la Fiscalía que conoce del caso si no se ha formalizado la Investigación Preparatoria o previa orden del Juez de la Investigación Preparatoria si existe proceso abierto, a pedido del Fiscal.
 2. El remate se llevará a cabo por el órgano administrativo competente del Ministerio Público, según las directivas reglamentarias que al efecto dicte la Fiscalía de la Nación. En todo caso, se seguirán las siguientes pautas:
@@ -1557,7 +1557,7 @@ Dichos concesionarios otorgan acceso, la compatibilidad y conexión de su tecn
 3. Ley 30171, publicada el 10 de marzo de 2014 (link: bit.ly/3OeZY5A).
 4. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *5. Ley 32130, publicada el 10 de octubre de 2024, que modificó los numerales 3 (primer párrafo) y 6 (link: lpd.pe/Xe7Bw). En el numeral 3, se agregó la expresión «y los datos del personal»; mientras que en el numeral 6, se indica que el plazo de la intervención de las comunicaciones puede prorrogarse por igual plazo y por única vez solo si se aportan nuevos elementos probatorios.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 230-A.- Revisión de equipos informáticos***
 En los casos de detención en flagrancia delictiva por la comisión de los delitos de extorsión, sicariato o secuestro, el efectivo policial, con autorización previa del Ministerio Público, está facultado para revisar la información contenida en los equipos informáticos hallados en posesión del detenido. Asimismo, esta facultad puede ejecutarse dentro del establecimiento penitenciario cuando, en operativos inopinados, se hallen equipos informáticos. La autorización se dispone cuando resulte indispensable para cumplir los fines de esclarecimiento del hecho. Al término del acto de investigación, el Fiscal requiere al Juez competente la correspondiente resolución confirmatoria.
 ** Artículo incorporado por el DL 1698, publicado el 20 de enero de 2026 (link: lpd.pe/zL62B).*
@@ -1570,7 +1570,7 @@ En los casos de detención en flagrancia delictiva por la comisión de los delit
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv).
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
-*Ver jurisprudencia aquí.*
+**
 ### **SUBCAPÍTULO III: EL ASEGURAMIENTO E INCAUTACIÓN DE DOCUMENTOS PRIVADOS**
 #### **Artículo 232. Aseguramiento de documentos privados**
 Cuando la Policía o el Fiscal, al realizar un registro personal, una inspección en un lugar o en el curso de un allanamiento, encuentra en poder del intervenido o en el lugar objeto de inspección o allanamiento un documento privado, y no ha recabado previamente la orden de incautación con arreglo al artículo siguiente, se limitará a asegurarlo —sin examinar su contenido—, sin perjuicio que el Fiscal lo ponga a inmediata disposición judicial, antes de vencidas las veinticuatro horas de la diligencia, acompañando un informe razonado y solicitando dicte orden de incautación, previo examen del documento. El Juez resolverá dentro de un día de recibida la comunicación bajo responsabilidad.
@@ -1579,7 +1579,7 @@ Cuando la Policía o el Fiscal, al realizar un registro personal, una inspecció
 2. La resolución autoritativa se expedirá inmediatamente, sin trámite alguno, y contendrá fundamentalmente el nombre del Fiscal a quien autoriza, la persona objeto de intervención y, de ser posible, el tipo de documento materia de incautación.
 3. Recabada la autorización, el Fiscal la ejecutará inmediatamente. De la diligencia se levantará el acta de incautación correspondiente, indicándose las incidencias del desarrollo de la misma.
 4. Rige, en lo pertinente, el artículo 218° y siguientes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 234. Aseguramiento e incautación de documentos contables y administrativos**
 1. La Fiscalía, o la Policía por orden del Fiscal, cuando se trata de indagaciones indispensables para el esclarecimiento de un delito, puede inspeccionar los libros, comprobantes y documentos contables y administrativos de una persona, natural o jurídica. Si de su revisión considera que debe incautar dicha documentación, total o parcialmente, y no cuenta con orden judicial, se limitará a asegurarla, levantando el acta correspondiente. Acto seguido el Fiscal requerirá la inmediata intervención judicial, antes de vencidas veinticuatro horas de la diligencia, acompañando un informe razonado y el acta respectiva, solicitando a su vez el mandato de incautación correspondiente.
 2. Rige, en lo pertinente, lo dispuesto en los artículos 230° y 231°.
@@ -1595,12 +1595,12 @@ En los casos que tenga carácter de emergencia en las que se amenace inminenteme
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30096, publicada el 22 de octubre de 2013 (link: lpd.pe/26DO4).
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 236. Levantamiento de la reserva tributaria**
 1. El Juez, a pedido del Fiscal, podrá levantar la reserva tributaria y requerir a la Administración Tributaria la exhibición o remisión de información, documentos y declaraciones de carácter tributario que tenga en su poder, cuando resulte necesario y sea pertinente para el esclarecimiento del caso investigado.
 2. La Administración Tributaria deberá exhibir o remitir en su caso la información, documentos o declaraciones ordenados por el Juez.
 3. Rige, en lo pertinente, lo dispuesto en los numerales 3 y 4 del artículo anterior.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO IX: LA CLAUSURA O VIGILANCIA DE LOCALES E INMOVILIZACIÓN**
 #### **Artículo 237. Procedencia**
 1. El Juez, a pedido del Fiscal y cuando fuere indispensable para la investigación de un delito sancionado con pena superior a cuatro años de privación de libertad, podrá disponer la clausura o la vigilancia temporal de un local, por un plazo no mayor de quince días, prorrogables por un plazo igual si las circunstancias lo exigieran.
@@ -1627,13 +1627,13 @@ Las declaraciones y entrevistas serán filmadas y grabadas a fin de evitar la re
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30364, publicada el 23 de noviembre de 2015 (link: bit.ly/3KJByQT).
 2. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 243. Requisitos de la solicitud***
 La solicitud de prueba anticipada se presentará al Juez de la Investigación Preparatoria en el curso de las diligencias preliminares e investigación preparatoria, o hasta antes de remitir la causa al Juzgado Penal siempre que exista tiempo suficiente para realizarla en debida forma.
 1. La solicitud precisará la prueba a actuar, los hechos que constituyen su objeto y las razones de su importancia para la decisión en el juicio. También indicarán el nombre de las personas que deben intervenir en el acto y las circunstancias de su procedencia, que no permitan su actuación en el juicio.
 2. La solicitud, asimismo, debe señalar los sujetos procesales constituidos en autos y su domicilio procesal. El Ministerio Público asistirá obligatoriamente a la audiencia de prueba anticipada y exhibirá el expediente fiscal para su examen inmediato por el Juez en ese acto.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 244. Trámite de la solicitud**
 1. El Juez correrá traslado por dos días para que los demás sujetos procesales presenten sus consideraciones respecto a la prueba solicitada.
 2. El Fiscal, motivadamente, podrá solicitar el aplazamiento de la diligencia solicitada por otra de las partes, siempre que no perjudique la práctica de la prueba requerida, cuando su actuación puede perjudicar los actos de investigación inmediatos, indicando con precisión las causas del perjuicio. Asimismo, indicará el término del aplazamiento solicitado.
@@ -1647,7 +1647,7 @@ La solicitud de prueba anticipada se presentará al Juez de la Investigación Pr
 3. Las pruebas serán practicadas con las formalidades establecidas para el juicio oral.
 4. Si la práctica de la prueba no se concluye en la misma audiencia, puede ser aplazada al día siguiente hábil, salvo que su desarrollo requiera un tiempo mayor.
 5. El acta y demás cosas y documentos agregados al cuaderno de prueba anticipada serán remitidos al Fiscal. Los defensores tendrán derecho a conocerlos y a obtener copia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 246. Apelación **
 Contra la resolución que decreta la actuación de prueba anticipada, que la desestime o disponga el aplazamiento de su práctica, así como decida la realización de la diligencia bajo el supuesto de urgencia, procede recurso de apelación, con efecto devolutivo.
 ## **TÍTULO V: LAS MEDIDAS DE PROTECCIÓN**
@@ -1655,7 +1655,7 @@ Contra la resolución que decreta la actuación de prueba anticipada, que la des
 1. Las medidas de protección previstas en este Título son aplicables a quienes en calidad de testigos, peritos, agraviados, agentes especiales o colaboradores intervengan en los procesos penales.
 2. Para que sean de aplicación las medidas de protección será necesario que el Fiscal, durante la investigación preparatoria, o el Juez, aprecie racionalmente un peligro grave para la persona, libertad o bienes de quien pretenda ampararse en ellas, su cónyuge o su conviviente, o sus ascendientes, descendientes o hermanos.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 248. Medidas de protección***
 1. El Fiscal o el Juez, según el caso, apreciadas las circunstancias previstas en el artículo anterior, de oficio o a instancia de las partes, adoptará según el grado de riesgo o peligro, las medidas necesarias para preservar la identidad del protegido, su domicilio, profesión y lugar de trabajo, sin perjuicio de la acción de contradicción que asista al imputado.
 2. Las medidas de protección que pueden adoptarse son las siguientes:
@@ -1670,7 +1670,7 @@ Contra la resolución que decreta la actuación de prueba anticipada, que la des
 ** *Artículo modificado por los siguientes dispositivos:
 1. Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv).
 2. DL 1301, publicado el 30 de diciembre de 2016 (link: bit.ly/3OA4lcQ).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 249. Medidas adicionales***
 1. La Fiscalía y la Policía encargada cuidarán de evitar que a los agraviados, testigos, peritos y colaboradores objeto de protección se les hagan fotografías o se tome su imagen por cualquier otro procedimiento, debiéndose proceder a retirar dicho material y devuelto inmediatamente a su titular una vez comprobado que no existen vestigios de tomas en las que aparezcan los protegidos de forma tal que pudieran ser identificados. Se les facilitará, asimismo, traslados en vehículos adecuados para las diligencias y un ambiente reservado para su exclusivo uso, convenientemente custodiado, cuando sea del caso permanecer en las dependencias judiciales para su declaración.
 2. El Fiscal decidirá si, una vez finalizado el proceso siempre que estime que se mantiene la circunstancia de peligro grave prevista en este título, la continuación de las medidas de protección, con excepción de la reserva de identidad del denunciante, la que mantendrá dicho carácter en el caso de organizaciones criminales.
@@ -1683,41 +1683,41 @@ Contra la resolución que decreta la actuación de prueba anticipada, que la des
 1. El órgano judicial competente para el juicio se pronunciará motivadamente sobre la procedencia de mantener, modificar o suprimir todas o algunas de las medidas de protección adoptadas por el Fiscal o el Juez durante las etapas de Investigación Preparatoria o Intermedia, así como si proceden otras nuevas.
 2. Si cualquiera de las partes solicita motivadamente, antes del inicio del juicio oral o para la actuación de una prueba anticipada referida al protegido, el conocimiento de su identidad, cuya declaración o informe sea estimado pertinente, el órgano jurisdiccional en el mismo auto que declare la pertinencia de la prueba propuesta, y si resulta indispensable para el ejercicio del derecho de defensa, podrá facilitar el nombre y los apellidos de los protegidos, respetando las restantes garantías reconocidas a los mismos en este Título.
 3. Dentro del tercer día de la notificación de la identidad de los protegidos, las partes podrán proponer nuevas pruebas tendentes a acreditar alguna circunstancia que pueda incluir en el valor probatorio de su testimonio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 251. Reexamen e Impugnaciones**
 1. Contra la disposición del Fiscal que ordena una medida de protección, procede que el afectado recurra al Juez de la investigación preparatoria para que examine su procedencia.
 2. Contra las resoluciones referidas a las medidas de protección procede recurso de apelación con efecto devolutivo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 252.**** Programa de protección**
 El Poder Ejecutivo, previo informe de la Fiscalía de la Nación y del Consejo Ejecutivo del Poder Judicial, reglamentará los alcances de este Título. Asimismo, en coordinación con la Fiscalía de la Nación, definirá el Programa de Protección de agraviados, testigos, peritos y colaboradores de la justicia.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN III: LAS MEDIDAS DE COERCIÓN PROCESAL**
 ## **TÍTULO I: PRECEPTOS GENERALES**
 #### **Artículo 253. Principios y finalidad**
 1. Los derechos fundamentales reconocidos por la Constitución y los Tratados relativos a Derechos Humanos ratificados por el Perú, sólo podrán ser restringidos, en el marco del proceso penal, si la Ley lo permite y con las garantías previstas en ella.
 2. La restricción de un derecho fundamental requiere expresa autorización legal, y se impondrá con respeto al principio de proporcionalidad y siempre que, en la medida y exigencia necesaria, existan suficientes elementos de convicción.
 3. La restricción de un derecho fundamental sólo tendrá lugar cuando fuere indispensable, en la medida y por el tiempo estrictamente necesario, para prevenir, según los casos, los riesgos de fuga, de ocultamiento de bienes o de insolvencia sobrevenida, así como para impedir la obstaculización de la averiguación de la verdad y evitar el peligro de reiteración delictiva.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 254. Requisitos y trámite del auto judicial**
 1. Las medidas que el Juez de la Investigación Preparatoria imponga en esos casos requieren resolución judicial especialmente motivada, previa solicitud del sujeto procesal legitimado. A los efectos del trámite rigen los numerales 2) y 4) del artículo 203.
 2. El auto judicial deberá contener, bajo sanción de nulidad:
 **a) **La descripción sumaria del hecho, con la indicación de las normas legales que se consideren transgredidas.
 **b)** La exposición de las específicas finalidades perseguidas y de los elementos de convicción que justifican en concreto la medida dispuesta, con cita de la norma procesal aplicable.
 **c)** La fijación del término de duración de la medida, en los supuestos previstos por la Ley, y de los controles y garantías de su correcta ejecución.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 255. Legitimación y variabilidad***
 1. Las medidas establecidas en este título, sin perjuicio de las reconocidas a la Policía y al fiscal, sólo se impondrán por el juez a solicitud del fiscal, considerando lo establecido en los artículos 261-A, 268-B y 292-A; salvo el embargo y la ministración provisional de posesión que también podrá solicitar el actor civil. La solicitud indicará las razones en que se fundamenta el pedido y, cuando corresponda, acompañará los actos de investigación o elementos de convicción pertinentes.
 2. Los autos que se pronuncien sobre estas medidas son reformables, aun de oficio, cuando varíen los supuestos que motivaron su imposición o rechazo.
 3. Salvo lo dispuesto respecto del embargo y de la ministración provisional de posesión, corresponde al Ministerio Público y al imputado solicitar al Juez la reforma, revocatoria o sustitución de las medidas de carácter personal, quien resolverá en el plazo de tres días, previa audiencia con citación de las partes.
 * Artículo modificado por el siguiente dispositivo:
 *1. Ley 32181, publicado el 11 de diciembre de 2024 (link: lpd.pe/286Nm). Se modificó el numeral 1, en el cual se indica que, para imponer las medidas de coerción procesal, se debe considerar lo establecido en los artículos 261-A, 268-B y 292-A.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 256. Sustitución o acumulación **
 La infracción de una medida impuesta por el Juez, determinará, de oficio o a solicitud de la parte legitimada, la sustitución o la acumulación con otra medida más grave, teniendo en consideración la entidad, los motivos y las circunstancias de la trasgresión, así como la entidad del delito imputado.
 #### **Artículo 257. Impugnación**
 1. Los autos que impongan, desestimen, reformen, sustituyan o acumulen las medidas previstas en esta Sección son impugnables por el Ministerio Público y el imputado.
 2. El actor civil y el tercero civil sólo podrán recurrir respecto de las medidas patrimoniales que afecten su derecho en orden a la reparación civil.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 258. Intervención de los sujetos procesales **
 En el procedimiento de imposición de una medida prevista en esta sección seguido ante el Juez de la Investigación Preparatoria y en el procedimiento recursal, los demás sujetos procesales podrán intervenir presentando informes escritos o formulando cualquier requerimiento, luego de iniciado el trámite. Esta intervención procederá siempre que no peligre la finalidad de la medida.
 ## **TÍTULO II: LA DETENCIÓN**
@@ -1733,12 +1733,12 @@ En caso los supuestos descritos en los numerales 3 y 4 del párrafo anterior, se
 2. Ley 29372, publicada el 9 de junio de 2009 (link: lpd.pe/0L7J9).
 3. Ley 29569, publicada el 25 de agosto de 2010 (link: lpd.pe/kO8bN).
 *4. DL 1735, publicado el 12 de febrero de 2026 (link: lpd.pe/NVb5p). Específicamente, la Tercera Disposición Complementaria Modificatoria agregó un párrafo en la parte final del artículo.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 260. Arresto Ciudadano***
 1. En los casos previstos en el artículo anterior, toda persona podrá proceder al arresto en estado de flagrancia delictiva.
 2. En este caso debe entregar inmediatamente al arrestado y las cosas que constituyan el cuerpo del delito a la Policía Nacional del Perú, para que esta última los conduzca a la Unidad de Flagrancia Delictiva respectiva, bajo responsabilidad funcional. Se entiende por entrega inmediata el tiempo que demanda el dirigirse a la dependencia policial más cercana o al Policía que se halle por inmediaciones del lugar. En ningún caso el arresto autoriza a encerrar o mantener privada de su libertad en un lugar público o privado hasta su entrega a la autoridad policial. El juzgado o la Policía, dependiendo del caso, redactará un acta donde se haga constar la entrega y las demás circunstancias de la intervención.
 ** Artículo modificado por la Ley 32348, publicada el 23 de mayo de 2025 (link: lpd.pe/px8Gv)*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 261. Detención Preliminar Judicial***
 1. El juez de la investigación preparatoria, a requerimiento del fiscal, emite una resolución debidamente motivada, teniendo a la vista las actuaciones remitidas por aquel, y dicta mandato de detención preliminar cuando:
 **a)** No se presente un supuesto de flagrancia delictiva, pero existan elementos razonables para considerar que una persona ha cometido un delito sancionado con pena privativa de libertad superior a cuatro años y, por las circunstancias del caso, se presenten indicios razonables de posibilidad de fuga u obstaculización de la averiguación de la verdad.
@@ -1753,19 +1753,19 @@ En caso los supuestos descritos en los numerales 3 y 4 del párrafo anterior, se
 3. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).
 4. Ley 32181, publicado el 11 de diciembre de 2024 (link: lpd.pe/286Nm).
 5. Ley 32255, publicada el 10 de marzo de 2025. (link: lpd.pe/kvqeZ).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 261-A. Impedimento de la detención preliminar judicial***
 El fiscal se encuentra impedido de solicitar detención preliminar judicial contra el personal de la Policía Nacional del Perú en situación de actividad en cuadros que, en el ejercicio de su finalidad constitucional, hace uso de sus armas o medios de defensa en forma reglamentaria y, como consecuencia de ello, acontece alguna lesión o muerte.
 ** Artículo incorporado por la Ley 32181, publicada el 11 de diciembre de 2024 (link: lpd.pe/286Nm).*
 #### **Artículo 262. Motivación del auto de detención **
 El auto de detención deberá contener los datos de identidad del imputado, la exposición sucinta de los hechos objeto de imputación, los fundamentos de hecho y de derecho, con mención expresa de las normas legales aplicables.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 263. Deberes de la autoridad policial***
 1. La autoridad policial que ha efectuado la detención en flagrante delito o en los casos de arresto ciudadano, informa al detenido el delito que se le atribuye y por los canales correspondientes comunica inmediatamente a la Unidad de Flagrancia Delictiva de la jurisdicción correspondiente, bajo responsabilidad funcional, con la finalidad de que sea puesto a disposición de la autoridad competente. En cuanto a los delitos de terrorismo, espionaje, tráfico ilícito de drogas y delitos cometidos por organizaciones criminales, se informa al juez de la investigación preparatoria respectivo.
 2. En los casos del artículo 261, sin perjuicio de informar al detenido del delito que se le atribuye y de la autoridad que ha ordenado su detención, comunicará la medida al Ministerio Público y pondrá al detenido inmediatamente a disposición del Juez de la Investigación Preparatoria. El Juez, tratándose de los literales a) y b) del numeral 1 del artículo 261, inmediatamente examinará al imputado, con la asistencia de su Defensor o el de oficio, a fin de verificar su identidad y garantizar el cumplimiento de sus derechos fundamentales. Acto seguido, lo pondrá a disposición del Fiscal y lo ingresará en el centro de detención policial o transitorio que corresponda. En los demás literales, constatada la identidad, dispondrá lo conveniente.
 3. En todos los casos, la Policía advertirá al detenido o arrestado que le asiste los derechos previstos en el artículo 71. De esa diligencia se levantará un acta.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz). Clic **aquí**; y por la Ley 32348, publicada el 23 de mayo de 2025 (link: lpd.pe/px8Gv)*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 264. Plazo de la detención***
 1. La detención policial dura un plazo de cuarenta y ocho (48) horas o el término de la distancia.**
 2. La detención preliminar dura setenta y dos (72) horas. Excepcionalmente, si subsisten los requisitos establecidos en el numeral 1) del artículo 261 del presente Código y se presenten circunstancias de especial complejidad en la investigación, puede durar un plazo máximo de siete (7) días.
@@ -1783,11 +1783,11 @@ El auto de detención deberá contener los datos de identidad del imputado, la e
 Clic **aquí**.
 3. Ley 32348, publicada el 23 de mayo de 2025 (link: lpd.pe/px8Gv).
 *** Inciso derogado tácitamente por la Ley 30558, publicada el 9 de mayo de 2017, que modificó el literal f del inciso 24 del artículo 2 de la Constitución (link: lpd.pe/kMNBL). Luego, recobró vigencia y fue modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 265. Detención preliminar incomunicada**
 1. Detenida una persona por los delitos de terrorismo, espionaje y tráfico ilícito de drogas, o por un delito sancionado con pena superior a los seis años, el Fiscal podrá solicitar al Juez de la Investigación Preparatoria que decrete su incomunicación, siempre que resulte indispensable para el esclarecimiento de los hechos investigados y por un plazo no mayor de diez días, siempre que no exceda el de la duración de la detención. El Juez deberá pronunciarse inmediatamente y sin trámite alguno sobre la misma, mediante resolución motivada.
 2. La incomunicación no impide las conferencias en privado entre el abogado defensor y el detenido, las que no requieren autorización previa ni podrán ser prohibidas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 266. Detención judicial en caso de flagrancia***
 1. El Fiscal para la realización de los actos de investigación puede requerir al Juez de la Investigación Preparatoria dentro de las veinticuatro (24) horas de producir la detención efectiva por la Policía Nacional, la emisión del mandato de detención judicial hasta por un máximo de siete (7) días, cuando por las circunstancias del caso, se desprenda cierta posibilidad de peligro procesal. En los delitos de extorsión, sicariato y secuestro, y los cometidos por organizaciones criminales la detención judicial por flagrancia puede durar hasta un plazo máximo de quince (15) días.
 2. El Juez, antes del vencimiento de las cuarenta y ocho (48) horas de la detención, realiza la audiencia de carácter inaplazable con asistencia obligatoria del Fiscal, el imputado y su abogado defensor. El Fiscal dispone el traslado del imputado a la audiencia, bajo custodia de la Policía Nacional. Rigen los numerales 1, 3 y 6 del artículo 85.
@@ -1801,12 +1801,12 @@ Clic **aquí**.
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 *3. DL 1735, publicado el 12 de febrero de 2026 (link: lpd.pe/NVb5p). Específicamente, la Tercera Disposición Complementaria Modificatoria modificó el numeral 1 que, antes de la reforma, decía lo siguiente:*
 1. El Fiscal para la realización de los actos de investigación puede requerir al Juez de la Investigación Preparatoria dentro de las veinticuatro (24) horas de producida la detención efectiva por la Policía Nacional, la emisión del mandato de detención judicial hasta por un máximo de siete (7) días, cuando por las circunstancias del caso, se desprenda cierta posibilidad de peligro procesal. En los delitos cometidos por organizaciones criminales la detención judicial por flagrancia puede durar hasta un plazo máximo de diez (10) días.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 267. Recurso de apelación***
 1. Contra el auto previsto en el numeral 1) del artículo 261 y los que decreten la incomunicación y detención judicial en caso de flagrancia procede recurso de apelación. El plazo para apelar es de un día. La apelación no suspende la ejecución del auto impugnado.
 2. El Juez eleva en el día los actuados a la Sala Penal, la que resuelve previa audiencia dentro de las cuarenta y ocho horas de recibidos los autos. La decisión se expide en audiencia, bajo responsabilidad.
 ** Artículo modificado por el DL 1298, publicado el 30 de diciembre de 2016 (link: bit.ly/3KmNqbj).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO III: LA PRISIÓN PREVENTIVA**
 ### **CAPÍTULO I: LOS PRESUPUESTOS DE LA PRISIÓN PREVENTIVA**
 #### **Artículo 268. Presupuestos materiales***
@@ -1820,11 +1820,11 @@ d) No procede la prisión preventiva en los casos de inminente aplicación de la
 2. DL 1585, publicado el 22 de noviembre de 2023 (link: lpd.pe/pYNgA).
 3. Ley 32026, publicada el 16 de mayo de 2024 (link: lpd.pe/koXwz).
 *4. Ley 32182, publicada el 11 de diciembre de 2024 (link: lpd.pe/kyWm9).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 268-A. Vigilancia electrónica personal de carácter preventivo***
 En los delitos cuya pena sea no mayor de siete (7) años, el juez aplica preferentemente la vigilancia electrónica personal como medida coercitiva más gravosa. En estos supuestos procede la prisión preventiva por revocación de la medida o al requerir por segunda vez una medida coercitiva personal, luego de haberse aplicado previamente la vigilancia electrónica personal como medida de coerción.
 * Articulo incorporado por el *DL 1585**, publicado el 22 de noviembre de 2023 (link: lpd.pe/pYNgA).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 268-B. Impedimento de la prisión preventiva***
 El fiscal se encuentra impedido de solicitar prisión preventiva contra el personal de la Policía Nacional del Perú en situación de actividad en cuadros que, en el ejercicio de su finalidad constitucional, hace uso de sus armas o medios de defensa en forma reglamentaria y, como consecuencia de ello, acontece alguna lesión o muerte.
 ** Artículo incorporado por la Ley 32181, publicada el 11 de diciembre de 2024 (link: lpd.pe/286Nm).*
@@ -1836,29 +1836,29 @@ Para calificar el peligro de fuga, el juez tendrá en cuenta:
 4. El comportamiento del imputado durante el procedimiento o en otro procedimiento anterior, en la medida que indique su voluntad de someterse a la persecución penal; y
 5. La pertenencia del imputado a una organización criminal o su reintegración a las mismas.
 ** Artículo modificado por la Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 270. Peligro de obstaculización**
 Para calificar el peligro de obstaculización se tendrá en cuenta el riesgo razonable de que el imputado:
 1. Destruirá, modificará, ocultará, suprimirá o falsificará elementos de prueba.
 2. Influirá para que coimputados, testigos o peritos informen falsamente o se comporten de manera desleal o reticente.
 3. Inducirá a otros a realizar tales comportamientos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 271. Audiencia y resolución**
 1. El Juez de la Investigación Preparatoria, dentro de las cuarenta y ocho horas siguientes al requerimiento del Ministerio Público realizará la audiencia para determinar la procedencia de la prisión preventiva. La audiencia se celebrará con la concurrencia obligatoria del Fiscal, del imputado y su defensor. El defensor del imputado que no asista será reemplazado por el defensor de oficio.
 2. Rige en lo pertinente, para el trámite de la audiencia lo dispuesto en el artículo 8°, pero la resolución debe ser pronunciada en la audiencia sin necesidad de postergación alguna. El Juez de la Investigación Preparatoria incurre en responsabilidad funcional si no realiza la audiencia dentro del plazo legal. El Fiscal y el abogado defensor serán sancionados disciplinariamente si por su causa se frustra la audiencia. Si el imputado se niega por cualquier motivo a estar presente en la audiencia, será representado por su abogado o el defensor de oficio, según sea el caso. En este último supuesto deberá ser notificado con la resolución que se expida dentro de las cuarenta y ocho horas siguientes a la conclusión de la audiencia.
 3. El auto de prisión preventiva será especialmente motivado, con expresión sucinta de la imputación, de los fundamentos de hecho y de derecho que lo sustente, y la invocación de las citas legales correspondientes.
 4. El Juez de la Investigación Preparatoria, si no considera fundado el requerimiento de prisión preventiva optará por la medida de comparecencia restrictiva o simple según el caso.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO II: LA DURACIÓN DE LA PRISIÓN PREVENTIVA**
 #### **Artículo 272. Duración***
 1. La prisión preventiva no durará más de nueve (9) meses.
 2. Tratándose de procesos complejos, el plazo límite de la prisión preventiva no durará más de dieciocho (18) meses.
 3. Para los procesos de criminalidad organizada, el plazo de la prisión preventiva no durará más de treinta y seis (36) meses.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 273. Libertad del imputado **
 Al vencimiento del plazo, sin haberse dictado sentencia de primera instancia, el Juez de oficio o a solicitud de las partes decretará la inmediata libertad del imputado, sin perjuicio de dictar concurrentemente las medidas necesarias para asegurar su presencia en las diligencias judiciales, incluso las restricciones a que se refieren los numerales 2) al 4) del artículo 288°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 274. Prolongación de la prisión preventiva***
 1. Cuando concurran circunstancias que importen una especial dificultad o prolongación de la investigación o del proceso y que el imputado pudiera sustraerse a la acción de la justicia u obstaculizar la actividad probatoria, el plazo de la prisión preventiva podrá prolongarse:
 **a)** Para los procesos comunes hasta por nueve (9) meses adicionales.
@@ -1872,12 +1872,12 @@ En todos los casos, el fiscal debe solicitarla al juez antes de su vencimiento.
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 275. Cómputo del plazo de la prisión preventiva**
 1. No se tendrá en cuenta para el cómputo de los plazos de la prisión preventiva, el tiempo en que la causa sufriere dilaciones maliciosas atribuibles al imputado o a su defensa.
 2. El cómputo del plazo, cuando se hubiera declarado la nulidad de todo lo actuado y dispuesto se dicte un nuevo auto de prisión preventiva, no considerará el tiempo transcurrido hasta la fecha de la emisión de dicha resolución.
 3. En los casos en que se declare la nulidad de procesos seguidos ante la jurisdicción militar y se ordene el conocimiento de los hechos punibles imputados a la jurisdicción penal ordinaria, el plazo se computará desde la fecha en que se dicte el nuevo auto de prisión preventiva.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 276. Revocatoria de la libertad **
 La libertad será revocada, inmediatamente, si el imputado no cumple con asistir, sin motivo legítimo, a la primera citación que se le formule cuando se considera necesaria su concurrencia. El Juez seguirá el trámite previsto en el numeral 2) del artículo 279°.
 #### **Artículo 277. Conocimiento de la Sala**
@@ -1887,17 +1887,17 @@ El Juez deberá poner en conocimiento de la Sala Penal la orden de libertad, su 
 1. Contra el auto de prisión preventiva procede recurso de apelación. El plazo para la apelación es de tres días. El Juez de la Investigación Preparatoria elevará los actuados dentro de las veinticuatro horas, bajo responsabilidad. La apelación se concede con efecto devolutivo.
 2. La Sala Penal se pronunciará previa vista de la causa, que tendrá lugar, dentro de las setenta y dos horas de recibido el expediente, con citación del Fiscal Superior y del defensor del imputado. La decisión, debidamente motivada, se expedirá el día de la vista de la causa o dentro de las cuarenta y ocho horas, bajo responsabilidad.
 3. Si la Sala declara la nulidad del auto de prisión preventiva, ordenará que el mismo u otro Juez dicte la resolución que corresponda con arreglo a lo dispuesto en el artículo 271°.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO IV: LA REVOCATORIA DE LA COMPARECENCIA POR PRISIÓN PREVENTIVA**
 #### **Artículo 279. Cambio de comparecencia por prisión preventiva**
 1. Si durante la investigación resultaren indicios delictivos fundados de que el imputado en situación de comparecencia está incurso en los supuestos del artículo 268°, el Juez a petición del Fiscal, podrá dictar auto de prisión preventiva.
 2. El Juez de la Investigación Preparatoria citará a una audiencia para decidir sobre el requerimiento Fiscal. La audiencia se celebrará con los asistentes que concurran. El Juez emitirá resolución inmediatamente o dentro de las cuarenta y ocho horas de su celebración.
 3. Contra la resolución que se emita procede recurso de apelación, que se concederá con efecto devolutivo.
-*Ver jurisprudencia aquí.*
+**
 ### **CAPÍTULO V: LA INCOMUNICACIÓN**
 #### **Artículo 280. Incomunicación **
 La incomunicación del imputado con mandato de prisión preventiva procede si es indispensable para el establecimiento de un delito grave. No podrá exceder de diez días. La incomunicación no impide las conferencias en privado entre el Abogado Defensor y el preso preventivo, las que no requieren autorización previa ni podrán ser prohibidas. La resolución que la ordena se emitirá sin trámite alguno, será motivada y puesta en conocimiento a la Sala Penal. Contra ella procede recurso de apelación dentro del plazo de un día. La Sala Penal seguirá el trámite previsto en el artículo 267°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 281. Derechos**
 El incomunicado podrá leer libros, diarios, revistas y escuchar noticias de libre circulación y difusión. Recibirá sin obstáculos la ración alimenticia que le es enviada.
 #### **Artículo 282. Cese **
@@ -1914,7 +1914,7 @@ Para tales efectos, el juez convoca, dentro del tercer día de cumplido los seis
 1. DL 1229, publicado el 25 de setiembre de 2015 (link: bit.ly/43JWrC5).
 2. DL 1585, publicado el 22 de noviembre de 2023 (link: lpd.pe/pYNgA).
 3. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 284. Impugnación***
 1. El imputado y el Ministerio Público pueden interponer recurso de apelación, dentro del tercer día de notificado, respecto al auto que se pronuncia sobre la solicitud de cesación de la prisión preventiva. En este supuesto, la apelación no impide la excarcelación del imputado a favor de quien se dicta auto de cesación de la prisión preventiva.
 2. En caso se dicte la cesación de la prisión preventiva en el marco de la revisión de oficio, el Ministerio Público puede interponer recurso de apelación dentro del tercer día de notificado. La apelación impide la excarcelación del imputado a favor de quien se dictó auto de cesación de la prisión preventiva hasta que la impugnación sea resuelta.
@@ -1942,13 +1942,13 @@ En los supuestos anteriores, el Fiscal y el Juez de la Investigación Preparator
 3. DL 1229, publicado el 25 de setiembre de 2015 (link: bit.ly/43JWrC5).
 4. DL 1514, publicado el 4 de junio de 2020 (link: bit.ly/3YnaNaj).
 5. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 287-A. Comparecencia restrictiva con vigilancia electrónica personal***
 1. El juez puede imponer la medida de comparecencia restrictiva con vigilancia electrónica, antes que la medida de prisión preventiva, si de la valoración de las condiciones de vida personal, laboral, familiar o social, o las condiciones de salud, de la persona procesada; si con ella se garantiza en el mismo grado el normal desarrollo del proceso.
 2. El Juez puede disponer la cesación de la prisión preventiva por la comparecencia restrictiva con vigilancia electrónica personal, si, aun cuando subsistan los presupuestos del artículo 268, la persona procesada acredita que tiene condiciones de vida personal, laboral, familiar o social, o las condiciones de salud, que permiten concluir que con esta medida se asegura la finalidad del proceso en el mismo grado.
 3. En ambos casos, el Juez impone las medidas restrictivas del artículo 288, conjuntamente con las disposiciones que regulan la vigilancia electrónica personal.
 ** Artículo incorporado por el DL 1514, publicado el 4 de junio de 2020 (link: bit.ly/3YnaNaj).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 288. Las restricciones***
 Las restricciones que el Juez puede imponer son las siguientes:
 1. La obligación de someterse al cuidado y vigilancia de una persona o institución determinada, quien informará periódicamente en los plazos designados.
@@ -1965,7 +1965,7 @@ La Policía Nacional es responsable del cuidado y vigilancia del imputado, debie
 1. DL 1229, publicado el 25 de setiembre de 2015 (link: bit.ly/43JWrC5).
 2. DL 1514, publicado el 4 de junio de 2020 (link: bit.ly/3YnaNaj).
 3. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 289. La caución***
 1. La caución consistirá en una suma de dinero que se fijará en cantidad suficiente para asegurar que el imputado cumpla las obligaciones impuestas y las órdenes de la autoridad.
 La calidad y cantidad de la caución se determinará teniendo en cuenta el ingreso económico mensual o la condición socioeconómica, los costos de la defensa legal, la obligación alimentaria, la personalidad, antecedentes del imputado, el modo de cometer el delito y la gravedad del daño, así como las demás circunstancias que pudieren influir en el mayor o menor interés de este para ponerse fuera del alcance de la autoridad fiscal o judicial.
@@ -1974,7 +1974,7 @@ No podrá imponerse una caución de imposible cumplimiento para el imputado, en 
 3. La caución será real cuando el imputado constituya depósito de efecto público o valores cotizables u otorgue garantía real por la cantidad que el Juez determine. Esta caución sólo será procedente cuando de las circunstancias del caso surgiera la ineficacia de las modalidades de las cauciones precedentemente establecidas y que, por la naturaleza económica del delito atribuido, se conforme como la más adecuada.
 4. Cuando el imputado sea absuelto o sobreseído, o siendo condenado no infringe las reglas de conducta que le fueron impuestas, le será devuelta la caución con los respectivos intereses devengados, o en su caso, quedará sin efecto la garantía patrimonial constituida y la fianza personal otorgada.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 290. Detención domiciliaria***
 1. Se impondrá detención domiciliaria cuando, pese a corresponder prisión preventiva, el imputado:
 **a)** Es mayor de 65 años de edad;
@@ -1991,11 +1991,11 @@ No podrá imponerse una caución de imposible cumplimiento para el imputado, en 
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1229, publicado el 25 de setiembre de 2015 (link: bit.ly/43JWrC5).
 2. DL 1514, publicado el 4 de junio de 2020 (link: bit.ly/3YnaNaj).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 291. Comparecencia simple**
 1. El Juez prescindirá de las restricciones previstas en el artículo 288°, cuando el hecho punible denunciado esté penado con una sanción leve o los actos de investigación aportados no lo justifiquen.
 2. La infracción de la comparecencia, en los casos en que el imputado sea citado para su declaración o para otra diligencia, determinará la orden de ser conducido compulsivamente por la Policía.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 292. Notificaciones especiales***
 El mandato de comparecencia y las demás restricciones impuestas serán notificadas al imputado mediante citación que le entregará el secretario por intermedio del auxiliar judicial correspondiente, o la dejará en su domicilio a persona responsable que se encargue de entregarla, sin perjuicio de notificársele por la vía postal, adjuntándose a los autos constancia razonada de tal situación.
 El auxiliar judicial, además, dejará constancia de haberse informado de la identificación del procesado a quien notificó o de la verificación de su domicilio, si estaba ausente.
@@ -2015,12 +2015,12 @@ Rige lo dispuesto en los numerales 2) y 3) del artículo 274°. No será necesar
 1. El Juez de la Investigación Preparatoria, después de recibir una comunicación motivada de los peritos, previa audiencia con asistencia de las partes legitimadas, instada de oficio o a pedido de parte, podrá disponer —a los efectos de la preparación de un dictamen sobre el estado psíquico del imputado—, que el imputado sea llevado y observado en un hospital psiquiátrico público.
 2. Para adoptar esta decisión deberá tomar en cuenta si existen elementos de convicción razonable de la comisión del delito, siempre que guarde relación con la importancia del asunto y que corresponda esperar una sanción grave o la medida de seguridad de internamiento.
 3. El internamiento previo no puede durar más de un mes.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO VI: EL IMPEDIMENTO DE SALIDA**
 #### **Artículo 295. Solicitud del Fiscal**
 1. Cuando durante la investigación de un delito sancionado con pena privativa de libertad mayor de tres años resulte indispensable para la indagación de la verdad, el Fiscal podrá solicitar al Juez expida contra el imputado orden de impedimento de salida del país o de la localidad donde domicilia o del lugar que se le fije. Igual petición puede formular respecto del que es considerado testigo importante.
 2. El requerimiento será fundamentado y precisará el nombre completo y demás datos necesarios de la persona afectada, e indicará la duración de la medida.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 296. Resolución y audiencia***
 1. La resolución judicial también contendrá los requisitos previstos en el artículo anterior. Rige lo dispuesto en los numerales 2 y 3 del artículo 279.
 2. La medida no puede durar más de cuatro (4) meses en el caso de testigos importantes.
@@ -2029,14 +2029,14 @@ Rige lo dispuesto en los numerales 2) y 3) del artículo 274°. No será necesar
 5. En el caso de testigos importantes, la medida se levantará luego de realizada la declaración o actuación procesal que la determinó.
 6. El Juez resolverá de conformidad con lo dispuesto en los numerales 2 y 3 del artículo 279. Para lo dispuesto en el recurso de apelación rige lo dispuesto en el numeral 2 del artículo 278.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO VII: LA SUSPENSIÓN PREVENTIVA DE DERECHOS**
 #### **Artículo 297. Requisitos**
 1. El Juez, a pedido del Fiscal, podrá dictar las medidas de suspensión preventiva de derechos previstas en este Título cuando se trate de delitos sancionados con pena de inhabilitación, sea ésta principal o accesoria o cuando resulte necesario para evitar la reiteración delictiva.
 2. Para imponer estas medidas se requiere:
 **a)** Suficientes elementos probatorios de la comisión de un delito que vincule al imputado como autor o partícipe del mismo.
 **b)** Peligro concreto de que el imputado, en atención a las específicas modalidades y circunstancias del hecho o por sus condiciones personales, obstaculizará la averiguación de la verdad o cometerá delitos de la misma clase de aquél por el que se procede.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 298. Clases***
 1. Las medidas de suspensión preventiva de derechos que pueden imponerse son las siguientes:
 **a)** Suspensión temporal del ejercicio de la patria potestad, tutela o curatela, según el caso. Esta medida es necesaria en todos aquellos casos donde se ha iniciado investigación penal por cualquiera de los delitos previstos en los artículos 107, 108-B, 110, 121-B, 122, 122-B, 125, 148-A, 153, 153-A, 153-B, 153-D, 153-E, 153-F, 153-G, 153-H, 153-I, 153-J, 170, 171, 172, 173, 174, 175, 176, 176-A, 177, 179, 179-A, 180, 181, 181-A, 182-A, 183, 183-A y 183-B del Código Penal o cuando por cualquier motivo o causa, se ponga en peligro la vida o integridad de un menor de dieciocho años.
@@ -2046,20 +2046,20 @@ Rige lo dispuesto en los numerales 2) y 3) del artículo 274°. No será necesar
 **e) **Prohibición de aproximarse al ofendido o su familia y, en su caso, la obligación de abandonar el hogar que compartiere con aquél o la suspensión temporal de visitas.
 2. La resolución que imponga estas medidas precisará las suspensiones o prohibiciones a los derechos, actividades o funciones que correspondan.
 ** Artículo modificado por la Ley 30963, publicada el 18 de junio de 2019 (link: lpd.pe/pmY7m).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 299. Duración**
 1. Las medidas no durarán más de la mitad del tiempo previsto para la pena de inhabilitación en el caso concreto. Los plazos se contarán desde el inicio de su ejecución. No se tomará en cuenta el tiempo transcurrido en que la causa sufriere dilaciones maliciosas imputables al procesado o a su defensa.
 2. Las medidas dictadas perderán eficacia cuando ha transcurrido el plazo sin haberse dictado sentencia de primera instancia. El Juez, cuando corresponda, previa audiencia, dictará la respectiva resolución haciendo cesar inmediatamente las medidas impuestas, adoptando los proveídos que fueren necesarios para su debida ejecución.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 300. Sustitución o acumulación**
 El incumplimiento de las restricciones impuestas al imputado, autoriza al Juez a sustituir o acumular estas medidas con las demás previstas en el presente Título, incluso con las de prisión preventiva o detención domiciliaria, teniendo en cuenta la entidad, los motivos y las circunstancias de la trasgresión.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 301. Concurrencia con la comparecencia restrictiva y trámite **
 Para la imposición de estas medidas, que pueden acumularse a las de comparecencia con restricciones y dictarse en ese mismo acto, así como para su sustitución, acumulación e impugnación rige lo dispuesto en los numerales 2) y 3) del artículo 274°.
 ## **TÍTULO VIII: EL EMBARGO**
 #### **Artículo 302. Indagación sobre bienes embargables **
 En el curso de las primeras diligencias y durante la investigación preparatoria el Fiscal, de oficio o a solicitud de parte, indagará sobre los bienes libres o derechos embargables al imputado y al tercero civil, a fin de asegurar la efectividad de las responsabilidades pecuniarias derivadas del delito o el pago de las costas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 303. Embargo**
 1. Identificado el bien o derecho embargable, el Fiscal o el actor civil, según el caso, solicitarán al Juez de la Investigación Preparatoria la adopción de la medida de embargo. A estos efectos motivará su solicitud con la correspondiente justificación de la concurrencia de los presupuestos legalmente exigidos para su adopción, especificará el bien o derecho afectado, precisará el monto del embargo e indicará obligatoriamente la forma de la medida. Las formas de embargo son las previstas, en lo pertinente, en el Código Procesal Civil.
 2. El actor civil debe ofrecer contracautela. Ésta no será exigible en los supuestos previstos en el artículo 614° del Código Procesal Civil.
@@ -2068,21 +2068,21 @@ En el curso de las primeras diligencias y durante la investigación preparatoria
 5. Rige, para el actor civil, lo dispuesto en el artículo 613° del Código Procesal Civil.
 6. Aun denegada la solicitud de medida cautelar de embargo, podrá reiterarse la misma si cambian las circunstancias existentes en el momento de la petición.
 7. Si se ha dictado sentencia condenatoria, aun cuando fuere impugnada, a solicitud de parte, procede el embargo, sin necesidad de contracautela ni que se justifique expresamente la probabilidad delictiva.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 304. Ejecución e Impugnación del auto de embargo**
 1. Cualquier pedido destinado a impedir o dilatar la concreción de la medida es inadmisible.
 2. Ejecutada la medida se notificará a las partes con el mandato de embargo.
 3. Se puede apelar dentro del tercer día de notificado. El recurso procede sin efecto suspensivo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 305. Variación y Alzamiento de la medida de embargo**
 1. En el propio cuaderno de embargo se tramitará la petición de variación de la medida de embargo, que puede incluir el alzamiento de la misma. A este efecto se alegará y en su caso se acreditarán hechos y circunstancias que pudieron tenerse en cuenta al tiempo de su concesión. La solicitud de variación y, en su caso, de alzamiento, se tramitará previo traslado a las partes. Rige, en lo pertinente, el artículo 617 del Código Procesal Civil.
 2. Está permitida la sustitución del bien embargado y su levantamiento previo empoce en el Banco de la Nación a orden del Juzgado del monto por el cual se ordenó la medida. Efectuada la consignación la resolución de sustitución se expedirá sin trámite alguno, salvo que el Juez considere necesario oír a las partes.
 3. La resolución que se emita en los supuestos previstos en los numerales anteriores es apelable sin efecto suspensivo.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 306. Sentencia firme y embargo**
 1. Firme una sentencia absolutoria, un auto de sobreseimiento o resolución equivalente, se alzará de oficio o a petición de parte el embargo adoptado, y se procederá de ser el caso a la determinación de los daños y perjuicios que hubiera podido producir dicha medida si la solicitó el actor civil.
 2. Firme que sea una sentencia condenatoria, se requerirá de inmediato al afectado el cumplimiento de las responsabilidades correspondientes, bajo apercibimiento de iniciar la ejecución forzosa respecto del bien afectado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 307. Autorización para vender el bien embargado**
 1. Si el procesado o condenado decidiere vender el bien o derecho embargado, pedirá autorización al Juez.
 2. La venta se realizará en subasta pública. Del precio pagado se deducirá el monto que corresponda el embargo, depositándose en el Banco de la Nación. La diferencia será entregada al procesado o a quien él indique.
@@ -2095,7 +2095,7 @@ Las apelaciones respecto de las resoluciones contempladas en los artículos 304�
 #### **Artículo 310. Orden de inhibición**
 1. El Fiscal o el actor civil, en su caso, podrán solicitar, cumplidos los requisitos establecidos en el artículo 303°, que el Juez dicte orden de inhibición para disponer o gravar los bienes del imputado o del tercero civil, que se inscribirá en los Registros Públicos.
 2. Rige, en lo pertinente, lo dispuesto en el Título anterior.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 311. Desalojo preventivo***
 1. En los delitos de usurpación, el juez, a solicitud del fiscal o del agraviado, ordenará el desalojo preventivo del inmueble ocupado en el término de veinticuatro horas, ministrando provisionalmente la posesión al agraviado, siempre que exista motivo razonable para sostener que se ha cometido el delito y que el derecho del agraviado está suficientemente acreditado. El desalojo se ejecuta dentro del término de setenta y dos horas de concedida.
 2. La Policía Nacional, una vez que tenga conocimiento de la comisión del delito, lo pondrá en conocimiento del fiscal y llevará a cabo las investigaciones que el caso amerita. El fiscal, sin perjuicio de disponer las acciones que correspondan, realizará inmediatamente una inspección en el inmueble. El agraviado recibirá copia certificada de las actuaciones policiales y de la diligencia de inspección del fiscal.
@@ -2103,10 +2103,10 @@ Las apelaciones respecto de las resoluciones contempladas en los artículos 304�
 4. El juez resolverá, sin trámite alguno, en el plazo de veinticuatro horas. Contra la resolución que se dicte procede recurso de apelación. La interposición del recurso suspende la ejecución de la resolución impugnada.
 5. El juez elevará el cuaderno correspondiente dentro de veinticuatro horas de presentada la impugnación, bajo responsabilidad. La Sala se pronunciará en el plazo de tres días, previa audiencia con notificación de las partes. Si ampara la solicitud de desalojo y ministración provisional de posesión, dispondrá se ponga en conocimiento del juez para su inmediata ejecución.
 ** Artículo modificado por la Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 312. Medidas anticipadas**
 El Juez, excepcionalmente, a pedido de parte legitimada, puede adoptar medidas anticipadas destinadas a evitar la permanencia del delito o la prolongación de sus efectos lesivos, así como la ejecución anticipada y provisional de las consecuencias pecuniarias del delito.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 312-A. Secuestro conservativo***
 1. Con la finalidad de asegurar el pago de la reparación civil derivada del delito, el Fiscal, de oficio o a solicitud de parte, puede solicitar al Juez el secuestro conservativo de vehículos motorizados, del imputado o del tercero civilmente responsable, que implica la desposesión física del bien y su entrega a un custodio.
 2. En los casos de los delitos de lesiones culposas o de homicidio culposo, previstos en el artículo 124 y 111 del Código Penal respectivamente, cometidos con el uso de vehículo motorizado de servicio de transporte público o privado, el Fiscal debe solicitar al Juez competente se trabe la medida cautelar de secuestro conservativo sobre el vehículo motorizado, salvo que la parte legitimada lo haya solicitado previamente.
@@ -2130,7 +2130,7 @@ El Juez, excepcionalmente, a pedido de parte legitimada, puede adoptar medidas a
 **a) **Suficientes elementos probatorios de la comisión de un delito y de la vinculación de la persona jurídica en los supuestos previstos en el artículo 105° del Código Penal;
 **b) **Necesidad de poner término a la permanencia o prolongación de los efectos lesivos del delito, peligro concreto de que a través de la persona jurídica se obstaculizará la averiguación de la verdad o se cometerán delitos de la misma clase de aquél por el que se procede;
 3. Estas medidas no durarán más de la mitad del tiempo previsto para las medidas temporales establecidas en el artículo 105° del Código Penal. En los delitos ecológicos la suspensión o la clausura durarán hasta que se subsanen las afectaciones al ambiente que determinaron la intervención judicial.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 313-A. Medidas cautelares en casos de responsabilidad administrativa autónoma de personas jurídicas***
 En los supuestos previstos en la Ley que regula la responsabilidad administrativa autónoma de las personas jurídicas por el delito de cohecho activo transnacional, el juez, a pedido de parte legitimada, puede ordenar, además de las medidas establecidas en el numeral 1 del artículo 313, las siguientes:
 a. Prohibición de actividades futuras de la misma clase o naturaleza de aquellas con cuya realización se habría cometido, favorecido o encubierto el delito.
@@ -2141,21 +2141,21 @@ Estas medidas cautelares no duran más de la mitad del tiempo fijado para las me
 #### **Artículo 314. Pensión anticipada de alimentos**
 1. En los delitos de homicidio, lesiones graves, omisión de asistencia familiar prevista en el artículo 150° del Código Penal, violación de la libertad sexual, o delitos que se relacionan con la violencia familiar, el Juez a solicitud de la parte legitimada impondrá una pensión de alimentos para los directamente ofendidos que como consecuencia del hecho punible perpetrado en su agravio se encuentran imposibilitados de obtener el sustento para sus necesidades.
 2. El Juez señalará el monto de la asignación que el imputado o el tercero civil ha de pagar por mensualidades adelantadas, las que serán descontadas de la que se establezca en la sentencia firme.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 315. Variación y cesación. Trámite y recurso**
 1. Las medidas previstas en este Título podrán variarse, sustituirse o cesar cuando atendiendo a las circunstancias del caso y con arreglo al principio de proporcionalidad resulte indispensable hacerlo.
 2. La imposición, variación o cesación se acordarán previo traslado, por tres días, a las partes. Contra estas decisiones procede recurso de apelación. Rige, en lo pertinente, lo dispuesto en los numerales 2) y 3) del artículo 278°.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO X: LA INCAUTACIÓN**
 #### **Artículo 316. Objeto de la incautación**
 1. Los efectos provenientes de la infracción penal o los instrumentos con que se hubiere ejecutado, así como los objetos del delito permitidos por la Ley, siempre que exista peligro por la demora, pueden ser incautados durante las primeras diligencias y en el curso de la Investigación Preparatoria, ya sea por la Policía o por el Ministerio Público.
 2. Acto seguido, el Fiscal requerirá inmediatamente al Juez de la Investigación Preparatoria la expedición de una resolución confirmatoria, la cual se emitirá, sin trámite alguno, en el plazo de dos días.
 3. En todo caso, para dictar la medida se tendrá en cuenta las previsiones y limitaciones establecidas en los artículos 102° y 103° del Código Penal.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 317. Intervención Judicial**
 1. Si no existe peligro por la demora, las partes deberán requerir al Juez la expedición de la medida de incautación. Para estos efectos, así como para decidir en el supuesto previsto en el artículo anterior, debe existir peligro de que la libre disponibilidad de los bienes relacionados con el delito pueda agravar o prolongar sus consecuencias o facilitar la comisión de otros delitos.
 2. Rige el numeral 3 del artículo 316°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 318. Bienes incautados***
 1. Los bienes objeto de incautación deben ser registrados con exactitud y debidamente individualizados, estableciéndose los mecanismos de seguridad para evitar confusiones. De la ejecución de la medida se debe levantar un acta, que será firmada por los participantes en el acto. La Fiscalía de la Nación dictará las disposiciones reglamentarias necesarias para garantizar la corrección y eficacia de la diligencia, así como para determinar el lugar de custodia y las reglas de administración de los bienes incautados.
 2. Sin perjuicio de lo anterior, si se trata de incautación de bienes muebles se procederá de manera que se tomen bajo custodia y —si es posible— se inscribirá en el registro correspondiente. Si se trata de bienes inmuebles o de derecho sobre aquellos, adicionalmente a su ocupación, se procederá de manera que dicha medida se anote en el registro respectivo, en cuyo caso se instará la orden judicial respectiva.
@@ -2167,17 +2167,17 @@ En el primer supuesto, el importe depositado ocupa el lugar del bien; y, en el s
 4. Si se alega sobre el bien incautado un derecho de propiedad de persona distinta del imputado o si otra persona tiene sobre el bien un derecho adquirido de buena fe cuya extinción podría ser ordenada en el caso de la incautación o del decomiso, se autorizará su participación en el proceso. En este caso el participante en la incautación será oído, personalmente o por escrito, y podrá oponerse a la incautación.
 Para el esclarecimiento de tales hechos, se puede ordenar la comparecencia personal del participante de la incautación. Si no comparece sin justificación suficiente, se aplicarán los mismos apremios que para los testigos. En todo caso, se puede deliberar y resolver sin su presentación, previa audiencia con citación de las partes.
 ** Artículo modificado por el DL 983, publicado el 22 de julio de 2007 (link: bit.ly/3OnRERc).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 319. Variación y reexamen de la incautación***
 a) Si varían los presupuestos que determinaron la imposición de la medida de incautación, ésta será levantada inmediatamente, a solicitud del Ministerio Público o del interesado.
 b) Las personas que se consideren propietarios de buena fe de los bienes incautados y que no han intervenido en el delito investigado, podrán solicitar el reexamen de la medida de incautación, a fin que se levante y se le entreguen los bienes de su propiedad.
 c) Los autos que se pronuncian sobre la variación y el reexamen de la incautación se dictarán previa audiencia, a la que también asistirá el peticionario. Contra ellos procede recurso de apelación. Rige, en lo pertinente, lo dispuesto en el numeral 2) del artículo 278 y en los numerales 2) y 3) del artículo 279.
 ** Artículo modificado por el DL 983, publicado el 22 de julio de 2007 (link: bit.ly/3OnRERc).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 320. Pérdida de eficacia de la incautación**
 1. Dictada sentencia absolutoria, auto de sobreseimiento o de archivo de las actuaciones, los bienes incautados se restituirán a quien tenga derecho, salvo que se trate de bienes intrínsecamente delictivos. El auto, que se emitirá sin trámite alguno, será de ejecución inmediata.
 2. La restitución no será ordenada si, a solicitud de las partes legitimadas, se deben garantizar —cuando corresponda— el pago de las responsabilidades pecuniarias del delito y las costas.
-*Ver jurisprudencia aquí.*
+**
 LIBRO TERCERO
 EL PROCESO COMÚN
 ## **SECCIÓN I: LA INVESTIGACIÓN PREPARATORIA**
@@ -2190,26 +2190,26 @@ La Investigación Preparatoria se divide en dos subetapas: la investigación pre
 * Artículo modificado por los siguientes dispositivos:
 1. Ley 28697, publicada el 22 de marzo de 2006 (link: lpd.pe/0e8oB).
 *2. Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 322. Dirección de la investigación*******
 1. El Fiscal conduce jurídicamente la Investigación Preparatoria. La Policía Nacional del Perú, en cumplimiento de su finalidad constitucional, practica la investigación material del delito en la etapa preliminar por propia iniciativa o a solicitud de parte, siempre que no requiera autorización judicial ni tenga contenido jurisdiccional, conducente al esclarecimiento de los hechos. Una vez formalizada la Investigación Preparatoria, el Ministerio Público podrá requerir a la Policía Nacional del Perú para que, con su apoyo, actúe investigaciones complementarias. En cuanto a la actuación policial rige lo dispuesto en el artículo 65.
 2. Para la práctica de los actos de investigación puede requerir la colaboración de las autoridades y funcionarios públicos, quienes lo harán en el ámbito de sus respectivas competencias y cumplirán los requerimientos o pedidos de informes que se realicen conforme a la Ley.
 3. El Fiscal, además, podrá disponer las medidas razonables y necesarias para proteger y aislar indicios materiales en los lugares donde se investigue un delito, a fin de evitar la desaparición o destrucción de los mismos.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw), que modifica el numeral 1 (link: lpd.pe/Xe7Bw), en el que se indica que la Policía puede, por iniciativa propia, practicar la investigación material del delito en la etapa preliminar. Sin embargo, en una investigación complementaria, el Ministerio Público puede requerir el apoyo de la Policía.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 323. Función del Juez de la Investigación Preparatoria**
 1. Corresponde, en esta etapa, al Juez de la Investigación Preparatoria realizar, a requerimiento del Fiscal o a solicitud de las demás partes, los actos procesales que expresamente autoriza este Código.
 2. El Juez de la Investigación Preparatoria, enunciativamente, está facultado para: **a) **autorizar la constitución de las partes; **b)** pronunciarse sobre las medidas limitativas de derechos que requieran orden judicial y —cuando corresponda— las medidas de protección; **c)** resolver excepciones, cuestiones previas y prejudiciales; **d)** realizar los actos de prueba anticipada; y, **e)** controlar el cumplimiento del plazo en las condiciones fijadas en este código.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 324. Reserva y secreto de la investigación***
 1. La investigación tiene carácter reservado. Sólo pueden enterarse de su contenido las partes de manera directa o a través de sus abogados debidamente acreditados en autos. De las diligencias dispuestas por el Ministerio Público o derivadas de mandato judicial, toman conocimiento según corresponda, cuando están en curso o al término de las mismas. En cualquier momento pueden obtener copia simple de las actuaciones.
 2. El Fiscal puede ordenar que alguna actuación o documento se mantenga en secreto por un tiempo no mayor de veinte días, prorrogables por el Juez de la Investigación Preparatoria por un plazo no mayor de veinte días, cuando su conocimiento pueda dificultar el éxito de la investigación. La Disposición del Fiscal que declara el secreto se notificará a las partes.
 3. Las copias que se obtengan son para uso de la defensa. El Abogado que las reciba está obligado a mantener la reserva de Ley, bajo responsabilidad disciplinaria. Si reincidiera se notificará al patrocinado para que lo sustituya en el término de dos días de notificado. Si no lo hiciera, se nombrará uno de oficio.
 ** Artículo modificado por el DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 325. Carácter de las actuaciones de la investigación**
 Las actuaciones de la investigación sólo sirven para emitir las resoluciones propias de la investigación y de la etapa intermedia. Para los efectos de la sentencia tienen carácter de acto de prueba las pruebas anticipadas recibidas de conformidad con los artículos 242° y siguientes, y las actuaciones objetivas e irreproducibles cuya lectura en el juicio oral autoriza este Código.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LA DENUNCIA Y LOS ACTOS INICIALES DE LA INVESTIGACIÓN**
 ### **CAPÍTULO I: LA DENUNCIA**
 #### **Artículo 326. Facultad y obligación de denunciar**
@@ -2217,11 +2217,11 @@ Las actuaciones de la investigación sólo sirven para emitir las resoluciones p
 2. No obstante, lo expuesto deberán formular denuncia:
 **a) **Quienes están obligados a hacerlo por expreso mandato de la Ley. En especial lo están los profesionales de la salud por los delitos que conozcan en el desempeño de su actividad, así como los educadores por los delitos que hubieren tenido lugar en el centro educativo.
 **b) **Los funcionarios que en el ejercicio de sus atribuciones, o por razón del cargo, tomen conocimiento de la realización de algún hecho punible.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 327. No obligados a denunciar**
 1. Nadie está obligado a formular denuncia contra su cónyuge y parientes comprendidos dentro del cuarto grado de consanguinidad o segundo de afinidad.
 2. Tampoco existe esta obligación cuando el conocimiento de los hechos está amparado por el secreto profesional.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 328. Contenido y forma de la denuncia***
 1. Toda denuncia debe contener la identidad del denunciante, una narración detallada y veraz de los hechos, y —de ser posible— la individualización del presunto responsable.
 2. La denuncia podrá formularse por cualquier medio. Si es escrita, el denunciante firmará y colocará su impresión digital. Si es verbal se sentará el acta respectiva. Si es digital se realizará a través de la plataforma Denuncia Digital.
@@ -2232,13 +2232,13 @@ Las actuaciones de la investigación sólo sirven para emitir las resoluciones p
 1. La Policía Nacional del Perú inicia los actos de investigación comunicando de forma inmediata al Fiscal cuando tenga conocimiento de la sospecha de la comisión de un hecho que reviste los caracteres de delito por denuncia de los agraviados o mediante disposición fiscal.
 2. La inicia de oficio cuando llega a su conocimiento la comisión de un delito de persecución pública.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024, que modifica el numeral 1 (link: lpd.pe/Xe7Bw), el cual indica que ahora la Policía es quien inicia los actos de investigación, comunicando al fiscal, cuando haya una denuncia de los agraviados.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 330. Investigación preliminar*******
 1. La investigación preliminar del delito está a cargo de la Policía Nacional del Perú con la conducción jurídica del Fiscal.
 2. La investigación preliminar tiene por finalidad inmediata realizar los actos urgentes o inaplazables destinados a determinar si han tenido lugar los hechos objeto de conocimiento y su delictuosidad, así como asegurar los elementos materiales de su comisión, individualizar a las personas involucradas en los hechos, incluyendo a los agraviados, y, dentro de los límites de la Ley, asegurarlas debidamente; y como finalidad mediata investigar los hechos identificando, ubicando, capturando o citando a los presuntos autores y demás partícipes del hecho delictivo, a efectos de ponerlos a disposición del Fiscal con el informe policial respectivo para que este decida sobre la formalización de la Investigación Preparatoria.
 3. El Fiscal o la Policía, al tener conocimiento de un delito de ejercicio público de la acción penal, podrá constituirse inmediatamente en el lugar de los hechos con personal policial y medios especializados necesarios y efectuar un examen con la finalidad de establecer la realidad de los hechos y, en su caso, impedir que el delito produzca consecuencias ulteriores y que se altere la escena del delito.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024, que modificó los tres numerales y el rótulo que antes se denominaba «Diligencias Preliminares» (link: lpd.pe/Xe7Bw). En el numeral 1, se indica que ahora es la Policía quien se encarga de la investigación preliminar. En el numeral 2, se señala que la Policía es quien identifica y captura a los presuntos autores para colocarlos a disposición del fiscal con un informe policial. Finalmente, en el numeral 3, se señala que el fiscal y la Policía comparten funciones.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 331. Actuación policial***
 1. Tan pronto la Policía tenga noticia de la comisión de un delito, comunica de forma inmediata al Ministerio Público por la vía más rápida y también por escrito, indicando los elementos esenciales del hecho y demás elementos inicialmente recogidos, así como la actividad cumplida, sin perjuicio de dar cuenta de toda la documentación que pudiera existir. Al término de la investigación preliminar, se pone a disposición del Fiscal todo lo actuado, mediante el informe policial respectivo.
 2. Aun después de comunicada la noticia del delito, la Policía continuará las investigaciones que haya iniciado y después de la intervención del Fiscal practicará las demás investigaciones que les sean delegadas con arreglo al artículo 68. Para optimizar la labor de investigación del delito, la Policía puede solicitar y luego de la anuencia del Fiscal, coordinar la programación de actos de investigación adicionales que pueden ser incorporados a la disposición fiscal.
@@ -2246,7 +2246,7 @@ Las actuaciones de la investigación sólo sirven para emitir las resoluciones p
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 2. Ley 32130, publicada el 10 de octubre de 2024, que modificó el numeral 1 (link: lpd.pe/Xe7Bw), en el que se destaca la inmediata comunicación de la Policía al Ministerio Público; además se dispone que la Policía debe entregar un informe policial sobre la investigación preliminar.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 332. Informe policial***
 1. La Policía en todos los casos en que intervenga elevará al Fiscal un informe policial de la investigación preliminar, dentro del plazo otorgado por el representante del Ministerio Público, bajo responsabilidad funcional.
 2. El informe policial remitido al titular de la acción penal es de carácter no vinculante. Contiene los antecedentes que motivaron su intervención, la relación de las diligencias efectuadas, las precalificaciones de los delitos presuntamente cometidos, así como los grados de presunta autoría y participación, el análisis de los hechos investigados y las conclusiones respectivas que justifiquen continuar o no con la Investigación Preparatoria.
@@ -2255,10 +2255,10 @@ Las actuaciones de la investigación sólo sirven para emitir las resoluciones p
 1. Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).
 2. DL 1605, publicado el 21 de diciembre de 2023 (link: lpd.pe/pZRWz).
 3. Ley 32130, publicada el 10 de octubre de 2024, que modificó los numerales 1 y 2 (link: lpd.pe/Xe7Bw). En el numeral 1, se indica que la Policía debe entregar un informe policial de la investigación preliminar. Y, en el numeral 2, se especifica que el contenido del informe policial debe justificar si se continúa o no la investigación preparatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público**
 Sin perjuicio de la organización policial establecida por la Ley y de lo dispuesto en el artículo 69°, la Policía Nacional instituirá un órgano especializado encargado de coordinar las funciones de investigación de dicha institución con el Ministerio Público, de establecer los mecanismos de comunicación con los órganos de gobierno del Ministerio Público y con las Fiscalías, de centralizar la información sobre la criminalidad violenta y organizada, de aportar su experiencia en la elaboración de los programas y acciones para la adecuada persecución del delito, y de desarrollar programas de protección y seguridad.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO III: LA INVESTIGACIÓN PREPARATORIA**
 #### **Artículo 334. Calificación***
 1. Si el fiscal al calificar la denuncia o después de haber realizado o dispuesto realizar diligencias preliminares, considera que el hecho denunciado no constituye delito, no es justiciable penalmente o se presentan causas de extinción previstas en la ley, declarará que no procede formalizar y continuar con la investigación preparatoria, así como ordenará el archivo de lo actuado. Esta disposición se notifica al denunciante, al agraviado y al denunciado.
@@ -2268,11 +2268,11 @@ Sin perjuicio de la organización policial establecida por la Ley y de lo dispue
 5. El denunciante o el agraviado que no estuviese conforme con la disposición de archivar las actuaciones o de reservar provisionalmente la investigación, requerirá al fiscal, en el plazo de cinco días, eleve las actuaciones al fiscal superior.
 6. El fiscal superior se pronunciará dentro del quinto día. Podrá ordenar se formalice la investigación, se archiven las actuaciones o se proceda según corresponda.
 ** Artículo modificado por la Ley 30076, publicada el 19 de agosto de 2013 (link: bit.ly/44KHMrq).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 335. Prohibición de nueva denuncia**
 1. La Disposición de archivo prevista en el primer y último numeral del artículo anterior, impide que otro Fiscal pueda promover u ordenar que el inferior jerárquico promueva una Investigación Preparatoria por los mismos hechos.
 2. Se exceptúa esta regla, si se aportan nuevos elementos de convicción, en cuyo caso deberá reexaminar los actuados el Fiscal que previno. En el supuesto que se demuestre que la denuncia anterior no fue debidamente investigada, el Fiscal Superior que previno designará a otro Fiscal Provincial.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 336. Formalización y continuación de la Investigación Preparatoria**
 1. Si de la denuncia, del Informe Policial o de las Diligencias Preliminares que realizó, aparecen indicios reveladores de la existencia de un delito, que la acción penal no ha prescrito, que se ha individualizado al imputado y que, si fuera el caso, se han satisfecho los requisitos de procedibilidad, dispondrá la formalización y la continuación de la Investigación Preparatoria.
 2. La Disposición de formalización contendrá:
@@ -2282,7 +2282,7 @@ Sin perjuicio de la organización policial establecida por la Ley y de lo dispue
 **d) **Las diligencias que de inmediato deban actuarse.
 3. El Fiscal, sin perjuicio de su notificación al imputado, dirige la comunicación prevista en el artículo 3° de este Código, adjuntando copia de la Disposición de formalización, al Juez de la Investigación Preparatoria.
 4. El Fiscal, si considera que las diligencias actuadas preliminarmente establecen suficientemente la realidad del delito y la intervención del imputado en su comisión, podrá formular directamente acusación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 337. Diligencias de la Investigación Preparatoria***
 1. El Fiscal dispone que la Policía realice las diligencias de investigación que considere pertinentes y útiles, dentro de los límites de la Ley.
 2. La investigación preliminar es una subetapa de la Investigación Preparatoria. No podrán repetirse una vez formalizada la investigación. Procede su ampliación si dicha diligencia resultare indispensable, siempre que se advierta un grave defecto en su actuación o que ineludiblemente deba completarse como consecuencia de la incorporación de nuevos elementos de convicción.
@@ -2295,18 +2295,18 @@ Sin perjuicio de la organización policial establecida por la Ley y de lo dispue
 1. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
 2. Ley 32130, publicada el 10 de octubre de 2024, que modificó los numerales 1 y 2 (link: lpd.pe/Xe7Bw). En el numeral 1, se indica que ahora el fiscal dispone de la Policía para realizar las diligencias de investigación. Y, en el numeral 2, se precisa que la investigación preliminar es una subetapa de la investigación preparatoria.
 3. Ley 32374, publicada el 7 de junio de 2025 (link: lpd.pe/XCeANz).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 338. Condiciones de las actuaciones de investigación**
 1. El Fiscal podrá permitir la asistencia de los sujetos procesales en las diligencias que deba realizar, salvo las excepciones previstas por la Ley. Esta participación está condicionada a su utilidad para el esclarecimiento de los hechos, a que no ocasione perjuicio al éxito de la investigación o a que no impida una pronta y regular actuación.
 2. El Fiscal velará porque la concurrencia de las personas autorizadas no interfiera en el normal desarrollo del acto e impartirá instrucciones obligatorias a los asistentes para conducir adecuadamente la diligencia. Está facultado a excluirlos en cualquier momento si vulneran el orden y la disciplina.
 3. El Fiscal, en el ejercicio de sus funciones de investigación, podrá solicitar la intervención de la Policía y, si es necesario, el uso de la fuerza pública, ordenando todo aquello que sea necesario para el seguro y ordenado cumplimiento de las actuaciones que desarrolla.
 4. Cuando el Fiscal, salvo las excepciones previstas en la Ley, deba requerir la intervención judicial para la práctica de determinadas diligencias, la actuación de prueba anticipada o la imposición de medidas coercitivas, estará obligado a formalizar la investigación, a menos que lo hubiere realizado previamente.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 339. Efectos de la formalización de la investigación***
 1. La formalización de la investigación suspenderá el curso de la prescripción de la acción penal de conformidad con lo dispuesto en el artículo 84 del Código Penal.
 2. Asimismo, el Fiscal perderá la facultad de archivar la investigación sin intervención judicial.
 ** Artículo modificado por la Ley 31751, publicada el 25 de mayo de 2023 (link: bit.ly/3YhQaMT).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO IV**: **LOS ACTOS ESPECIALES DE INVESTIGACIÓN**
 #### **Artículo 340. Circulación y entrega vigilada de bienes delictivos***
 1. El Fiscal podrá autorizar la circulación o entrega vigilada de bienes delictivos. Esta medida deberá acordarse mediante una Disposición, en la que determine explícitamente, en cuanto sea posible, el objeto de autorización o entrega vigilada, así como las características del bien delictivo de que se trate. Para adoptarla se tendrá en cuenta su necesidad a los fines de investigación en relación con la importancia del delito y con las posibilidades de vigilancia. El Fiscal que dicte la autorización remitirá copia de la misma a la Fiscalía de la Nación, que abrirá un registro reservado de dichas autorizaciones.
@@ -2314,7 +2314,7 @@ Sin perjuicio de la organización policial establecida por la Ley y de lo dispue
 3. La interceptación y apertura de envíos postales sospechosos de contener bienes delictivos y, en su caso, la posterior sustitución de los bienes delictivos que hubiese en su interior se llevarán a cabo respetando lo dispuesto en el artículo 226° y siguientes. La diligencia y apertura preliminar del envío postal se mantendrá en secreto hasta que hayan culminado las Diligencias Preliminares; y, en su caso, se prolongará, previa autorización del Juez de la Investigación Preparatoria, hasta por quince días luego de formalizada la Investigación Preparatoria.
 4. Los bienes delictivos objeto de esta técnica especial son: **a)** las drogas tóxicas, estupefacientes o sustancias psicotrópicas, así como otras sustancias prohibidas; **b)** las materias primas o insumos destinados a la elaboración de aquellas; **c)** los bienes, dinero, títulos valores, efectos y ganancias a que se refiere el Decreto Legislativo 1106;** d)** los bienes relativos a los delitos aduaneros; **e)** los bienes, materiales, objetos y especies a los que se refieren los artículos 228, 230, 308, 309, 252 a 255, 257, 279 y 279-A del Código Penal.
 ** Artículo modificado por la Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 341. Agente Encubierto, Agente Especial, Agente Revelador, Agente Virtual e informante o confidente***
 1. La Policía Nacional del Perú cuando la aplicación de las técnicas convencionales de investigación no sean satisfactorias, con autorización del Ministerio Público mediante disposición, puede recurrir a las técnicas especiales de investigación, que resulten idóneas, necesarias e indispensables para el esclarecimiento de los hechos materia de investigación perpetrados por banda u organización criminal según la Ley Nº 30077 y los delitos de trata de personas, así como contra la administración pública previstos en los artículos 382 al 401 del Código Penal, conforme con el siguiente detalle:
 **1.1. **Agente Encubierto: Ejecutado por miembro de la Policía Nacional del Perú en situación de actividad perteneciente a la unidad especializada competente, que reúna las condiciones necesarias para establecer contacto o infiltrarse en una banda u organización criminal.
@@ -2330,25 +2330,25 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 2. Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv).
 3. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
 4. DL 1611, publicado el 21 de diciembre de 2023 (link: lpd.pe/kPNwY).
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 341-A. Operaciones encubiertas***
 1. Cuando en las Diligencias Preliminares se trate de identificar personas naturales y jurídicas, así como bienes y actividades propias de la criminalidad organizada, de la trata de personas y de los delitos contra la administración pública previstos en los artículos 382 al 401 del Código Penal, en tanto existan indicios de su comisión, el Ministerio Público podrá autorizar a la Policía Nacional del Perú a fin de que realice operaciones encubiertas sin el conocimiento de los investigados, tales como la protección legal de personas jurídicas, de bienes en general, incluyendo títulos, derechos y otros de naturaleza intangible, entre otros procedimientos. El Fiscal podrá crear, estrictamente para los fines de la investigación, personas jurídicas ficticias o modificar otras ya existentes, así como autoriza la participación de personas naturales encubiertas, quienes podrán participar de procesos de selección, contratación, adquisición o cualquier operación realizada con o para el Estado.
 2. La autorización correspondiente será inscrita en un registro especial bajo los parámetros legales señalados para el agente encubierto. Por razones de seguridad, las actuaciones correspondientes no formarán parte del expediente del proceso respectivo sino que formarán un cuaderno secreto al que sólo tendrán acceso los jueces y fiscales competentes.
 3. Ejecutado lo dispuesto en el numeral 1, se requerirá al Juez Penal competente la confirmatoria de lo actuado. Dicha resolución es apelable.
 ** Artículo incorporado por la Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv), y luego modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO V: CONCLUSIÓN DE LA INVESTIGACIÓN PREPARATORIA**
 #### **Artículo 342. Plazo***
 1. El plazo de la Investigación Preparatoria es de ciento veinte días naturales. Sólo por causas justificadas, dictando la Disposición correspondiente, el Fiscal podrá prorrogarla por única vez hasta por un máximo de sesenta días naturales.
 2. Tratándose de investigaciones complejas, el plazo de la Investigación Preparatoria es de ocho meses. Para el caso de investigación de delitos perpetrados por imputados integrantes de organizaciones criminales, personas vinculadas a ella o que actúan por encargo de la misma, el plazo de la investigación preparatoria es de treinta y seis meses. La prórroga por igual plazo debe concederla el Juez de la Investigación Preparatoria.
 3. Corresponde al Fiscal emitir la disposición que declara complejo el proceso cuando: **a)** requiera de la actuación de una cantidad significativa de actos de investigación; **b)** comprenda la investigación de numerosos delitos; **c) **involucra una cantidad importante de imputados o agraviados; **d)** demanda la realización de pericias que comportan la revisión de una nutrida documentación o de complicados análisis técnicos;** e)** necesita realizar gestiones de carácter procesal fuera del país;** f) **involucra llevar a cabo diligencias en varios distritos judiciales; **g)** revisa la gestión de personas jurídicas o entidades del Estado; o **h)** comprenda la investigación de delitos perpetrados por integrantes de una organización criminal, personas vinculadas a ella o que actúan por encargo de la misma.
 ** Artículo modificado por la Ley 30077, publicada el 20 de agosto de 2013 (link: bit.ly/3rMY3xv).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 343. Control del Plazo**
 1. El Fiscal dará por concluida la Investigación Preparatoria cuando considere que ha cumplido su objeto, aun cuando no hubiere vencido el plazo.
 2. Si vencidos los plazos previstos en el artículo anterior el Fiscal no dé por concluida la Investigación Preparatoria, las partes pueden solicitar su conclusión al Juez de la Investigación Preparatoria. Para estos efectos el Juez citará al Fiscal y a las demás partes a una audiencia de control del plazo, quien luego de revisar las actuaciones y escuchar a las partes, dictará la resolución que corresponda.
 3. Si el Juez ordena la conclusión de la Investigación Preparatoria, el Fiscal en el plazo de diez días debe pronunciarse solicitando el sobreseimiento o formulando acusación, según corresponda. Su incumplimiento acarrea responsabilidad disciplinaria en el Fiscal.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN II: LA ETAPA INTERMEDIA**
 ## **TÍTULO I: EL SOBRESEIMIENTO**
 #### **Artículo 344. Decisión del Ministerio Público***
@@ -2359,14 +2359,14 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 **c) **La acción penal se ha extinguido; y,
 **d)** No existe razonablemente la posibilidad de incorporar nuevos datos a la investigación y no haya elementos de convicción suficientes para solicitar fundadamente el enjuiciamiento del imputado.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 345. Control del requerimiento de sobreseimiento y Audiencia de control del sobreseimiento***
 1. El Fiscal enviará al Juez de la Investigación Preparatoria el requerimiento de sobreseimiento, acompañando el expediente fiscal. El Juez correrá traslado del pedido de la solicitud a los demás sujetos procesales por el plazo de diez (10) días.
 2. Los sujetos procesales podrán formular oposición a la solicitud de archivo dentro del plazo establecido. La oposición, bajo sanción de inadmisibilidad, será fundamentada y podrá solicitar la realización de actos de investigación adicionales, indicando su objeto y los medios de investigación que considere procedentes.
 3. Vencido el plazo del traslado, el Juez citará al Ministerio Público y a los demás sujetos procesales para una audiencia preliminar para debatir los fundamentos del requerimiento de sobreseimiento. La audiencia es de carácter inaplazable, rige lo dispuesto en el numeral 1 del artículo 85, se instalará con los asistentes, a quienes escuchará por su orden para debatir los fundamentos del requerimiento fiscal. La resolución se emitirá en el plazo de tres (3) días.
 4. Entre el requerimiento de sobreseimiento y la audiencia que resuelve lo pertinente no puede transcurrir más de treinta (30) días. En casos complejos y de criminalidad organizada no podrá exceder de sesenta (60) días, bajo responsabilidad**.**
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria***
 1. El Juez se pronunciará en el plazo de quince (15) días. Para casos complejos y de criminalidad organizada el pronunciamiento no podrá exceder de los treinta (30) días. Si considera fundado el requerimiento fiscal, dictará auto de sobreseimiento. Si no lo considera procedente, expedirá un auto elevando las actuaciones al Fiscal Superior para que ratifique o rectifique la solicitud del Fiscal Provincial. La resolución judicial debe expresar las razones en que funda su desacuerdo.
 2. El Fiscal Superior se pronunciará en el plazo de diez (10) días. Con su decisión culmina el trámite.
@@ -2374,7 +2374,7 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 4. Si el Fiscal Superior no está de acuerdo con el requerimiento del Fiscal Provincial, ordenará a otro Fiscal que formule acusación.
 5. El Juez de la Investigación Preparatoria, en el supuesto del numeral 2 del artículo anterior, si lo considera admisible y fundado, dispondrá la realización de una Investigación Suplementaria indicando el plazo y las diligencias que el Fiscal debe realizar. Cumplido el trámite, no procederá oposición ni disponer la concesión de un nuevo plazo de investigación**.**
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 347. Auto de sobreseimiento**
 1. El auto que dispone el sobreseimiento de la causa deberá expresar:
 **a) **Los datos personales del imputado;
@@ -2383,12 +2383,12 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 **d) **La parte resolutiva, con la indicación expresa de los efectos del sobreseimiento que correspondan.
 2. El sobreseimiento tiene carácter definitivo. Importa el archivo definitivo de la causa con relación al imputado en cuyo favor se dicte y tiene la autoridad de cosa juzgada. En dicha resolución se levantarán las medidas coercitivas, personales y reales, que se hubieren expedido contra la persona o bienes del imputado.
 3. Contra el auto de sobreseimiento procede recurso de apelación. La impugnación no impide la inmediata libertad del imputado a quien favorece.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 348. Sobreseimiento total y parcial**
 1. El sobreseimiento será total cuando comprende todos los delitos y a todos los imputados; y parcial cuando sólo se circunscribe a algún delito o algún imputado, de los varios que son materia de la Disposición de Formalización de la Investigación Preparatoria.
 2. Si el sobreseimiento fuere parcial, continuará la causa respecto de los demás delitos o imputados que no los comprende.
 3. El Juez, frente a un requerimiento Fiscal mixto, acusatorio y no acusatorio, primero se pronunciará acerca del requerimiento de sobreseimiento. Culminado el trámite según lo dispuesto en los artículos anteriores, abrirá las actuaciones relativas a la acusación fiscal.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LA ACUSACIÓN**
 #### **Artículo 349. Contenido***
 1. La acusación fiscal será debidamente motivada, y contendrá:
@@ -2404,7 +2404,7 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 3. En la acusación, el Ministerio Público podrá señalar, alternativa o subsidiariamente, las circunstancias de hecho que permitan calificar la conducta del imputado en un tipo penal distinto, para el caso de que no resultaren demostrados en el debate los elementos que componen su calificación jurídica principal, a fin de posibilitar la defensa del imputado.
 4. El Fiscal indicará en la acusación las medidas de coerción subsistentes dictadas durante la Investigación Preparatoria; y, en su caso, podrá solicitar su variación o que se dicten otras según corresponda.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 350. Notificación de la acusación y objeción de los demás sujetos procesales***
 1. La acusación será notificada a los demás sujetos procesales. En el plazo de diez días éstas podrán:
 **a) **Observar la acusación del Fiscal por defectos formales, requiriendo su corrección;
@@ -2417,14 +2417,14 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 **h) **Plantear cualquier otra cuestión que tienda a preparar mejor el juicio.
 2. Los demás sujetos procesales podrán proponer los hechos que aceptan y que el Juez dará por acreditados, obviando su actuación probatoria en el Juicio. Asimismo, podrán proponer acuerdos acerca de los medios de prueba que serán necesarios para que determinados hechos se estimen probados. El Juez, sin embargo, exponiendo los motivos que lo justifiquen, podrá desvincularse de esos acuerdos; en caso contrario, si no fundamenta especialmente las razones de su rechazo, carecerá de efecto la decisión que los desestime.
 ** Artículo modificado por la Ley 32348, publicada el 23 de mayo de 2025 (link: lpd.pe/px8Gv)*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 351. Audiencia Preliminar***
 1. Presentados los escritos y requerimientos de los sujetos procesales o vencido el plazo fijado en el artículo anterior, el Juez de la Investigación Preparatoria señalará día y hora para la realización de una audiencia preliminar, la que deberá fijarse dentro de un plazo no menor de cinco (5) días ni mayor de veinte (20) días. Para la instalación de la audiencia es obligatoria la presencia del Fiscal y el abogado defensor del acusado. No podrán actuarse diligencias de investigación o de prueba específicas, salvo el trámite de prueba anticipada y la presentación de prueba documental, para decidir cualquiera de las solicitudes señaladas en el artículo anterior.
 2. La audiencia es de carácter inaplazable, rige lo dispuesto en el numeral 1 del artículo 85, será dirigida por el Juez de la Investigación Preparatoria y durante su realización, salvo lo dispuesto en este numeral, no se admitirá la presentación de escritos.
 3. Instalada la audiencia, el Juez otorgará la palabra por un tiempo breve y por su orden al Fiscal, a la defensa del actor civil, así como del acusado y del tercero civilmente responsable, los que debatirán sobre la procedencia o admisibilidad de cada una de las cuestiones planteadas y la pertinencia de la prueba ofrecida. El Fiscal podrá en la misma audiencia, presentando el escrito respectivo, modificar, aclarar o integrar la acusación en lo que no sea sustancial; el Juez, en ese mismo acto correrá traslado a los demás sujetos procesales concurrentes para su absolución inmediata.
 4. Si la audiencia es suspendida, la siguiente sesión deberá realizarse en un plazo no mayor a ocho (8) días hábiles. Entre el requerimiento acusatorio y la emisión del auto que lo resuelve no puede transcurrir más de cuarenta (40) días. En casos complejos y de criminalidad organizada no podrá exceder de noventa (90) días, bajo responsabilidad.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 352. Decisiones adoptadas en la audiencia preliminar**
 1. Finalizada la audiencia el Juez resolverá inmediatamente todas las cuestiones planteadas, salvo que por lo avanzado de la hora o lo complejo de los asuntos por resolver, difiera la solución hasta por cuarenta y ocho horas improrrogables. En este último caso, la decisión simplemente se notificará a las partes.
 2. Si los defectos de la acusación requieren un nuevo análisis del Ministerio Público, el Juez dispondrá la devolución de la acusación y suspenderá la audiencia por cinco días para que corrija el defecto, luego de lo cual se reanudará. En los demás casos, el Fiscal, en la misma audiencia, podrá hacer las modificaciones, aclaraciones o subsanaciones que corresponda, con intervención de los concurrentes. Si no hay observaciones, se tendrá por modificado, aclarado o saneado el dictamen acusatorio en los términos precisados por el Fiscal, en caso contrario resolverá el Juez mediante resolución inapelable.
@@ -2435,7 +2435,7 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 **b) **Que el acto probatorio propuesto sea pertinente, conducente y útil. En este caso se dispondrá todo lo necesario para que el medio de prueba se actúe oportunamente en el Juicio. El pedido de actuación de una testimonial o la práctica de un peritaje especificará el punto que será materia de interrogatorio o el problema que requiere explicación especializada, así como el domicilio de los mismos. La resolución que se dicte no es recurrible.
 6. La resolución sobre las convenciones probatorias, conforme a lo dispuesto en el numeral 2) del artículo 350°, no es recurrible. En el auto de enjuiciamiento se indicarán los hechos específicos que se dieren por acreditados o los medios de prueba necesarios para considerarlos probados.
 7. La decisión sobre la actuación de prueba anticipada no es recurrible. Si se dispone su actuación, ésta se realizará en acto aparte conforme a lo dispuesto en el artículo 245°, sin perjuicio de dictarse el auto de enjuiciamiento. Podrá dirigirla un Juez si se trata de Juzgado Penal Colegiado.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO III: EL AUTO DE ENJUICIAMIENTO**
 #### **Artículo 353. Contenido del auto de enjuiciamiento***
 1. Resueltas las cuestiones planteadas, el Juez dictará el auto de enjuiciamiento. Dicha resolución es recurrible si no se encuentra debidamente formulada la imputación necesaria, identificando los hechos y los elementos probatorios que tienden a acreditarla o las observaciones asumidas en la etapa intermedia.
@@ -2447,12 +2447,12 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 **e) **La orden de remisión de los actuados al Juez encargado del juicio oral.
 3. El Juez, si resulta necesario, de oficio o según el pedido de parte formulado conforme a lo dispuesto en el numeral 1 c) del artículo 350°, se pronunciará sobre la procedencia o la subsistencia de las medidas de coerción o su sustitución, disponiendo en su caso la libertad del imputado.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 354. Notificación del auto de enjuiciamiento***
 1. El auto de enjuiciamiento se notificará al Ministerio Público y a los demás sujetos procesales, se tendrá como válido el último domicilio señalado por las partes en la audiencia preliminar, empleándose para ello el medio más célere.
 2. Dentro de las cuarenta y ocho (48) horas de la notificación, el Juez de la Investigación Preparatoria hará llegar al Juez Penal que corresponda dicha resolución y los actuados correspondientes, así como los documentos y los objetos incautados, y se pondrá a su orden a los presos preventivos.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO IV: EL AUTO DE CITACIÓN A JUICIO**
 #### **Artículo 355. Auto de citación a juicio***
 1. Recibidas las actuaciones por el Juzgado Penal competente, éste dictará el auto de citación a juicio con indicación de la sede del juzgamiento y de la fecha de la realización del juicio oral, salvo que todos los acusados fueran ausentes. La fecha será la más próxima posible, con un intervalo no menor de diez (10) días.
@@ -2462,13 +2462,13 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 5. Será obligación del Ministerio Público y de los demás sujetos procesales coadyuvar en la localización y comparecencia de los testigos o peritos que hayan propuesto.
 6. La audiencia de instalación de juicio es inaplazable, rige el numeral 1 del artículo 85**.**
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN**** III: EL JUZGAMIENTO**
 ## **TÍTULO I: PRECEPTOS GENERALES**
 #### **Artículo 356. Principios del Juicio**
 1. El juicio es la etapa principal del proceso. Se realiza sobre la base de la acusación. Sin perjuicio de las garantías procesales reconocidas por la Constitución y los Tratados de Derecho Internacional de Derechos Humanos aprobados y ratificados por el Perú, rigen especialmente la oralidad, la publicidad, la inmediación y la contradicción en la actuación probatoria. Asimismo, en su desarrollo se observan los principios de continuidad del juzgamiento, concentración de los actos del juicio, identidad física del juzgador y presencia obligatoria del imputado y su defensor.
 2. La audiencia se desarrolla en forma continua y podrá prolongarse en sesiones sucesivas hasta su conclusión. Las sesiones sucesivas, sin perjuicio de las causas de suspensión y de lo dispuesto en el artículo 360°, tendrán lugar al día siguiente o subsiguiente de funcionamiento ordinario del Juzgado.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 357. Publicidad del Juicio y restricciones**
 1. El juicio oral será público. No obstante, ello, el Juzgado mediante auto especialmente motivado podrá resolver, aún de oficio, que el acto oral se realice total o parcialmente en privado, en los siguientes casos:
 **a) **Cuando se afecte directamente el pudor, la vida privada o la integridad física de alguno de los participantes en el juicio;
@@ -2482,7 +2482,7 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 3. Desaparecida la causa que motivó la privacidad del juicio se permitirá el reingreso del público a la Sala de Audiencias. El Juzgado, con criterio discrecional, podrá imponer a los participantes en el juicio el deber de guardar secreto sobre los hechos que presenciaren o conocieren.
 4. Los juicios sobre funcionarios públicos, delitos de prensa y los que se refieran a derechos fundamentales garantizados por la Constitución son siempre públicos.
 5. La sentencia será siempre pública, excepto en los casos en que el interés de menores de edad exija lo contrario.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 358. Condiciones para la publicidad del juicio**
 1. Se cumple con la garantía de publicidad con la creación de las condiciones apropiadas para que el público y la prensa puedan ingresar a presenciar la audiencia.
 2. Está prohibido el ingreso de aquel que porte arma de fuego u otro medio idóneo para agredir o perturbar el orden. Tampoco pueden ingresar los menores de doce años, o quien se encuentra ebrio, drogado o sufre grave anomalía psíquica.
@@ -2495,7 +2495,7 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 6. Cuando el Fiscal, injustificadamente, se ausente de la audiencia o no concurra a dos sesiones consecutivas o a tres sesiones no consecutivas, se le excluirá del juicio y se requerirá al Fiscal jerárquicamente superior en grado designe a su reemplazo.
 7. Cuando el actor civil o el tercero civil no concurra a la audiencia o a las sucesivas sesiones del juicio, éste proseguirá sin su concurrencia, sin perjuicio que puedan ser emplazados a comparecer para declarar. Si el actor civil no concurre a la instalación de juicio o a dos sesiones, se tendrá por abandonada su constitución en parte.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 360. Continuidad, suspensión e interrupción del juicio***
 1. Instalada la audiencia, ésta seguirá en sesiones continuas e ininterrumpidas hasta su conclusión. Si no fuere posible realizar el debate en un solo día, éste continuará durante los días consecutivos que fueran necesarios hasta su conclusión.
 2. La audiencia sólo podrá suspenderse:
@@ -2507,36 +2507,36 @@ La Policía Nacional del Perú está facultada a utilizar la técnica de investi
 5. Entre sesiones, o durante el plazo de suspensión, no podrán realizarse otros juicios, siempre que las características de la nueva causa lo permitan.
 6. El plazo establecido en el párrafo 3 no excede de cinco (5) días hábiles, cuando el juicio oral en el marco de un proceso común comprenda un solo acusado y agraviado, o en su defecto, un solo actor civil.
 ** Artículo modificado por el DL 1735, publicado el 12 de febrero de 2026 (link: lpd.pe/NVb5p). Específicamente, la Tercera Disposición Complementaria Modificatoria agregó el numeral 6.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 361. Oralidad y registro**
 1. La audiencia se realiza oralmente, pero se documenta en acta. El acta contendrá una síntesis de lo actuado en ella y será firmada por el Juez o Juez presidente y el secretario. Los Jueces, el Fiscal, y la defensa de las partes pueden hacer constar las observaciones al acta que estimen convenientes. Asimismo, la audiencia podrá registrarse mediante un medio técnico, según el Reglamento que al efecto dicte el órgano de gobierno del Poder Judicial.
 2. El acta y, en su caso, la grabación demostrarán el modo como se desarrolló el juicio, la observancia de las formalidades previstas para él, las personas que han intervenido y los actos que se llevaron a cabo. Rige a este efecto el artículo 121° del presente Código.
 3. Toda petición o cuestión propuesta en audiencia será argumentada oralmente, al igual que la recepción de las pruebas y, en general, toda intervención de quienes participan en ella. Está prohibido dar lectura a escritos presentados con tal fin, salvo quienes no puedan hablar o no lo supieren hacer en el idioma castellano, en cuyo caso intervendrán por escrito, salvo que lo hagan por medio de intérprete.
 4. Las resoluciones serán dictadas y fundamentadas verbalmente. Se entenderán notificadas desde el momento de su pronunciamiento, debiendo constar su registro en el acta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 362. Incidentes**
 1. Los incidentes promovidos en el transcurso de la audiencia serán tratados en un solo acto y se resolverán inmediatamente. En su discusión se concederá la palabra a las partes, por el tiempo que fije el Juez Penal, a fin de que se pronuncien sobre su mérito.
 2. Las resoluciones que recaen sobre estos incidentes son recurribles sólo en los casos expresamente previstos en este Código.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 363. Dirección del juicio**
 1. El Juez Penal o el Juez Presidente del Juzgado Colegiado dirigirán el juicio y ordenará los actos necesarios para su desarrollo. Le corresponde garantizar el ejercicio pleno de la acusación y de la defensa de las partes. Está facultado para impedir que las alegaciones se desvíen hacia aspectos impertinentes o inadmisibles, sin coartar el razonable ejercicio de la acusación y de la defensa. También lo está para limitar el uso de la palabra a las partes y a sus abogados, fijando límites igualitarios para todos ellos, de acuerdo a la naturaleza y complejidad del caso, o para interrumpir a quien hace uso manifiestamente abusivo de su facultad.
 2. En los casos de Juzgados Colegiados, la dirección del juicio se turnará entre sus demás integrantes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 364. Poder disciplinario y discrecional**
 1. El poder disciplinario permite al Juez mantener el orden y el respeto en la Sala de Audiencias, así como disponer la expulsión de aquél que perturbe el desarrollo del juicio, y mandar detener hasta por veinticuatro horas a quien amenace o agreda a los Jueces o a cualquiera de las partes, sus abogados y los demás intervinientes en la causa, o impida la continuidad del juzgamiento, sin perjuicio de las acciones penales a que hubiere lugar. En el caso que un acusado testigo o perito se retire o aleje de la audiencia sin permiso del Juez o del Juez presidente, se dispondrá que sea traído a la misma por la fuerza pública.
 2. El defensor de las partes podrá ser expulsado de la Sala de Audiencias, previo apercibimiento. En este caso será reemplazado por el que designe la parte dentro de veinticuatro horas o, en su defecto, por el de oficio.
 3. Cuando la expulsión recaiga sobre el acusado se dictará la decisión apropiada que garantice su derecho de defensa, en atención a las circunstancias del caso. Tan pronto como se autorice la presencia del acusado, se le instruirá sobre el contenido esencial de aquello sobre lo que se haya actuado en su ausencia y se le dará la oportunidad de pronunciarse sobre esas actuaciones.
 4. Cuando se conceda al acusado el derecho de exponer lo que estime conveniente a su defensa, limitará su exposición al tiempo que se le ha fijado. Si no cumple con las limitaciones precedentes se le podrá llamar la atención y requerirlo. En caso de incumplimiento podrá darse por terminada su exposición y, en caso grave, disponer se le desaloje de la Sala de Audiencias. En este último supuesto o cuando el acusado se muestre renuente a estar presente en la audiencia, la sentencia podrá leerse no estando presente el acusado, pero con la concurrencia obligatoria de su abogado defensor o el nombrado de oficio, sin perjuicio de notificársele posteriormente.
 5. El poder discrecional permite al Juez resolver cuestiones no regladas que surjan en el juicio, cuya resolución es necesaria para su efectiva y debida continuación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 365. Delito en el juicio **
 Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal ordenará levantar un acta con las indicaciones que correspondan y ordenará la detención del presunto culpable, a quien inmediatamente lo pondrá a disposición del Fiscal que corresponda, remitiéndosele copia de los antecedentes necesarios, a fin de que proceda conforme a Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 366. Auxiliar Jurisdiccional**
 1. El Auxiliar Jurisdiccional del Juzgado adoptará las acciones pertinentes para que se efectúen las notificaciones ordenadas y se encuentren en lugar adecuado los objetos o documentos cuya presentación en audiencia ha sido ordenada.
 2. Igualmente, está obligado a realizar las coordinaciones para la asistencia puntual del Fiscal, de las partes y de sus abogados, así como para la comparecencia de los testigos, peritos, intérpretes y otros intervinientes citados por el Juzgado.
 3. Corresponde además al Auxiliar Jurisdiccional del Juzgado la fe pública judicial, así como, a través del personal a su cargo, el control de la documentación y registros del Juzgado, el apoyo al Juzgado durante el Juicio y la responsabilidad de la confección y custodia de las actas del juicio y demás registros, incluso de los medios técnicos de reproducción y archivo, de conformidad con el Reglamento aprobado por el órgano de gobierno del Poder Judicial.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LA PREPARACIÓN DEL DEBATE**
 #### **Artículo 367. Concurrencia del imputado y su defensor**
 1. La audiencia no podrá realizarse sin la presencia del acusado y de su defensor.
@@ -2545,7 +2545,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 4. Cuando son varios los acusados, y alguno de ellos no concurra, la audiencia se iniciará con los asistentes, declarándose contumaces a los inconcurrentes sin justificación. Igual trato merecerá el acusado que injustificadamente deje de asistir a la audiencia.
 5. En caso que el acusado ausente o contumaz sea capturado o se presente voluntariamente antes de que se cierre la actividad probatoria, se le incorporará a la audiencia, se le hará saber los cargos que se le atribuyen y se le informará concisamente de lo actuado hasta ese momento. A continuación, se le dará la oportunidad de declarar y de pronunciarse sobre las actuaciones del juicio, y se actuarán de ser el caso las pruebas compatibles con el estado del juicio.
 6. El imputado preso preventivo, en todo el curso del juicio, comparecerá sin ligaduras ni prisiones, acompañado de los efectivos policiales para prevenir el riesgo de fuga o de violencia. En casos o ante circunstancias especialmente graves, y de acuerdo al Reglamento que, previa coordinación con el Ministerio del Interior, dicte el Órgano de Gobierno del Poder Judicial, podrán establecerse mecanismos o directivas de seguridad adecuadas a las circunstancias.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 368. Lugar del Juzgamiento**
 1. El Juzgamiento tendrá lugar en la Sala de Audiencias que designe el Juzgado Penal.
 2. Cuando por razones de enfermedad u otra causal justificada sea imposible la concurrencia del acusado a la Sala de Audiencias, el juzgamiento podrá realizarse en todo o en parte en el lugar donde éste se encuentre, siempre que su estado de salud y las condiciones lo permitan.
@@ -2553,7 +2553,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 #### **Artículo 369. Instalación de la audiencia**
 1. La audiencia sólo podrá instalarse con la presencia obligatoria del Juez Penal o, en su caso, de los Jueces que integran el Juzgado Penal Colegiado, del Fiscal y, con las prevenciones fijadas en el artículo 366°, del acusado y su defensor.
 2. El Juez Penal verificará la correcta citación a las partes, así como la efectiva concurrencia de los testigos y peritos emplazados. La inasistencia de las demás partes y de los órganos de prueba citados no impide la instalación de la audiencia. El Auxiliar Jurisdiccional realizará las acciones conducentes a la efectiva concurrencia de estos últimos en la oportunidad que acuerde el Juez Penal.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 370. Ubicación de las partes en la audiencia**
 1. El Juez Penal tendrá a su frente al acusado; a su derecha, al Fiscal y al abogado de la parte civil; y, a su izquierda al abogado defensor del acusado.
 2. Los testigos y peritos ocuparán un ambiente contiguo a la Sala de Audiencias. El Auxiliar Jurisdiccional tomará las medidas necesarias para que los testigos no puedan dialogar entre sí. Los testigos y peritos sólo serán introducidos a la Sala de Audiencias a medida que sean llamados para ser examinados.
@@ -2562,7 +2562,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 1. Instalada la audiencia, el Juez enunciará el número del proceso, la finalidad específica del juicio, el nombre y los demás datos completos de identidad personal del acusado, su situación jurídica, el delito objeto de acusación y el nombre del agraviado.
 2. Acto seguido, el Fiscal expondrá resumidamente los hechos objeto de la acusación, la calificación jurídica y las pruebas que ofreció y fueron admitidas. Posteriormente, en su orden, los abogados del actor civil y del tercero civil expondrán concisamente sus pretensiones y las pruebas ofrecidas y admitidas. Finalmente, el defensor del acusado expondrá brevemente sus argumentos de defensa y las pruebas de descargo ofrecidas y admitidas.
 3. Culminados los alegatos preliminares, el Juez informará al acusado de sus derechos y le indicará que es libre de manifestarse sobre la acusación o de no declarar sobre los hechos. El acusado en cualquier estado del juicio podrá solicitar ser oído, con el fin de ampliar, aclarar o complementar sus afirmaciones o declarar si anteriormente se hubiera abstenido. Asimismo, el acusado en todo momento podrá comunicarse con su defensor, sin que por ello se paralice la audiencia, derecho que no podrá ejercer durante su declaración o antes de responder a las preguntas que se le formulen.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 372. Posición del acusado y conclusión anticipada del juicio***
 1. El Juez, después de haber instruido de sus derechos al acusado, le preguntará si admite ser autor o partícipe del delito materia de acusación y responsable de la reparación civil.
 2. Si el acusado, previa consulta con su abogado defensor, responde afirmativamente, el Juez declarará la conclusión del juicio. Antes de responder, el acusado también podrá solicitar por sí o a través de su abogado conferenciar previamente con el Fiscal para llegar a un acuerdo sobre la pena para cuyo efecto se suspenderá por breve término. La sentencia se dictará en esa misma sesión o en la siguiente, que no podrá postergarse por más de cuarenta y ocho horas, bajo sanción de nulidad del juicio. La reducción de la pena no procede en el delito previsto en el artículo 108-B y en los delitos previstos en el Libro Segundo, Título IV, Capítulo I: artículos 153, 153-A, 153-B, 153-C, 153-D, 153-E, 153-F, 153-G, 153-H, 153-I, 153-J y Capítulos IX, X y XI del Código Penal.
@@ -2570,17 +2570,17 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 4. Si son varios los acusados y solamente admiten los cargos una parte de ellos, con respecto a estos últimos se aplicará el trámite previsto en este artículo y se expedirá sentencia, continuando el proceso respecto a los no confesos.
 5. La sentencia de conformidad, prevista en el numeral 2) de este artículo, se dictará aceptando los términos del acuerdo. No obstante, si a partir de la descripción del hecho aceptado, el Juez estima que no constituye delito o resulta manifiesta la concurrencia de cualquier causa que exima o atenúa la responsabilidad penal, dictará sentencia en los términos en que proceda. No vincula al Juez Penal la conformidad sobre el monto de la reparación civil, siempre que exista actor civil constituido en autos y hubiera observado expresamente la cuantía fijada por el Fiscal o que ha sido objeto de conformidad. En este caso, el Juez Penal podrá fijar el monto que corresponde si su imposición resultare posible o, en todo caso, diferir su determinación con la sentencia que ponga fin al juicio.
 ** Artículo modificado por la Ley 30963, publicada el 18 de junio de 2019 (link: lpd.pe/pmY7m).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 373. Solicitud de nueva prueba**
 1. Culminado el trámite anterior, si se dispone la continuación del juicio, las partes pueden ofrecer nuevos medios de prueba. Sólo se admitirán aquellos que las partes han tenido conocimiento con posterioridad a la audiencia de control de la acusación.
 2. Excepcionalmente, las partes podrán reiterar el ofrecimiento de medios de prueba inadmitidos en la audiencia de control, para lo cual se requiere especial argumentación de las partes. El Juez decidirá en ese mismo acto, previo traslado del pedido a las demás partes.
 3. La resolución no es recurrible.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 374. Poder del Tribunal y Facultad del Fiscal**
 1. Si en el curso del juicio, antes de la culminación de la actividad probatoria, el Juez Penal observa la posibilidad de una calificación jurídica de los hechos objeto del debate que no ha sido considerada por el Ministerio Público, deberá advertir al Fiscal y al imputado sobre esa posibilidad. Las partes se pronunciarán expresamente sobre la tesis planteada por el Juez Penal y, en su caso, propondrán la prueba necesaria que corresponda. Si alguna de las partes anuncia que no está preparada para pronunciarse sobre ella, el Juez Penal suspenderá el Juicio hasta por cinco días, para dar oportunidad a que exponga lo conveniente.
 2. Durante el juicio el Fiscal, introduciendo un escrito de acusación complementaria, podrá ampliar la misma, mediante la inclusión de un hecho nuevo o una nueva circunstancia que no haya sido mencionada en su oportunidad, que modifica la calificación legal o integra un delito continuado. En tal caso, el Fiscal deberá advertir la variación de la calificación jurídica.
 3. En relación con los hechos nuevos o circunstancias atribuidas en la acusación complementaria, se recibirá nueva declaración del imputado y se informará a las partes que tienen derecho a pedir la suspensión del juicio para ofrecer nuevas pruebas o preparar la defensa. La suspensión no superará el plazo de cinco días.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO IV: LA ACTUACIÓN PROBATORIA**
 #### **Artículo 375. Orden y modalidad del debate probatorio**
 1. El debate probatorio seguirá el siguiente orden:
@@ -2590,7 +2590,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 2. El Juez Penal, escuchando a las partes, decidirá el orden en que deben actuarse las declaraciones de los imputados, si fueran varios, y de los medios de prueba admitidos.
 3. El interrogatorio directo de los órganos de prueba corresponde al Fiscal y a los abogados de las partes.
 4. El Juez durante el desarrollo de la actividad probatoria ejerce sus poderes para conducirla regularmente. Puede intervenir cuando lo considere necesario a fin de que el Fiscal o los abogados de las partes hagan los esclarecimientos que se les requiera o, excepcionalmente, para interrogar a los órganos de prueba sólo cuando hubiera quedado algún vacío.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 376. Declaración del acusado**
 1. Si el acusado se rehúsa a declarar total o parcialmente, el Juez le advertirá que, aunque no declare el juicio continuará, y se leerán sus anteriores declaraciones prestadas ante el Fiscal.
 2. Si el acusado acepta ser interrogado, el examen se sujetará a las siguientes reglas:
@@ -2600,7 +2600,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 **d) **No son admisibles preguntas repetidas sobre aquello que el acusado ya hubiere declarado, salvo la evidente necesidad de una respuesta aclaratoria. Tampoco están permitidas preguntas capciosas, impertinentes y las que contengan respuestas sugeridas.
 3. El Juez ejercerá puntualmente sus poderes de dirección y declarará, de oficio o a solicitud de parte, inadmisible las preguntas prohibidas.
 4. El último en intervenir será el abogado del acusado sometido a interrogatorio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 377. Declaración en caso de pluralidad de acusados**
 1. Los acusados declararán, por su orden, según la lista establecida por el Juez Penal, previa consulta a las partes.
 2. En este caso el examen se realizará individualmente. El Juez, de oficio o a solicitud de las partes, podrá disponer que se examine separadamente a los acusados, a cuyo efecto los acusados restantes serán desalojados de la Sala de Audiencias. Culminado el interrogatorio del último acusado y encontrándose todos en la Sala de Audiencias, el Juez les hará conocer oralmente los puntos más importantes de la declaración de cada uno de ellos. Si alguno de los acusados hiciese una aclaración o rectificación se hará constar en acta siempre que fuere pertinente y conducente.
@@ -2615,15 +2615,15 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 8. Durante el contrainterrogatorio, las partes podrán confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos presentadas en el juicio.
 9. Los testigos y peritos expresarán la razón de sus informaciones y el origen de su conocimiento.
 10. A solicitud de alguna de las partes, el juez podrá autorizar un nuevo interrogatorio de los testigos o peritos que ya hubieran declarado en la audiencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 379. Inconcurrencia del testigo o perito**
 1. Cuando el testigo o perito, oportunamente citado, no haya comparecido, el Juez ordenará que sea conducido compulsivamente y ordenará a quien lo propuso colabore con la diligencia.
 2. Si el testigo o perito no puede ser localizado para su conducción compulsiva, el juicio continuará con prescindencia de esa prueba.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 380. Examen especial del testigo o perito**
 1. El juez, de oficio o a solicitud de parte, puede ordenar que el acusado no esté presente en la audiencia durante un interrogatorio, si es de temer que otro procesado, un testigo o un perito no dirá la verdad en su presencia.
 2. De igual manera se procederá si, en el interrogatorio de un menor de diez y seis años, es de temer un perjuicio relevante para él, o si, en el interrogatorio de otra persona como testigo o perito, en presencia del acusado, existe el peligro de un perjuicio grave para su integridad física o salud. Tan pronto como el acusado esté presente de nuevo, debe instruírsele sobre el contenido esencial de aquello que se ha dicho o discutido en su ausencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 381. Audiencia especial para testigos y peritos**
 1. Los testigos y peritos que no puedan concurrir a la Sala de Audiencias por un impedimento justificado, serán examinados en el lugar donde se hallen por el juez.
 2. Si se encuentran en lugar distinto al del juicio, el juez se trasladará hasta el mismo o empleará el sistema de vídeo conferencia, en el primer supuesto los defensores podrán representar a las partes.
@@ -2641,18 +2641,18 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 **e) **Las actas levantadas por la Policía, el Fiscal o el Juez de la Investigación Preparatoria que contienen diligencias objetivas e irreproducibles actuadas conforme a lo previsto en este Código o la Ley, tales como las actas de detención, reconocimiento, registro, inspección, revisión, pesaje, hallazgo, incautación y allanamiento, entre otras.
 2. No son oralizables los documentos o actas que se refieren a la prueba actuada en la audiencia ni a la actuación de ésta. Todo otro documento o acta que pretenda introducirse al juicio mediante su lectura no tendrá ningún valor.
 3. La oralización incluye, además del pedido de lectura, el de que se escuche o vea la parte pertinente del documento o acta.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 384. Trámite de la oralización**
 1. La oralización tendrá lugar cuando, indistintamente, lo pida el Fiscal o los Defensores. La oralización se realizará por su orden, iniciándola el Fiscal, continuándola el abogado del actor civil y del tercero civil, y culminando el abogado del acusado. Quien pida oralización indicará el folio o documentos y destacará oralmente el significado probatorio que considere útil.
 2. Cuando los documentos o informes fueren muy voluminosos, se podrá prescindir de su lectura íntegra. De igual manera, se podrá prescindir de la reproducción total de una grabación, dando a conocer su contenido esencial u ordenándose su lectura o reproducción parcial.
 3. Los registros de imágenes, sonidos o en soporte informático podrán ser reproducidos en la audiencia, según su forma de reproducción habitual.
 4. Una vez que se concluya la lectura o reproducción de los documentos, el juzgador concederá la palabra por breve término a las partes para que, si consideran necesario, expliquen aclaren, refuten o se pronuncien sobre su contenido.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 385. Otros medios de prueba y prueba de oficio**
 1. Si para conocer los hechos, siempre que sea posible, que no se haya realizado dicha diligencia en la investigación preparatoria o ésta resultara manifiestamente insuficiente, el Juez Penal, de oficio o a pedido de parte, previo debate de los intervinientes, ordenará la realización de una inspección o de una reconstrucción, disponiendo las medidas necesarias para llevarlas a cabo.
 2. El Juez Penal, excepcionalmente, una vez culminada la recepción de las pruebas, podrá disponer, de oficio o a pedido de parte, la actuación de nuevos medios probatorios si en el curso del debate resultasen indispensables o manifiestamente útiles para esclarecer la verdad. El Juez Penal cuidará de no reemplazar por este medio la actuación propia de las partes.
 3. La resolución que se emita en ambos supuestos no es recurrible.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO V: LOS ALEGATOS FINALES**
 #### **Artículo 386. Desarrollo de la discusión final***
 1. Concluido el debate probatorio, la discusión final se desarrollará en el siguiente orden:
@@ -2674,11 +2674,11 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 **b) **Reabierta la audiencia, si el Juzgador está de acuerdo con el requerimiento del Fiscal, dictará auto dando por retirada la acusación, ordenará la libertad del imputado si estuviese preso y dispondrá el sobreseimiento definitivo de la causa.
 **c) **Si el Juzgador discrepa del requerimiento del Fiscal, elevará los autos al Fiscal jerárquicamente superior para que decida, dentro del tercer día, si el Fiscal inferior mantiene la acusación o si debe proceder con arreglo al literal anterior.
 **d) **La decisión del Fiscal jerárquicamente superior vincula al Fiscal inferior y al Juzgador.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 388. Alegato oral del actor civil**
 1. El abogado del actor civil argumentará sobre el agravio que el hecho ha ocasionado a su patrocinado, demostrará el derecho a la reparación que tiene su defendido y destacará la cuantía en que estima el monto de la indemnización, así como pedirá la restitución del bien, si aún es posible, o el pago de su valor.
 2. El abogado del actor civil podrá esclarecer con toda amplitud los hechos delictuosos en tanto sean relevantes para la imputación de la responsabilidad civil, así como el conjunto de circunstancias que influyan en su apreciación. Está prohibido de calificar el delito.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 389. Alegato oral del abogado del tercero civil**
 1. El abogado del tercero civil podrá negar la existencia del hecho delictivo atribuido al acusado, o refutar la existencia de la responsabilidad civil solidaria que le atribuye la acusación o el actor civil, o la magnitud del daño causado y el monto de la indemnización solicitada.
 2. El abogado del tercero civil podrá referirse íntegramente al hecho objeto de imputación y, sin cuestionar el ámbito penal de la misma, resaltar la inexistencia de los criterios de imputación de derecho civil.
@@ -2688,14 +2688,14 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 #### **Artículo 391. Autodefensa del acusado**
 1. Concluidos los alegatos orales, se concederá la palabra al acusado para que exponga lo que estime conveniente a su defensa. Limitará su exposición al tiempo que se le ha fijado y a lo que es materia del juicio. Si no cumple con la limitación precedente se le podrá llamar la atención y requerirlo para que concrete su exposición.
 2. Si el acusado incumple con la limitación impuesta, se dará por terminada su exposición y, en caso grave, se dispondrá se le desaloje de la Sala de Audiencias. En este último supuesto, la sentencia podrá leerse no estando presente el acusado pero estando su defensor o el nombrado de oficio, sin perjuicio de notificársela con arreglo a Ley.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO VI: LA DELIBERACIÓN Y LA SENTENCIA**
 #### **Artículo 392. Deliberación**
 1. Cerrado el debate, los jueces pasarán, de inmediato y sin interrupción, a deliberar en sesión secreta.
 2. La deliberación no podrá extenderse más allá de dos días, ni podrá suspenderse por más de tres días en caso de enfermedad del juez o de alguno de los jueces del Juzgado Colegiado. En los procesos complejos el plazo es el doble en todos los casos previstos en el párrafo anterior.
 3. Transcurrido el plazo sin que se produzca el fallo, el juicio deberá repetirse ante otro Juzgado, sin perjuicio de las acciones por responsabilidad disciplinaria que correspondan.
 4. Las decisiones se adoptan por mayoría. Si ésta no se produce en relación con los montos de la pena y la reparación civil, se aplicará el término medio. Para imponer la pena de cadena perpetua se requerirá decisión unánime.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 393. Normas para la deliberación y votación**
 1. El Juez Penal no podrá utilizar para la deliberación pruebas diferentes a aquellas legítimamente incorporadas en el juicio.
 2. El Juez Penal para la apreciación de las pruebas procederá primero a examinarlas individualmente y luego conjuntamente con las demás. La valoración probatoria respetará las reglas de la sana crítica, especialmente conforme a los principios de la lógica, las máximas de la experiencia y los conocimientos científicos.
@@ -2707,7 +2707,7 @@ Si durante el juicio se cometiera un delito perseguible de oficio, el Juez Penal
 **e) **La individualización de la pena aplicable y, de ser el caso, de la medida de seguridad que la sustituya o concurra con ella;
 **f) **La reparación civil y consecuencias accesorias; y,
 **g) **Cuando corresponda, lo relativo a las costas.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 394. Requisitos de la sentencia **
 La sentencia contendrá:
 1. La mención del Juzgado Penal, el lugar y fecha en la que se ha dictado, el nombre de los jueces y las partes, y los datos personales del acusado;
@@ -2716,47 +2716,47 @@ La sentencia contendrá:
 4. Los fundamentos de derecho, con precisión de las razones legales, jurisprudenciales o doctrinales que sirvan para calificar jurídicamente los hechos y sus circunstancias, y para fundar el fallo;
 5. La parte resolutiva, con mención expresa y clara de la condena o absolución de cada uno de los acusados por cada uno de los delitos que la acusación les haya atribuido. Contendrá además, cuando corresponda el pronunciamiento relativo a las costas y lo que proceda acerca del destino de las piezas de convicción, instrumentos o efectos del delito;
 6. La firma del Juez o Jueces.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 395. Redacción de la sentencia **
 Inmediatamente después de la deliberación, la sentencia será redactada por el Juez o el Director del Debate según el caso. Los párrafos se expresarán en orden numérico correlativo y referentes a cada cuestión relevante. En la redacción de las sentencias se pueden emplear números en la mención de normas legales y jurisprudencia, y también notas al pie de página para la cita de doctrina, bibliografía, datos jurisprudenciales y temas adicionales que sirvan para ampliar los conceptos o argumentos utilizados en la motivación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 396. Lectura de la sentencia**
 1. El Juez Penal, Unipersonal o Colegiado, según el caso, se constituirá nuevamente en la Sala de Audiencias, después de ser convocadas verbalmente las partes, y la sentencia será leída ante quienes comparezcan.
 2. Cuando por la complejidad del asunto o lo avanzado de la hora sea necesario diferir la redacción de la sentencia, en esa oportunidad se leerá tan sólo su parte dispositiva y uno de los jueces relatará sintéticamente al público los fundamentos que motivaron la decisión, anunciará el día y la hora para la lectura integral, la que se llevará a cabo en el plazo máximo de los ocho días posteriores al pronunciamiento de la parte dispositiva ante quienes comparezcan.
 3. La sentencia quedará notificada con su lectura integral en audiencia pública. Las partes inmediatamente recibirán copia de ella.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 397. Correlación entre acusación y sentencia**
 1. La sentencia no podrá tener por acreditados hechos u otras circunstancias que los descritos en la acusación y, en su caso, en la acusación ampliatoria, salvo cuando favorezcan al imputado.
 2. En la condena, no se podrá modificar la calificación jurídica del hecho objeto de la acusación o su ampliatoria, salvo que el Juez Penal haya dado cumplimiento al numeral 1) del artículo 374°.
 3. El Juez Penal no podrá aplicar pena más grave que la requerida por el Fiscal, salvo que se solicite una por debajo del mínimo legal sin causa justificada de atenuación.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 398. Sentencia absolutoria**
 1. La motivación de la sentencia absolutoria destacará especialmente la existencia o no del hecho imputado, las razones por las cuales el hecho no constituye delito, así como, de ser el caso, la declaración de que el acusado no ha intervenido en su perpetración, que los medios probatorios no son suficientes para establecer su culpabilidad, que subsiste una duda sobre la misma, o que está probada una causal que lo exime de responsabilidad penal.
 2. La sentencia absolutoria ordenará la libertad del acusado, la cesación de las medidas de coerción, la restitución de los objetos afectados al proceso que no estén sujetos a comiso, las inscripciones necesarias, la anulación de los antecedentes policiales y judiciales que generó el caso, y fijará las costas.
 3. La libertad del imputado y el alzamiento de las demás medidas de coerción procesal se dispondrán aun cuando la sentencia absolutoria no esté firme. De igual modo, se suspenderán inmediatamente las órdenes de captura impartidas en su contra.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 399. Sentencia condenatoria**
 1. La sentencia condenatoria fijará, con precisión, las penas o medidas de seguridad que correspondan y, en su caso, la alternativa a la pena privativa de libertad y las obligaciones que deberá cumplir el condenado. Si se impone pena privativa de libertad efectiva, para los efectos del cómputo se descontará, de ser el caso, el tiempo de detención, de prisión preventiva y de detención domiciliaria que hubiera cumplido, así como de la privación de libertad sufrida en el extranjero como consecuencia del procedimiento de extradición instaurado para someterlo a proceso en el país.
 2. En las penas o medidas de seguridad se fijará provisionalmente la fecha en que la condena finaliza, descontando los períodos de detención o prisión preventiva cumplidos por el condenado. Se fijará, asimismo, el plazo dentro del cual se deberá pagar la multa.
 3. En tanto haya sido materia de debate, se unificarán las condenas o penas cuando corresponda. En caso contrario se revocará el beneficio penitenciario concedido al condenado en ejecución de sentencia anterior, supuesto en el que debe cumplir las penas sucesivamente.
 4. La sentencia condenatoria decidirá también sobre la reparación civil, ordenando —cuando corresponda— la restitución del bien o su valor y el monto de la indemnización que corresponda, las consecuencias accesorias del delito, las costas y sobre la entrega de los objetos secuestrados a quien tenga mejor derecho para poseerlos.
 5. Leído el fallo condenatorio, si el acusado está en libertad, el Juez podrá disponer la prisión preventiva cuando haya bases para estimar razonablemente que no se someterá a la ejecución una vez firme la sentencia.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito**
 1. Si de las pruebas actuadas resultara que un testigo ha declarado falsamente o se infiere responsabilidad penal de cualquier otra persona no comprendida en el proceso o se descubre otro hecho delictuoso similar, distinto o conexo con el que es materia del juzgamiento y es perseguible por ejercicio público de la acción penal, la sentencia dispondrá que estos hechos se pongan en conocimiento de la Fiscalía competente para los fines legales que correspondan, a la que se enviará copia certificado de lo actuado.
 2. El testigo a quien se atribuya declaración falsa sobre el caso materia de juzgamiento no será procesado por ese delito mientras no se ordene en la sentencia que se expida en ese procedimiento y quede firme.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 401. Recurso de apelación***
 1. Al concluir la lectura de la sentencia, el Juzgador preguntará a quien corresponda si interpone recurso de apelación. No es necesario que en ese acto fundamente el recurso. También puede reservarse la decisión de impugnación.
 2. Para los acusados no concurrentes a la audiencia, el plazo empieza a correr desde el día siguiente de la notificación en su domicilio procesal.
 3. Rige en lo pertinente lo dispuesto en el artículo 405.
 4. Si se trata de una sentencia emitida conforme a lo previsto en el artículo 448°, el recurso se interpondrá en el mismo acto de lectura. No es necesario su formalización por escrito. En caso el acusado no concurra a la audiencia de lectura, rige el literal c) del inciso 1 del artículo 414. La Sala Penal Superior, recibido el cuaderno de apelación, comunicará a las partes que pueden ofrecer medios probatorios en el plazo de tres (3) días.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 402. Ejecución provisional**
 1. La sentencia condenatoria, en su extremo penal, se cumplirá provisionalmente aunque se interponga recurso contra ella, salvo los casos en que la pena sea de multa o limitativa de derechos.
 2. Si el condenado estuviere en libertad y se impone pena o medida de seguridad privativa de libertad de carácter efectivo, el Juez Penal según su naturaleza o gravedad y el peligro de fuga, podrá optar por su inmediata ejecución o imponer algunas de las restricciones previstas en el artículo 288° mientras se resuelve el recurso.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 403. Inscripción de la condena**
 1. Se inscribirán en el Registro correspondiente, a cargo del Poder Judicial, todas las penas y medidas de seguridad impuestas y que constan de sentencia firme.
 2. La inscripción caducará automáticamente con el cumplimiento de la pena o medida de seguridad impuesta.
@@ -2768,7 +2768,7 @@ LA IMPUGNACIÓN
 2. El derecho de impugnación corresponde sólo a quien la Ley se lo confiere expresamente. Si la Ley no distingue entre los diversos sujetos procesales, el derecho corresponde a cualquiera de ellos.
 3. El defensor podrá recurrir directamente en favor de su patrocinado, quien posteriormente si no está conforme podrá desistirse. El desistimiento requiere autorización expresa de abogado defensor.
 4. Los sujetos procesales, cuando tengan derecho de recurrir, podrán adherirse, antes que el expediente se eleve al Juez que corresponda, al recurso interpuesto por cualquiera de ellos, siempre que cumpla con las formalidades de interposición
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 405. Formalidades del recurso**
 1. Para la admisión del recurso se requiere:
 **a) **Que sea presentado por quien resulte agraviado por la resolución, tenga interés directo y se halle facultado legalmente para ello. El Ministerio Público puede recurrir incluso a favor del imputado.
@@ -2776,37 +2776,37 @@ LA IMPUGNACIÓN
 **c)** Que se precise las partes o puntos de la decisión a los que se refiere la impugnación, y se expresen los fundamentos, con indicación específica de los fundamentos de hecho y de derecho que lo apoyen. El recurso deberá concluir formulando una pretensión concreta.
 2. Los recursos interpuestos oralmente contra las resoluciones finales expedidas en la audiencia se formalizarán por escrito en el plazo de cinco días, salvo disposición distinta de la Ley.
 3. El Juez que emitió la resolución impugnada, se pronunciará sobre la admisión del recurso y notificará su decisión a todas las partes, luego de lo cual inmediatamente elevará los actuados al órgano jurisdiccional competente. El Juez que deba conocer la impugnación, aún de oficio, podrá controlar la admisibilidad del recurso y, en su caso, podrá anular el concesorio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 406. Desistimiento**
 1. Quienes hayan interpuesto un recurso pueden desistirse antes de expedirse resolución sobre el grado, expresando sus fundamentos.
 2. El defensor no podrá desistirse de los recursos interpuestos por él sin mandato expreso de su patrocinado, posterior a la interposición del recurso.
 3. El desistimiento no perjudicará a los demás recurrentes o adherentes, pero cargarán con las costas
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 407. Ámbito del recurso**
 1. El imputado y el Ministerio Público podrán impugnar, indistintamente, del objeto penal o del objeto civil de la resolución.
 2. El actor civil sólo podrá recurrir respecto al objeto civil de la resolución.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 408. Extensión del recurso**
 1. Cuando en un procedimiento hay coimputados, la impugnación de uno de ellos favorecerá a los demás, siempre que los motivos en que se funde no sean exclusivamente personales.
 2. La impugnación presentada por el imputado favorece al tercero civil.
 3. La impugnación presentada por el tercero civil favorece al imputado, en cuanto no se haya fundamentado en motivos exclusivamente personales.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 409. Competencia del Tribunal Revisor**
 1. La impugnación confiere al Tribunal competencia solamente para resolver la materia impugnada, así como para declarar la nulidad en caso de nulidades absolutas o sustanciales no advertidas por el impugnante.
 2. Los errores de derecho en la fundamentación de la decisión recurrida que no hayan influido en la parte resolutiva no la anulará, pero serán corregidos. De igual manera se procederá en los casos de error material en la denominación o el cómputo de las penas.
 3. La impugnación del Ministerio Público permitirá revocar o modificar la resolución aún a favor del imputado. La impugnación interpuesta exclusivamente por el imputado no permite modificación en su perjuicio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 410. Impugnación diferida**
 1. En los procesos con pluralidad de imputados o de delitos, cuando se dicte auto de sobreseimiento, estando pendiente el juzgamiento de los otros, la impugnación que se presente si es concedida reservará la remisión de los autos hasta que se pronuncie la sentencia que ponga fin a la instancia, salvo que ello ocasione grave perjuicio a alguna de las partes.
 2. En este último caso, la parte afectada podrá interponer recurso de queja, en el modo y forma previsto por la Ley.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 411. Libertad de los imputados**
 Los imputados que hayan sobrepasado el tiempo de la pena impuesta por una sentencia pendiente de recurso, sin perjuicio que éste sea resuelto, serán puestos en inmediata libertad. El juzgador está facultado para dictar las medidas que aseguren la presencia del imputado, siendo aplicable en lo pertinente las restricciones contempladas en el artículo 288°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 412. Ejecución provisional**
 1. Salvo disposición contraría de la Ley, la resolución impugnada mediante recurso se ejecuta provisionalmente, dictando las disposiciones pertinentes si el caso lo requiere.
 2. Las impugnaciones contra las sentencias y demás resoluciones que dispongan la libertad del imputado no podrán tener efecto suspensivo.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN II: LOS RECURSOS**
 #### **Artículo 413. Clases**
 Los recursos contra las resoluciones judiciales son:
@@ -2814,7 +2814,7 @@ Los recursos contra las resoluciones judiciales son:
 2. Recurso de apelación.
 3. Recurso de casación.
 4. Recurso de queja.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 414. Plazos***
 1. Los plazos para la interposición de los recursos, salvo disposición legal distinta, son:
 **a) **Diez (10) días para el recurso de casación;
@@ -2823,7 +2823,7 @@ Los recursos contra las resoluciones judiciales son:
 **d) **Dos (2) días para el recurso de reposición.
 2. El plazo se computará desde el día siguiente a la notificación de la resolución.
 ** Artículo modificado por el DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).*
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN III: EL RECURSO DE REPOSICIÓN**
 #### **Artículo 415. Ámbito**
 1. El recurso de reposición procede contra los decretos, a fin de que el Juez que los dictó examine nuevamente la cuestión y dicte la resolución que corresponda. Durante las audiencias sólo será admisible el recurso de reposición contra todo tipo de resolución, salvo las finales, debiendo el Juez en este caso resolver el recurso en ese mismo acto sin suspender la audiencia.
@@ -2831,7 +2831,7 @@ Los recursos contra las resoluciones judiciales son:
 **a)** Si interpuesto el recurso el Juez advierte que el vicio o error es evidente o que el recurso es manifiestamente inadmisible, lo declarará así sin más trámite.
 **b)** Si no se trata de una decisión dictada en una audiencia, el recurso se interpondrá por escrito con las formalidades ya establecidas. Si el Juez lo considera necesario, conferirá traslado por el plazo de dos días. Vencido el plazo, resolverá con su contestación o sin ella.
 3. El auto que resuelve la reposición es inimpugnable.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN IV: EL RECURSO DE APELACIÓN**
 ## **TÍTULO I: PRECEPTOS GENERALES**
 #### **Artículo 416. Resoluciones apelables y exigencia formal**
@@ -2842,19 +2842,19 @@ Los recursos contra las resoluciones judiciales son:
 **d)** Los autos que se pronuncien sobre la constitución de las partes y sobre aplicación de medidas coercitivas o de cesación de la prisión preventiva;
 **e.** Los autos expresamente declarados apelables o que causen gravamen irreparable.
 2. Cuando la Sala Penal Superior tenga su sede en un lugar distinto del Juzgado, el recurrente deberá fijar domicilio procesal en la sede de Corte dentro del quinto día de notificado el concesorio del recurso de apelación. En caso contrario, se le tendrá por notificado en la misma fecha de la expedición de las resoluciones dictadas por la Sala Penal Superior.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 417. Competencia**
 1. Contra las decisiones emitidas por el Juez de la Investigación Preparatoria, así como contra las expedidas por el Juzgado Penal, unipersonal o colegiado, conoce el recurso la Sala Penal Superior.
 2. Contra las sentencias emitidas por el Juzgado de Paz Letrado, conoce del recurso el Juzgado Penal unipersonal.
 #### **Artículo 418. Efectos**
 1. El recurso de apelación tendrá efecto suspensivo contra las sentencias y los autos de sobreseimiento, así como los demás autos que pongan fin a la instancia.
 2. Si se trata de una sentencia condenatoria que imponga pena privativa de libertad efectiva, este extremo se ejecutará provisionalmente. En todo caso, el Tribunal Superior en cualquier estado del procedimiento recursal decidirá mediante auto inimpugnable, atendiendo a las circunstancias del caso, si la ejecución provisional de la sentencia debe suspenderse.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 419. Facultades de la Sala Penal Superior***
 1. El examen de la Sala Penal Superior tiene como propósito que la resolución impugnada sea anulada o revocada, total o parcialmente. En este último caso, tratándose de sentencias absolutorias podrá dictar sentencia condenatoria, fallo que podrá ser revisado en apelación por la Sala Penal de la Corte Suprema.
 2. Bastan dos votos conformes para absolver el grado.
 ** Artículo modificado por la Ley 31592, publicada el 26 de octubre de 2022 (link: bit.ly/3YiZPCS).*
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO II: LA APELACIÓN DE AUTOS**
 #### **Artículo 420. Trámite**
 1. Recibidos los autos, salvo los casos expresamente previstos en este Código, la Sala conferirá traslado del escrito de fundamentación del recurso de apelación al Ministerio Público y a los demás sujetos procesales por el plazo de cinco días.
@@ -2864,12 +2864,12 @@ Los recursos contra las resoluciones judiciales son:
 5. A la audiencia de apelación podrán concurrir los sujetos procesales que lo estimen conveniente. En la audiencia, que no podrá aplazarse por ninguna circunstancia, se dará cuenta de la resolución recurrida, de los fundamentos del recurso y, acto seguido, se oirá al abogado del recurrente y a los demás abogados de las partes asistentes. El acusado, en todo caso, tendrá derecho a la última palabra.
 6. En cualquier momento de la audiencia, la Sala podrá formular preguntas al Fiscal o a los abogados de los demás sujetos procesales, o pedirles que profundicen su argumentación o la refieran a algún aspecto específico de la cuestión debatida.
 7. Salvo los casos expresamente previstos en este Código, la Sala absolverá el grado en el plazo de veinte días.
-*Ver jurisprudencia aquí.*
+**
 ## **TÍTULO III: LA APELACIÓN DE SENTENCIAS**
 #### **Artículo 421. Trámite inicial**
 1. Recibidos los autos, la Sala conferirá traslado del escrito de fundamentación del recurso de apelación por el plazo de cinco días.
 2. Cumplida la absolución de agravios o vencido el plazo para hacerlo, si la Sala Penal Superior estima inadmisible el recurso podrá rechazarlo de plano. En caso contrario, comunicará a las partes que pueden ofrecer medios probatorios en el plazo de cinco días. El auto que declara inadmisible el recurso podrá ser objeto de recurso de reposición, que se tramitará conforme al artículo 415°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 422. Pruebas en Segunda Instancia**
 1. El escrito de ofrecimiento de pruebas deberá indicar específicamente, bajo sanción de inadmisibilidad, el aporte que espera de la prueba ofrecida.
 2. Sólo se admitirán los siguientes medios de prueba:
@@ -2879,7 +2879,7 @@ Los recursos contra las resoluciones judiciales son:
 3. Sólo se admitirán medios de prueba cuando se impugne el juicio de culpabilidad o de inocencia. Si sólo se cuestiona la determinación judicial de la sanción, las pruebas estarán referidas a ese único extremo. Si la apelación en su conjunto sólo se refiere al objeto civil del proceso, rigen los límites estipulados en el artículo 374° del Código Procesal Civil.
 4. La Sala mediante auto, en el plazo de tres días, decidirá la admisibilidad de las pruebas ofrecidas en función a lo dispuesto en el numeral 2) del artículo 155° y a los puntos materia de discusión en la apelación. La resolución es inimpugnable.
 5. También serán citados aquellos testigos —incluidos los agraviados— que han declarado en primera instancia, siempre que la Sala por exigencias de inmediación y contradicción considere indispensable su concurrencia para sustentar el juicio de hecho de la sentencia, a menos que las partes no hayan insistido en su presencia, en cuyo caso se estará a lo que aparece transcrito en el acta del juicio.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 423. Emplazamiento para la audiencia de apelación***
 1. Decidida la admisibilidad de la prueba ofrecida, en ese mismo auto se convocará a las partes, incluso a los imputados no recurrentes, para la audiencia de apelación.
 2. Para la instalación de la audiencia es obligatoria la presencia del Fiscal y del imputado recurrente, así como de todos los imputados recurridos en caso la impugnación fuere interpuesta por el Fiscal.
@@ -2888,14 +2888,14 @@ Los recursos contra las resoluciones judiciales son:
 5. Es, asimismo, obligatoria la concurrencia de las partes privadas si ellas únicamente han interpuesto el recurso, bajo sanción de declaración de inadmisibilidad de la apelación.
 6. Si la apelación en su conjunto solo se refiere al objeto civil del proceso, no es obligatoria la concurrencia del imputado ni del tercero civil.
 ** Artículo modificado por la Ley 31592, publicada el 26 de octubre de 2022 (link: bit.ly/3YiZPCS).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 424. Audiencia de apelación**
 1. En la audiencia de apelación se observarán, en cuanto sean aplicables, las normas relativas al juicio de primera instancia.
 2. Al iniciar el debate se hará una relación de la sentencia recurrida y de las impugnaciones correspondientes. Acto seguido, se dará la oportunidad a las partes para desistirse total o parcialmente de la apelación interpuesta, así como para que ratifiquen los motivos de la apelación.
 3. A continuación se actuarán las pruebas admitidas. El interrogatorio de los imputados es un paso obligatorio cuando se discute el juicio de hecho de la sentencia de primera instancia, salvo que decidan abstenerse de declarar.
 4. Pueden darse lectura en la audiencia de apelación, aún de oficio, al informe pericial y al examen del perito, a las actuaciones del juicio de primera instancia no objetadas por las partes, así como, dentro de los límites previstos en el artículo 383°, a las actuaciones cumplidas en las etapas precedentes.
 5. Al culminar la actuación de pruebas, las partes alegarán por su orden empezando por las recurrentes, de conformidad en lo pertinente con el numeral 1) de artículo 386°. El imputado tendrá derecho a la última palabra. Rige lo dispuesto en el numeral 5) del artículo 386°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 425. Sentencia de segunda instancia***
 1. Rige para la deliberación y expedición de la sentencia de segunda instancia lo dispuesto, en lo pertinente, en el artículo 393. El plazo para dictar sentencia no podrá exceder de diez (10) días. Sin perjuicio de lo anterior, si se trata de proceso inmediato, el plazo para dictar sentencia no podrá exceder de tres (3) días, bajo responsabilidad. Para la absolución del grado se requiere mayoría de votos.
 2. La Sala Penal Superior solo valorará independientemente la prueba actuada en la audiencia de apelación, y las pruebas pericial, documental, preconstituida y anticipada. La Sala Penal Superior no puede otorgar diferente valor probatorio a la prueba personal que fue objeto de inmediación por el Juez de primera instancia, salvo que su valor probatorio sea cuestionado por una prueba actuada en segunda instancia.
@@ -2909,11 +2909,11 @@ Los recursos contra las resoluciones judiciales son:
 * Artículo modificado por los siguientes dispositivos:
 1. DL 1307, publicado el 30 de diciembre de 2016 (link: bit.ly/444FAtX).
 *2. Ley 31592, publicada el 26 de octubre de 2022 (link: bit.ly/3YiZPCS).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 426. Nulidad del juicio**
 1. En los casos del literal a) del numeral 3) del artículo anterior, no podrán intervenir los jueces que conocieron del juicio anulado.
 2. Si el nuevo juicio se dispuso como consecuencia de un recurso a favor del imputado, en éste no podrá aplicarse una pena superior a la impuesta en el primero.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN V: EL RECURSO DE CASACIÓN**
 #### **Artículo 427. Procedencia***
 1. El recurso de casación procede contra las sentencias definitivas, la denegación de autos de sobreseimiento, y los autos que pongan fin al procedimiento, extingan la acción penal o la pena o denieguen la extinción, conmutación, reserva o suspensión de la pena, expedidos en apelación por las Salas Penales Superiores.
@@ -2924,7 +2924,7 @@ Los recursos contra las resoluciones judiciales son:
 3. Si la impugnación se refiere a la responsabilidad civil, cuando el monto fijado en la sentencia de primera o de segunda instancia sea superior a cincuenta Unidades de Referencia Procesal o cuando el objeto de la restitución no pueda ser valorado económicamente.
 4. Excepcionalmente, será procedente el recurso de casación en casos distintos de los arriba mencionados, cuando la Sala Penal de la Corte Suprema, discrecionalmente, lo considere necesario para el desarrollo de la doctrina jurisprudencial.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024, que modifica el numeral 1 y los literales a) y b) del numeral 2 (link: lpd.pe/Xe7Bw). El numeral 1 especifica que la casación procede contra la denegación de auto de sobreseimiento y no al auto en sí; mientras que, en los literales modificados, se considera también la pena privativa de libertad efectiva.*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 428. Desestimación**
 1. La Sala Penal de la Corte Suprema declarará la inadmisibilidad del recurso de casación cuando:
 **a)** no se cumplen los requisitos y causales previstos en los artículos 405° y 429°;
@@ -2935,7 +2935,7 @@ Los recursos contra las resoluciones judiciales son:
 **a)** carezca manifiestamente de fundamento;
 **b)** se hubieren desestimado en el fondo otros recursos sustancialmente iguales y el recurrente no da argumentos suficientes para que se modifique el criterio o doctrina jurisprudencial ya establecida.
 3. En estos casos la inadmisibilidad del recurso podrá afectar a todos los motivos aducidos o referirse solamente a alguno de ellos.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 429. Causales***
 Son causales para interponer recurso de casación:
 1. Si la sentencia o auto han sido expedidos con inobservancia de algunas de las garantías constitucionales de carácter procesal o material, o con una indebida o errónea aplicación de dichas garantías.
@@ -2944,7 +2944,7 @@ Son causales para interponer recurso de casación:
 4. Si la sentencia o auto ha sido expedido con falta o manifiesta ilogicidad de la motivación, cuando el vicio resulte de su propio tenor o se ha pronunciado en contraposición de lo resuelto en casos similares, siempre y cuando favorezca al reo.
 5. Si la sentencia o auto se aparta de la doctrina jurisprudencial establecida por la Corte Suprema o, en su caso, por el Tribunal Constitucional.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 430. Interposición y admisión***
 1. El recurso de casación, sin perjuicio de lo dispuesto en el artículo 405, debe indicar separadamente cada causal invocada. Asimismo, citará concretamente los preceptos legales que considere erróneamente aplicados o inobservados, precisará el fundamento o los fundamentos doctrinales y legales que sustenten su pretensión, y expresará específicamente cuál es la aplicación que pretende. Excepcionalmente, se admite a trámite sin exigir los requisitos de procedibilidad, en el extremo de sentencias con pena privativa de libertad efectiva.
 2. Interpuesto recurso de casación, la Sala Penal Superior sólo podrá declarar su inadmisibilidad en los supuestos previstos en el artículo 405° o cuando se invoquen causales distintas de los enumerados en el Código.
@@ -2953,24 +2953,24 @@ Son causales para interponer recurso de casación:
 5. Elevado el expediente a la Sala Penal de la Corte Suprema, se correrá traslado del recurso a las demás partes por el plazo de diez días, siempre que previamente hubieren cumplido ante la Sala Penal Superior con lo dispuesto en el numeral anterior. Si, conforme a lo dispuesto en el numeral anterior, no se señaló nuevo domicilio procesal, se tendrá al infractor por notificado en la misma fecha de la expedición de las resoluciones que se dicten por la Sala Penal Suprema.
 6. Acto seguido y sin trámite alguno, mediante auto, decidirá conforme al artículo 428 si el recurso está bien concedido y si procede conocer el fondo del mismo. Esta resolución se expedirá dentro del plazo de veinte días. Bastan tres votos para decidir si procede conocer el fondo del asunto. Si se trata de sentencias con pena privativa de libertad efectiva que se justifican en cualquiera de las causales del artículo 429, el recurso procede sin someterse a votación.
 ** Artículo modificado por la Ley 32130, publicada el 10 de octubre de 2024 (link: lpd.pe/Xe7Bw).*
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 431. Preparación y Audiencia**
 1. Concedido el recurso de casación, el expediente quedará diez días en la Secretaría de la Sala para que los interesados puedan examinarlo y presentar, si lo estiman conveniente, alegatos ampliatorios.
 2. Vencido el plazo, se señalará día y hora para la audiencia de casación, con citación de las partes apersonadas. La audiencia se instalará con la concurrencia de las partes que asistan. En todo caso, la falta de comparecencia injustificada del Fiscal, en caso el recurso haya sido interpuesto por el Ministerio Público, o del abogado de la parte recurrente, dará lugar a que se declare inadmisible el recurso de casación.
 3. Instalada la audiencia, primero intervendrá el abogado de la parte recurrente. Si existen varios recurrentes, se seguirá el orden fijado en el numeral 5) del artículo 424°, luego de lo cual informarán los abogados de las partes recurridas. Si asiste el imputado, se le concederá la palabra en último término.
 4. Culminada la audiencia, la Sala procederá, en lo pertinente, conforme a los numerales 1) y 4) del artículo 425°. La sentencia se expedirá en el plazo de veinte días. El recurso de casación se resuelve con cuatro votos conformes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 432. Competencia**
 1. El recurso atribuye a la Sala Penal de la Corte Suprema el conocimiento del proceso sólo en cuanto a las causales de casación expresamente invocadas por el recurrente, sin perjuicio de las cuestiones que sean declarables de oficio en cualquier estado y grado del proceso.
 2. La competencia de la Sala Penal de la Corte Suprema se ejerce sobre los errores jurídicos que contenga la resolución recurrida. Está sujeta de manera absoluta a los hechos legalmente comprobados y establecidos en la sentencia o auto recurridos.
 3. Los errores jurídicos de la sentencia recurrida que no influyeren en su parte dispositiva no causan nulidad. La Sala deberá corregirlos en la sentencia casatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio**
 1. Si la sentencia de la Sala Penal de la Corte Suprema declara fundado el recurso, además de declarar la nulidad de la sentencia o auto recurridos, podrá decidir por sí el caso, en tanto para ello no sea necesario un nuevo debate, u ordenar el reenvió del proceso. La sentencia se notificará a todas las partes, incluso a las no recurrentes.
 2. Si opta por la anulación sin reenvío en la misma sentencia se pronunciará sobre el fondo dictando el fallo que deba reemplazar el recurrido. Si decide la anulación con reenvió, indicará el Juez o Sala Penal Superior competente y el acto procesal que deba renovarse. El órgano jurisdiccional que reciba los autos, procederá de conformidad con lo resuelto por la Sala Penal Suprema.
 3. En todo caso, la Sala de oficio o a pedido del Ministerio Público podrá decidir, atendiendo a la naturaleza del asunto objeto de decisión, que lo resuelto constituye doctrina jurisprudencial vinculante a los órganos jurisdiccionales penales diferentes a la propia Corte Suprema, la cual permanecerá hasta que otra decisión expresa la modifique. Si existiere otra Sala Penal o ésta se integra con otros Vocales, sin perjuicio de resolverse el recurso de casación, a su instancia, se convocará inmediatamente al Pleno Casatorio de los Vocales de lo Penal de la Corte Suprema para la decisión correspondiente, que se adoptará por mayoría absoluta. En este último supuesto no se requiere la intervención de las partes, ni la resolución que se dicte afectará la decisión adoptada en el caso que la motiva. La resolución que declare la doctrina jurisprudencial se publicará en el diario oficial.
 4. Si se advirtiere que otra Sala Penal Suprema u otros integrantes de la Sala Penal en sus decisiones sostuvieran criterios discrepantes sobre la interpretación o la aplicación de una determinada norma, de oficio o a instancia del Ministerio Público o de la Defensoría del Pueblo, en relación a los ámbitos referidos a su atribución constitucional, obligatoriamente se reunirá el Pleno Casatorio de los Vocales de lo Penal de la Corte Suprema. En este caso, previa a la decisión del Pleno, que anunciará el asunto que lo motiva, se señalará día y hora para la vista de la causa, con citación del Ministerio Público y, en su caso, de la Defensoría del Pueblo. Rige, en lo pertinente, lo dispuesto en el numeral anterior.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 434. Efectos de la anulación**
 1. La anulación del auto o sentencia recurridos podrá ser total o parcial.
 2. Si no han anulado todas las disposiciones de la sentencia impugnada, ésta tendrá valor de cosa juzgada en las partes que no tengan nexo esencial con la parte anulada. La Sala Penal de la Corte Suprema declarará en la parte resolutiva de la sentencia casatoria, cuando ello sea necesario, qué partes de la sentencia impugnada adquieren ejecutoria.
@@ -2979,21 +2979,21 @@ Cuando por efecto de la casación del auto o sentencia recurridos deba cesar la 
 #### **Artículo 436. Improcedencia de recursos**
 1. La sentencia casatoria no será susceptible de recurso alguno, sin perjuicio de la acción de revisión de la sentencia condenatoria prevista en este Código.
 2. Tampoco será susceptible de impugnación la sentencia que se dictare en el juicio de reenvío por la causal acogida en la sentencia casatoria. Sí lo será, en cambio, si se refiere a otras causales distintas de las resueltas por la sentencia casatoria.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN VI: EL RECURSO DE QUEJA**
 #### **Artículo 437. Procedencia y efectos**
 1. Procede recurso de queja de derecho contra la resolución del Juez que declara inadmisible el recurso de apelación.
 2. También procede recurso de queja de derecho contra la resolución de la Sala Penal Superior que declara inadmisible el recurso de casación.
 3. El recurso de queja de derecho se interpone ante el órgano jurisdiccional superior del que denegó el recurso.
 4. La interposición del recurso no suspende la tramitación del principal, ni la eficacia de la resolución denegatoria.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 438. Trámite**
 1. En el recurso de queja se precisará el motivo de su interposición con invocación de la norma jurídica vulnerada. Se acompañará el escrito que motivó la resolución recurrida y, en su caso, los referentes a su tramitación; la resolución recurrida; el escrito en que se recurre; y, la resolución denegatoria.
 2. Rige lo dispuesto en los dos últimos párrafos del artículo 403° del Código Procesal Civil.
 3. Interpuesto el recurso, el órgano jurisdiccional competente decidirá, sin trámite alguno, su admisibilidad y, en su caso, su fundabilidad. Para decidir, puede solicitarse al órgano jurisdiccional inferior copia de alguna actuación procesal. Este requerimiento puede cursarse por fax u otro medio adecuado.
 4. Si se declara fundada la queja, se concede el recurso y se ordena al Juez de la causa envíe el expediente o ejecute lo que corresponda, sin perjuicio de la notificación a las partes.
 5. Si se declara infundada la queja, se comunica la decisión al Ministerio Público y a los demás sujetos procesales.
-*Ver jurisprudencia aquí.*
+**
 ## **SECCIÓN VII: LA ACCIÓN DE REVISIÓN**
 #### **Artículo 439. Procedencia**
 La revisión de las sentencias condenatorias firmes procede, sin limitación temporal y sólo a favor del condenado, en los siguientes casos:
@@ -3003,11 +3003,11 @@ La revisión de las sentencias condenatorias firmes procede, sin limitación tem
 4. Si con posterioridad a la sentencia se descubren hechos o medios de prueba, no conocidos durante el proceso, que solos o en conexión con las pruebas anteriormente apreciadas sean capaces de establecer la inocencia del condenado.
 5. Cuando se demuestre, mediante decisión firme, que la sentencia fue determinada exclusivamente por un delito cometido por el Juez o grave amenaza contra su persona o familiares, siempre que en los hechos no haya intervenido el condenado.
 6. Cuando la norma que sustentó la sentencia hubiera sido declarada inconstitucional por el Tribunal Constitucional o inaplicable en un caso concreto por la Corte Suprema.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 440. Legitimación**
 1. La acción de revisión podrá ser promovida por el Fiscal Supremo en lo Penal y por el condenado.
 2. Si el condenado fuere incapaz, podrá ser promovida por su representante legal; y, si hubiera fallecido o estuviere imposibilitado de hacerlo, por su cónyuge, sus ascendientes, descendientes o hermanos, en ese orden.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 441. Contenido de la demanda**
 1. La demanda de revisión será presentada ante la Sala Penal de la Corte Suprema. Debe contener lo siguiente:
 **a) **La determinación precisa de la sentencia cuya revisión se demanda, con indicación del órgano jurisdiccional que la dictó;
@@ -3016,7 +3016,7 @@ La revisión de las sentencias condenatorias firmes procede, sin limitación tem
 2. Se acompañará copia de las sentencias expedidas en el proceso cuya revisión se demanda. Asimismo, se acompañará la prueba documental si el caso lo permite o la indicación del archivo donde puede encontrarse la misma.
 3. Cuando la demostración de la causal de revisión no surge de una sentencia judicial irrevocable, el recurrente deberá indicar todos los medios de prueba que acrediten la verdad de sus afirmaciones.
 4. La Sala Penal de la Corte Suprema podrá otorgar un plazo al demandante para que complete los requisitos faltantes.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 442. Efectos**
 La interposición de la demanda de revisión no suspende la ejecución de la sentencia. Sin embargo, en cualquier momento del procedimiento, la Sala podrá suspender la ejecución de la sentencia impugnada y disponer, de ser el caso, la libertad del imputado, incluso aplicando, si correspondiere, una medida de coerción alternativa.
 #### **Artículo 443. Trámite**
@@ -3025,7 +3025,7 @@ La interposición de la demanda de revisión no suspende la ejecución de la sen
 3. De igual manera, dispondrá, si fuere necesario, la recepción de los medios de prueba ofrecidos por el demandante, por la otra parte y los que considere útiles para la averiguación de la verdad. De esas actuaciones se levantará el acta correspondiente, pudiendo la Sala designar uno de los miembros para su actuación.
 4. Concluida la actuación probatoria, que no podrá exceder de treinta días, la Sala designará fecha para la Audiencia de Revisión, a la que se citarán al Fiscal y el defensor del condenado, de su representante o del familiar más cercano. La inasistencia del demandante determinará la declaración de inadmisibilidad de la demanda.
 5. Instalada la audiencia de revisión, se dará cuenta de la demanda de revisión y de la prueba actuada. Acto seguido, informarán oralmente el Fiscal y el abogado del condenado, de su representante o del familiar más cercano. Si el imputado asiste a la audiencia hará uso de la palabra en último lugar. Concluida la audiencia, la Sala emitirá sentencia en audiencia pública en el plazo de veinte días. Rige lo dispuesto en el numeral 4) del artículo 425°.
-*Ver jurisprudencia aquí.*
+**
 #### **Artículo 444. Sentencia**
 1. Si la Sala encuentra fundada la causal invocada, declarará sin valor la sentencia motivo de la impugnación y la remitirá a nuevo juicio cuando el caso lo requiere, o pronunciará directamente la sentencia absolutoria.
 2. Si la sentencia dispone un nuevo juicio, éste será tramitado conforme a las reglas respectivas. El ofrecimiento de prueba y la sentencia no podrán fundarse en una nueva apreciación de los mismos hechos del proceso, con independencia de las causales que tornaron admisible la revisión.
@@ -3035,22 +3035,22 @@ La interposición de la demanda de revisión no suspende la ejecución de la sen
 La denegatoria de la revisión, o la ulterior sentencia confirmatoria de la anterior, no impide una nueva demanda de revisión, siempre que se funde en otros hechos o pruebas.
 ### **Continúa del artículo 446 al 566 y disposiciones finales**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Procesal Penal            ### La patología del «doble conforme» como barrera de admisibilidad en la casación penal
-**                Noticias            ### [VIVO] Tomás Gálvez sustenta proyecto de nueva Ley Orgánica del Ministerio Público
-Penal            ### El orden procesal como garantía de defensa: nulidad por inversión de acumulación y prórroga   
-Jurisprudencia            ### ÚLTIMO: Sala confirma prisión preventiva dictada en contra de Adrián Villar (lea la resolución)
-Penal            ### [VIVO] Clase modelo sobre cuestión previa y cuestión prejudicial. Llena el formulario para recibir las diapositivas
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Procesal Penal### La patología del «doble conforme» como barrera de admisibilidad en la casación penal
+** Noticias### [VIVO] Tomás Gálvez sustenta proyecto de nueva Ley Orgánica del Ministerio Público
+Penal### El orden procesal como garantía de defensa: nulidad por inversión de acumulación y prórroga  
+Jurisprudencia### ÚLTIMO: Sala confirma prisión preventiva dictada en contra de Adrián Villar (lea la resolución)
+Penal### [VIVO] Clase modelo sobre cuestión previa y cuestión prejudicial. Llena el formulario para recibir las diapositivas
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, para solicitar la sustitución del personal clave del plantel técnico del contratista,...### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
 4 abril, 2026

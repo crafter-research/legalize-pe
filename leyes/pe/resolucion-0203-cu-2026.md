@@ -73,7 +73,7 @@ Que, estando a lo expuesto y tras la valoración conjunta de los actuados a pedi
 
 Que, por lo señalado, mediante Oficio N° 207-AE-URH-UNP-2026 del 30.Mar.2026, el Abog. Leopoldo Jesús García Vega, Jefe de la Unidad de Recursos Humanos señala: “(…) relacionado con la solicitud de licencia con goce de haber a favor del servidor docente Mg. Ing. JOSÉ REMIGIO ARGÜELLO, a fin de participar a la Feria MACFRUT 2026, en RIMINI- ITALIA con el objetivo de promocionar los logros obtenidos por el Centro de Experimentación y Capacitación en Agricultura Sostenible y de Precisión (CECASP), en el Marco del Convenio entre la Universidad Nacional de Piura (UNP), el Gobierno Regional de Piura y el Instituto Ítalo Latinoamericano (ILLA), además de hacer gestión con Entidades Académicas; evento que se realizará en el tiempo comprendido del 19 hasta el 26.Abr.2026. Sobre el particular, se hace mención que la licencia cuenta con acuerdo de Consejo de Facultad en su Sesión Extraordinaria del 25,Mar.2026. Siendo así, esta Unidad de Recursos Humanos considera procedente el otorgamiento de la licencia con goce de haber que nos ocupa, por el tiempo mencionado en el primer párrafo del presente documento.”;
 
-Que, además, con Memorándum N° 0429-2026-UP-OPYPTO-UNP del 31.Mar.2026, suscrito por el Dr. Ernesto Quezada Poicón, Jefe de la Oficina de Planeamiento y Presupuesto y la Mag. Noelia Denisse Alvarado Chaparro, Jefa de la Unidad de Presupuesto se otorgó la Certificación de Crédito Presupuestario según el siguiente 
+Que, además, con Memorándum N° 0429-2026-UP-OPYPTO-UNP del 31.Mar.2026, suscrito por el Dr. Ernesto Quezada Poicón, Jefe de la Oficina de Planeamiento y Presupuesto y la Mag. Noelia Denisse Alvarado Chaparro, Jefa de la Unidad de Presupuesto se otorgó la Certificación de Crédito Presupuestario según el siguiente
 detalle:
 
 “OTORGAR CERTIFICACIÓN PRESUPUESTAL PARA PASAJES AÉREOS INTERNACIONALES POR S/ 13,664.14 SOLES A LA CIUDAD DE RIMINI - ITALIA (EUROPA) Y OCHO (08) DÍAS DE VIÁTICOS INTERNACIONALES A FAVOR DEL ING. JOSE REMIGIO ARGUELLO M.SC, QUIEN ASISTIRÁ A UNA INVITACIÓN A LA FERIA MACFRUT 2026, A PARTIR DEL 19 DE ABRIL DEL 2026.”
@@ -82,13 +82,13 @@ CADENA FUNCIONAL PROGRAMÁTICA
 
 CERTIFICADO N° 1841
 
-| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS |  |  |
+| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS | | |
 | --- | --- | --- | --- |
-| SECCIÓN FUNCIONAL | 007 GESTIÓN DEL PROGRAMA |  |  |
-| GENÉRICA DE GASTO | 2.3. BIENES Y SERVICIOS |  |  |
+| SECCIÓN FUNCIONAL | 007 GESTIÓN DEL PROGRAMA | | |
+| GENÉRICA DE GASTO | 2.3. BIENES Y SERVICIOS | | |
 | CLASIFICADOR | 2.3.2.1.1.1. | $ 2,155.37+1,748.67*T.C. 3.50 | S/ 13,664.14 |
-| 2.3.2.1.1.2. | $ 540*T.C. 3.50*8dias | S/ 15,120.00 |  |
-| MONTO TOTAL | S/ 28,784.14 |  |  |
+| 2.3.2.1.1.2. | $ 540*T.C. 3.50*8dias | S/ 15,120.00 | |
+| MONTO TOTAL | S/ 28,784.14 | | |
 
 Que, con Informe N° 418-2026-OCAJ-UNP del 31.Mar.2026, la Abog. Evelyn M. Adrianzen Palacios, Jefe (e) de la Oficina Central de Asesoría Jurídica, recomienda textualmente lo siguiente: “a) Se declare PROCEDENTE la autorización del viaje del Ing. JOSÉ REMIGIO ARGUELLO M.Sc.- Decano de la Facultad de Agronomía, para que asista a la Feria MACFRUT 2026, en la ciudad de Rimini - Italia, con el objetivo de promocionar los logros del CECASP y realizar gestiones académicas y empresariales, a realizarse del 19 al 26.Abr.2026. Asimismo, se deberá declarar PROCEDENTE la licencia con goce de haber y el otorgamiento de pasajes aéreos y viáticos internacionales por un monto total de S/ 28,784.14, conforme a la certificación presupuestal emitida mediante Memorándum N° 0429-2026-UP-OPYPTO-UNP; todo ello, por los argumentos expuestos en el presente informe. b) Se EMITA el documento resolutivo correspondiente, debiendo ser publicado en el Diario Oficial El Peruano conforme a lo previsto en el Decreto Supremo N° 047-2002-PCM. c) El docente a su regreso deberá presentar la rendición de viáticos respectiva, conforme a la normativa vigente.”;
 
@@ -114,13 +114,13 @@ CADENA FUNCIONAL PROGRAMÁTICA
 
 CERTIFICADO N° 1841
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 Artículo 4°.- DISPONER, la presentación de la respectiva rendición de cuentas, en el plazo dispuesto en el Artículo 6° del D.S. N° 047-2002-PCM, modificado por el D.S. N° 056-2013-PCM.
 

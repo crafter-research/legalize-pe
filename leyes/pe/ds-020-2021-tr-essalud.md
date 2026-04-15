@@ -17,10 +17,10 @@ disclaimer: true
 
 # Servicios prestados en exclusividad por EsSalud
 
-Inicio ** Administrativo ** Estos son los servicios prestados en exclusividad por Essalud - Administrativo
+Inicio ** Administrativo ** Estos son los servicios prestados en exclusividad por Essalud- Administrativo
 - Normas legales
 # Estos son los servicios prestados en exclusividad por Essalud [Decreto Supremo 020-2021-TR]
-Publicado en el diario oficial El Peruano el 25 de noviembre de 2021.Por LP • Pasión por el Derecho -                  25 noviembre, 2021                                            Mediante el **Decreto Supremo 020-2021-TR** se aprobaron los servicios prestados en exclusividad por Essalud, publicado en el diario oficial *El Peruano* el 25 de noviembre de 2021.
+Publicado en el diario oficial El Peruano el 25 de noviembre de 2021.Por LP • Pasión por el Derecho - 25 noviembre, 2021Mediante el **Decreto Supremo 020-2021-TR** se aprobaron los servicios prestados en exclusividad por Essalud, publicado en el diario oficial *El Peruano* el 25 de noviembre de 2021.
 ### **Decreto Supremo que aprueba los servicios prestados en exclusividad brindados por el Seguro Social de Salud &#8211; ESSALUD**
 ### **DECRETO SUPREMO N° 020-2021-TR**
 EL PRESIDENTE DE LA REPÚBLICA
@@ -168,22 +168,22 @@ Ministra de Trabajo y Promoción del Empleo
 [Continúa formulario]
 ### **Descargue la resolución aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
 4 abril, 2026

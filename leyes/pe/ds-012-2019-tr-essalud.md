@@ -20,7 +20,7 @@ disclaimer: true
 - Administrativo
 - Normas legales
 # ¡Atención! Aprueban reglamento de inscripción de familiares del trabajador en Essalud [D.S. 012-2019-TR]
-Publicado en el diario oficial El Peruano, el 11 de agosto de 2019.Por LP • Pasión por el Derecho -                      11 agosto, 2019                                                        # Publicada en el diario oficial *El Peruano*, el 11 de agosto de 2019.
+Publicado en el diario oficial El Peruano, el 11 de agosto de 2019.Por LP • Pasión por el Derecho - 11 agosto, 2019# Publicada en el diario oficial *El Peruano*, el 11 de agosto de 2019.
 # **Decreto Supremo que aprueba el Reglamento de Inscripción, Baja, Modificación de Datos de Derechohabientes, Cambio de Adscripción Temporal y Disposiciones para la Baja de Oficio de Asegurados del Seguro Social de Salud**
 ## **DECRETO SUPREMO ****Nº 012-2019-TR**
 EL PRESIDENTE DE LA REPÚBLICA

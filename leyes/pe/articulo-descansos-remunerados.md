@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** ¿Cuáles son los descansos remunerados según la ley?- Laboral
 # ¿Cuáles son los descansos remunerados según la ley?
-Por LP • Pasión por el Derecho -                  21 octubre, 2021                                            El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Derecho individual del trabajo en el Perú* (Lima, 2019), escrito por el profesor **Víctor Ferro Delgado**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, **los descansos remunerados establecidos en la legislación peruana**. Así que los animamos a leer el libro. 
+Por LP • Pasión por el Derecho - 21 octubre, 2021El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Derecho individual del trabajo en el Perú* (Lima, 2019), escrito por el profesor **Víctor Ferro Delgado**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, **los descansos remunerados establecidos en la legislación peruana**. Así que los animamos a leer el libro. 
 ## **1. Descanso semanal obligatorio**
 Por cada semana de trabajo, el trabajador tiene derecho a 24 horas consecutivas de descanso remunerado, el cual debe disfrutarse de manera preferente en día domingo (art. 1 decreto legislativo 713). El monto equivale al de** un día de trabajo** y se abona de manera directamente proporcional a los días laborados en la respectiva semana (art. 4 decreto legislativo 713).
 Si el trabajador labora durante su día de descanso semanal obligatorio y este no ha sido sustituido por otro dentro de la misma semana, el empleador queda obligado a abonar la remuneración correspondiente a la labor efectuada **más una sobretasa del 100%** (art. 3 decreto legislativo 713).
@@ -57,22 +57,22 @@ Nuestra legislación prevé el reconocimiento del récord trunco vacacional, val
 #### Lea también: **Curso en inspecciones laborales y relaciones sindicales**. Hasta el 2 de noviembre libro gratis
 Sobre esta materia, el Decreto Legislativo 1405 ha establecido que, en caso de extinción del vínculo laboral, los días de descanso otorgados por adelanto son compensados con los días de vacaciones truncas. Sin embargo, si los días adelantados exceden a los días de vacaciones truncas adquiridas, no habrá obligación de compensación por el exceso.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-Agustin Ricci -                 4 abril, 2026                            La Tercera Sala Penal de Apelaciones Nacional declaró fundado en parte el hábeas corpus interpuesto a favor de Martín Vizcarra por el derecho a su...            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-3 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Noticias### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+Agustin Ricci - 4 abril, 2026La Tercera Sala Penal de Apelaciones Nacional declaró fundado en parte el hábeas corpus interpuesto a favor de Martín Vizcarra por el derecho a su...### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+3 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
 3 abril, 2026

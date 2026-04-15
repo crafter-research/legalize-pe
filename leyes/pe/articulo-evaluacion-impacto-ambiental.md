@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Ambiental ** Evaluación de impacto ambiental: origen, concepto y evolución- Ambiental
 # Evaluación de impacto ambiental: origen, concepto y evolución
-Por Observatorio de Jurisprudencia Procesal Penal -                  7 diciembre, 2022                                            El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Introducción al derecho ambiental* (Lima, 2017), escrito por el profesor **Patrick Wieland Fernandini**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, el origen, concepto y evolución de la Evaluación de Impacto Ambiental en el Perú.
+Por Observatorio de Jurisprudencia Procesal Penal - 7 diciembre, 2022El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Introducción al derecho ambiental* (Lima, 2017), escrito por el profesor **Patrick Wieland Fernandini**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, el origen, concepto y evolución de la Evaluación de Impacto Ambiental en el Perú.
 Toda actividad humana tiene el potencial de alterar o modificar el ambiente o sus componentes. Con la finalidad de anticipar y prevenir tales impactos, el derecho ambiental ha creado el procedimiento de evaluación de impacto ambiental, cuyo objetivo es identificar y predecir los efectos positivos o negativos que un proyecto de inversión puede generar al ambiente.
 ### **1. Origen**
 La evaluación de impacto ambiental tiene sus inicios en la década de 1960 y es considerada como un triunfo del movimiento ecologista en los Estados Unidos. Durante el primer gobierno del presidente Richard Nixon se aprobó la Ley Nacional de Política Ambiental (o NEPA, por sus siglas en inglés), la cual estableció por primera vez el concepto de evaluación de impacto ambiental para proyectos públicos y privados. La NEPA expresó la voluntad de los Estados Unidos de «crear y mantener condiciones en las cuales el hombre y la naturaleza puedan existir en una armonía productiva», al igual que «asegurar para todos los estadounidenses un ambiente seguro, sano, productivo y apropiado cultural y estéticamente».
@@ -39,22 +39,22 @@ Entre otros, el SEIA se rige por los siguientes principios:
 involucrados alrededor de un proyecto de inversión a través de opiniones, observaciones y aportes. Actualmente el procedimiento de participación ciudadana se encuentra regulado en diversos dispositivos sectoriales, aunque el Ministerio del Ambiente cuenta con un Reglamento sobre participación ciudadana (Decreto Supremo 002-2009-MINAM), el cual resulta aplicable de forma subsidiaria.
 La importancia de la gestión de los riesgos ambientales y sociales despierta no solo la atención del Estado, las empresas y la población, sino también de la banca. Quienes proveen de capital a los proyectos de inversión ven con preocupación la gestión ambiental y social de los proyectos de inversión. En el capítulo 3 comentamos la iniciativa de un grupo de bancos para autorregularse en esta materia. Más recientemente la Superintendencia de Banca y Seguros ha establecido reglas para la gestión de riesgo social y ambiental de las entidades financieras nacionales en aras de «una toma prudente de riesgos» (Resolución SBS 1928-2015).
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Ambiental            ### ¿Por qué los animales siguen siendo propiedad?
-Ambiental            ### Acceso a la función notarial: 9 preguntas sobre derecho minero planteadas en exámenes previos. ¿Puedes resolverlas?
-Ambiental            ### ¿Animales como sujetos de derecho? Análisis de la última sentencia del caso Run Run
-Ambiental            ### Es inconstitucional ordenar el sacrificio de un animal sin un criterio objetivo que determine que tiene rabia y obviando alternativas intermedias para los casos...
-Ambiental            ### El principio de «sintiencia animal», implícito en el ordenamiento jurídico, exige que tanto el Estado como las personas adecuen su proceder teniendo en cuenta...
-Ambiental            ### Examen PROFA: 12 preguntas sobre delitos ambientales. ¿Puedes resolverlas?
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-Elani Yahaira Mamani Gutiérrez -                 4 abril, 2026                            La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+Ambiental### ¿Por qué los animales siguen siendo propiedad?
+Ambiental### Acceso a la función notarial: 9 preguntas sobre derecho minero planteadas en exámenes previos. ¿Puedes resolverlas?
+Ambiental### ¿Animales como sujetos de derecho? Análisis de la última sentencia del caso Run Run
+Ambiental### Es inconstitucional ordenar el sacrificio de un animal sin un criterio objetivo que determine que tiene rabia y obviando alternativas intermedias para los casos...
+Ambiental### El principio de «sintiencia animal», implícito en el ordenamiento jurídico, exige que tanto el Estado como las personas adecuen su proceder teniendo en cuenta...
+Ambiental### Examen PROFA: 12 preguntas sobre delitos ambientales. ¿Puedes resolverlas?
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Elani Yahaira Mamani Gutiérrez - 4 abril, 2026La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
 3 abril, 2026

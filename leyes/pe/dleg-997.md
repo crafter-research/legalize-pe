@@ -19,7 +19,6 @@ disclaimer: true
 
 **Decreto Legislativo N.° 997**
 
-NORMAS LEGALES
 
 El Peruano Lima, jueves 13 de marzo de 2008
 
@@ -40,10 +39,7 @@ TÍTULO I DISPOSICIONES GENERALES
 Artículo 1.- FINALIDAD La presente norma tiene por finalidad establecer la naturaleza jurídica, el ámbito de competencia, las funciones y la organización interna del Ministerio de Agricultura.
 
 
-
 El Peruano Lima, jueves 13 de marzo de 2008
-
-NORMAS LEGALES
 
 
 Artículo 2.- NATURALEZA JURÍDICA
@@ -101,10 +97,6 @@ Artículo 7.- ESTRUCTURA ORGÚNICA
 7.1 La estructura orgúnica del Ministerio de Agricultura se conforma según lo establecido en el artículo 24° de la Ley N° 29158, Ley Orgúnica del Poder Ejecutivo.
 
 
-
-
-NORMAS LEGALES
-
 El Peruano Lima, jueves 13 de marzo de 2008
 
 7.2 Los órganos que conforman la estructura orgúnica del Ministerio de Agricultura así como sus funciones, se regulan en su Reglamento de Organización y Funciones.
@@ -153,10 +145,8 @@ Modifácase la denominación del Instituto Nacional de Investigación Agraria po
 El Instituto Nacional de Innovación Agraria tiene a su cargo diseñar y ejecutar la estrategia nacional de innovación agraria.
 
 
-
 El Peruano Lima, jueves 13 de marzo de 2008
 
-NORMAS LEGALES
 
 En un plazo no mayor de sesenta (60) días hábiles, contado a partir de la entrada en vigencia de la presente norma, mediante Decreto Supremo con el voto aprobatorio del Consejo de Ministros, se adecuará su Reglamento de Organización y Funciones.
 
@@ -174,7 +164,7 @@ Dado en la Casa de Gobierno, en Lima, a los doce días del mes de marzo del año
 
 ALAN GARCÍA PÉREZ Presidente Constitucional de la República
 
-JORGE DEL CASTILLO G�LVEZ Presidente del Consejo de Ministros
+JORGE DEL CASTILLO GLVEZ Presidente del Consejo de Ministros
 
 ISMAEL BENAVIDES FERREYROS Ministro de Agricultura
 

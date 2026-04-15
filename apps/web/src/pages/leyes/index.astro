@@ -43,7 +43,7 @@ const searchIndex = JSON.stringify(compactLeyes)
       <header class="page-header">
         <h1>Buscar normas legales</h1>
         <p class="subtitle">
-          Explora {leyes.length} normas de legislacion peruana con busqueda inteligente
+          Explora {leyes.length} normas de legislacion peruana. Busqueda por titulo, numero y contenido.
         </p>
       </header>
 
@@ -148,7 +148,7 @@ const searchIndex = JSON.stringify(compactLeyes)
 
   // Search index is embedded in the page
   const searchIndexData = document.getElementById('search-data')
-  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string}> = searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
+  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string}> = searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
 
   interface Ley {
     identificador: string
@@ -156,6 +156,7 @@ const searchIndex = JSON.stringify(compactLeyes)
     rango: string
     estado: string
     fechaPublicacion: string
+    body: string
   }
 
   interface FuseMatch {
@@ -177,15 +178,17 @@ const searchIndex = JSON.stringify(compactLeyes)
       rango: l.r,
       estado: l.e,
       fechaPublicacion: l.f,
+      body: l.b,
     }))
 
-    // Configure Fuse.js for fuzzy search
+    // Configure Fuse.js for fuzzy search with body content
     const fuse = new Fuse(leyes, {
       keys: [
-        { name: 'titulo', weight: 0.6 },
-        { name: 'identificador', weight: 0.4 },
+        { name: 'titulo', weight: 0.5 },
+        { name: 'identificador', weight: 0.3 },
+        { name: 'body', weight: 0.2 },
       ],
-      threshold: 0.35,
+      threshold: 0.4,
       ignoreLocation: true,
       includeMatches: true,
       includeScore: true,

@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** Diferencias entre tercerización e intermediación laboral- Laboral
 # Diferencias entre tercerización e intermediación laboral
-Por Jesús Miguel Chanamé Arriola -                  15 diciembre, 2020                                            **Sumario:** 1. Introducción, 2. Tercerización, 3. Intermediación, 4. Diferencias entre tercerización e intermediación, 5. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 15 diciembre, 2020**Sumario:** 1. Introducción, 2. Tercerización, 3. Intermediación, 4. Diferencias entre tercerización e intermediación, 5. Conclusiones.
 ## **1. Introducción**
 Como sabemos, los modos de producción han variado demasiado. Ante esto, la legislación laboral permite distintas formas de pactar una relación de trabajo en función de la óptima producción de las empresas.
 Dentro de estos modos de contratación, la **tercerización** e **intermediación** laboral han sido un recurso empleado para el destaque de trabajadores, así como para desvincular la mano de obra del empleador.
@@ -65,22 +65,22 @@ Hay diferencias sobre el tipo de la actividad empresarial y respecto a la relaci
 [2] NEVES, Javier (2018). Introducción al derecho del trabajo (cuarta edición). Lima: Fondo Editorial PUCP.
 [3] ARCE, Elmer (2013). Derecho individual del trabajo en el Perú. Desafíos y deficiencias (segunda edición). Lima: Palestra Editores S.A.C.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-César David Ojeda Quiroz -                 4 abril, 2026                            Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+César David Ojeda Quiroz - 4 abril, 2026Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
 4 abril, 2026

@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** ¿Puedo despedir docentes universitarios sin maestría antes del 2025?- Laboral
 # ¿Puedo despedir docentes universitarios sin maestría antes del 2025?
-Por Jesús Aguinaga Saavedra -                  4 diciembre, 2024                                            ### **Contexto**
+Por Jesús Aguinaga Saavedra - 4 diciembre, 2024### **Contexto**
 La Ley N.° 30220, Ley Universitaria, fue publicada en el año 2014. Su artículo 82 dispone que para ejercer la docencia en pregrado y en maestría de debe tener el grado de maestro. Asimismo, la tercera disposición complementaria transitoria de esta norma otorgó un plazo de adaptación de 5 años para los docentes que no cumplían con el requisito. La consecuencia del incumplimiento es la finalización de su vínculo contractual.
 La ley apunta a mejorar la calidad de la enseñanza a través de la superación académica del docente universitario. No obstante, la emergencia sanitaria producida por el COVID-19 afectó la mecánica operativa de las universidades, así como el desempeño de los estudiantes. La salvaguarda de los derechos de ambos motivó la dación del Decreto Legislativo N.° 1496, publicado el 10 de mayo de 2020, que amplió el plazo de adecuación hasta el 30 de noviembre de 2021.
 - **Matricúlate**: **Diplomado de derecho laboral y gestión legal de recursos humanos. HASTA 16 ENE dos libros gratis y pago en dos cuotas**
@@ -46,7 +46,7 @@ Sin duda, este es un tema que podría generar varias interrogantes y posiciones.
 [4] Lo mismo sucedería si hasta junio del año 2025 el docente aún no inicia con su tesis doctoral, aunque la consecuencia sería ser considerados en la categoría que les corresponde.
 [5]  Artículo 25.- Falta grave es la infracción por el trabajador de los deberes esenciales que emanan del contrato, de tal índole, que haga irrazonable la subsistencia de la relación. Son faltas graves:
 (…)
-- 
+-
 - d) El uso o entrega a terceros de información reservada del empleador; la sustracción o utilización no autorizada de documentos de la empresa; la información falsa al empleador con la intención de causarle perjuicio u obtener una ventaja; y la competencia desleal;
 (…)
 [6] Artículo I. Ámbito de aplicación de la ley
@@ -57,22 +57,22 @@ Para los fines de la presente Ley, se entenderá por “entidad” o “entidade
 [7] Artículo 3. Definición de la universidad
 La universidad es una comunidad académica orientada a la investigación y a la docencia, que brinda una formación humanista, científica y tecnológica con una clara conciencia de nuestro país como realidad multicultural. Adopta el concepto de educación como derecho fundamental y servicio público esencial. Está integrada por docentes, estudiantes y graduados. Participan en ella los representantes de los promotores, de acuerdo a ley.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

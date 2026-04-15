@@ -82,7 +82,6 @@ La Corte Suprema de Justicia, el Tribunal de Garantías Constitucionales y el Fi
 
 Tienen la misma obligación los jueces y fiscales respecto de sus correspondientes superiores.
 
-Ver jurisprudencia aquí.
 
 LIBRO I: DERECHO DE LAS PERSONAS
 Sección primera: Personas naturales
@@ -1583,7 +1582,6 @@ Artículo 189.- Imposibilidad e ilicitud del cargo
 
 Si el hecho que constituye el cargo es ilícito o imposible, o llega a serlo, el acto jurídico subsiste sin cargo alguno.
 
-Ver jurisprudencia aquí.
 
 Título VI: Simulación del acto jurídico
 Artículo 190.- Simulación absoluta
@@ -2369,7 +2367,6 @@ Artículo 288.- Deber de fidelidad y asistencia
 
 Los cónyuges se deben recíprocamente fidelidad y asistencia.
 
-Ver jurisprudencia aquí.
 
 Artículo 289.- Deber de cohabitación
 
@@ -2636,7 +2633,6 @@ Fenece el régimen de la sociedad de gananciales:
 
 6. Por cambio de régimen patrimonial.
 
-Ver jurisprudencia aquí.
 
 Artículo 319.- Fin de la sociedad*
 
@@ -2956,7 +2952,6 @@ Artículo 353.- Pérdida de derechos hereditarios entre cónyuges divorciados
 
 Los cónyuges divorciados no tienen derecho a heredar entre sí.
 
-Ver jurisprudencia aquí.
 
 Artículo 354.- Plazo de conversión*
 
@@ -3019,7 +3014,6 @@ El hijo o hija se presume matrimonial, salvo que la madre declare expresamente q
 
 * Artículo modificado por el DL 1377, publicado el 24 de agosto de 2018 (link: lpd.pe/0YBw3).
 
-Ver jurisprudencia aquí.
 
 Artículo 363.- Negación de la paternidad*
 
@@ -3848,7 +3842,6 @@ Se deben alimentos recíprocamente:
 
 3. Los hermanos.
 
-Ver jurisprudencia aquí.
 
 Artículo 475.- Prelación de obligados a pasar alimentos
 
@@ -3862,7 +3855,6 @@ Los alimentos, cuando sean dos o más los obligados a darlos, se prestan en el o
 
 4. Por los hermanos.
 
-Ver jurisprudencia aquí.
 
 Artículo 476.- Gradación por orden de sucesión legal
 
@@ -3920,7 +3912,6 @@ Sin embargo, si subsiste el estado de necesidad por causas de incapacidad físic
 
 * Artículo modificado por la Ley 27646, publicada el 23 de enero de 2002 (link: lpd.pe/k8yxE).
 
-Ver jurisprudencia aquí.
 
 Artículo 484.- Formas diversas de dar alimentos
 
@@ -4500,7 +4491,6 @@ Asimismo, la persona adulta mayor puede disponer en qué personas no debe recaer
 
 * Artículo incorporado por la Ley 29633, publicada el 17 de diciembre de 2010 (link: lpd.pe/pe5Wx).
 
-Ver jurisprudencia aquí.
 
 Artículo 569.- [Derogado]*
 
@@ -4568,7 +4558,6 @@ Pueden pedir la interdicción de la persona con capacidad de ejercicio restringi
 
 * Artículo modificado por el DL 1384, publicado el 4 de setiembre de 2018 (link: lpd.pe/pxRn8).
 
-Ver jurisprudencia aquí.
 
 Artículo 584.- Pródigo
 
@@ -5234,7 +5223,6 @@ Artículo 682.- Representación en línea recta
 
 En la línea recta descendente la representación es ilimitada en favor de los descendientes de los hijos, sin distinción alguna.
 
-Ver jurisprudencia aquí.
 
 Artículo 683.- Representación en línea colateral
 
@@ -5352,7 +5340,6 @@ Las formalidades esenciales del testamento otorgado en escritura pública son:
 2. DL 1384, publicado el 4 de setiembre de 2018, que modificó los numerales 2 y 6, e incorporó el numeral 9 (link: lpd.pe/pxRn8).
 3. Ley 31338, publicada el 11 de agosto de 2021, que modificó los numerales 1 y 3 (link: lpd.pe/kOWD1).
 
-Ver jurisprudencia aquí.
 
 Artículo 697.- Testigo testamentario a ruego*
 
@@ -6070,7 +6057,6 @@ Artículo 801.- Revocación parcial de testamento
 
 El testamento que no es revocado total y expresamente por otro posterior, subsiste en las disposiciones compatibles con las de este último.
 
-Ver jurisprudencia aquí.
 
 Artículo 802.- Revocación del testamento cerrado
 
@@ -7040,7 +7026,6 @@ Artículo 941.- Edificación de buena fe en terreno ajeno
 
 Cuando se edifique de buena fe en terreno ajeno, el dueño del suelo puede optar entre hacer suyo lo edificado u obligar al invasor a que le pague el terreno. En el primer caso, el dueño del suelo debe pagar el valor de la edificación, cuyo monto será el promedio entre el costo y el valor actual de la obra. En el segundo caso, el invasor debe pagar el valor comercial actual del terreno.
 
-Ver jurisprudencia aquí.
 
 Artículo 942.- Mala fe del propietario del suelo
 
@@ -7191,7 +7176,6 @@ Artículo 964.- Paso de aguas por predio vecino
 
 El propietario no puede hacer que las aguas correspondientes al predio discurran en los predios vecinos, salvo pacto distinto.
 
-Ver jurisprudencia aquí.
 
 Subcapítulo III: Derechos del propietario
 Artículo 965.- Derecho a cercar un predio
@@ -7462,7 +7446,6 @@ El usufructo es temporal. El usufructo constituido en favor de una persona jurí
 
 Tratándose de bienes inmuebles de valor monumental de propiedad del Estado que sean materia de restauración con fondos de personas naturales o jurídicas, el usufructo que constituya el Estado en favor de éstas podrá tener un plazo máximo de noventinueve años.
 
-Ver jurisprudencia aquí.
 
 Artículo 1002.- Transferencia o gravamen del usufructo
 
@@ -7625,7 +7608,6 @@ Puede constituirse el derecho de superficie por el cual el superficiario goza de
 
 Este derecho no puede durar más de noventinueve años. A su vencimiento, el propietario del suelo adquiere la propiedad de lo construido reembolsando su valor, salvo pacto distinto.
 
-Ver jurisprudencia aquí.
 
 Artículo 1031.- Constitución o trasmisibilidad
 

@@ -27,10 +27,10 @@ CONSIDERANDO:
 
 Que, mediante la Ley N° 30220, Ley Universitaria, modificada por la Ley N° 31520, Ley que restablece la autonomía y la institucionalidad de las universidades peruanas, se establece que la Superintendencia Nacional de Educación Superior Universitaria - Sunedu, es un ente autónomo de naturaleza jurídica de derecho público interno y constituye pliego presupuestal;
 
-Que, el literal e) del artículo 10 del Texto Integrado actualizado del Reglamento de Organización y Funciones de la Superintendencia Nacional de Educación Superior Universitaria-Sunedu aprobado mediante Resolución de Superintendencia N° 0095-2024-SUNEDU, dispone que el/la Superintendente/a tiene entre otras funciones, designar y remover a los Directores de las unidades de organización y órganos desconcentrados de la 
+Que, el literal e) del artículo 10 del Texto Integrado actualizado del Reglamento de Organización y Funciones de la Superintendencia Nacional de Educación Superior Universitaria-Sunedu aprobado mediante Resolución de Superintendencia N° 0095-2024-SUNEDU, dispone que el/la Superintendente/a tiene entre otras funciones, designar y remover a los Directores de las unidades de organización y órganos desconcentrados de la
 entidad;
 
-Que, el numeral 7.1 del artículo 7 y el numeral 17.1 del artículo 17 del Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado mediante Decreto Supremo N° 004-2019-JUS, establecen que, el régimen de eficacia anticipada de los actos administrativos es susceptible de ser aplicado a los actos de administración interna, siempre que no se violen normas de orden público ni afecte a 
+Que, el numeral 7.1 del artículo 7 y el numeral 17.1 del artículo 17 del Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado mediante Decreto Supremo N° 004-2019-JUS, establecen que, el régimen de eficacia anticipada de los actos administrativos es susceptible de ser aplicado a los actos de administración interna, siempre que no se violen normas de orden público ni afecte a
 terceros;
 
 Que, asimismo, se dispone que, la autoridad podrá disponer en el mismo acto administrativo que tenga eficacia anticipada a su emisión, sólo si fuera más favorable a los administrados, y siempre que no lesione derechos fundamentales o intereses de buena fe legalmente protegidos a terceros y que existiera en la fecha a la que pretenda retrotraerse la eficacia del acto el supuesto de hecho justificativo para su adopción;

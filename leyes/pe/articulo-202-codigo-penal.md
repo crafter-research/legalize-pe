@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Jurisprudencia ** Jurisprudencia del artículo 202 del Código Penal.- Usurpación- Jurisprudencia
 - Penal
 # Jurisprudencia del artículo 202 del Código Penal.- Usurpación
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  27 septiembre, 2022                                            Artículo 202.- Usurpación*
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 27 septiembre, 2022Artículo 202.- Usurpación*
 Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco años:
 ## 1. El que, para apropiarse de todo o en parte de un inmueble, destruye o altera los linderos del mismo.
 ## 2. El que, con violencia, amenaza, engaño o abuso de confianza, despoja a otro, total o parcialmente, de la posesión o tenencia de un inmueble o del ejercicio de un derecho real.
@@ -31,7 +31,7 @@ Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco
 ## **Concordancias**
 **C: **arts. 2,9; **CP:** arts. 12, 29, 45, 57-67, 92,93,159,446; **CC: **arts. 515.8, 885, 896, 905; **NCPP****: **arts. 143, 245; **DUDH:** art. 17; **CADH:** art. 21.1, 21.2; **DADDH:** art. XXII; **CAPPDH:** arts. 38, 43.1, 59.3.
 ## **Jurisprudencia del artículo 202 del Código Penal**
-- 
+-
 ### **Corte Suprema**
 - Para atribuir dolo, el usurpador debe conocer (i) que la propiedad y posesión del bien es de un tercero, (ii) que ingresa al mismo ilícitamente o al margen de la ley —sin cobertura o amparo legal— y (iii) que lo hace mediante actos ocultos en ausencia del poseedor o con precauciones para asegurar el desconocimiento del mismo [Casación 3158-2023, El Santa, f. j. 2]. Lnk: lpd.pe/2yMnb
 - Que el propietario desaloje a inquilino por «mala» asesoría de su abogado constituye error vencible porque es de conocimiento público que la propiedad y posesión se deben respetar [Casación 2945-2023, Sullana, ff. jj. 2.4-2.5]. Link: lpd.pe/k15dd
@@ -63,7 +63,7 @@ Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco
 - Criterios para dictar la restitución de la posesión del agraviado por usurpación: (i) el espectro de los derechos posesorios que amparan al agraviado (propietario, arrendador, ocupante precario o poseedor ilegal), (ii) la situación jurídica del usurpador con respecto del inmueble usurpado y (iii) la recomposición de las relaciones jurídicas [RN 38-2010, Huaura, f. j. 7]. Link: bit.ly/3IIPEkA
 - La usurpación por despojo es un delito instantáneo de efectos permanentes, que se consuma con el despojo, siendo irrelevante la permanencia en el predio [RN 502-2002, Huánuco, f. j. 4]. Link: bit.ly/3ILEbRC
 - Los cuestionamientos sobre la legitimidad de la posesión —por tratarse de un área de dominio público, intangible e inalienable— deben dilucidarse en la vía civil; en sede penal basta con el ejercicio de una posesión de hecho [Apelación 204-2023, Cusco, f. j. 23]. Link: lpd.pe/2geAy
-- 
+-
 ### **Corte Superior **
 - Aun cuando la imputada tiene título de propiedad que le confiere derecho de poseer el inmueble, si no ejercía actos posesorios —porque vivió años en Chile—, el despojo realizado —colocando cadenas con candados en la puerta— configura el delito de usurpación [Exp. 2417-2018-0, ff. jj. 8.5-8.6]. Link: lpd.pe/2vqXG
 - La defensa posesoria extrajudicial como causa de justificación en el delito de usurpación exige que el imputado se encuentre en posesión del bien, que el agraviado lo halla privado de la posesión que venía ejerciendo y que la acción debe realizarse dentro de los 15 días desde que se conoce la desposesión [Exp. 5537-2018-31, f. j. 14]. Link: lpd.pe/pQ3nv
@@ -74,18 +74,18 @@ Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco
 - La violencia puede recaer tanto en las personas como en los bienes [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Cañete, 2010, tema 6]. Link: bit.ly/40e5QRh
 - La violencia que se ejerce para despojar o turbar la posesión debe ser ejercida sobre el agraviado [Pleno Jurisdiccional Distrital Penal de Puno, 2009, tema 4]. Link: bit.ly/3lzvroJ
 - El delito de usurpación es instantáneo de efectos permanentes [Pleno Jurisdiccional Nacional en Ica, 1998, tema 2]. Link: bit.ly/3Z6dNXl
-- 
+-
 ### **Juzgados**
 - El delito de usurpación no protege ni tutela la posesión ilegítima de un bien inmueble [Exp. 00418-2015-90, f. j. 2.8]. Link: bit.ly/4051UlK
 - Solo se debe restituir la posesión del inmueble al agraviado con posesión legítima [Exp. 00418-2015-90, f. j. 2.8]. Link: bit.ly/40pxnz0
-- 
+-
 ### **Tribunal Constitucional **
 - Título de posesión es irrelevante; basta con que agraviado ostente la tenencia del inmueble al momento del hecho delictivo [Exp. 02214-2021-PA/TC, f. j. 8]. Link: bit.ly/3LGXFsa
-- 
+-
 ### **Derecho comparado**
 - Elementos del delito de usurpación: (i) ocupación sin violencia o intimidación de un inmueble que no sea morada de alguna persona, (ii) perturbación posesoria calificada penalmente como ocupación, (iii) que el ocupante carezca de título legítimo, (iv) que exista oposición del titular a tolerar la ocupación y (v) que el agente tenga conocimiento de la ajenidad del inmueble y de la ausencia de autorización (dolo) (España) [STSJ CAT 1274/2022, f. j. 3.2]. Link: bit.ly/40uv5yD
 - No cabe acudir a vía penal si titular del derecho posesorio, durante un periodo significativo de tiempo, no ha ejercido la posesión en términos materiales y directos (España) [STSJ CAT 1274/2022, f. j. 3.5]. Link: bit.ly/3LFj9Wz
-- 
+-
 ### **Adicionales**
 - El bien jurídico protegido es la posesión física; por lo tanto, el sujeto pasivo es quien se encuentra en posesión directa del inmueble, sin que sea relevante el título [Casación 1592-2024, Lambayeque, f. j. 2.7]. Link: lpd.pe/zKBkM
 - Cambio de «chapas» es una conducta típica del delito de usurpación, por ser turbadora de la posesión [RN 2831-2017, Lima Norte, f. j. 10]. Link: bit.ly/3knsruT
@@ -93,22 +93,22 @@ Será reprimido con pena privativa de libertad no menor de dos ni mayor de cinco
 - La posesión efectiva del imputado sobre el inmueble es un elemento objetivo del tipo penal de usurpación [Revisión de Sentencia 567-2019, Cajamarca, f. j. 3]. Link: bit.ly/3ShAplX
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

@@ -20,7 +20,7 @@ disclaimer: true
 - Civil
 - Noticias
 # Indecopi emite directiva que regula los procedimientos en materia de protección al consumidor
-Por Tania Pereyra Villar -                      4 mayo, 2017                                                        **Aprueban Directiva N° 006-2017/DIR- COD-INDECOPI denominada “Directiva que regula los procedimientos en materia de protección al consumidor previstos en el Código de Protección y Defensa del Consumidor”**
+Por Tania Pereyra Villar - 4 mayo, 2017**Aprueban Directiva N° 006-2017/DIR- COD-INDECOPI denominada “Directiva que regula los procedimientos en materia de protección al consumidor previstos en el Código de Protección y Defensa del Consumidor”**
 # **RESOLUCIÓN DE LA PRESIDENCIA DEL CONSEJO DIRECTIVO DEL INDECOPI N° 076-2017-INDECOPI/COD**
 Lima, 24 de abril de 2017
 **CONSIDERANDO:**
