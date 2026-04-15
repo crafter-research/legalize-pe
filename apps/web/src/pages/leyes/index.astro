@@ -142,6 +142,35 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
         </div>
       </section>
 
+      <!-- Favoritos section -->
+      <section id="favorites-section" class="quick-access-section" style="display: none;">
+        <div class="section-header">
+          <h2>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+            Favoritos
+          </h2>
+          <button type="button" id="clear-favorites" class="btn-clear" title="Limpiar favoritos">Limpiar</button>
+        </div>
+        <ul id="favorites-list" class="quick-access-list"></ul>
+      </section>
+
+      <!-- Recently viewed section -->
+      <section id="recent-section" class="quick-access-section" style="display: none;">
+        <div class="section-header">
+          <h2>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"/>
+              <polyline points="12 6 12 12 16 14"/>
+            </svg>
+            Vistos recientemente
+          </h2>
+          <button type="button" id="clear-recent" class="btn-clear" title="Limpiar historial">Limpiar</button>
+        </div>
+        <ul id="recent-list" class="quick-access-list"></ul>
+      </section>
+
       <div id="search-examples" class="search-examples">
         <span class="examples-label">Ejemplos:</span>
         <button type="button" class="example-chip" data-query="codigo civil">Codigo Civil</button>
@@ -282,7 +311,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
         .replace(/"/g, '&quot;')
     }
 
-    function createLeyCard(ley: Ley, matches?: readonly FuseMatch[]): string {
+    function createLeyCard(ley: Ley, matches?: readonly FuseMatch[], query?: string): string {
       const tituloMatch = matches?.find((m) => m.key === 'titulo')
       const titulo = tituloMatch
         ? highlightMatch(ley.titulo, tituloMatch.indices)
@@ -293,9 +322,11 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
         ? `<span class="badge badge-outdated">${escapeHtml(ley.estado)}</span>`
         : ''
 
+      const href = query ? `/leyes/${escapeHtml(ley.identificador)}?q=${encodeURIComponent(query)}` : `/leyes/${escapeHtml(ley.identificador)}`
+
       return `
         <li>
-          <a href="/leyes/${escapeHtml(ley.identificador)}" class="ley-card">
+          <a href="${href}" class="ley-card">
             <div class="ley-card-main">
               <span class="ley-titulo">${titulo}</span>
               <div class="ley-meta">
@@ -338,6 +369,8 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
       return sorted
     }
 
+    let currentQuery = ''
+
     function renderResults(startIndex: number = 0) {
       if (!leyesList) return
 
@@ -352,7 +385,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
 
       for (let i = startIndex; i < endIndex; i++) {
         const { item, matches } = currentResults[i]
-        tempDiv.innerHTML = createLeyCard(item, matches)
+        tempDiv.innerHTML = createLeyCard(item, matches, currentQuery)
         const li = tempDiv.firstElementChild
         if (li) fragment.appendChild(li)
       }
@@ -393,8 +426,10 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
           score: r.score,
         }))
         hasQuery = true
+        currentQuery = query
       } else {
         results = leyes.map((item) => ({ item, matches: [], score: 0 }))
+        currentQuery = ''
       }
 
       // Apply filters
@@ -495,6 +530,81 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
 
     // Initial render
     filterAndSearch()
+
+    // Favorites and Recently Viewed
+    const favoritesSection = document.getElementById('favorites-section')
+    const favoritesList = document.getElementById('favorites-list')
+    const clearFavoritesBtn = document.getElementById('clear-favorites')
+    const recentSection = document.getElementById('recent-section')
+    const recentList = document.getElementById('recent-list')
+    const clearRecentBtn = document.getElementById('clear-recent')
+
+    interface QuickAccessItem {
+      id: string
+      titulo: string
+      rango: string
+      fecha: string
+    }
+
+    function createQuickAccessCard(item: QuickAccessItem, query: string = ''): string {
+      const rangoLabel = rangoLabels[item.rango] ?? item.rango
+      const href = query ? `/leyes/${item.id}?q=${encodeURIComponent(query)}` : `/leyes/${item.id}`
+      return `
+        <li>
+          <a href="${href}" class="quick-access-card">
+            <span class="quick-access-titulo">${escapeHtml(item.titulo)}</span>
+            <span class="quick-access-meta">
+              <span class="badge badge-rango">${escapeHtml(rangoLabel)}</span>
+              <span class="fecha">${escapeHtml(item.fecha)}</span>
+            </span>
+          </a>
+        </li>
+      `
+    }
+
+    function renderFavorites() {
+      if (!favoritesSection || !favoritesList) return
+      try {
+        const bookmarks: QuickAccessItem[] = JSON.parse(localStorage.getItem('bookmarks') || '[]')
+        if (bookmarks.length === 0) {
+          favoritesSection.style.display = 'none'
+          return
+        }
+        favoritesSection.style.display = 'block'
+        favoritesList.innerHTML = bookmarks.slice(0, 5).map(b => createQuickAccessCard(b)).join('')
+      } catch {
+        favoritesSection.style.display = 'none'
+      }
+    }
+
+    function renderRecentlyViewed() {
+      if (!recentSection || !recentList) return
+      try {
+        const recent: QuickAccessItem[] = JSON.parse(localStorage.getItem('recentlyViewed') || '[]')
+        if (recent.length === 0) {
+          recentSection.style.display = 'none'
+          return
+        }
+        recentSection.style.display = 'block'
+        recentList.innerHTML = recent.slice(0, 5).map(r => createQuickAccessCard(r)).join('')
+      } catch {
+        recentSection.style.display = 'none'
+      }
+    }
+
+    clearFavoritesBtn?.addEventListener('click', () => {
+      localStorage.removeItem('bookmarks')
+      renderFavorites()
+    })
+
+    clearRecentBtn?.addEventListener('click', () => {
+      localStorage.removeItem('recentlyViewed')
+      renderRecentlyViewed()
+    })
+
+    // Render quick access sections
+    renderFavorites()
+    renderRecentlyViewed()
   })()
 </script>
 
@@ -843,6 +953,110 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
   .btn-secondary:hover {
     border-color: var(--color-text-muted);
     background: var(--color-border);
+  }
+
+  /* Quick access sections (favorites & recently viewed) */
+  .quick-access-section {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .section-header h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .section-header h2 svg {
+    color: var(--color-text-muted);
+  }
+
+  .btn-clear {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.7rem;
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .btn-clear:hover {
+    background: var(--color-border);
+    color: var(--color-text);
+  }
+
+  .quick-access-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .quick-access-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: border-color 0.15s;
+  }
+
+  .quick-access-card:hover {
+    border-color: var(--color-accent);
+    text-decoration: none;
+  }
+
+  .quick-access-titulo {
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .quick-access-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .quick-access-meta .badge {
+    display: inline-block;
+    padding: 0.15em 0.5em;
+    border-radius: 999px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    background: #27272a;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+  }
+
+  .quick-access-meta .fecha {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
   }
 
   @media (max-width: 640px) {
