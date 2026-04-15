@@ -404,6 +404,19 @@ const htmlContent = await marked(body)
     font-size: 0.95rem;
     line-height: 1.8;
     color: var(--color-text);
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  .prose :global(h1),
+  .prose :global(h2),
+  .prose :global(h3),
+  .prose :global(h4),
+  .prose :global(h5),
+  .prose :global(h6) {
+    text-align: left;
+    hyphens: none;
   }
 
   .prose :global(h1) {
@@ -417,6 +430,8 @@ const htmlContent = await marked(body)
     font-size: 1.25rem;
     font-weight: 600;
     margin: 2rem 0 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
   }
 
   .prose :global(h3) {
@@ -441,10 +456,16 @@ const htmlContent = await marked(body)
   .prose :global(ol) {
     margin: 0.75rem 0;
     padding-left: 1.5rem;
+    text-align: left;
   }
 
   .prose :global(li) {
-    margin: 0.25rem 0;
+    margin: 0.5rem 0;
+    padding-left: 0.25rem;
+  }
+
+  .prose :global(li::marker) {
+    color: var(--color-text-muted);
   }
 
   .prose :global(table) {
@@ -452,6 +473,7 @@ const htmlContent = await marked(body)
     border-collapse: collapse;
     margin: 1rem 0;
     font-size: 0.875rem;
+    text-align: left;
   }
 
   .prose :global(th),
@@ -464,17 +486,23 @@ const htmlContent = await marked(body)
   .prose :global(th) {
     font-weight: 600;
     color: var(--color-text-muted);
+    background: var(--color-bg-secondary);
   }
 
   .prose :global(blockquote) {
-    border-left: 3px solid var(--color-border);
+    border-left: 3px solid var(--color-accent);
     padding-left: 1rem;
     margin: 1rem 0;
     color: var(--color-text-muted);
+    font-style: italic;
   }
 
   .prose :global(strong) {
     font-weight: 600;
+  }
+
+  .prose :global(em) {
+    font-style: italic;
   }
 
   .prose :global(a) {
@@ -486,6 +514,11 @@ const htmlContent = await marked(body)
     border: none;
     border-top: 1px solid var(--color-border);
     margin: 2rem 0;
+  }
+
+  /* Legal document specific styles */
+  .prose :global(p:has(strong:first-child)) {
+    margin-top: 1.5rem;
   }
 
   /* Version History */
