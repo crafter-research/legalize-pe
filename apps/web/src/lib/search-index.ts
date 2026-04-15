@@ -18,6 +18,7 @@ export interface CompactLey {
   e: string // estado
   f: string // fechaPublicacion
   b: string // body preview (cleaned)
+  m: string[] // materias
 }
 
 function cleanBodyForSearch(body: string): string {
@@ -96,6 +97,7 @@ export function buildCompactSearchIndex(): CompactLey[] {
       e: meta.estado || 'vigente',
       f: meta.fechaPublicacion || '',
       b: cleanedBody,
+      m: Array.isArray(meta.materias) ? meta.materias : [],
     })
   }
 

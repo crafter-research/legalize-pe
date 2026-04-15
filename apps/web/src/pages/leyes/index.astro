@@ -18,6 +18,19 @@ const rangoLabels: Record<string, string> = {
 
 const uniqueRangos = [...new Set(compactLeyes.map((l) => l.r))].filter(Boolean).sort()
 
+// Get unique materias - flatten all arrays and get unique values
+const allMaterias = compactLeyes.flatMap((l) => l.m || [])
+const materiaCount = new Map<string, number>()
+for (const m of allMaterias) {
+  materiaCount.set(m, (materiaCount.get(m) || 0) + 1)
+}
+// Get top 30 materias by frequency
+const topMaterias = [...materiaCount.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 30)
+  .map(([m]) => m)
+  .sort((a, b) => a.localeCompare(b, 'es'))
+
 // Get date range for filter
 const dates = compactLeyes.map((l) => l.f).filter(Boolean).sort()
 const minYear = dates.length > 0 ? dates[0].substring(0, 4) : '1990'
@@ -82,6 +95,15 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
               <option value="vigente">Vigente</option>
               <option value="derogada">Derogada</option>
               <option value="modificada">Modificada</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="filter-materia">Materia</label>
+            <select id="filter-materia">
+              <option value="">Todas</option>
+              {topMaterias.map((materia) => (
+                <option value={materia}>{materia}</option>
+              ))}
             </select>
           </div>
           <div class="filter-group">
@@ -163,7 +185,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
   // Load data
   const searchIndexData = document.getElementById('search-data')
   const rangoLabelsData = document.getElementById('rango-labels')
-  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string}> =
+  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> =
     searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
   const rangoLabels: Record<string, string> =
     rangoLabelsData ? JSON.parse(rangoLabelsData.textContent || '{}') : {}
@@ -175,6 +197,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     estado: string
     fechaPublicacion: string
     body: string
+    materias: string[]
   }
 
   interface FuseMatch {
@@ -196,6 +219,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
       estado: l.e,
       fechaPublicacion: l.f,
       body: l.b,
+      materias: l.m || [],
     }))
 
     const fuse = new Fuse(leyes, {
@@ -216,6 +240,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     const clearBtn = document.getElementById('clear-search') as HTMLButtonElement | null
     const filterTipo = document.getElementById('filter-tipo') as HTMLSelectElement | null
     const filterEstado = document.getElementById('filter-estado') as HTMLSelectElement | null
+    const filterMateria = document.getElementById('filter-materia') as HTMLSelectElement | null
     const filterDesde = document.getElementById('filter-desde') as HTMLSelectElement | null
     const filterHasta = document.getElementById('filter-hasta') as HTMLSelectElement | null
     const sortBy = document.getElementById('sort-by') as HTMLSelectElement | null
@@ -347,11 +372,12 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     }
 
     function filterAndSearch() {
-      if (!searchInput || !filterTipo || !filterEstado || !filterDesde || !filterHasta || !sortBy) return
+      if (!searchInput || !filterTipo || !filterEstado || !filterMateria || !filterDesde || !filterHasta || !sortBy) return
 
       const query = searchInput.value.trim()
       const tipo = filterTipo.value
       const estado = filterEstado.value
+      const materia = filterMateria.value
       const desde = filterDesde.value
       const hasta = filterHasta.value
       const sort = sortBy.value
@@ -375,6 +401,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
       results = results.filter(({ item }) => {
         if (tipo && item.rango !== tipo) return false
         if (estado && item.estado !== estado) return false
+        if (materia && !item.materias.includes(materia)) return false
 
         if (desde || hasta) {
           const year = item.fechaPublicacion ? Number.parseInt(item.fechaPublicacion.substring(0, 4)) : 0
@@ -399,7 +426,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
       renderResults(0)
 
       // Show/hide elements
-      const hasFilters = query || tipo || estado || desde || hasta
+      const hasFilters = query || tipo || estado || materia || desde || hasta
       if (noResults) noResults.style.display = currentResults.length === 0 ? 'flex' : 'none'
       if (leyesList) leyesList.style.display = currentResults.length === 0 ? 'none' : ''
       if (clearBtn) clearBtn.style.display = searchInput.value ? 'flex' : 'none'
@@ -412,10 +439,11 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     }
 
     function clearSearch() {
-      if (!searchInput || !filterTipo || !filterEstado || !filterDesde || !filterHasta || !sortBy) return
+      if (!searchInput || !filterTipo || !filterEstado || !filterMateria || !filterDesde || !filterHasta || !sortBy) return
       searchInput.value = ''
       filterTipo.value = ''
       filterEstado.value = ''
+      filterMateria.value = ''
       filterDesde.value = ''
       filterHasta.value = ''
       sortBy.value = 'relevance'
@@ -431,6 +459,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     searchInput.addEventListener('input', debouncedFilter)
     filterTipo?.addEventListener('change', filterAndSearch)
     filterEstado?.addEventListener('change', filterAndSearch)
+    filterMateria?.addEventListener('change', filterAndSearch)
     filterDesde?.addEventListener('change', filterAndSearch)
     filterHasta?.addEventListener('change', filterAndSearch)
     sortBy?.addEventListener('change', filterAndSearch)
