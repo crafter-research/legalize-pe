@@ -6,15 +6,6 @@ import { buildCompactSearchIndex } from '../../lib/search-index'
 
 const compactLeyes = buildCompactSearchIndex()
 
-// Transform for display
-const leyes = compactLeyes.map((l) => ({
-  identificador: l.id,
-  titulo: l.t,
-  rango: l.r,
-  estado: l.e,
-  fechaPublicacion: l.f,
-}))
-
 const rangoLabels: Record<string, string> = {
   constitucion: 'Constitucion',
   ley: 'Ley',
@@ -25,10 +16,16 @@ const rangoLabels: Record<string, string> = {
   reglamento: 'Reglamento',
 }
 
-const uniqueRangos = [...new Set(leyes.map((l) => l.rango))].filter(Boolean).sort()
+const uniqueRangos = [...new Set(compactLeyes.map((l) => l.r))].filter(Boolean).sort()
 
-// Serialize index for client-side Fuse.js (compact format)
+// Get date range for filter
+const dates = compactLeyes.map((l) => l.f).filter(Boolean).sort()
+const minYear = dates.length > 0 ? dates[0].substring(0, 4) : '1990'
+const maxYear = dates.length > 0 ? dates[dates.length - 1].substring(0, 4) : '2024'
+
+// Serialize data for client-side
 const searchIndex = JSON.stringify(compactLeyes)
+const rangoLabelsJson = JSON.stringify(rangoLabels)
 ---
 
 <Layout title="Normas — Legalize PE" description="Busca y explora la legislacion peruana con busqueda inteligente. Encuentra leyes, decretos legislativos, decretos supremos y mas.">
@@ -43,7 +40,7 @@ const searchIndex = JSON.stringify(compactLeyes)
       <header class="page-header">
         <h1>Buscar normas legales</h1>
         <p class="subtitle">
-          Explora {leyes.length} normas de legislacion peruana. Busqueda por titulo, numero y contenido.
+          Explora {compactLeyes.length} normas de legislacion peruana. Busqueda por titulo, numero y contenido.
         </p>
       </header>
 
@@ -70,7 +67,7 @@ const searchIndex = JSON.stringify(compactLeyes)
 
         <div class="filters">
           <div class="filter-group">
-            <label for="filter-tipo">Tipo de norma</label>
+            <label for="filter-tipo">Tipo</label>
             <select id="filter-tipo">
               <option value="">Todas</option>
               {uniqueRangos.map((rango) => (
@@ -87,10 +84,38 @@ const searchIndex = JSON.stringify(compactLeyes)
               <option value="modificada">Modificada</option>
             </select>
           </div>
+          <div class="filter-group">
+            <label for="filter-desde">Desde</label>
+            <select id="filter-desde">
+              <option value="">Cualquier año</option>
+              {Array.from({ length: Number(maxYear) - Number(minYear) + 1 }, (_, i) => Number(maxYear) - i).map((year) => (
+                <option value={year}>{year}</option>
+              ))}
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="filter-hasta">Hasta</label>
+            <select id="filter-hasta">
+              <option value="">Cualquier año</option>
+              {Array.from({ length: Number(maxYear) - Number(minYear) + 1 }, (_, i) => Number(maxYear) - i).map((year) => (
+                <option value={year}>{year}</option>
+              ))}
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="sort-by">Ordenar</label>
+            <select id="sort-by">
+              <option value="relevance">Relevancia</option>
+              <option value="date-desc">Mas recientes</option>
+              <option value="date-asc">Mas antiguas</option>
+              <option value="title-asc">Titulo A-Z</option>
+              <option value="title-desc">Titulo Z-A</option>
+            </select>
+          </div>
         </div>
 
         <div id="search-results-info" class="results-info" role="status" aria-live="polite">
-          Mostrando <span id="results-count">{leyes.length}</span> normas
+          Mostrando <span id="results-showing">0</span> de <span id="results-count">{compactLeyes.length}</span> normas
           <span id="search-mode" class="search-mode"></span>
         </div>
       </section>
@@ -104,27 +129,13 @@ const searchIndex = JSON.stringify(compactLeyes)
         <button type="button" class="example-chip" data-query="tributario impuesto">Tributario</button>
       </div>
 
-      <ul class="leyes-list" id="leyes-list">
-        {leyes.map((ley) => (
-          <li data-id={ley.identificador}>
-            <a href={`/leyes/${ley.identificador}`} class="ley-card">
-              <div class="ley-card-main">
-                <span class="ley-titulo">{ley.titulo}</span>
-                <div class="ley-meta">
-                  <span class="badge badge-rango">
-                    {rangoLabels[ley.rango] ?? ley.rango}
-                  </span>
-                  {ley.estado !== 'vigente' && (
-                    <span class="badge badge-outdated">{ley.estado}</span>
-                  )}
-                  <span class="fecha">{ley.fechaPublicacion}</span>
-                </div>
-              </div>
-              <span class="ley-arrow" aria-hidden="true">&rarr;</span>
-            </a>
-          </li>
-        ))}
-      </ul>
+      <ul class="leyes-list" id="leyes-list"></ul>
+
+      <div id="pagination" class="pagination" style="display: none;">
+        <button type="button" id="load-more" class="btn-load-more">
+          Cargar mas resultados
+        </button>
+      </div>
 
       <div id="no-results" class="no-results" style="display: none;" role="status" aria-live="polite">
         <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -139,6 +150,7 @@ const searchIndex = JSON.stringify(compactLeyes)
       </div>
 
       <script type="application/json" id="search-data" set:html={searchIndex}></script>
+      <script type="application/json" id="rango-labels" set:html={rangoLabelsJson}></script>
     </div>
   </main>
 </Layout>
@@ -146,9 +158,15 @@ const searchIndex = JSON.stringify(compactLeyes)
 <script>
   import Fuse from 'fuse.js'
 
-  // Search index is embedded in the page
+  const ITEMS_PER_PAGE = 50
+
+  // Load data
   const searchIndexData = document.getElementById('search-data')
-  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string}> = searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
+  const rangoLabelsData = document.getElementById('rango-labels')
+  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string}> =
+    searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
+  const rangoLabels: Record<string, string> =
+    rangoLabelsData ? JSON.parse(rangoLabelsData.textContent || '{}') : {}
 
   interface Ley {
     identificador: string
@@ -170,7 +188,6 @@ const searchIndex = JSON.stringify(compactLeyes)
     score?: number
   }
 
-  // Initialize search
   ;(() => {
     const leyes: Ley[] = rawIndex.map((l) => ({
       identificador: l.id,
@@ -181,7 +198,6 @@ const searchIndex = JSON.stringify(compactLeyes)
       body: l.b,
     }))
 
-    // Configure Fuse.js for fuzzy search with body content
     const fuse = new Fuse(leyes, {
       keys: [
         { name: 'titulo', weight: 0.5 },
@@ -195,137 +211,238 @@ const searchIndex = JSON.stringify(compactLeyes)
       minMatchCharLength: 2,
     })
 
+    // DOM elements
     const searchInput = document.getElementById('search-input') as HTMLInputElement | null
     const clearBtn = document.getElementById('clear-search') as HTMLButtonElement | null
     const filterTipo = document.getElementById('filter-tipo') as HTMLSelectElement | null
     const filterEstado = document.getElementById('filter-estado') as HTMLSelectElement | null
+    const filterDesde = document.getElementById('filter-desde') as HTMLSelectElement | null
+    const filterHasta = document.getElementById('filter-hasta') as HTMLSelectElement | null
+    const sortBy = document.getElementById('sort-by') as HTMLSelectElement | null
     const leyesList = document.getElementById('leyes-list') as HTMLUListElement | null
+    const resultsShowing = document.getElementById('results-showing') as HTMLSpanElement | null
     const resultsCount = document.getElementById('results-count') as HTMLSpanElement | null
     const searchMode = document.getElementById('search-mode') as HTMLSpanElement | null
     const noResults = document.getElementById('no-results') as HTMLDivElement | null
     const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement | null
     const examplesSection = document.getElementById('search-examples') as HTMLDivElement | null
     const exampleChips = document.querySelectorAll<HTMLButtonElement>('.example-chip')
+    const pagination = document.getElementById('pagination') as HTMLDivElement | null
+    const loadMoreBtn = document.getElementById('load-more') as HTMLButtonElement | null
 
     if (!searchInput || !leyesList) return
 
+    let currentResults: FuseResult[] = []
+    let displayedCount = 0
     let debounceTimer: ReturnType<typeof setTimeout> | null = null
 
     function highlightMatch(text: string, indices: readonly [number, number][]): string {
-      if (!indices || indices.length === 0) return text
+      if (!indices || indices.length === 0) return escapeHtml(text)
       let result = ''
       let lastIndex = 0
       for (const [start, end] of indices) {
-        result += text.slice(lastIndex, start)
-        result += `<mark>${text.slice(start, end + 1)}</mark>`
+        result += escapeHtml(text.slice(lastIndex, start))
+        result += `<mark>${escapeHtml(text.slice(start, end + 1))}</mark>`
         lastIndex = end + 1
       }
-      result += text.slice(lastIndex)
+      result += escapeHtml(text.slice(lastIndex))
       return result
     }
 
-    function filterLeyes() {
-      if (!searchInput || !leyesList || !filterTipo || !filterEstado) return
+    function escapeHtml(text: string): string {
+      return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+    }
+
+    function createLeyCard(ley: Ley, matches?: readonly FuseMatch[]): string {
+      const tituloMatch = matches?.find((m) => m.key === 'titulo')
+      const titulo = tituloMatch
+        ? highlightMatch(ley.titulo, tituloMatch.indices)
+        : escapeHtml(ley.titulo)
+
+      const rangoLabel = rangoLabels[ley.rango] ?? ley.rango
+      const estadoBadge = ley.estado !== 'vigente'
+        ? `<span class="badge badge-outdated">${escapeHtml(ley.estado)}</span>`
+        : ''
+
+      return `
+        <li>
+          <a href="/leyes/${escapeHtml(ley.identificador)}" class="ley-card">
+            <div class="ley-card-main">
+              <span class="ley-titulo">${titulo}</span>
+              <div class="ley-meta">
+                <span class="badge badge-rango">${escapeHtml(rangoLabel)}</span>
+                ${estadoBadge}
+                <span class="fecha">${escapeHtml(ley.fechaPublicacion)}</span>
+              </div>
+            </div>
+            <span class="ley-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+        </li>
+      `
+    }
+
+    function sortResults(results: FuseResult[], sortOption: string, hasQuery: boolean): FuseResult[] {
+      const sorted = [...results]
+
+      switch (sortOption) {
+        case 'date-desc':
+          sorted.sort((a, b) => b.item.fechaPublicacion.localeCompare(a.item.fechaPublicacion))
+          break
+        case 'date-asc':
+          sorted.sort((a, b) => a.item.fechaPublicacion.localeCompare(b.item.fechaPublicacion))
+          break
+        case 'title-asc':
+          sorted.sort((a, b) => a.item.titulo.localeCompare(b.item.titulo, 'es'))
+          break
+        case 'title-desc':
+          sorted.sort((a, b) => b.item.titulo.localeCompare(a.item.titulo, 'es'))
+          break
+        case 'relevance':
+        default:
+          // Keep Fuse.js order for queries, or sort by date desc for no query
+          if (!hasQuery) {
+            sorted.sort((a, b) => b.item.fechaPublicacion.localeCompare(a.item.fechaPublicacion))
+          }
+          break
+      }
+
+      return sorted
+    }
+
+    function renderResults(startIndex: number = 0) {
+      if (!leyesList) return
+
+      const endIndex = Math.min(startIndex + ITEMS_PER_PAGE, currentResults.length)
+
+      if (startIndex === 0) {
+        leyesList.innerHTML = ''
+      }
+
+      const fragment = document.createDocumentFragment()
+      const tempDiv = document.createElement('div')
+
+      for (let i = startIndex; i < endIndex; i++) {
+        const { item, matches } = currentResults[i]
+        tempDiv.innerHTML = createLeyCard(item, matches)
+        const li = tempDiv.firstElementChild
+        if (li) fragment.appendChild(li)
+      }
+
+      leyesList.appendChild(fragment)
+      displayedCount = endIndex
+
+      // Update UI
+      if (resultsShowing) resultsShowing.textContent = displayedCount.toString()
+      if (pagination) {
+        pagination.style.display = displayedCount < currentResults.length ? 'flex' : 'none'
+      }
+      if (loadMoreBtn) {
+        const remaining = currentResults.length - displayedCount
+        loadMoreBtn.textContent = `Cargar ${Math.min(remaining, ITEMS_PER_PAGE)} mas (${remaining} restantes)`
+      }
+    }
+
+    function filterAndSearch() {
+      if (!searchInput || !filterTipo || !filterEstado || !filterDesde || !filterHasta || !sortBy) return
 
       const query = searchInput.value.trim()
       const tipo = filterTipo.value
       const estado = filterEstado.value
-
-      const items = leyesList.querySelectorAll('li')
-      const itemsById = new Map<string, HTMLLIElement>()
-      items.forEach((item) => {
-        const li = item as HTMLLIElement
-        if (li.dataset.id) itemsById.set(li.dataset.id, li)
-      })
-
-      // Reset all items
-      items.forEach((item) => {
-        const li = item as HTMLLIElement
-        li.style.display = 'none'
-        li.style.order = ''
-        const titulo = li.querySelector('.ley-titulo')
-        if (titulo) titulo.innerHTML = titulo.textContent || ''
-      })
+      const desde = filterDesde.value
+      const hasta = filterHasta.value
+      const sort = sortBy.value
 
       let results: FuseResult[]
-      let isFuzzy = false
+      let hasQuery = false
 
       if (query.length >= 2) {
-        // Use Fuse.js fuzzy search
         const fuseResults = fuse.search(query)
-        results = fuseResults.map((r: FuseResult) => ({
+        results = fuseResults.map((r) => ({
           item: r.item,
           matches: r.matches,
           score: r.score,
         }))
-        isFuzzy = true
+        hasQuery = true
       } else {
-        // No query - show all
         results = leyes.map((item) => ({ item, matches: [], score: 0 }))
       }
 
       // Apply filters
       results = results.filter(({ item }) => {
-        const matchesTipo = !tipo || item.rango === tipo
-        const matchesEstado = !estado || item.estado === estado
-        return matchesTipo && matchesEstado
-      })
+        if (tipo && item.rango !== tipo) return false
+        if (estado && item.estado !== estado) return false
 
-      // Display results
-      let visibleCount = 0
-      results.forEach(({ item, matches }, index) => {
-        const li = itemsById.get(item.identificador)
-        if (!li) return
-
-        li.style.display = ''
-        li.style.order = index.toString()
-        visibleCount++
-
-        if (isFuzzy && matches) {
-          // Highlight matches in titulo
-          const tituloMatch = matches.find((m) => m.key === 'titulo')
-          if (tituloMatch) {
-            const titulo = li.querySelector('.ley-titulo')
-            if (titulo) {
-              titulo.innerHTML = highlightMatch(item.titulo, tituloMatch.indices)
-            }
-          }
+        if (desde || hasta) {
+          const year = item.fechaPublicacion ? Number.parseInt(item.fechaPublicacion.substring(0, 4)) : 0
+          if (desde && year < Number.parseInt(desde)) return false
+          if (hasta && year > Number.parseInt(hasta)) return false
         }
+
+        return true
       })
 
-      if (resultsCount) resultsCount.textContent = visibleCount.toString()
-      if (searchMode) searchMode.textContent = isFuzzy && query ? ' (busqueda inteligente)' : ''
-      if (noResults) noResults.style.display = visibleCount === 0 ? 'flex' : 'none'
-      leyesList.style.display = visibleCount === 0 ? 'none' : ''
+      // Sort
+      results = sortResults(results, sort, hasQuery)
+
+      currentResults = results
+      displayedCount = 0
+
+      // Update counts
+      if (resultsCount) resultsCount.textContent = currentResults.length.toString()
+      if (searchMode) searchMode.textContent = hasQuery ? ' (busqueda inteligente)' : ''
+
+      // Render first page
+      renderResults(0)
+
+      // Show/hide elements
+      const hasFilters = query || tipo || estado || desde || hasta
+      if (noResults) noResults.style.display = currentResults.length === 0 ? 'flex' : 'none'
+      if (leyesList) leyesList.style.display = currentResults.length === 0 ? 'none' : ''
       if (clearBtn) clearBtn.style.display = searchInput.value ? 'flex' : 'none'
-      if (examplesSection) examplesSection.style.display = query || tipo || estado ? 'none' : 'flex'
+      if (examplesSection) examplesSection.style.display = hasFilters ? 'none' : 'flex'
     }
 
     function debouncedFilter() {
       if (debounceTimer) clearTimeout(debounceTimer)
-      debounceTimer = setTimeout(filterLeyes, 150)
+      debounceTimer = setTimeout(filterAndSearch, 150)
     }
 
     function clearSearch() {
-      if (!searchInput || !filterTipo || !filterEstado) return
+      if (!searchInput || !filterTipo || !filterEstado || !filterDesde || !filterHasta || !sortBy) return
       searchInput.value = ''
       filterTipo.value = ''
       filterEstado.value = ''
-      filterLeyes()
+      filterDesde.value = ''
+      filterHasta.value = ''
+      sortBy.value = 'relevance'
+      filterAndSearch()
       searchInput.focus()
     }
 
+    function loadMore() {
+      renderResults(displayedCount)
+    }
+
+    // Event listeners
     searchInput.addEventListener('input', debouncedFilter)
-    filterTipo?.addEventListener('change', filterLeyes)
-    filterEstado?.addEventListener('change', filterLeyes)
+    filterTipo?.addEventListener('change', filterAndSearch)
+    filterEstado?.addEventListener('change', filterAndSearch)
+    filterDesde?.addEventListener('change', filterAndSearch)
+    filterHasta?.addEventListener('change', filterAndSearch)
+    sortBy?.addEventListener('change', filterAndSearch)
     clearBtn?.addEventListener('click', clearSearch)
     clearFiltersBtn?.addEventListener('click', clearSearch)
+    loadMoreBtn?.addEventListener('click', loadMore)
 
     exampleChips.forEach((chip) => {
       chip.addEventListener('click', () => {
         if (!searchInput) return
         searchInput.value = chip.dataset.query || ''
-        filterLeyes()
+        filterAndSearch()
       })
     })
 
@@ -340,14 +457,15 @@ const searchIndex = JSON.stringify(compactLeyes)
       }
     })
 
-    // Read query parameter from URL on page load
+    // URL params
     const urlParams = new URLSearchParams(window.location.search)
     const queryFromUrl = urlParams.get('q')
     if (queryFromUrl && searchInput) {
       searchInput.value = queryFromUrl
-      filterLeyes()
-      searchInput.focus()
     }
+
+    // Initial render
+    filterAndSearch()
   })()
 </script>
 
@@ -448,7 +566,7 @@ const searchIndex = JSON.stringify(compactLeyes)
 
   .filters {
     display: flex;
-    gap: 1rem;
+    gap: 0.75rem;
     flex-wrap: wrap;
     margin-bottom: 1rem;
   }
@@ -460,7 +578,7 @@ const searchIndex = JSON.stringify(compactLeyes)
   }
 
   .filter-group label {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     font-weight: 500;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -469,7 +587,7 @@ const searchIndex = JSON.stringify(compactLeyes)
 
   .filter-group select {
     padding: 0.5rem 2rem 0.5rem 0.75rem;
-    font-size: 0.875rem;
+    font-size: 0.8rem;
     background: var(--color-bg-secondary);
     border: 1px solid var(--color-border);
     border-radius: 8px;
@@ -479,7 +597,7 @@ const searchIndex = JSON.stringify(compactLeyes)
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 0.5rem center;
-    min-width: 150px;
+    min-width: 120px;
   }
 
   .filter-group select:focus {
@@ -492,7 +610,7 @@ const searchIndex = JSON.stringify(compactLeyes)
     color: var(--color-text-muted);
   }
 
-  #results-count {
+  #results-showing, #results-count {
     font-weight: 600;
     color: var(--color-text);
   }
@@ -544,7 +662,7 @@ const searchIndex = JSON.stringify(compactLeyes)
     gap: 0.75rem;
   }
 
-  .ley-card {
+  .leyes-list :global(.ley-card) {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -558,13 +676,13 @@ const searchIndex = JSON.stringify(compactLeyes)
     text-decoration: none;
   }
 
-  .ley-card:hover {
+  .leyes-list :global(.ley-card:hover) {
     border-color: var(--color-accent);
     background: #141414f0;
     text-decoration: none;
   }
 
-  .ley-card-main {
+  .leyes-list :global(.ley-card-main) {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -572,27 +690,27 @@ const searchIndex = JSON.stringify(compactLeyes)
     flex: 1;
   }
 
-  .ley-titulo {
+  .leyes-list :global(.ley-titulo) {
     font-weight: 500;
     font-size: 1rem;
     line-height: 1.4;
   }
 
-  .ley-titulo :global(mark) {
+  .leyes-list :global(.ley-titulo mark) {
     background: rgba(255, 200, 0, 0.3);
     color: inherit;
     padding: 0.1em 0.2em;
     border-radius: 2px;
   }
 
-  .ley-meta {
+  .leyes-list :global(.ley-meta) {
     display: flex;
     align-items: center;
     gap: 0.5rem;
     flex-wrap: wrap;
   }
 
-  .badge {
+  .leyes-list :global(.badge) {
     display: inline-block;
     padding: 0.2em 0.6em;
     border-radius: 999px;
@@ -602,34 +720,57 @@ const searchIndex = JSON.stringify(compactLeyes)
     text-transform: uppercase;
   }
 
-  .badge-rango {
+  .leyes-list :global(.badge-rango) {
     background: #27272a;
     color: var(--color-text-muted);
     border: 1px solid var(--color-border);
   }
 
-  .badge-outdated {
+  .leyes-list :global(.badge-outdated) {
     background: transparent;
     color: #888;
     border: 1px solid #444;
   }
 
-  .fecha {
+  .leyes-list :global(.fecha) {
     font-size: 0.8rem;
     color: var(--color-text-muted);
     font-variant-numeric: tabular-nums;
   }
 
-  .ley-arrow {
+  .leyes-list :global(.ley-arrow) {
     color: var(--color-text-muted);
     font-size: 1.1rem;
     flex-shrink: 0;
     transition: color 0.15s, transform 0.15s;
   }
 
-  .ley-card:hover .ley-arrow {
+  .leyes-list :global(.ley-card:hover .ley-arrow) {
     color: var(--color-accent);
     transform: translateX(3px);
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+
+  .btn-load-more {
+    padding: 0.875rem 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .btn-load-more:hover {
+    border-color: var(--color-accent);
+    background: #1a1a1a;
   }
 
   .no-results {
@@ -701,18 +842,17 @@ const searchIndex = JSON.stringify(compactLeyes)
       font-size: 0.9rem;
     }
 
-    .ley-titulo {
-      font-size: 0.95rem;
-    }
-
     .filters {
-      flex-direction: column;
-      gap: 0.75rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem;
     }
 
     .filter-group select {
       width: 100%;
       min-width: unset;
+      font-size: 0.75rem;
+      padding: 0.45rem 1.75rem 0.45rem 0.5rem;
     }
 
     .search-examples {
@@ -733,29 +873,37 @@ const searchIndex = JSON.stringify(compactLeyes)
       gap: 0.5rem;
     }
 
-    .ley-card {
+    .leyes-list :global(.ley-card) {
       padding: 1rem;
     }
 
-    .ley-card-main {
+    .leyes-list :global(.ley-card-main) {
       gap: 0.375rem;
     }
 
-    .ley-meta {
+    .leyes-list :global(.ley-titulo) {
+      font-size: 0.95rem;
+    }
+
+    .leyes-list :global(.ley-meta) {
       gap: 0.375rem;
     }
 
-    .badge {
+    .leyes-list :global(.badge) {
       font-size: 0.68rem;
       padding: 0.15em 0.5em;
     }
 
-    .fecha {
+    .leyes-list :global(.fecha) {
       font-size: 0.75rem;
     }
 
-    .ley-arrow {
+    .leyes-list :global(.ley-arrow) {
       display: none;
+    }
+
+    .btn-load-more {
+      width: 100%;
     }
   }
 </style>
