@@ -17,11 +17,11 @@ disclaimer: true
 
 # TUO de la Ley Orgánica del Poder Judicial
 
-Inicio ** Administrativo ** TUO de la Ley Orgánica del Poder Judicial - Administrativo
+Inicio ** Administrativo ** TUO de la Ley Orgánica del Poder Judicial- Administrativo
 - Legislación Básica
 - Normas legales
 # TUO de la Ley Orgánica del Poder Judicial [actualizado 2025]
-Por LP • Pasión por el Derecho -                  27 octubre, 2022                                            Estimados lectores, compartimos con ustedes el Texto Único Ordenado de la Ley Orgánica del Poder Judicial, aprobado por Decreto Supremo 017-93-JUS, publicado el 2 de junio de 1993. El texto está actualizado al 2025.
+Por LP • Pasión por el Derecho - 27 octubre, 2022Estimados lectores, compartimos con ustedes el Texto Único Ordenado de la Ley Orgánica del Poder Judicial, aprobado por Decreto Supremo 017-93-JUS, publicado el 2 de junio de 1993. El texto está actualizado al 2025.
 El texto está actualizado al mes de octubre de 2022. La última modificación se produjo por la Ley 31591** **publicada en el diario oficial *El Peruano*, el 26 de octubre de 2022.
 Para ubicar de manera rápida el artículo que desea, presione en su teclado Control+F y le aparecerá un recuadro en el extremo superior derecho para que lo escriba.
 ## **Texto Único Ordenado de la Ley Orgánica del Poder Judicial**
@@ -185,7 +185,7 @@ La Sala de Derecho Constitucional y Social conoce:
 **Artículo 36.- ****Competencia y sede de las Cortes Superiores**
 Las Cortes Superiores tienen su sede en la ciudad señalada por la ley. Su competencia comprende el Distrito Judicial correspondiente.
 **Artículo 37.- Salas Especializadas o Mixtas**
-Cada Corte Superior cuenta con las Salas Especializadas o Mixtas que señala el Consejo Ejecutivo del Poder Judicial, según las necesidades judiciales de cada Distrito. Dichas Salas pueden funcionar en Ciudad o Provincia distinta de la sede de la Corte Superior. 
+Cada Corte Superior cuenta con las Salas Especializadas o Mixtas que señala el Consejo Ejecutivo del Poder Judicial, según las necesidades judiciales de cada Distrito. Dichas Salas pueden funcionar en Ciudad o Provincia distinta de la sede de la Corte Superior.
 **Artículo 38.- Composición**
 Las Cortes Superiores están conformadas por:
 1.- El presidente de la Corte Superior; y,
@@ -342,7 +342,7 @@ Los Juzgados de Paz Letrados conocen:
 2. De las acciones de desahucio y de aviso de despedida conforme a la cuantía que establece el Consejo Ejecutivo del Poder Judicial;
 3. De los procedimientos de jurisdicción voluntaria que establezca la Ley, diligencias preparatorias y legalización de libros contables y otros;
 4. De las acciones relativas al Derecho Alimentario, con la cuantía y los requisitos señalados por el Consejo Ejecutivo del Poder Judicial;
-5. De las tercerías excluyentes de propiedad, derivadas de los procesos de su conocimiento. Si en éstas no se dispone el levantamiento del embargo, el juez de paz Letrado remite lo actuado al Juez Especializado que corresponda, para la continuación del trámite. 
+5. De las tercerías excluyentes de propiedad, derivadas de los procesos de su conocimiento. Si en éstas no se dispone el levantamiento del embargo, el juez de paz Letrado remite lo actuado al Juez Especializado que corresponda, para la continuación del trámite.
 En los otros casos levanta el embargo, dando por terminada la tercería;
 6. De los asuntos relativos a indemnizaciones derivadas de accidentes de tránsito, siempre que estén dentro de la cuantía que establece el Consejo Ejecutivo del Poder Judicial;
 7. De los procesos ejecutivos hasta la cuantía que señale el Consejo Ejecutivo del Poder Judicial;
@@ -1020,7 +1020,7 @@ Los Consejos Ejecutivos y las Cortes Superiores, en su caso, para formular el cu
 **Artículo 221.- Cuadro de antigüedad**
 El cuadro de antigüedad contiene la relación de Magistrados de cada grado, ordenados de acuerdo a la fecha de ingreso en la carrera judicial.
 El cómputo se hace a partir de la fecha de juramento al cargo.
-La precedencia de los Magistrados depende de la antigüedad en el grado al que pertenecen. Si dos o más Magistrados han tomado posesión del cargo en la misma fecha, precede el que haya desempeñado durante mayor tiempo el cargo judicial anterior como titular o provisional, en el mismo cargo. En su defecto, el que tenga más tiempo como Abogado. 
+La precedencia de los Magistrados depende de la antigüedad en el grado al que pertenecen. Si dos o más Magistrados han tomado posesión del cargo en la misma fecha, precede el que haya desempeñado durante mayor tiempo el cargo judicial anterior como titular o provisional, en el mismo cargo. En su defecto, el que tenga más tiempo como Abogado.
 **Artículo 222.- Conservación de la ****antigüedad****. Cambio de cargo**
 El Magistrado que pase de un cargo a otro, manteniendo el mismo grado, conserva en el nuevo cargo la antigüedad que le corresponde, de acuerdo con el artículo 221.
 **Artículo 223.- Antigüedad del reingresante**
@@ -1470,22 +1470,22 @@ El Decreto Ley 25869 entró en plena vigencia el 26 de Noviembre de 1992.
 **TRIGESIMA TERCERA****.- Disposiciones derogadas**
 Quedan derogadas el Decreto Ley 14605, el Decreto Legislativo 612 y todas las normas legales que se opongan al Decreto Legislativo 767 &#8211; Ley Orgánica del Poder Judicial &#8211; y al Decreto Ley 25869. LEY ORGANICA DEL PODER JUDICIAL.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

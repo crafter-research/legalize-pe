@@ -22,7 +22,7 @@ Inicio ** Civil ** Lo que debes saber sobre el «arrendamiento» (artículo 1666
 - Notarial
 - Registral
 # Lo que debes saber sobre el «arrendamiento» (artículo 1666 del Código Civil) [ACTUALIZADO 2025]
-Por Saúl José Coca Guzmán -                  8 agosto, 2025                                            ## **Sumario.- **1. El arrendamiento en el derecho nacional; 1.1. Partes del contrato; 1.2. Prestaciones a cargo de las partes; 1.3. Carácter temporal; 2. El arrendamiento en el derecho comparado; 2.1. Partes del contrato, prestaciones a cargo de cada una de ellas y el subarrendamiento; 2.2. ¿El arrendamiento transmite posesión?; 2.3. ¿El arrendamiento genera obligaciones con prestaciones de dar y hacer? 3. Nuestra definición de arrendamiento; 4. Conclusiones, 5. Bibliografía.
+Por Saúl José Coca Guzmán - 8 agosto, 2025## **Sumario.- **1. El arrendamiento en el derecho nacional; 1.1. Partes del contrato; 1.2. Prestaciones a cargo de las partes; 1.3. Carácter temporal; 2. El arrendamiento en el derecho comparado; 2.1. Partes del contrato, prestaciones a cargo de cada una de ellas y el subarrendamiento; 2.2. ¿El arrendamiento transmite posesión?; 2.3. ¿El arrendamiento genera obligaciones con prestaciones de dar y hacer? 3. Nuestra definición de arrendamiento; 4. Conclusiones, 5. Bibliografía.
 - **Matricúlate en nuestro Diplomado Derecho inmobiliario, registral y notarial. Inicio 5 AGO**
 # **1. El arrendamiento en el derecho nacional**
 De acuerdo con el artículo 1666 del Código Civil (en adelante CC):
@@ -73,28 +73,28 @@ Rosenvald, N. (2010). *Código Civil Comentado. Doutrina e Jurisprudência*. Com
 [2] **Artículo 999.-** El usufructo confiere las facultades de usar y disfrutar temporalmente de un bien ajeno. Pueden excluirse del usufructo determinados provechos y utilidades. El usufructo puede recaer sobre toda clase de bienes no consumibles, salvo lo dispuesto en los artículos 1018 a 1020.
 [3] **Artículo 1485.- **En virtud del saneamiento el transferente está obligado a responder frente al adquirente por la evicción, por los vicios ocultos del bien o por sus hechos propios, que no permitan destinar el bien transferido a la finalidad para la cual fue adquirido o que disminuyan su valor.
 [4] **Artículo 1680.-**También está obligado el arrendador:
-- 
+-
 - A realizar durante el arrendamiento todas las reparaciones necesarias, salvo pacto distinto.
 - A mantener al arrendatario en el uso del bien durante el plazo del contrato y a conservarlo en buen estado para el fin del arrendamiento.
 Inscríbete aquí Más información
 **Te recomendamos ver esta disertación en el canal de youtube de LP.**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-Convocatorias            ### Conviértete en notario: Lanzan concursos para cubrir 147 plazas notariales
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Notarial            ### Código de Ética del Notariado Peruano [Decreto Supremo 015-85-JUS]
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+Convocatorias### Conviértete en notario: Lanzan concursos para cubrir 147 plazas notariales
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Notarial### Código de Ética del Notariado Peruano [Decreto Supremo 015-85-JUS]
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** Ley 32498: universidades públicas podrán modificar su presupuesto e incrementar remuneraciones de...- Administrativo
 - Normas legales
 # Ley 32498: universidades públicas podrán modificar su presupuesto e incrementar remuneraciones de docentes
-Publicado en el diario oficial El Peruano el 13 de noviembre de 2025Por Vanessa Maldonado -                  13 noviembre, 2025                                            Se ha publicado la Ley 32498, que autoriza de manera excepcional a las universidades públicas a realizar modificaciones presupuestarias durante el año fiscal 2025 para financiar gastos operativos y de gestión, flexibilizando restricciones establecidas en la Ley de Presupuesto.
+Publicado en el diario oficial El Peruano el 13 de noviembre de 2025Por Vanessa Maldonado - 13 noviembre, 2025Se ha publicado la Ley 32498, que autoriza de manera excepcional a las universidades públicas a realizar modificaciones presupuestarias durante el año fiscal 2025 para financiar gastos operativos y de gestión, flexibilizando restricciones establecidas en la Ley de Presupuesto.
 La norma también dispone un **incremento remunerativo para docentes universitarios** desde diciembre de 2025, financiado con el presupuesto institucional de cada universidad. Además, establece medidas para la **categorización y mejora salarial de docentes de institutos pedagógicos y tecnológicos**, con excepciones normativas y topes presupuestales específicos.
 Asimismo, se aprueban transferencias de partidas a gobiernos regionales y municipalidades para la ejecución de proyectos de inversión, y se autoriza al Ministerio de la Mujer a financiar el mantenimiento de centros de atención a poblaciones vulnerables. Finalmente, la ley modifica la escala remunerativa docente de institutos de educación superior, elevando los porcentajes asignados a cada categoría.
 - Para comprar su entrada al** VIVO X EL DERECHO** clic **AQUÍ**.
@@ -91,22 +91,22 @@ ERNESTO JULIO ÁLVAREZ MIRANDA
 Presidente del Consejo de Ministros
 ### **Descargue la ley aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

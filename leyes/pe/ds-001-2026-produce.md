@@ -17,10 +17,10 @@ disclaimer: true
 
 # TUO de la Ley General de Cooperativas
 
-Inicio ** Administrativo ** Texto Único Ordenado de la Ley General de Cooperativas - Administrativo
+Inicio ** Administrativo ** Texto Único Ordenado de la Ley General de Cooperativas- Administrativo
 - Normas legales
 # Texto Único Ordenado de la Ley General de Cooperativas [Decreto Supremo 001-2026-Produce]
-Publicado en el diario oficial El Peruano el 24 de enero de 2026Por Elani Yahaira Mamani Gutiérrez -                  26 enero, 2026                                            El Poder Ejecutivo aprobó el **Texto Único Ordenado (TUO) de la Ley General de Cooperativas** mediante el **Decreto Supremo 001-2026-Produce**, con el objetivo de compilar y sistematizar en un solo cuerpo normativo todas las modificaciones vigentes sobre el régimen cooperativo.
+Publicado en el diario oficial El Peruano el 24 de enero de 2026Por Elani Yahaira Mamani Gutiérrez - 26 enero, 2026El Poder Ejecutivo aprobó el **Texto Único Ordenado (TUO) de la Ley General de Cooperativas** mediante el **Decreto Supremo 001-2026-Produce**, con el objetivo de compilar y sistematizar en un solo cuerpo normativo todas las modificaciones vigentes sobre el régimen cooperativo.
 La medida, impulsada por el **Ministerio de la Producción**, responde a los numerosos cambios legales introducidos en los últimos años, entre ellos los establecidos por las leyes **30822, 31725 y 32221**, así como por normas que redefinieron la supervisión de las cooperativas de ahorro y crédito y adecuaron la legislación a las nuevas tecnologías.
 El nuevo TUO **no introduce disposiciones nuevas**, sino que **ordena y consolida** la normativa existente para otorgarle coherencia y facilitar su aplicación. El texto consolidado consta de ocho títulos, cinco capítulos y 135 artículos.
 - **Matricúlate: Curso de preparación para el acceso a la función notarial. Hasta 6 FEB libro gratis y pago en dos cuotas**
@@ -100,22 +100,22 @@ Inscríbete aquí Más información
 ### **Descargue el decreto aquí**
 Inscríbete aquí Más información
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

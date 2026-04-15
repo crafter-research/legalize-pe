@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** ¿Cuáles son las reformas del hábeas corpus en el Nuevo Código Procesal...- Administrativo
 - Constitucional
 # ¿Cuáles son las reformas del hábeas corpus en el Nuevo Código Procesal Constitucional?
-Por Edhin Campos Barranzuela -                  1 octubre, 2021                                            **Sumario**: 1. Introducción, 2. Desarrollo del tema, 3. Hábeas corpus territorial, 4. ¿Qué es un hábeas corpus?, 5. Algunas reformas del Código Procesal Constitucional, 6. Inaplicación del Código Procesal Penal y aplicación de control difuso, 7. A modo de conclusión.
+Por Edhin Campos Barranzuela - 1 octubre, 2021**Sumario**: 1. Introducción, 2. Desarrollo del tema, 3. Hábeas corpus territorial, 4. ¿Qué es un hábeas corpus?, 5. Algunas reformas del Código Procesal Constitucional, 6. Inaplicación del Código Procesal Penal y aplicación de control difuso, 7. A modo de conclusión.
 - Lea también: **Curso especializado en procesos constitucionales**. Dos libros gratis hasta el 4 de octubre
 ### ** ****1. Introducción**
 El pasado 23 de julio se publicó en el diario oficial *El Peruano* el Nuevo Código Procesal Constitucional, Ley 31307[1], en el cual se regulan los procesos constitucionales de hábeas corpus, amparo, hábeas data, cumplimiento, inconstitucionalidad, acción popular y los conflictos de competencia.
@@ -59,7 +59,7 @@ Las características especiales de esta institución constitucional —como prec
 **5) Imprescriptibilidad.** El plazo para interponer la demanda no prescribe.
 ### **6. Inaplicación del Código Procesal Penal y aplicación de control difuso**
 Otro aspecto importante de las innovaciones del Nuevo Código Procesal Constitucional y que ha originado cuestionamiento —además de su inaplicación—, está referido al polémico artículo 5, párrafos segundo y tercero, que refieren lo siguiente:
-En los procesos constitucionales contra resolución judicial no se notifica ni se emplaza con la demanda a los jueces o magistrados del Poder Judicial. 
+En los procesos constitucionales contra resolución judicial no se notifica ni se emplaza con la demanda a los jueces o magistrados del Poder Judicial.
 El procurador público, antes de que el proceso sea resuelto en primer grado, está facultado para poner en conocimiento del titular de la entidad su opinión profesional motivada, cuando considere que se afecta el derecho constitucional invocado.
 Al respecto, el expresidente del Tribunal Constitucional e impulsor del Nuevo Código, Carlos Mesía Ramírez, ha manifestado[3] que el juez puede resolver sin que pueda escuchar la declaración de la parte demandante. Pero el juez puede resolver sin ella cuando viene un familiar y dice:
 [M]i tío, mi hermano ha desaparecido y el juez le pregunta, quién lo ha detenido: no sé. A quién se va a demandar usted, por ello es unilateral, lo que se busca es restituir la libertad, no demandar a la persona.
@@ -77,22 +77,22 @@ Se corre traslado…
 [3] LP Pasión por el Derecho. El hábeas corpus en el Nuevo Código Procesal Constitucional, de fecha 23 de julio de 2021.
 [4] Expediente 00385-2021-0-0401-JR-DC-01 del Juzgado Constitucional de la Corte Superior de Justicia de Arequipa.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

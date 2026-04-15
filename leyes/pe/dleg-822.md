@@ -17,11 +17,11 @@ disclaimer: true
 
 # Ley sobre el Derecho de Autor
 
-Inicio ** Legislación ** Ley sobre el Derecho de Autor (Decreto Legislativo 822) - Legislación
+Inicio ** Legislación ** Ley sobre el Derecho de Autor (Decreto Legislativo 822)- Legislación
 - Legislación Básica
 - Normas legales
 # Ley sobre el Derecho de Autor (Decreto Legislativo 822) [Actualizada]
-Por LP • Pasión por el Derecho -                  8 agosto, 2022                                            Compartimos la **Ley sobre Derecho de Autor** aprobada por el Decreto Legislativo 822, que fue publicado en el diario oficial *El Peruano* el 24 de abril de 1996.
+Por LP • Pasión por el Derecho - 8 agosto, 2022Compartimos la **Ley sobre Derecho de Autor** aprobada por el Decreto Legislativo 822, que fue publicado en el diario oficial *El Peruano* el 24 de abril de 1996.
 Este texto está actualizado al mes de **febrero de 2026**. Para ubicar de manera rápida el artículo o la palabra clave que busca, presione Control+F y le aparecerá un recuadro para que lo escriba.
 # **Ley sobre el Derecho de Autor**
 # **DECRETO LEGISLATIVO 822**
@@ -1001,22 +1001,22 @@ Presidente del Consejo de Ministros
 Ministro de la Presidencia
 Encargado de la Cartera de Industria, Turismo, Integración y Negociaciones Comerciales Internacionales
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva  475-2022-Junín]
-Administrativo            ### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva 475-2022-Junín]
+Administrativo### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

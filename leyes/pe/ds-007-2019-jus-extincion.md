@@ -17,11 +17,11 @@ disclaimer: true
 
 # Reglamento del Decreto Legislativo sobre Extinción de Dominio
 
-Inicio ** Normas legales ** Reglamento del Decreto Legislativo sobre extinción de dominio (DS 007-2019-JUS) - Normas legales
+Inicio ** Normas legales ** Reglamento del Decreto Legislativo sobre extinción de dominio (DS 007-2019-JUS)- Normas legales
 - Penal
 - Procesal Penal
 # Reglamento del Decreto Legislativo sobre extinción de dominio (DS 007-2019-JUS) [actualizado 2024]
-Por LP • Pasión por el Derecho -                  17 agosto, 2024                                            Compartimos con ustedes el **Reglamento del Decreto Legislativo 1373, Decreto Legislativo sobre Extinción de Dominio**,** **aprobado mediante el **Decreto Supremo 007-2019-JUS**, publicado en el diario oficial *El Peruano *el 1 de febrero de 2019.
+Por LP • Pasión por el Derecho - 17 agosto, 2024Compartimos con ustedes el **Reglamento del Decreto Legislativo 1373, Decreto Legislativo sobre Extinción de Dominio**,** **aprobado mediante el **Decreto Supremo 007-2019-JUS**, publicado en el diario oficial *El Peruano *el 1 de febrero de 2019.
 La última modificación de esta normativo fue gracias a la Única Disposición Complementaria Modificatoria del DS 001-2021-JUS, publicada el 7 de febrero de 2021.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F** y le aparecerá un recuadro para que lo escriba.
 - Revise también el** Código Penal**
@@ -561,22 +561,22 @@ Asimismo, continúan rigiéndose por el marco normativo anterior las normas que 
 El PRONABI pone en conocimiento del Fiscal Especializado la existencia de bienes patrimoniales que están bajo su administración y que aún no cuentan con un pronunciamiento jurisdiccional con autoridad de cosa juzgada.
 ## **Descargue en PDF la resolución completa **
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-Elani Yahaira Mamani Gutiérrez -                 4 abril, 2026                            La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Elani Yahaira Mamani Gutiérrez - 4 abril, 2026La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
 3 abril, 2026

@@ -14,7 +14,6 @@ diarioOficial: "El Peruano"
 # Ley Orgánica del Poder Judicial
 
 
-
 ---
 
 DECRETO LEGISLATIVO N? 767
@@ -63,7 +62,7 @@ SECCION QUINTA : La Carrera Judicial (Árts, 220 al 250)
 
 SECCION SEXTA : Organos Auxiliares (Arts. 251 al 288)
 
-SECCION SETIMA  : Dela Defensa ante el Poder Judicial (Arts. 289 al 309).
+SECCION SETIMA : Dela Defensa ante el Poder Judicial (Arts. 289 al 309).
 
 DISPOSICIONES FINALES Y TRANSITORIAS: De la Primera a la Trigésima.
 
@@ -1028,7 +1027,7 @@ de los integrantes del Consejo de Gobierno del Poder Judicial es de unaño.
 
 Artículo 82*.- Son funciones y atribuciones del Consejo de Gobierno del Poder Judicial:
 
-. —  L- Proponer a la Sala Plena la política general y el Plan de Desarrollo del Poder Judicia! y
+. — L- Proponer a la Sala Plena la política general y el Plan de Desarrollo del Poder Judicia! y
 ejecutarlos una vez aprobado;
 
 2.- Elaborar el anteproyecto de Presupuesto del Poder Judicial, para su aprobación por la Sala
@@ -1148,7 +1147,7 @@ CAPITULO V
 CONSEJO DE GOBIERNO DEL DISTRITO JUDICIAL
 PRESIDENTE DE LA CORTE SUPERIOR
 
-Articulo 83%.- El Presidente de la Corte Superior, es elegido para  . ¿eriodo de un año, por. ..
+Articulo 83%.- El Presidente de la Corte Superior, es elegido para . ¿eriodo de un año, por. ..
 la Sala Plena de la Corte Superior, el primer jueves del mes de Diciembre de la misma forma que
 el Presidente de la Corte Suprema.
 

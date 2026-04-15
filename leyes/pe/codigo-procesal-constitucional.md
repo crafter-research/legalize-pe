@@ -17,13 +17,13 @@ disclaimer: true
 
 # Código Procesal Constitucional
 
-Inicio ** Constitucional ** Nuevo Código Procesal Constitucional (Ley 31307) - Constitucional
+Inicio ** Constitucional ** Nuevo Código Procesal Constitucional (Ley 31307)- Constitucional
 - Jurisprudencia
 - Legislación Básica
 - Normas legales
 - Procesal Constitucional
 # Nuevo Código Procesal Constitucional (Ley 31307) [actualizado 2026]
-Incluye los últimos cambios de la Ley 32153, de fecha 5 de noviembre de 2024, que modificó los artículos VI y VIII del Título Preliminar, los artículos 6, 12, 18, 26, 42, 101, 110, 111 y 112; e incorporó el artículo 52-A. Por LP • Pasión por el Derecho -                  19 febrero, 2026                                            - Lee también: **Curso de especialización en procesos constitucionales**
+Incluye los últimos cambios de la Ley 32153, de fecha 5 de noviembre de 2024, que modificó los artículos VI y VIII del Título Preliminar, los artículos 6, 12, 18, 26, 42, 101, 110, 111 y 112; e incorporó el artículo 52-A. Por LP • Pasión por el Derecho - 19 febrero, 2026- Lee también: **Curso de especialización en procesos constitucionales**
 - Lee también: **Constitución Política del Perú [actualizada 2026]**
 Inscríbete aquí Más información
 El 23 de julio de 2021 se publicó en el diario oficial *El Peruano*, el **Nuevo Código Procesal Constitucional**, mediante la **Ley 31307** (compuesta por 124 artículos y cinco disposiciones complementarias finales). Esta norma derogó la Ley 28237, **Código Procesal Constitucional**.
@@ -47,7 +47,7 @@ El presente código regula los procesos constitucionales de habeas corpus, ampar
 #### **Artículo II. Fines de los procesos constitucionales**
 Son fines esenciales de los procesos constitucionales garantizar la vigencia efectiva de los derechos constitucionales reconocidos por la Constitución y los tratados de derechos humanos; así como los principios de supremacía de la Constitución y fuerza normativa.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *Si el TC se encarga de la protección del orden constitucional, debe contar con las herramientas procesales idóneas para evitar que por defecto se terminen constitucionalizando situaciones que, bajo un manto de constitucionalidad, en la práctica contienen un uso fraudulento de la Constitución o abuso del derecho [Exp. 02663-2009-PHC/TC, f. j. 6]. Link: lpd.pe/EqB62*
 *Voto singular: No es función del juez constitucional proceder a la subsunción de la conducta en un determinado tipo penal y a la calificación específica del tipo penal imputado (caso Cócteles) [Exp. 02109-2024-PHC/TC, f. j. 67]. Link: lpd.pe/N51YK*
@@ -59,14 +59,14 @@ Cuando en un proceso constitucional se presente una duda razonable respecto de s
 La gratuidad prevista en este artículo no obsta el cumplimiento de la resolución judicial firme que disponga la condena en costas y costos conforme a lo previsto por el presente código.
 ** Primer párrafo modificado por el artículo único de la Ley 31583, publicada el 5 de octubre de 2022* (link: **lpd.pe/pqzvZ**)*.*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *Cinco principios que orientan la labor hermenéutica que el juez constitucional efectúa durante la resolución de los procesos constitucionales: los principios de unidad de la Constitución, concordancia práctica, corrección funcional, función integradora y fuerza normativa de la Constitución (caso Lizana Puelles) [Exp. 5854-2005-PA/TC, f. j. 12]. Link: lpd.pe/EmQ5D*
 *Más allá de interpretaciones «formalistas o literales», el juez posee el deber de identificar los derechos o bienes constitucionales afectados en los hechos alegados, con independencia de que hayan sido o no invocados en la demanda (iura novit curia) [Exp. 00742-2025-PHC/TC, f. j. 4]. Link: lpd.pe/yxdjd*
 #### **Artículo IV. Órganos competentes**
 Los procesos constitucionales son de conocimiento del Poder Judicial y del Tribunal Constitucional, de conformidad con lo dispuesto en la Constitución, en sus respectivas leyes orgánicas y en el presente código.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *En virtud de la facultad del TC de controlar la constitucionalidad de los actos públicos y privados, se requiere que sus miembros gocen de plena autonomía e independencia (caso Disolución del Congreso) [**Exp. 0006-2019-CC/TC, f. j. 163]. Link: lpd.pe/NVL5p*
 #### **Artículo V. Amicus curiae**
@@ -87,17 +87,17 @@ Cuando exista incompatibilidad entre la Constitución y otra norma de inferior j
 Los jueces no pueden dejar de aplicar una norma cuya constitucionalidad haya sido confirmada en un proceso de inconstitucionalidad o en un proceso de acción popular.
 Los jueces interpretan y aplican las leyes o toda norma con rango de ley y los reglamentos según los preceptos y principios constitucionales conforme a la interpretación que resulte de las resoluciones del Tribunal Constitucional.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *Es necesario contar con una justicia electoral tuitiva, por lo que el JNE debe ejercer sus competencias privilegiando la participación política utilizando mecanismos como el control difuso de constitucionalidad y test de proporcionalidad cuando corresponda [Exp. 00777-2025-PA/TC, f. j. 19]. Link: lpd.pe/EeXvW*
 *El control difuso es de naturaleza incidental, pues se lleva a cabo en casos particulares y su efecto consiste en la inaplicación de una ley al escenario concreto, siempre que el TC no haya confirmado su constitucionalidad [Exp. 03097-2024-PA/TC, ff. jj. 12-14]. Link: lpd.pe/NDWeB*
-- 
+-
 ***Corte Suprema***
 *La inaplicación del art. 84 CP modificado por la Ley 31751 ―sobre el plazo de un año fijado para la suspensión de la prescripción de la acción penal― en el delito de colusión simple se justifica por la protección de la tutela jurisdiccional efectiva y el acceso a la justicia de la víctima (Estado) [Expediente 28259-2023, Ventanilla, ff. jj. 15, 17.2-17.5]. Link: lpd.pe/z81Rk*
 *Dos caracteres del control difuso: i) Incidental, porque se desarrolla al interior del proceso; y ii) concreto o relacional, porque no analiza la constitucionalidad de la norma en abstracto, sino solo su aplicación al caso particular [Expediente 4976-2019, Lima, f. j. 2]. Link: lpd.pe/Ee3GW*
 *La consulta es un mecanismo procesal mediante el cual se impone el deber al órgano jurisdiccional de elevar el expediente a la Corte Superior, quien debe efectuar el control de legalidad de la resolución [Consulta 1784-2010, Arequipa, f. j. 2]. Link: lpd.pe/zL656*
 *El control constitucional de las leyes es competencia de todos los órganos jurisdiccionales para declarar la inaplicación de una ley, con efectos particulares, cuando aquella sea incompatible con la Constitución [Consulta 1784-2010, Arequipa, f. j. 9]. Link: lpd.pe/yJap1*
-- 
+-
 ***Corte Superior***
 *La estimación de un pedido de amnistía ―basado en la Ley 32419― significaría que, en un Estado Constitucional de Derecho, se puede vulnerar el ejercicio de la persecución penal que le corresponde al MP, y lesionar el acceso al derecho a la verdad de los agraviados, lo cual es incompatible con lo resuelto por la Corte IDH en el caso Barrios Altos vs. Perú [Exp. 00385-2023-2, f. j. 2.10.1]. Link: lpd.pe/Ek1gD*
 *La Ley 32107 ―sobre la prescripción de la acción penal frente a graves violaciones de los DD. HH.― resulta insalvable por su incompatibilidad con la Constitución y el Derecho Internacional de los DD. HH., ya que no es justificable que el interés de la sociedad se incline hacia la impunidad amparándose únicamente en el plazo razonable [Exp. 00385-2023-2, f. j. 2.12.5]**. Link: lpd.pe/N58Rp*
@@ -107,7 +107,7 @@ El contenido y alcances de los derechos constitucionales protegidos por los proc
 En caso de incompatibilidad entre una norma convencional y una constitucional, o de incompatibilidad entre decisiones de tribunales internacionales y del Tribunal Constitucional, los jueces preferirán la norma o decisión que más favorezca a la persona y sus derechos humanos.
 ** Artículo *modificado por el a**rtículo 1 de* la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *Fundamento de voto: El art. VIII del NCPC ―sobre la interpretación conforme a las sentencias de los tribunales internacionales donde el Perú es parte― resulta inconstitucional, ya que contraviene la Cuarta D. F. T de la Constitución al reducir indebidamente el parámetro constitucional de interpretación del TC (caso Cócteles) [Exp. 02109-2024-PHC/TC, ff. jj. 5-6]. Link: lpd.pe/zv1wk*
 #### **Artículo IX. Aplicación supletoria e integración**
@@ -122,7 +122,7 @@ DISPOSICIONES GENERALES
 Los procesos a los que se refiere el presente título tienen por finalidad proteger los derechos constitucionales, ya sean de naturaleza individual o colectiva, reponiendo las cosas al estado anterior a la violación o amenaza de violación de un derecho constitucional, o disponiendo el cumplimiento de un mandato legal o de un acto administrativo.
 Si luego de presentada la demanda, cesa la agresión o amenaza por decisión voluntaria del agresor, o si ella deviene en irreparable, el juez, atendiendo al agravio producido, declarará fundada la demanda precisando los alcances de su decisión, disponiendo que el emplazado no vuelva a incurrir en las acciones u omisiones que motivaron la interposición de la demanda, y que si procediere de modo contrario se le aplicarán las medidas coercitivas previstas en el artículo 27 del presente código, sin perjuicio de las responsabilidades que correspondan.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *No se configura la sustracción de la materia en el hábeas corpus cuando el detenido ha obtenido la libertad por decisión judicial de primera instancia y no por la rectificación voluntaria de los emplazados [Exp. 00413-2022-PHC/TC, f. j. 2]. Link: lpd.pe/EGLZK*
 *No existe sustracción de la materia por el cumplimiento de la suspensión de jueces y fiscales y su retorno al cargo, ya que la sanción impuesta mantiene sus efectos en el tiempo ―como lo evidencia su inscripción en el legajo personal del magistrado―, por lo que es posible emitir pronunciamiento de fondo [Exp. 02078-2024-PA/TC, ff. jj. 2-3]. Link: lpd.pe/yA3kL*
@@ -150,7 +150,7 @@ El procurador público, antes de que el proceso sea resuelto en primer grado, es
 ** El Tribunal Constitucional, en el punto resolutivo 3 del Exp. 00030-2021-PI/TC, publicado el 11 de marzo de 2023 (link: lpd.pe/pYBvW), estableció lo siguiente:*
 *INTERPRETAR que el artículo 5 del Código Procesal Constitucional es constitucional al no impedir que el Poder Judicial desarrolle un sistema de comunicación interno entre la Procuraduría Pública de dicho poder del estado y los jueces demandados vía procesos de tutela contra resoluciones judiciales, a efectos de que tomen conocimiento oportuno de dichos procesos, sin afectar la celeridad procesal ni las garantías del debido proceso.*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *La interpretación constitucional del art. 5 del NCPC —ausencia de notificación y emplazamiento a los jueces en los procesos contra resoluciones judiciales— impone que el PJ desarrolle un sistema de comunicación interno entre la Procuraduría Pública de dicha institución y los jueces demandados (caso NCPC II) [Exp. 00030-2021-PI/TC, ff. jj. 16-17, 25, 27-30, 33, punto resolutivo 3]. Link: lpd.pe/yg16a*
 * Para evitar el «vía crucis procesal» de los justiciables y salvaguardar la adecuada defensa institucional, se hacen técnicamente viables, dentro del PJ, los mecanismos de coordinación entre la Procuraduría Pública y los despachos judiciales (caso NCPC II) [Exp. 00030-2021-PI/TC, ff. jj. 31-32]. Link: lpd.pe/zQA9A*
@@ -158,7 +158,7 @@ El procurador público, antes de que el proceso sea resuelto en primer grado, es
 De conformidad con los fines de los procesos constitucionales de defensa de derechos fundamentales, en los procesos constitucionales de habeas corpus, amparo, habeas data y de cumplimiento no procede el rechazo liminar de la demanda, salvo que su pretensión sea física o jurídicamente imposible o se cuestione el proceso legislativo, en este último caso, la controversia se tramita vía proceso de inconstitucionalidad de conformidad con lo dispuesto por los artículos 97 y 105 del presente Código. El rechazo liminar requiere motivación cualificada.
 ** Artículo modificado *por el a**rtículo 1 de *la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *Voto de magistrado: La prohibición de rechazo liminar vulnera el principio de separación de poderes, pues afecta la autonomía funcional de los órganos jurisdiccionales en la calificación de la demanda de procesos constitucionales (caso NCPC I) [Exps. 00025-2021-PI/TC (acums.), ff. jj. 28-31]. Link: lpd.pe/Em1W5*
 *El TC se encuentra facultado para anular y retrotraer el proceso hasta el estado inmediato anterior a la configuración de un vicio procesal en el caso concreto como ocurre cuando se lleva a cabo un indebido rechazo liminar [Exp. 00931-2025-PA/TC, ff. jj. 4, 7, 8]. Link: lpd.pe/yJ8qd*
@@ -167,14 +167,14 @@ No proceden los procesos constitucionales cuando:
 **1.** Los hechos y el petitorio de la demanda no están referidos en forma directa al contenido constitucionalmente protegido del derecho invocado.
 **2.** Existan vías procedimentales específicas, igualmente satisfactorias, para la protección del derecho constitucional amenazado o vulnerado, salvo cuando se trate del proceso de habeas corpus.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *El proceso contencioso administrativo constituye una vía igualmente satisfactoria para revisar resoluciones de cobro de deudas tributarias en las que se compute inconstitucionalmente intereses moratorios (caso Maxco SA) [Exp. 03525-2021-PA/TC, f. j. 13]. Link: lpd.pe/NWLjV*
 *Cuatro presupuestos concurrentes para determinar la existencia de una vía igualmente satisfactoria al amparo: i) que la estructura del proceso sea idónea para la tutela del derecho, ii) que la resolución a emitirse pueda brindar tutela adecuada, iii) que no exista riesgo de irreparabilidad y iv) que no exista necesidad de tutela urgente (caso Elgo Ríos) (precedente vinculante) [Exp. 02383-2013-PA/TC, f. j. 15]. Link: lpd.pe/zr6vD*
 **3.** El agraviado haya recurrido previamente a otro proceso judicial para pedir tutela respecto de su derecho constitucional.
 **4.** No se hayan agotado las vías previas, salvo en los casos previstos por este código y en el proceso de habeas corpus.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Procede la excepción a la regla de agotamiento de la vía administrativa, cuando a pesar de que no se haya reclamado el respeto del derecho al trabajo ante Servir, la inhabilitación impuesta al recurrente para prestar servicios al Estado constituya un acto administrativo vigente y ya ejecutado [Exp. 01962-2021-PA/TC, f. j. 3]. Link: lpd.pe/EG21p*
 **5.** Cuando haya litispendencia por la interposición de otro proceso constitucional.
@@ -183,7 +183,7 @@ No proceden los procesos constitucionales cuando:
 #### **Artículo 8. Procedencia frente a actos lesivos basados en normas**
 Cuando se invoque la amenaza o violación de actos que tienen como sustento la aplicación de una norma incompatible con la Constitución, la sentencia que declare fundada la demanda dispondrá, además, la inaplicabilidad de la citada norma.  
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Cuatro elementos para considerar en el control difuso de normas en el amparo: i) verificación de la existencia y aplicación de una norma que vulnera o amenaza los derechos, ii) relevancia del control de la norma para el caso en concreto, iii) verificación de la inexistencia de un pronunciamiento previo del TC o del PJ sobre su constitucionalidad, iv) inexistencia de sentidos interpretativos conformes con la Constitución [Exp. 03097-2024-PA/TC, f. j. 25]. Link: lpd.pe/EeXam*
 *Si bien no es posible realizar un control abstracto de constitucionalidad de las leyes a través del amparo, ello no impide que el juez inaplique aquellas que vulneren derechos en el caso particular mediante el control difuso [Exp. 03097-2024-PA/TC, ff. jj. 17-22]. Link: lpd.pe/y22Lk*
@@ -192,7 +192,7 @@ El amparo procede respecto de resoluciones judiciales firmes dictadas con manifi
 El habeas corpus procede cuando una resolución judicial firme vulnera en forma manifiesta la libertad individual y la tutela procesal efectiva.
 Se entiende por tutela procesal efectiva aquella situación jurídica de una persona en la que se respetan, de modo enunciativo, sus derechos de libre acceso al órgano jurisdiccional, a probar, de defensa, al contradictorio e igualdad sustancial en el proceso, a no ser desviado de la jurisdicción predeterminada ni sometido a procedimientos distintos de los previstos por la ley, a la obtención de una resolución fundada en derecho, a acceder a los medios impugnatorios regulados, a la imposibilidad de revivir procesos fenecidos, a la actuación adecuada y temporalmente oportuna de las resoluciones judiciales y a la observancia del principio de legalidad procesal penal.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Tres presupuestos para el control de constitucionalidad de resoluciones judiciales: i) la violación de un derecho fundamental debe haberse denunciado a tiempo; ii) la decisión de la judicatura constitucional no debe reemplazar a la judicatura ordinaria; y iii) la resolución judicial que viola el derecho fundamental debe cumplir con el principio de definitividad [**Exp. 01904-2021-PA/TC, f. j. 15]. Link: lpd.pe/zjbga*
 *En ningún momento la emisión de la sentencia que declara fundada la demanda de hábeas corpus y amparo supone de por sí que el juez tenga que pagar una reparación civil [Exp. 00030-2021-PI/TC, f. j. 28]. Link: lpd.pe/EGLbp*
@@ -207,7 +207,7 @@ Los procesos constitucionales no se suspenden durante la vigencia de los regíme
 **3)** si tratándose de derechos suspendidos, el acto restrictivo del derecho resulta manifiestamente innecesario o injustificado atendiendo a la conducta del agraviado o a la situación de hecho evaluada sumariamente por el juez.
 La suspensión de los derechos constitucionales tendrá vigencia y alcance únicamente en los ámbitos geográficos especificados en el decreto que declara el régimen de excepción.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Puede cuestionarse vía hábeas corpus la prórroga constante del estado de emergencia que no cumpla con los criterios de temporalidad, proporcionalidad y necesidad, y que intervenga en los derechos fundamentales de la persona [Exp. 00964-2018-PHC/TC, ff. jj. 19-20, 35-36]. Link: lpd.pe/NWLeY*
 #### **Artículo 11. Notificaciones**
@@ -223,7 +223,7 @@ Si con el escrito que contesta la demanda, el juez concluye que esta es improced
 * Primer párrafo modificado por el artículo único de la Ley 31583, publicada el 5 de octubre de 2022* (link: **lpd.pe/pqzvZ**)*.
 *** Sexto párrafo modificado por el artículo 1 de la ** Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Corte Suprema***
 *No es obligatoria la concurrencia de las partes a la audiencia única, por lo que la ausencia de ambas no deriva necesariamente en la conclusión del proceso debiendo tramitarse hasta la expedición de la sentencia [Pleno Jurisdiccional Nacional Constitucional y Procesal Constitucional, 2023, p. 25]. Link: lpd.pe/zL756*
 #### **Artículo 13. Ofrecimiento de medios probatorios. Oportunidad y valoración**
@@ -239,7 +239,7 @@ Si sobreviniera un acto sustancialmente homogéneo al declarado lesivo en un pro
 Efectuado el reclamo, el juez resuelve previo traslado a la otra parte por el plazo de tres días. La resolución es apelable sin efecto suspensivo.
 La decisión que declara la homogeneidad amplía el ámbito de protección del amparo, incorporando y ordenando la represión del acto represivo sobreviniente.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal Constitucional***
 *La represión de actos lesivos homogéneos es un mecanismo de protección judicial de derechos fundamentales frente a actos de características similares que han sido considerados como contrarios a tales derechos en sentencias previas [Exp. 01495-2012-AA/TC, ff. jj. 2-4]. Link:* lpd.pe/zKB9p
 *[Auto] Dos presupuestos que deben concurrir en el pedido de represión de actos lesivos homogéneos: (i) la existencia de sentencia ejecutoriada a favor del demandante y (ii) el cumplimiento de los ordenado en la sentencia [**Exp. 04698-2015-PA/TC**, ff. jj. 6-9]. Link:* *lpd.pe/yA1rL*
@@ -258,7 +258,7 @@ Lo dispuesto en el presente artículo no se aplica a los supuestos del artículo
 ** Artículo modificado por el a**rtículo único de la Ley 31583*, publicada el 5 de octubre de 2022* (link: lpd.pe/pqzvZ)*.
 *** Quinto párrafo incorporado por el artículo 1 de la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Corte Superior***
 *Más que declarar la vigencia del acuerdo de la Junta de Fiscales Supremos y de la resolución que designó a Delia Espinoza como fiscal de la Nación, corresponde a la judicatura ―en concordancia con su finalidad de tutela cautelar― ordenar que se recobre su eficacia en el tiempo (caso Delia Espin**oza) [**Exp. 10506-2025-26, f. j. 7]. Link: lpd.pe/Eq1qQ*
 #### **Artículo 19. Requisitos para su procedencia**
@@ -280,7 +280,7 @@ MEDIOS IMPUGNATORIOS
 La interposición de los medios impugnatorios, con excepción de la queja, no requieren fundamentación, salvo en el proceso de habeas corpus si el apelante es la parte demandada.
 El demandante que impugna una resolución sustenta los agravios en la instancia superior, conforme a los procedimientos establecidos por el presente código.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Corte Suprema***
 *El juez debe resolver las apelaciones formuladas en sede constitucional, a pesar de que el recurrente no haya sustentado los agravios correspondientes, en virtud de la especial naturaleza de los procesos constitucionales [Pleno Jurisdiccional Nacional Constitucional y Procesal Constitucional, 2023, p. 10]. Link: lpd.pe/zj13a*
 #### **Artículo 22. Recurso de apelación**
@@ -304,7 +304,7 @@ La sala remite al Tribunal Constitucional el expediente dentro del plazo de diez
 *** El Tribunal Constitucional, en el punto resolutivo 2 del Exp. 00030-2021-PI/TC, publicado el 11 de marzo de 2023* (link: **lpd.pe/pYBvW**)*, estableció lo siguiente:*
 *INTERPRETAR que el segundo párrafo del artículo 24 del Código Procesal Constitucional es constitucional, siempre que se entienda que la convocatoria de vista de la causa en audiencia pública y el ejercicio de la defensa pueden hacerse de forma oral cuando corresponda expedir un pronunciamiento sobre el fondo del asunto y en aquellos casos en los que el Pleno lo considere indispensable.*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *A través del RAC se habilita la jurisdicción negativa del Tribunal Constitucional para que conozca de la pretensión del recurrente (tutela de derechos), que ha sido denegada por el juzgador de segunda instancia [Exp. 2877-2005-PHC/TC, ff. jj. 11-12]. Link: lpd.pe/z8BgK*
 #### **Artículo 25. Recurso de queja**
@@ -318,7 +318,7 @@ La resolución que ordena la actuación inmediata de sentencia es inimpugnable y
 Lo dispuesto en el presente artículo no se aplica a los supuestos del artículo 52-A.*****
 ** Párrafo incorporado por el artículo 1 de la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Cuando las salas, en segunda instancia, declaren improcedentes o anulen la actuación inmediata de la sentencia, cabe interponer el RAC a favor de su inimpugnabilidad [Exp. 00018-2023-Q/TC, f. j. 25]. Link: lpd.pe/2XXKx*
 #### **Artículo 27. Ejecución de sentencia**
@@ -343,7 +343,7 @@ La demanda de habeas corpus se interpone ante el juez constitucional donde se pr
 ** El Tribunal Constitucional, en el punto resolutivo 4 del Exp. 00030-2021-PI/TC, publicado el 11 de marzo de 2023* (link: **lpd.pe/pYBvW**)*, estableció lo siguiente: *
 *INTERPRETAR que el artículo 29 y la Segunda Disposición Complementaria Final son constitucionales, al no impedir que el Poder Judicial habilite provisionalmente a los juzgados ordinarios para conocer los procesos constitucionales de tutela cuando la carga procesal supere la capacidad operativa de los juzgados constitucionales.*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Si bien el diseño del NCPC en relación a la competencia de los jueces constitucionales para los procesos de hábeas corpus produce dificultades operativas, el PJ puede asignar excepcionalmente las causas a los juzgados ordinarios hasta ampliar el número de los juzgados constitucionales de acuerdo al presupuesto institucional (caso NCPC II) [Exp. 00030-2021-PI/TC, ff. jj. 191-193]. Link: lpd.pe/Np125*
 *La interpretación constitucional del art. 29 y la Segunda D. C. F. del NCPC —que establece la competencia del juez constitucional en los procesos de hábeas corpus— involucra que el PJ habilite provisionalmente a los juzgados ordinarios para conocer las causas cuando se exceda la capacidad operativa de los juzgados constitucionales (caso NCPC II) [Exp. 00030-2021-PI/TC, punto resolutivo 4]. Link: lpd.pe/yg16a*
@@ -379,27 +379,27 @@ Procede el habeas corpus ante la acción u omisión que amenace o vulnere los si
 **15)** El derecho a retirar la vigilancia del domicilio y a suspender el seguimiento policial, cuando resulten arbitrarios o injustificados.
 **16)** El derecho a la excarcelación de un procesado o condenado, cuya libertad haya sido declarada por el juez.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Fundamento de voto: No se puede equiparar la finalidad política que tiene un partido político (participación electoral) con un propósito delictivo como promover, organizar, constituir o integrar una organización con fines ilícitos (caso Cócteles) [Exp. 02109-2024-PHC/TC, ff. jj. 25-26]. Link: lpd.pe/NBgg5*
 **17)** El derecho a que se observe el trámite correspondiente cuando se trate del procedimiento o detención de las personas, a que se refiere el artículo 99 de la Constitución.
 **18)** El derecho a no ser objeto de ejecución extrajudicial y/o desaparición forzada.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Corte Interamericana de Derechos Humanos***
 *El hábeas corpus no solo tiene como finalidad garantizar la libertad y la integridad personales, sino también prevenir la desaparición o indeterminación del lugar de detención y, en última instancia, asegurar la vida [Castillo Páez vs. Perú, f. j. 83]. Link: lpd.pe/y21bQ*
 *El hábeas corpus puede ser un recurso eficaz para localizar a una persona o esclarecer lesiones a la libertad personal, a pesar de que el favorecido ya no se encuentre en custodia del Estado o haya transcurrido un tiempo largo desde la desaparición [Hermanas Serrano Cruz vs. El Salvador, f. j. 79]**. Link: lpd.pe/Eergm*
 **19)** El derecho a la verdad, de conformidad con su reconocimiento jurisprudencial.
 **20)** El derecho del detenido o recluso a no ser objeto de un tratamiento carente de razonabilidad y proporcionalidad, respecto de la forma y condiciones en que cumple el mandato de detención o la pena.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *El traslado de un reo a otro establecimiento penitenciario no es, en sí mismo, un accionar arbitrario de la autoridad penitenciaria, pues puede ser revisado constitucionalmente a través del hábeas corpus [Exp. 00603-2024-PHC/TC, f. j. 11]. Link: lpd.pe/yx2Zd*
 *La subsanación reiterada de la acusación fiscal ―hasta 19 veces― genera una evidente demora en el proceso penal que atribuible no solo al MP, sino al órgano jurisdiccional por validar indirectamente dicho comportamiento (caso Cócteles) [Exp. 02109-2024-PHC/TC, ff. jj. 89-91]. Link: lpd.pe/ybGQ3*
 **21)** El derecho a la protección de la familia frente a actos de violencia doméstica.
 **22)** El derecho a la defensa de los derechos constitucionales conexos con la libertad individual.
 ***J**urisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *La debida motivación reforzada es obligatoria cuando se analice el cumplimiento de los presupuestos materiales, los elementos del test de proporcionalidad y la determinación de la duración de la prisión preventiva (caso Yoshiyama Tanaka) (doctrina jurisprudencial vinculante) [Exp. 03248-2019-PHC/TC, f. j. 129]. Link: lpd.pe/ywpPQ*
 *El hábeas corpus conexo puede utilizarse cuando se presenten situaciones no previstas en los tipos más clásicos de este proceso, como, por ejemplo, cuando se restringe el derecho a ser asistido por un abogado defensor libremente elegido o se obliga a la persona a reconocer la culpabilidad contra uno mismo o el cónyuge, aunque siempre debe existir una relación con la libertad personal con la libertad de la persona (caso José Chlimper) [Exp. 02803-2023-HC/TC, f. j. 4]. Link: lpd.pe/zZQ2V*
@@ -477,7 +477,7 @@ El amparo procede en defensa de los siguientes derechos:
 **5)** De información, opinión y expresión.
 **6)** A la libre contratación.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *La libertad de contratación no puede ejercerse al margen de las normas que rigen el ordenamiento jurídico, como la prohibición de tercerización de actividades que forman parte del núcleo del negocio, dado que esta se fundamenta en la protección constitucional de los derechos laborales [Exp. 03097-2024-PA/TC, ff. jj. 68-69]. Link: lpd.pe/z4n47*
 **7)** A la creación artística, intelectual y científica.
@@ -491,7 +491,7 @@ El amparo procede en defensa de los siguientes derechos:
 **15)** De petición ante la autoridad competente.
 **16)** De participación individual o colectiva en la vida política del país.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *En el ámbito del sector minero, el solo otorgamiento de la concesión no activa el deber estatal de realizar la consulta previa, por lo que corresponde desestimar la demanda en estos casos [Exp. 02608-2023-PA/TC, f. j. 36]. Link: lpd.pe/E6e9R*
 **17) **A la nacionalidad.
@@ -501,7 +501,7 @@ El amparo procede en defensa de los siguientes derechos:
 **21)** A la seguridad social.
 **22)** De la remuneración y pensión.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Dos reglas que constituyen precedentes respecto de la prohibición arbitraria e injustificada de la percepción simultánea de remuneración y pensión por servicios prestados al Estado (precedente vinculante) [Exp. 03432-2018-PA/TC, f. j. 13]. Link: lpd.pe/EMPL1*
 *Las declaraciones juradas constituyen «medio probatorio idóneo» para la acreditación de aportaciones siempre que sea contrastada con otro documento mediante el cual se acredite el vínculo laboral (caso Saucedo Medina) [Exp. 01659-2024-PA/TC, f. j. 41]. Link: lpd.pe/N77Rd*
@@ -510,18 +510,18 @@ El amparo procede en defensa de los siguientes derechos:
 **24)** De acceso a los medios de comunicación social en los términos del artículo 35 de la Constitución.
 **25)** De gozar de un ambiente equilibrado y adecuado al desarrollo de la vida.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *La instalación de infraestructura de telecomunicaciones sin autorización municipal ―que haya verificado los estándares de seguridad de la construcción― vulnera el derecho al ambiente equilibrado y adecuado, por lo que corresponde que la empresa retire los equipos y antena de telefonía móvil [Exp. 00417-2023-PA/TC, pp. 4, 6]. Link: lpd.pe/NBg28*
 **26)** Al agua potable.
 **27)** A la salud.
 **28)** Los demás que la Constitución reconoce.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *La falta de confirmación de las versiones ofrecidas por las partes durante el procedimiento administrativo ocasiona que una sanción atribuida a un estudiante ―como la separación de la Escuela Naval del Perú por «copiar en un examen»― adolezca de vicio de motivación externa del razonamiento [Exp. 00113-2024-PA/TC, ff. jj. 30, 32-33]. Link: lpd.pe/NVArJ*
 *Las resoluciones emitidas por la JNJ en materia de destitución de magistrados del PJ o del MP pueden ser revisadas en sede judicial a través del amparo, siempre que carezcan de una debida motivación y sin previa audiencia del interesado (caso Martín Hurtado) [Exp. 00240-2025-PA/TC, f. j. 2]. Link: lpd.pe/zKeYp*
-- 
+-
 ***Corte Superior***
 *La declaración de nulidad de oficio ―relacionada a la reposición de Patricia Benavides― cuenta con un esquema de formalidades que no fueron consideradas, ya que fue suscrita únicamente por el Presidente de la JNJ y omitió lo previsto en el TUO de la LPAG y la doctrina jurisprudencial constitucional (caso Delia Espinoza) [Exp. 10506-2025-26, f. j. 7]. Link: lpd.pe/zXA7w*
 *El oficio que ordenó la reposición a la señora Patricia Benavides en el cargo como fiscal de la Nación omitió la exposición, valoración y argumentación de la decisión administrativa, por lo que su motivación carece de coherencia y congruencia (caso Delia Espinoza) [Exp. 10506-2025-26, f. j. 7]. Link: lpd.pe/N9QAK*
@@ -562,7 +562,7 @@ La sentencia que resuelve los procesos a que se refiere el presente título, con
 **4)** La fundamentación que conduce a la decisión adoptada.
 **5)** La decisión adoptada señalando, en su caso, bajo responsabilidad, el mandato concreto dispuesto.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *El inicio del procedimiento disciplinario «inmediato» por parte de la JNJ contraviene la jerarquía normativa y el procedimiento preestablecido por ley, por lo que corresponde la nulidad de la destitución del magistrado y su reposición vía amparo en el cargo correspondiente (caso Martín Hurtado) [Exp. 00240-2025-PA/TC, ff. jj. 64-65]. Link: lpd.pe/yA39L*
 #### **Artículo 52-A. Procedimiento especial***
@@ -577,7 +577,7 @@ El trámite de la demanda de amparo donde se cuestione el ejercicio de atribucio
 Este procedimiento especial tiene trámite preferente y urgente en todas las instancias dentro de los plazos máximos establecidos, bajo responsabilidad funcional.
 ** Artículo incorporado por el artículo 2 de la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D).*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Corte Suprema***
 *La evaluación del «*ne bis in idem procesal*», vía tutela de derechos, implica advertir que existan dos procesos penales ―en sede fiscal o judicial― sobre los mismos hechos, contra el mismo sujeto y por el mismo fundamento, excluyendo las investigaciones en sede parlamentaria [Expediente 00055-2025-1, f. j. 8.3]. Link: lpd.pe/z157q*
 *Vía tutela de derechos, un órgano jurisdiccional puede controlar afectaciones ocasionadas por la Fiscalía o la Policía, pero no puede controlar las actuaciones parlamentarias que son resultado de las competencias exclusivas y excluyentes del Congreso, en el marco de una acusación constitucional [Expediente 00055-2025-1, f. j. 8.3]. Link: lpd.pe/EPAa5*
@@ -628,7 +628,7 @@ También procede en defensa del derecho a la autodeterminación informativa, enu
 **15)** A solicitar el control técnico con la finalidad de determinar si el sistema informativo, computarizado o no, garantiza la confidencialidad y las condiciones mínimas de seguridad de los datos y su utilización de acuerdo con la finalidad para la cual han sido almacenados.
 **16)** A impugnar las valoraciones o conclusiones a las que llega el que analiza la información personal almacenada.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Las solicitudes de acceso a la información no deben contener requerimientos dirigidos a la creación o producción de información con la que no cuentan las entidades [Exp. 03951-2021-PHD/TC, f. j. 16]. Link: lpd.pe/Np1V5*
 *Los textos preliminares (borradores) usados en el proceso deliberativo en la administración de justicia no constituyen información pública, pues no son sustento oficial de la decisión, sino que informan al funcionario del material necesario para la toma de decisiones [Exp. 04106-2022-PHD/TC, f. j. 21]. Link: lpd.pe/zrvXD*
@@ -639,7 +639,7 @@ PROCEDIMIENTO
 Para la procedencia del habeas data el demandante previamente debe:
 **a) **Tratándose del derecho reconocido en el artículo 2, inciso 5), de la Constitución, haber presentado la solicitud de información ante la autoridad administrativa y esta, de modo tácito o expreso, negado parcial o totalmente la información, incluso si la entregare incompleta o alterada.*****
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Un requisito especial para la procedencia del hábeas data reside en el reclamo previo de la información mediante documento de fecha cierta por el demandado [Exp. 04387-2011-PHD/TC, f. j. 1]. Link: lpd.pe/EPRv5*
 **b)** Tratándose del derecho reconocido por el artículo 2, inciso 6), de la Constitución, haber reclamado por documento de fecha cierta y que el demandado no haya contestado dentro de los diez días útiles siguientes o lo haya hecho de forma incompleta o de forma denegatoria o defectuosa. Cuando el demandante opte por acudir al Tribunal de Transparencia y Acceso a la Información Pública, debe agotar esta vía previa mediante resolución expresa o darla por agotada en el supuesto de no obtener resolución dentro del plazo legal.
@@ -664,10 +664,10 @@ Es objeto del proceso de cumplimiento ordenar que el funcionario o autoridad pú
 **2)** se pronuncie expresamente cuando las normas legales le ordenan emitir una resolución administrativa o dictar un reglamento.
 No es objeto del proceso de cumplimiento el acto administrativo que contenga el reconocimiento o pago de devengados ni de obligaciones que deben determinarse en órgano jurisdiccional especializado o estación probatoria distinta a los juzgados especializados en lo constitucional.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Los procesos de cumplimiento no se dirigen a la tutela de derechos laborales dejados de percibir, sino a la ejecución de una norma legal o acto administrativo firme bajo las premisas de i) exigibilidad vigente, y ii) adeudos previamente determinados en la vía administrativos o sean sencillos de determinar [Exp. 03076-2023-PA/TC, f. j. 22]. Link: lpd.pe/zj1na*
-- 
+-
 ***Corte Suprema***
 *Basta con la existencia del adeudo contenido en una resolución administrativa (objeto de cumplimiento) para que surja el deber legal de abonar intereses [Pleno Jurisdiccional Nacional Constitucional y Procesal Constitucional, 2023, p. 33]. Link: lpd.pe/Ek1KD*
 #### **Artículo 66. Reglas aplicables para resolver la demanda**
@@ -680,10 +680,10 @@ No es objeto del proceso de cumplimiento el acto administrativo que contenga el 
 **3)** Cuando, para determinar la obligatoriedad o incuestionabilidad del mandato contenido en una norma legal o acto administrativo firme resulte necesario entrar al fondo del asunto, el juez admite a trámite la demanda, y esclarecerá la controversia. 
 **4)** Cuando el mandato, no obstante ser imperativo, sea contrario a la ley o a la Constitución, el juez debe así declararlo, y en consecuencia, desestimar la demanda.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *TC esclarece reglas de procedencia del proceso de cumplimiento, lo que compatibiliza el precedente Villanueva Valverde y el art. 66 del NCPC (caso Ceprodeldesa Perú) (precedente vinculante) [Exp. 04745-2022-PC/TC, f. j. 17]. Link: lpd.pe/zLLnB*
-- 
+-
 ***Corte Suprema***
 *Al juez le corresponde analizar la constitucionalidad y legalidad de la resolución administrativa materia del proceso de cumplimiento [Pleno Jurisdiccional Nacional Constitucional y Procesal Constitucional, 2023, p. 17]. Link: lpd.pe/E3r9B*
 #### **Artículo 67. Legitimación y representación**
@@ -695,7 +695,7 @@ Si el demandado no es la autoridad obligada, aquel deberá informarlo al juez in
 #### **Artículo 69. Requisito especial de la demanda**
 Para la procedencia del proceso de cumplimiento se requerirá que el demandante previamente haya reclamado, por documento de fecha cierta, el cumplimiento del deber legal o administrativo, y que la autoridad se haya ratificado en su incumplimiento o no haya contestado dentro de los diez días útiles siguientes a la presentación de la solicitud. Aparte de dicho requisito, no será necesario agotar la vía administrativa que pudiera existir.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 En virtud de la naturaleza del proceso constitucional de cumplimiento (sumario y breve), la exigibilidad de cualquier pretensión implica que previamente se haya requerido su ejecución en la vía administrativa [Exp. 03076-2023-PA/TC, f. j. 21]. Link: lpd.pe/Ek25V
 #### **Artículo 70. Causales de improcedencia**
@@ -728,7 +728,7 @@ DISPOSICIONES GENERALES
 Los procesos de acción popular y de inconstitucionalidad tienen por finalidad la defensa de la Constitución y, en su caso, de la ley, frente a infracciones contra su jerarquía normativa. Esta infracción puede ser, directa o indirecta, de carácter total o parcial, y tanto por la forma como por el fondo.
 Por contravenir el artículo 106 de la Constitución, se puede demandar la inconstitucionalidad, total o parcial, de un decreto legislativo, decreto de urgencia o ley que no haya sido aprobada como orgánica, si dichas disposiciones hubieren regulado materias reservadas a ley orgánica o impliquen modificación o derogación de una ley aprobada como tal.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Existe inconstitucionalidad por la forma cuando una norma que regula organizaciones de defensa en las comunidades campesinas y nativas no ha cumplido con el procedimiento de consulta previa [Exp. 00007-2022-PI/TC, f. j. 25]. Link: lpd.pe/NDn9B*
 *La inconstitucionalidad del NCPC se produjo debido al quebrantamiento del procedimiento legislativo —previsto en la Constitución y el Reglamento del Congreso— y del principio democrático que orienta los procesos de deliberación de normas (Caso NCPC I) [Exps. 00025-2021-PI/TC (acums.), ff. jj. 3-6]. Link: lpd.pe/E6eYR*
@@ -748,7 +748,7 @@ Las sentencias fundadas recaídas en el proceso de inconstitucionalidad dejan si
 Cuando se declare la inconstitucionalidad de normas tributarias por violación del artículo 74 de la Constitución, el Tribunal debe determinar de manera expresa en la sentencia los efectos de su decisión en el tiempo. Asimismo, resuelve lo pertinente respecto de las situaciones jurídicas producidas mientras estuvo en vigencia.
 Las sentencias fundadas recaídas en el proceso de acción popular podrán determinar la nulidad, con efecto retroactivo, de las normas impugnadas. En tal supuesto, la sentencia determinará sus alcances en el tiempo. Tienen efectos generales y se publican en el diario oficial El Peruano.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Se puede aplazar o suspender los efectos de las decisiones para evitar las consecuencias destructivas de las sentencias que expulsan normas inconstitucionales de manera inmediata [Exp. 0008-2017-PI/TC, f. j. 67]. Link: lpd.pe/EMPw1*
 *A través de las sentencias interpretativas, el Tribunal Constitucional dispone que una disposición legal no es inconstitucional si es susceptible de ser interpretada conforme a la Constitución [Exp. 010-2002-AI/TC, f. j. 29]. Link: lpd.pe/NVPPJ*
@@ -757,7 +757,7 @@ Las sentencias del Tribunal Constitucional en los procesos de inconstitucionalid
 Tiene la misma autoridad el auto que declara la prescripción de la pretensión en el caso previsto en el artículo 86.
 La declaratoria de inconstitucionalidad o ilegalidad de una norma impugnada por vicios formales no obsta para que ésta sea demandada ulteriormente por razones de fondo, siempre que se interponga dentro del plazo señalado en el presente código.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Las sentencias que declaran la inconstitucionalidad de una norma legal tienen efectos de i) fuerza de ley, ii) cosa juzgada y iii) aplicación vinculante a los poderes públicos [Exp. 053-2004-PI/TC, f. j. V]. Link: lpd.pe/EPPP5*
 #### **Artículo 82. Efectos de la irretroactividad**
@@ -812,7 +812,7 @@ PROCESO DE INCONSTITUCIONALIDAD
 #### **Artículo 97. Competencia y legitimación**
 La demanda de inconstitucionalidad se interpone ante el Tribunal Constitucional y solo puede ser presentada por los órganos y sujetos indicados en el artículo 203 de la Constitución.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *No existe limitación en la Constitución en relación con la legitimidad del fiscal de la Nación para interponer demandas de inconstitucionalidad [Exp. 0001-2012-PI/TC, f. j. 3]. Link: lpd.pe/yA5qL*
 * Será admisible la demanda de inconstitucionalidad si el defensor del Pueblo ratifica dicho trámite realizado por su antecesor [Exp. 00013-2022-PI/TC, ff. jj. 4-6]. Link: lpd.pe/zvgrk*
@@ -826,7 +826,7 @@ Los gobernadores regionales con acuerdo del consejo regional o los alcaldes prov
 Para interponer la demanda, previo acuerdo de su junta directiva, los colegios profesionales deben actuar con el patrocinio de abogado y conferir representación a su decano.
 El órgano demandado se apersona en el proceso y formula obligatoriamente su alegato en defensa de la norma impugnada, por medio de apoderado nombrado especialmente para el efecto.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Auto: Resulta improcedente la demanda de inconstitucionalidad del alcalde, como accionante contra sí mismo, ya que la noción de proceso judicial presupone la existencia de un conflicto de intereses intersubjetivo o la configuración de una controversia entre partes obviamente distintas [Exp. 00014-2022-PI/TC, ff. jj. 4-6, 10]. Link: lpd.pe/yxWrw*
 #### **Artículo 99. Plazo prescriptorio**
@@ -888,7 +888,7 @@ Los poderes o entidades estatales en conflicto actuarán en el proceso a través
 El conflicto se produce cuando alguno de los poderes o entidades estatales a que se refiere el artículo anterior adopta decisiones o rehúye deliberadamente actuaciones, afectando competencias o atribuciones que la Constitución y las leyes orgánicas confieren a otro.
 Si el conflicto versare sobre una competencia o atribución expresada en una norma con rango de ley, el Tribunal declara que la vía adecuada es el proceso de inconstitucionalidad.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Las resoluciones del PJ podrían contener un vicio competencial, toda vez que ―luego de vencido el plazo― se ordena al JNE inscribir una organización política, lo que podría implicar una alteración del cronograma electoral y menoscabo de la competencia exclusiva del JNE [Exp. 00005-2025-PCC/TC, f. j. 28]. Link: lpd.pe/y21WQ*
 #### **Artículo 110. Medida cautelar***
@@ -907,7 +907,7 @@ Cuando se hubiera promovido conflicto negativo de competencias o atribuciones, l
 *1. En los procesos competenciales, cuando no se obtengan cinco votos conformes para dictar sentencia, como lo dispone el artículo 112, primer párrafo del Nuevo Código Procesal Constitucional, se tendrá por infundada la demanda en aplicación de los artículos 111, segundo párrafo, y IX del Título Preliminar del código mencionado.*
 Posteriormente, el presente artículo fue modificado por el artículo 1 de la Ley 32153, publicada el 5 de noviembre de 2024 (link: lpd.pe/Emn8D), la cual dispuso que los procesos constitucionales iniciados antes de la entrada en vigor de la citada ley se tramitan de conformidad con las reglas procesales vigentes cuando iniciaron, hasta su culminación, con excepción de las causas que se encuentran en trámite en el Tribunal Constitucional, cuyo caso es de aplicación inmediata.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *El pronunciamiento que emite el TC en el contexto de un proceso competencial solo se lleva a cabo en relación con una disposición, acto, resolución o concreta actuación que habría originado un vicio competencial [Exp. 00004-2023-CC/TC, f. j. 3]. Link: lpd.pe/Nnw7r*
 Inscríbete aquí Más información
@@ -939,7 +939,7 @@ El Tribunal, antes de pronunciar sentencia, de oficio o a instancia de parte, de
 #### **Artículo 120. Agotamiento de la jurisdicción nacional**
 La resolución del Tribunal Constitucional que se pronuncie sobre el fondo agota la jurisdicción nacional. No procede proceso constitucional alguno contra las resoluciones y sentencias del Tribunal Constitucional.
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Las decisiones del Tribunal Constitucional agotan la jurisdicción nacional, por lo que quien se siga considerando afectado en sus derechos después de la emisión de la sentencia podrá recurrir a instancias supranacionales [Exp. 02635-2023-PHC/TC, f. j. 5]. Link: lpd.pe/yg5Za*
 #### **Artículo 121. Carácter inimpugnable de las sentencias del Tribunal Constitucional**
@@ -966,7 +966,7 @@ En los procesos de habeas corpus la competencia recae en los jueces de investiga
 ** El Tribunal Constitucional, en el punto resolutivo 4 del Exp. 00030-2021-PI/TC, publicado el 11 de marzo de 2023* (link: **lpd.pe/pYBvW**)*, estableció lo siguiente:*
 *INTERPRETAR que el artículo 29 y la Segunda Disposición Complementaria Final son constitucionales, al no impedir que el Poder Judicial habilite provisionalmente a los juzgados ordinarios para conocer los procesos constitucionales de tutela cuando la carga procesal supere la capacidad operativa de los juzgados constitucionales.*
 ***Jurisprudencia relevante y actual***
-- 
+-
 ***Tribunal ******Constitucional***
 *Si bien el diseño del NCPC en relación a la competencia de los jueces constitucionales para los procesos de hábeas corpus produce dificultades operativas, el PJ puede asignar excepcionalmente las causas a los juzgados ordinarios hasta ampliar el número de los juzgados constitucionales de acuerdo al presupuesto institucional (caso NCPC II) [Exp. 00030-2021-PI/TC, ff. jj. 191-193]. Link: lpd.pe/Np125*
 #### **TERCERA. Publicación de sentencias**
@@ -995,22 +995,22 @@ LUIS ANDRÉS ROEL ALVA
 Segundo Vicepresidente del Congreso de la República
 Inscríbete aquí Más información
 #### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

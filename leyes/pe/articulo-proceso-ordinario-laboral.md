@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Laboral ** El proceso ordinario laboral en la nueva ley procesal del trabajo- Laboral
 # El proceso ordinario laboral en la nueva ley procesal del trabajo
-Etapas del proceso ordinario laboral en la Ley 29497Por José María Pacori Cari -                  13 abril, 2023                                            **Sumario: **1. ¿Qué es el proceso ordinario laboral?, 2. Competencia, 3. Demanda &#8211; Modelo de demanda laboral, 4. Admisión de la demanda, 5. Contestación de la demanda &#8211; Modelo de contestación de la demanda, 6. Audiencia de conciliación, 6.1. La audiencia inicia con la acreditación de las partes o apoderados y sus abogados &#8211; Modelo de acreditación de las partes en el proceso laboral, 6.2. Inasistencia de las partes, 6.3. El juez invita a las partes a conciliar, 6.4. Sesiones de conciliación, 6.5. Precisión de las pretensiones materia de juicio, 6.6. Juzgamiento anticipado del proceso, 7. Audiencia de juzgamiento, 7.1. Acreditación de las partes o apoderados y sus abogados, 7.2. Etapa de confrontación de posiciones &#8211; Modelo de breve exposición oral de las pretensiones demandadas &#8211; Modelo de breve exposición oral de los hechos que contradicen la demanda, 7.3. Etapa de actuación probatoria &#8211; Modelo de proposición de cuestiones probatorias, 7.4. Alegatos &#8211; Modelo de alegatos orales, 7.5. Sentencia, 8. Conclusión.
+Etapas del proceso ordinario laboral en la Ley 29497Por José María Pacori Cari - 13 abril, 2023**Sumario: **1. ¿Qué es el proceso ordinario laboral?, 2. Competencia, 3. Demanda &#8211; Modelo de demanda laboral, 4. Admisión de la demanda, 5. Contestación de la demanda &#8211; Modelo de contestación de la demanda, 6. Audiencia de conciliación, 6.1. La audiencia inicia con la acreditación de las partes o apoderados y sus abogados &#8211; Modelo de acreditación de las partes en el proceso laboral, 6.2. Inasistencia de las partes, 6.3. El juez invita a las partes a conciliar, 6.4. Sesiones de conciliación, 6.5. Precisión de las pretensiones materia de juicio, 6.6. Juzgamiento anticipado del proceso, 7. Audiencia de juzgamiento, 7.1. Acreditación de las partes o apoderados y sus abogados, 7.2. Etapa de confrontación de posiciones &#8211; Modelo de breve exposición oral de las pretensiones demandadas &#8211; Modelo de breve exposición oral de los hechos que contradicen la demanda, 7.3. Etapa de actuación probatoria &#8211; Modelo de proposición de cuestiones probatorias, 7.4. Alegatos &#8211; Modelo de alegatos orales, 7.5. Sentencia, 8. Conclusión.
 *Inaudita causa quemquam damnari aequitatis ratio patitur*[1]. Con fecha 15 de enero de 2010 se publica en el Diario Oficial El Peruano la Ley 29497 – Nueva Ley Procesal del Trabajo[2] –; esta norma establece los siguientes procesos laborales: proceso ordinario laboral, proceso abreviado laboral, proceso impugnativo de laudos arbitrales económicos, proceso cautelar, proceso de ejecución y los procesos no contenciosos. De todos estos procesos, el proceso ordinario laboral es el proceso de cognición más recurrente en el proceso laboral, siendo el proceso donde se hace evidente la aplicación del principio de oralidad por cuanto, *in essentia*, implica dos (2) audiencias, la de conciliación y la de juzgamiento; asimismo, es tan importante que a partir de las etapas del proceso ordinario laboral, se realiza la audiencia única en el proceso abreviado laboral.
 ### **1. ¿Qué es el proceso ordinario laboral?**
 Previamente, es importante establecer la diferencia entre proceso y procedimiento, el proceso es el conjunto de actos procesales tendientes a la solución de un conflicto o incertidumbre jurídica; mientras que la vía procedimental o procedimiento son las etapas y plazos procesales que se deben seguir para la tramitación de un proceso laboral; para usar una metáfora, el tren es el proceso, mientras que las rieles del tren son el procedimiento.
@@ -274,22 +274,22 @@ El proceso ordinario laboral es la vía procedimental que contiene las etapas y 
 [53] Diccionario panhispánico del español jurídico
 [54] Cfr. Artículo 47 Ley 29497, Perú
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

@@ -17,12 +17,12 @@ disclaimer: true
 
 # Participación de los Trabajadores en las Utilidades
 
-Inicio ** Laboral ** Participación de trabajadores en las utilidades de empresas (Decreto Legislativo 892) - Laboral
+Inicio ** Laboral ** Participación de trabajadores en las utilidades de empresas (Decreto Legislativo 892)- Laboral
 - Legislación
 - Normas legales
 # Participación de trabajadores en las utilidades de empresas (Decreto Legislativo 892) [actualizado 2022]
-Por LP • Pasión por el Derecho -                  14 diciembre, 2021                                            Compartimos el **Decreto Legislativo 892**, denominado **Regulan el derecho de los trabajadores a participar en las utilidades de las empresas que desarrollan actividades generadoras de rentas de tercera categoría**, publicado en el diario oficial *El Peruano* el 11 de noviembre de 1996.
-El **Reglamento del Decreto Legislativo 892** se aprobó mediante **Decreto Supremo 009-98-TR**, publicado en *El Peruano* el 6 de agosto de 1998. 
+Por LP • Pasión por el Derecho - 14 diciembre, 2021Compartimos el **Decreto Legislativo 892**, denominado **Regulan el derecho de los trabajadores a participar en las utilidades de las empresas que desarrollan actividades generadoras de rentas de tercera categoría**, publicado en el diario oficial *El Peruano* el 11 de noviembre de 1996.
+El **Reglamento del Decreto Legislativo 892** se aprobó mediante **Decreto Supremo 009-98-TR**, publicado en *El Peruano* el 6 de agosto de 1998.
 Ambas normas están actualizadas al mes de marzo de 2022. Su última modificación se con con la Ley 31110, publicada el 31 de diciembre de 2020.
 Para ubicar de manera rápida el artículo que desea presione Control+F y le aparecerá un recuadro en el extremo superior derecho para que escriba la palabra clave.
 - Revise también el **Reglamento del derecho de los trabajadores a participar en las utilidades (Decreto Supremo 009-98-TR)**
@@ -91,22 +91,22 @@ Presidente del Consejo de Ministros y Encargado de la Cartera de Economía y Fi
 **JORGE GONZALEZ IZQUIERDO**
 Ministro de Trabajo y Promoción Social
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

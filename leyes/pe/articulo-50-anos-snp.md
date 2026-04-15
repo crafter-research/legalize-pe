@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Previsional ** 50 años del sistema nacional de pensiones: pasado, presente y futuro- Previsional
 # 50 años del sistema nacional de pensiones: pasado, presente y futuro
-Por César Abanto Revilla -                  20 abril, 2023                                            50 años no se cumplen todos los días. El objetivo de la presente nota, con ocasión de dicha conmemoración, es dar una mirada al origen del Sistema Nacional de Pensiones (SNP), creado en 1973 por el D.Ley. 19990, así como de las particularidades de su desarrollo y las vicisitudes de las reformas que ha atravesado.
+Por César Abanto Revilla - 20 abril, 202350 años no se cumplen todos los días. El objetivo de la presente nota, con ocasión de dicha conmemoración, es dar una mirada al origen del Sistema Nacional de Pensiones (SNP), creado en 1973 por el D.Ley. 19990, así como de las particularidades de su desarrollo y las vicisitudes de las reformas que ha atravesado.
 En el Perú se ha transitado -en materia de pensiones- de una protección restringida (solo para servidores públicos, en 1850, con la Ley de Goces, Cesantía y Montepío) a un seguro social (régimen contributivo para trabajadores, públicos y privados) y recién en el 2011 y 2015, con la creación de Pensión 65 y el Programa Contigo, a un modelo de seguridad social que incluye herramientas asistenciales no contributivas.
 Si bien a inicios del siglo pasado las Leyes 1378 y 4916 regularon mecanismos para la protección frente a determinados riesgos laborales (a cargo de los empleadores), fue recién el 12 de agosto de 1936, con la dación de la Ley 8433, que creó el Seguro Social Obrero, que se asumió el modelo contributivo de Bismarck.
 Esta norma, que se dictó durante el gobierno de Óscar Benavides, en base al proyecto de Edgardo Rebagliatti[1], creaba un seguro obligatorio para los obreros, aprendices, trabajadores a domicilio (domésticos) e independientes, ante riesgos de enfermedad, maternidad, vejez, invalidez y muerte, a través de la Caja Nacional del Seguro Social.
@@ -60,22 +60,22 @@ Si bien se pretendió realizar algunos ajustes estructurales, a través del D.Le
 [13] Para el periodo 1981-1988, el Perú registró la rentabilidad real más baja del mundo (-37.4%), en cuanto a las inversiones de su plan público de pensiones, como consta en: BANCO MUNDIAL (1994) Envejecimiento sin crisis. Washington, p. 110 (Gráfico 3.7).
 [14] Dentro de los cuales el Estado figuraba como uno de los principales deudores. El 15 de enero de 1999 se publicó el D.U. 067-98, que en su sexto considerando precisó que para el periodo de Enero 1988 a Diciembre 1996 la deuda estatal al SNP era más de 551 millones de Soles.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### La necesidad de elegir un régimen de pensión
-Constitucional            ### Derecho a la pensión: alcances, contenido, límites, jurisprudencia
-Legisprudencia            ### Proponen autorizar retiro extraordinario de hasta S/21 400 de la ONP
-Legisprudencia            ### Congresista plantea que las AFP cobren comisión solo sobre el aporte y no sobre la remuneración
-Previsional            ### Nuevo retiro de las AFP (y ONP): inconstitucionalidad e impacto negativo previsional
-Constitucional            ### TC declara inconstitucional e ilegal suspensión de pensiones de la ONP [Exp. 02903-2023-PA/TC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Abogados### La necesidad de elegir un régimen de pensión
+Constitucional### Derecho a la pensión: alcances, contenido, límites, jurisprudencia
+Legisprudencia### Proponen autorizar retiro extraordinario de hasta S/21 400 de la ONP
+Legisprudencia### Congresista plantea que las AFP cobren comisión solo sobre el aporte y no sobre la remuneración
+Previsional### Nuevo retiro de las AFP (y ONP): inconstitucionalidad e impacto negativo previsional
+Constitucional### TC declara inconstitucional e ilegal suspensión de pensiones de la ONP [Exp. 02903-2023-PA/TC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

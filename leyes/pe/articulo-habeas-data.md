@@ -23,13 +23,13 @@ Inicio ** Artículos ** Abogados ** Hábeas data: características, derechos pro
 - Estudiantes
 - Procesal Constitucional
 # Hábeas data: características, derechos protegidos, tipos y procedimiento
-Por LP • Pasión por el Derecho -                  7 febrero, 2026                                            - Lea también: **Constitución Política del Perú [actualizada 2025]**
+Por LP • Pasión por el Derecho - 7 febrero, 2026- Lea también: **Constitución Política del Perú [actualizada 2025]**
 - Lea también: **Curso de especialización en procesos constitucionales**
 El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Derecho procesal constitucional* (2018, PUCP), escrito por el exmagistrado del Tribunal Constitucional, **César Landa Arroyo**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, lo esencial que uno debe conocer sobre el proceso de hábeas data.
 ## **1. Antecedentes y regulación constitucional**
 El proceso constitucional de** hábeas data** es una verdadera novedad en nuestro sistema constitucional, dado que, siguiendo a la Constitución de Brasil de 1988, se incorporó por primera vez en la Constitución de 1993, cuyo artículo 200 inciso 3 establece:
-Son garantías constitucionales: 
-[&#8230;] 
+Son garantías constitucionales:
+[&#8230;]
 La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2°, incisos 5 y 6 de la Constitución.
 Lea también: **Amparo: características, derechos protegidos, tipos y procedimiento**
 ## **2. Concepto y características**
@@ -59,22 +59,22 @@ Tratándose de la defensa del derecho de autodeterminación informativa, en este
 Según lo establecido en el artículo 65 de CPConst., el procedimiento que se sigue en el caso del hábeas data es el mismo que el previsto para el proceso de amparo, pudiendo el juez constitucional adaptar el procedimiento según las circunstancias del caso. De igual manera, el patrocinio de abogado es facultativo en este proceso.
 Inscríbete aquí Más información
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Constitucional            ### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-Constitucional            ### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
-Abogados            ### Conteo de la prescripción civil en el proceso penal
-Animales            ### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Constitucional### Tercerización: Suprema declara ilegal prohibición de tercerizar actividades consideradas nucleo del negocio [Acción Popular 30989-2023, Lima]
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+Constitucional### ¿Debe el Perú implementar la «muerte civil digital» para plataformas que lucran con noticias falsas que dañan el honor?
+Abogados### Conteo de la prescripción civil en el proceso penal
+Animales### Los animales tienen una doble condición jurídica: a propósito de la sentencia C-332 de 2025 (Colombia)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

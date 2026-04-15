@@ -21,7 +21,7 @@ Inicio ** Administrativo ** ¡Atención, afiliados a EsSalud! Cambian requisitos
 - Laboral
 - Normas legales
 # ¡Atención, afiliados a EsSalud! Cambian requisitos de cobertura para gestantes y casos de accidentes [DS 001-2025-TR]
-Publicado en el diario oficial El Peruano, el 14 de enero de 2025Por LP • Pasión por el Derecho -                  14 enero, 2025                                            El Gobierno publicó el Decreto Supremo 001-2025-TR, que modifica el Reglamento de la Ley de Modernización de la Seguridad Social en Salud, garantizando la cobertura inmediata para mujeres gestantes afiliadas a EsSalud. Esta medida, alineada con la Ley 31469, elimina los períodos de carencia y permite a las gestantes acceder a prestaciones desde el momento de su afiliación, en cumplimiento de normas internacionales como el Convenio 102 de la OIT.
+Publicado en el diario oficial El Peruano, el 14 de enero de 2025Por LP • Pasión por el Derecho - 14 enero, 2025El Gobierno publicó el Decreto Supremo 001-2025-TR, que modifica el Reglamento de la Ley de Modernización de la Seguridad Social en Salud, garantizando la cobertura inmediata para mujeres gestantes afiliadas a EsSalud. Esta medida, alineada con la Ley 31469, elimina los períodos de carencia y permite a las gestantes acceder a prestaciones desde el momento de su afiliación, en cumplimiento de normas internacionales como el Convenio 102 de la OIT.
 **Matricúlate: Diplomado Derecho administrativo, procedimiento sancionador y gestión pública. Hasta 16 ENE dos libros gratis y pago en dos cuotas**
 Asimismo, se otorgó un plazo de 90 días para que EsSalud y las Entidades Prestadoras de Salud adecúen sus normativas respecto a las prestaciones económicas. Con esta iniciativa, el Ejecutivo busca fortalecer el derecho a la salud de las gestantes y avanzar en la modernización del sistema de seguridad social. El decreto fue firmado por la presidenta Dina Boluarte y refrendado por los ministros de Salud y Trabajo.
 Inscríbete aquí Más información
@@ -65,22 +65,22 @@ Ministro de Trabajo y Promoción del Empleo
 ### **Descarga en PDF el documento completo**
 Inscríbete aquí Más información
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

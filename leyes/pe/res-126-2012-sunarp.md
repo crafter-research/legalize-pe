@@ -17,11 +17,11 @@ disclaimer: true
 
 # TUO del Reglamento General de los Registros Públicos
 
-Inicio ** Legislación ** TUO del Reglamento General de los Registros Públicos (Resolución 126-2012-Sunarp-SN) - Legislación
+Inicio ** Legislación ** TUO del Reglamento General de los Registros Públicos (Resolución 126-2012-Sunarp-SN)- Legislación
 - Legislación Básica
 - Registral
 # TUO del Reglamento General de los Registros Públicos (Resolución 126-2012-Sunarp-SN) [actualizado 2026]
-Este es la versión actualizada del Texto Único Ordenado Reglamento General de los Registros Públicos Por LP • Pasión por el Derecho -                  10 febrero, 2026                                            Estimados lectores, compartimos con ustedes el **Texto Único Ordenado Reglamento General de los Registros Públicos**, publicado el 19 de mayo de 2012 mediante la **Resolución 126-2012-Sunarp-SN** y modificada en diferentes ocasiones, siendo la última de ellas mediante la Resolución 142-2025-Sunarp/SN del 26 de setiembre de 2025.
+Este es la versión actualizada del Texto Único Ordenado Reglamento General de los Registros PúblicosPor LP • Pasión por el Derecho - 10 febrero, 2026Estimados lectores, compartimos con ustedes el **Texto Único Ordenado Reglamento General de los Registros Públicos**, publicado el 19 de mayo de 2012 mediante la **Resolución 126-2012-Sunarp-SN** y modificada en diferentes ocasiones, siendo la última de ellas mediante la Resolución 142-2025-Sunarp/SN del 26 de setiembre de 2025.
 Para ubicar de manera rápida el artículo que desea, presione en su teclado** Control+F** y le aparecerá un recuadro en el extremo superior derecho para que lo escriba.
 Inscríbete aquí Más información
 - Revise también la **Constitución Política del Perú [actualizada]**
@@ -901,22 +901,22 @@ DISPOSICIÓN FINAL
 #### **Única.- Disposición derogatoria**
 Derógase, a partir de la vigencia del presente Reglamento, el Reglamento General de los Registros Públicos aprobado por Acuerdo de la Corte Suprema de fecha 16 de mayo de 1968, así como todas las disposiciones de igual o inferior jerarquía que se opongan a este Reglamento.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
-Civil            ### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
-Civil            ### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
-Civil            ### Balotario notarial: el poder y la representación según el Código Civil
-Civil            ### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
-Civil            ### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-Elani Yahaira Mamani Gutiérrez -                 4 abril, 2026                            La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+Civil### [Balotario notarial] La función notarial y los instrumentos públicos notariales: estructura, límites y naturaleza administrativa
+Civil### [Balotario notarial] Gestión documental notarial: protocolo notarial, registros notariales, traslados instrumentales (testimonios, partes, boletas y copias)
+Civil### [Balotario notarial] Escritura pública, minuta y protocolización: concepto, estructura y formalidades esenciales
+Civil### Balotario notarial: el poder y la representación según el Código Civil
+Civil### [Balotario notarial] Sujetos de la representación en el derecho civil: representante, representado y tercero
+Civil### [Balotario notarial] La representación y el poder en el Código Civil (poder general y poder especial)
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Elani Yahaira Mamani Gutiérrez - 4 abril, 2026La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
 3 abril, 2026

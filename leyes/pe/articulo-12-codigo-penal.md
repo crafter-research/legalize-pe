@@ -23,15 +23,15 @@ Inicio ** Derechos humanos ** Jurisprudencia del artículo 12 del Código Penal.
 - Penal
 - Procesal Penal
 # Jurisprudencia del artículo 12 del Código Penal.- Delito doloso y delito culposo
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  13 mayo, 2023                                            Artículo 12.- Delito doloso y delito culposo
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 13 mayo, 2023Artículo 12.- Delito doloso y delito culposo
 Las penas establecidas por la ley se aplican siempre al agente de infracción dolosa.
 ## El agente de infracción culposa es punible en los casos expresamente establecidos por la ley.
 ## **Concordancias**
 **C:** art. 2.24.d; **CP:** arts. II, IV, VII, 11, 13, 28, 46, 71, 440; **CC:** arts. 210-213, 1969.
 ## **Jurisprudencia del artículo 12 del Código Penal**
-- 
+-
 ### **Corte Suprema**
-- 
+-
 - **NUEVO:** Cinco elementos que deben concurrir en el delito negligente o imprudente: acción u omisión voluntaria; falta de previsión del riesgo; infracción del deber objetivo de cuidado; producción de un resultado nocivo; y relación causal adecuada entre la conducta y el resultado, dentro del marco de la imputación objetiva [Casación 2726-2022, La Libertad]. Link: lpd.pe/k1VBG
 - **NUEVO:** En el análisis del dolo el juzgador NO debe buscar identificar los deseos, pensamientos o finalidades del sujeto activo al momento de realizar el hecho (elemento volitivo) [RN 550-2024, CSNJ Penal Especializada]. Link: lpd.pe/px8OZ
 - **NUEVO:** El lavado de activos es un «delito de intención» en el que el agente conoce la procedencia ilícita de los activos [Casación 2988-2023, Huaura]. Link: lpd.pe/266Gnb
@@ -58,41 +58,41 @@ Las penas establecidas por la ley se aplican siempre al agente de infracción do
 - Delitos culposos o imprudentes: Dos elementos necesarios para la configuración del tipo objetivo (caso Rock en Río) [RN 4288-97, Áncash]. Link: bit.ly/40RqMwR
 - Teoría de la representación: El dolo es solo «conocimiento» y  no conocimiento y voluntad [Apelación 66-2021, La Libertad]. Link: bit.ly/3nQV3hY
 - El dolo no se prueba, se atribuye o se imputa al autor con base en criterios de referencia sociales asumidos por el derecho penal [Apelación 6-2018, Ayacucho]. Link: bit.ly/3UQjb0n
-- 
+-
 ### **Corte Superior**
-- 
+-
 - Diferencias entre dolo eventual y culpa consciente [Exp. 50274-2007-0]. Link: bit.ly/41sL3sT
-- 
+-
 ### **Tribunal Constitucional**
-- 
-- 
+-
+-
 **NUEVO: **El principio según el cual «no hay pena sin dolo o culpa» (recogido en el art. 12 del Código Penal de 1991) exige que el actor haya actuado con voluntad de afectar bienes jurídicos (caso Marcelino Tineo Silva) [Exp. 00010-2002-AI/TC, f. j. 62]
-- 
+-
 ### **Corte Interamericana de Derechos Humanos**
-- 
+-
 - Tortura y violación: Autores materiales, instigadores y cómplices solo pueden incurrir por dolo directo o eventual [Mujeres víctimas de tortura sexual en Atenco vs. México]. Link: bit.ly/3NwTNv0
-- 
+-
 ### **Derecho comparado**
-- 
+-
 - **NUEVO:** Sujeto que declara sus ingresos por explotación de imagen, pero no los tributa al interpretar erróneamente que dicha obligación correspondía a su empleador, evidencia la ausencia de ánimo defraudatorio (caso Xabi Alonso) [STSJ CAT 4320/2023, f. j. 5.4.1]. Link: lpd.pe/ybGm3
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

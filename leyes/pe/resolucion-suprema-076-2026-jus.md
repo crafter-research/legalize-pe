@@ -19,7 +19,7 @@ diarioOficial: "El Peruano"
 
 Lima, 6 de abril de 2026
 
-VISTO; el Informe N° 043-2026/COE-TPC, del 23 de marzo de 2026, de la Comisión Oficial de Extradiciones y Traslado de Personas Condenadas, sobre la solicitud de extradición activa de la ciudadana de nacionalidad peruana VIRGINIA JESSICA JIMÉNEZ MURO DE DÍAZ formulada por la Sala Penal de Vacaciones -Procesos Comunes- Colegiado B de la Corte Superior de Justicia de Lima, para ser extraditada de la República Italiana y ser procesada en la República del Perú por la presunta comisión del delito de tráfico ilícito de drogas, posesión de drogas con fines de microcomercialización 
+VISTO; el Informe N° 043-2026/COE-TPC, del 23 de marzo de 2026, de la Comisión Oficial de Extradiciones y Traslado de Personas Condenadas, sobre la solicitud de extradición activa de la ciudadana de nacionalidad peruana VIRGINIA JESSICA JIMÉNEZ MURO DE DÍAZ formulada por la Sala Penal de Vacaciones -Procesos Comunes- Colegiado B de la Corte Superior de Justicia de Lima, para ser extraditada de la República Italiana y ser procesada en la República del Perú por la presunta comisión del delito de tráfico ilícito de drogas, posesión de drogas con fines de microcomercialización
 agravado;
 
 CONSIDERANDO:

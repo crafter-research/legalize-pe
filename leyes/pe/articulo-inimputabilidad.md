@@ -23,7 +23,7 @@ Inicio ** Jurisprudencia ** Casación ** Jurisprudencia del artículo 20 del Có
 - Penal
 - Recurso de Nulidad
 # Jurisprudencia del artículo 20 del Código Penal.- Inimputabilidad
-LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal -                  11 mayo, 2023                                            Artículo 20.- Inimputabilidad*
+LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].Por Observatorio de Jurisprudencia Penal - 11 mayo, 2023Artículo 20.- Inimputabilidad*
 Está exento de responsabilidad penal:
 ## 1. El que por anomalía psíquica, grave alteración de la conciencia o por sufrir alteraciones en la percepción, que afectan gravemente su concepto de la realidad, no posea la facultad de comprender el carácter delictuoso de su acto o para determinarse según esta comprensión;
 ## 2. El menor de dieciocho años, con excepción de los adolescentes de dieciséis y menos de dieciocho años, que cometen alguno de los delitos tipificados en los artículos 107, 108, 108- A, 108-B, 108-C, 108-D, 121, 121-B, 129-A, 129- B, 129-C, 129-D, 129-G, 129-H, 129-I, 129-K, 129-L, 129-M, 129-Ñ, 148-A, 152, 170, 171, 172, 173, 179, 180, 181, 189, 200, 279, 279-G, 280, 281, 296, 296-A, 296-B, y los numerales 4, 5 y 6 del artículo 297, así como los artículos 303-C, 317, 317-A, 317-B y 326 del Código Penal, o alguno de los delitos tipificados en el Decreto Ley 25475, que establecen la penalidad para los delitos de terrorismo y los procedimientos para la investigación, la instrucción y el juicio.
@@ -55,9 +55,9 @@ Está exento de responsabilidad penal:
 ## **Concordancias**
 **C:** arts. 1, 2.1, 2.2, 23, 24A, 26.2; **CP:** arts. 42, 43, 920, 1981; **NCPP:** arts. 75, 76, 170; **DUDH:** art. 6;** PIDCP:** arts. 10.2.b, 10.3, 14.4, 16; **CADH:** arts. 3, 5.5; **DADDH:** art. XVII; **CEDH:** art. 2.
 ## **Jurisprudencia del artículo 20 del Código Penal**
-- 
+-
 ### **Corte Suprema**
-- 
+-
 - **NUEVO:** El ánimo defensivo de una persona no legitima cualquier conducta externa de protección: Aunque se produjera un acto de vandalismo —un grupo de jóvenes con palos de béisbol—, ello no justifica que el imputado reaccione disparando reiterativamente en diferentes partes del cuerpo [RN 519-2025, Lima, f. j. 12]. Link: lpd.pe/NVbKp
 - **NUEVO:** Obediencia debida: El personal policial no está obligado a ejecutar órdenes sin dudas ni murmuraciones, puesto que el principio de legalidad y la dignidad humana prevalecen sobre cualquier orden ilícita [Casación 76-2023, Apurímac]. Link: lpd.pe/kXvZb
 - **NUEVO:** Obediencia debida: La orden para ser legítima debe ser lícita, lógica, oportuna, clara, coherente y precisa [Casación 76-2023, Apurímac]. Link: lpd.pe/2wbKr
@@ -98,42 +98,42 @@ Está exento de responsabilidad penal:
 - Exigencias para que la embriaguez pueda dar lugar a un trastorno mental transitorio con eficacia de eximente [RN 3482-2008, Callao]. Link: bit.ly/34D2TBK
 - Aplicación de la eximente del art. 20.9 del CP no solo requiere un sometimiento por subordinación y la disciplina, sino que la orden no sea manifiestamente ilegal [RN 1598-2007, Lima]. Link: bit.ly/410ar98
 - ****[**NUEVO**]****** **Alteración a la conciencia: El método Widmark no se puede imponer si se acredita que sujeto tuvo lucidez como para llamar a la Policía y suscribir las actas [Apelación 122-2023, Cusco]. Link: lpd.pe/kdDMJ
-- 
+-
 ### **Corte Superior**
 - **NUEVO:** Sala inaplica Ley 32330 (que dispone juzgar a adolescentes como adultos) por contravenir el Convenio sobre los Derechos del Niño [Exp. 01962-2025-1, f. j. 7]. Link: lpd.pe/y283Q
-- 
+-
 ### **Tribunal Constitucional **
-- 
+-
 - **NUEVO:** Es inconstitucional que los menores de 18 años sean procesados y condenados en el sistema penal de adultos, y que cumplan sus sentencias en penales para adultos, porque ello vulnera el derecho a la igualdad y el principio de interés superior del niño [Exp. 00008-2025-PI/TC, 00012-2025-PI/TC, 00014-2025-PI/TC y 00023-2025-PI/TC (Acumulados), ff. jj. 189, 175-176, 266-267]. Link: lpd.pe/N513K
 - Diferencias entre el derecho a la legítima defensa y el derecho a la defensa [Exp. 3802-2004-AA/TC]. Link: bit.ly/3TJpXmt
-- 
+-
 ### **Derecho comparado**
-- 
+-
 - Para eximir la responsabilidad penal por anomalía o alteración psíquica, no solo se exige un elemento biológico, sino uno psicológico-normativo (caso Jonathan Robaina) (España) [STS 3644/2022]. Link: bit.ly/3LQwj2J
-- 
+-
 ### **Legislación**
-- 
+-
 - Guía de Toma de Muestras en Personas Vivas-Dosaje Etílico [RFN 859-2008-MP-FN]. Link: bit.ly/43pWzpW
 - Guía de Toma de muestra en Cadáveres-Dosaje Etílico [RFN 859-2008-MP-FN]. Link: bit.ly/43oSpP9
 - Ley de condiciones del ejercicio de la Legítima Defensa [Ley 27936]. Link: bit.ly/3DfaUuI
 *LP, a través de su Observatorio de Jurisprudencia, se ha propuesto sistematizar la jurisprudencia más relevante y actual sobre cada artículo del Código Penal. Puedes sumarte a este proyecto enviando la jurisprudencia que tengas al correo [email&#160;protected].*
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

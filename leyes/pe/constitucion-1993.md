@@ -25,25 +25,20 @@ Artículo 1. [Defensa de la persona humana]
 
 La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado.
 
-Ver jurisprudencia aquí
 
 Artículo 2. [Derechos fundamentales de la persona]
 
 Toda persona tiene derecho:
 
-Ver jurisprudencia aquí
 
 1. A la vida, a su identidad, a su integridad moral, psíquica y física y a su libre desarrollo y bienestar. El concebido es sujeto de derecho en todo cuanto le favorece.
 
-Ver jurisprudencia aquí
 
 2. A la igualdad ante la ley. Nadie debe ser discriminado por motivo de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquiera otra índole.
 
-Ver jurisprudencia aquí
 
 3. A la libertad de conciencia y de religión, en forma individual o asociada. No hay persecución por razón de ideas o creencias. No hay delito de opinión. El ejercicio público de todas las confesiones es libre, siempre que no ofenda la moral ni altere el orden público.
 
-Ver jurisprudencia aquí
 
 4. A las libertades de información, opinión, expresión y difusión del pensamiento mediante la palabra oral o escrita o la imagen, por cualquier medio de comunicación social, sin previa autorización ni censura ni impedimento algunos, bajo las responsabilidades de ley.
 
@@ -55,7 +50,6 @@ Es delito toda acción que suspende o clausura algún órgano de expresión o le
 
 * Párrafo segundo incorporado por el artículo 1 de la Ley 31878, publicada el 23 de setiembre de 2023.
 
-Ver jurisprudencia aquí
 
 5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.
 
@@ -79,25 +73,20 @@ Artículo único de la Ley 31305, publicada el 23 de julio de 2021, la cual fue 
 Artículo único de la Ley 31507, publicada el 3 de julio de 2022.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. Esta reforma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.
 
-Ver jurisprudencia aquí
 
 7. Al honor y a la buena reputación, a la intimidad personal y familiar así como a la voz y a la imagen propias.
 
 Toda persona afectada por afirmaciones inexactas o agraviada en cualquier medio de comunicación social tiene derecho a que éste se rectifique en forma gratuita, inmediata y proporcional, sin perjuicio de las responsabilidades de ley.
 
-Ver jurisprudencia aquí
 
 8. A la libertad de creación intelectual, artística, técnica y científica, así como a la propiedad sobre dichas creaciones y a su producto. El Estado propicia el acceso a la cultura y fomenta su desarrollo y difusión.
 
-Ver jurisprudencia aquí
 
 9. A la inviolabilidad del domicilio. Nadie puede ingresar en él ni efectuar investigaciones o registros sin autorización de la persona que lo habita o sin mandato judicial, salvo flagrante delito o muy grave peligro de su perpetración. Las excepciones por motivos de sanidad o de grave riesgo son reguladas por la ley.
 
-Ver jurisprudencia aquí
 
 10. Al secreto y a la inviolabilidad de sus comunicaciones y documentos privados.
 
@@ -107,87 +96,67 @@ Los documentos privados obtenidos con violación de este precepto no tienen efec
 
 Los libros, comprobantes y documentos contables y administrativos están sujetos a inspección o fiscalización de la autoridad competente, de conformidad con la ley. Las acciones que al respecto se tomen no pueden incluir su sustracción o incautación, salvo por orden judicial.
 
-Ver jurisprudencia aquí
 
 11. A elegir su lugar de residencia, a transitar por el territorio nacional y a salir de él y entrar en él, salvo limitaciones por razones de sanidad o por mandato judicial o por aplicación de la ley de extranjería.
 
-Ver jurisprudencia aquí
 
 12. A reunirse pacíficamente sin armas. Las reuniones en locales privados o abiertos al público no requieren aviso previo. Las que se convocan en plazas y vías públicas exigen anuncio anticipado a la autoridad, la que puede prohibirlas solamente por motivos probados de seguridad o de sanidad públicas.
 
-Ver jurisprudencia aquí
 
 13. A asociarse y a constituir fundaciones y diversas formas de organización jurídica sin fines de lucro, sin autorización previa y con arreglo a ley. No pueden ser disueltas por resolución administrativa.
 
-Ver jurisprudencia aquí
 
 14. A contratar con fines lícitos, siempre que no se contravengan leyes de orden público.
 
-Ver jurisprudencia aquí
 
 15. A trabajar libremente, con sujeción a ley.
 
-Ver jurisprudencia aquí
 
 16. A la propiedad y a la herencia.
 
-Ver jurisprudencia aquí
 
 17. A participar, en forma individual o asociada, en la vida política, económica, social y cultural de la Nación. Los ciudadanos tienen, conforme a ley, los derechos de elección, de remoción o revocación de autoridades, de iniciativa legislativa y de referéndum.
 
-Ver jurisprudencia aquí
 
 18. A mantener reserva sobre sus convicciones políticas, filosóficas, religiosas o de cualquiera otra índole, así como a guardar el secreto profesional.
 
-Ver jurisprudencia aquí
 
 19. A su identidad étnica y cultural. El Estado reconoce y protege la pluralidad étnica y cultural de la Nación.
 
 Todo peruano tiene derecho a usar su propio idioma ante cualquier autoridad mediante un intérprete. Los extranjeros tienen este mismo derecho cuando son citados por cualquier autoridad.
 
-Ver jurisprudencia aquí
 
 20. A formular peticiones, individual o colectivamente, por escrito ante la autoridad competente, la que está obligada a dar al interesado una respuesta también por escrito dentro del plazo legal, bajo responsabilidad.
 
 Los miembros de las Fuerzas Armadas y de la Policía Nacional sólo pueden ejercer individualmente el derecho de petición.
 
-Ver jurisprudencia aquí
 
 21. A su nacionalidad. Nadie puede ser despojado de ella. Tampoco puede ser privado del derecho de obtener o de renovar su pasaporte dentro o fuera del territorio de la República.
 
-Ver jurisprudencia aquí
 
 22. A la paz, a la tranquilidad, al disfrute del tiempo libre y al descanso, así como a gozar de un ambiente equilibrado y adecuado al desarrollo de su vida.
 
-Ver jurisprudencia aquí
 
 23. A la legítima defensa.
 
-Ver jurisprudencia aquí
 
 24. A la libertad y a la seguridad personales. En consecuencia:
 
-Ver jurisprudencia aquí
 
 a. Nadie está obligado a hacer lo que la ley no manda, ni impedido de hacer lo que ella no prohíbe.
 
-Ver jurisprudencia aquí
 
 b. No se permite forma alguna de restricción de la libertad personal, salvo en los casos previstos por la ley. Están prohibidas la esclavitud, la servidumbre y la trata de seres humanos en cualquiera de sus formas.
 
-Ver jurisprudencia aquí
 
 c. No hay prisión por deudas. Este principio no limita el mandato judicial por incumplimiento de deberes alimentarios.
 
-Ver jurisprudencia aquí
 
 d. Nadie será procesado ni condenado por acto u omisión que al tiempo de cometerse no esté previamente calificado en la ley, de manera expresa e inequívoca, como infracción punible; ni sancionado con pena no prevista en la ley.
 
-Ver jurisprudencia aquí
 
 e. Toda persona es considerada inocente mientras no se haya declarado judicialmente su responsabilidad.
 
-Ver jurisprudencia aquí
 
 f. Nadie puede ser detenido sino por mandamiento escrito y motivado del juez o por las autoridades policiales en caso de flagrante delito. La detención no durará más del tiempo estrictamente necesario para la realización de las investigaciones y, en todo caso, el detenido debe ser puesto a disposición del juzgado correspondiente, dentro del plazo máximo de cuarenta y ocho horas o en el término de la distancia.***
 
@@ -195,21 +164,17 @@ Estos plazos no se aplican a los casos de terrorismo, espionaje, tráfico ilíci
 
 *** Literal f modificado por el artículo único de la Ley 30558, publicada el 9 de mayo de 2017.
 
-Ver jurisprudencia aquí
 
 g. Nadie puede ser incomunicado sino en caso indispensable para el esclarecimiento de un delito, y en la forma y por el tiempo previstos por la ley. La autoridad está obligada bajo responsabilidad a señalar, sin dilación y por escrito, el lugar donde se halla la persona detenida.
 
-Ver jurisprudencia aquí
 
 h. Nadie debe ser víctima de violencia moral, psíquica o física, ni sometido a tortura o a tratos inhumanos o humillantes. Cualquiera puede pedir de inmediato el examen médico de la persona agraviada o de aquélla imposibilitada de recurrir por sí misma a la autoridad. Carecen de valor las declaraciones obtenidas por la violencia. Quien la emplea incurre en responsabilidad.
 
-Ver jurisprudencia aquí
 
 Artículo 3. [Cláusula de derechos no enumerados]
 
 La enumeración de los derechos establecidos en este capítulo no excluye los demás que la Constitución garantiza, ni otros de naturaleza análoga o que se fundan en la dignidad del hombre, o en los principios de soberanía del pueblo, del Estado democrático de derecho y de la forma republicana de gobierno.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -221,13 +186,11 @@ La comunidad y el Estado protegen especialmente al niño, al adolescente, a la m
 
 La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley.
 
-Ver jurisprudencia aquí
 
 Artículo 5. [Concubinato]
 
 La unión estable de un varón y una mujer, libres de impedimento matrimonial, que forman un hogar de hecho, da lugar a una comunidad de bienes sujeta al régimen de la sociedad de gananciales en cuanto sea aplicable.
 
-Ver jurisprudencia aquí
 
 Artículo 6. [Política Nacional de Población. Paternidad y maternidad responsables. Igualdad de los hijos]
 
@@ -237,7 +200,6 @@ Es deber y derecho de los padres alimentar, educar y dar seguridad a sus hijos. 
 
 Todos los hijos tienen iguales derechos y deberes. Está prohibida toda mención sobre el estado civil de los padres y sobre la naturaleza de la filiación en los registros civiles y en cualquier otro documento de identidad.
 
-Ver jurisprudencia aquí
 
 Artículo 7. [Derecho a la salud. Protección de la persona con discapacidad]*
 
@@ -245,7 +207,6 @@ Todos tienen derecho a la protección de su salud, la del medio familiar y la de
 
 * Artículo modificado por el artículo único de la Ley 32188, publicada el 11 de diciembre de 2024.
 
-Ver jurisprudencia aquí
 
 Artículo 7-A. [Derecho al agua potable]*
 
@@ -255,25 +216,21 @@ El Estado promueve el manejo sostenible del agua, el cual se reconoce como un re
 
 * Artículo incorporado por el artículo único de la Ley 30588, publicada el 22 de junio de 2017.
 
-Ver jurisprudencia aquí
 
 Artículo 8. [Represión al tráfico ilícito de drogas]
 
 El Estado combate y sanciona el tráfico ilícito de drogas. Asimismo, regula el uso de los tóxicos sociales.
 
-Ver jurisprudencia aquí
 
 Artículo 9. [Política Nacional de Salud]
 
 El Estado determina la política nacional de salud. El Poder Ejecutivo norma y supervisa su aplicación. Es responsable de diseñarla y conducirla en forma plural y descentralizadora para facilitar a todos el acceso equitativo a los servicios de salud.
 
-Ver jurisprudencia aquí
 
 Artículo 10. [Derecho a la seguridad social]
 
 El Estado reconoce el derecho universal y progresivo de toda persona a la seguridad social, para su protección frente a las contingencias que precise la ley y para la elevación de su calidad de vida.
 
-Ver jurisprudencia aquí
 
 Artículo 11. [Libre acceso a las prestaciones de salud y pensiones]
 
@@ -283,19 +240,16 @@ La ley establece la entidad del Gobierno Nacional que administra los regímenes 
 
 * Párrafo segundo incorporado por el artículo 1 de la Ley 28389, publicada el 17 de noviembre de 2004.
 
-Ver jurisprudencia aquí
 
 Artículo 12. [Fondos de la seguridad social]
 
 Los fondos y las reservas de la seguridad social son intangibles. Los recursos se aplican en la forma y bajo la responsabilidad que señala la ley.
 
-Ver jurisprudencia aquí
 
 Artículo 13. [Educación y libertad de enseñanza]
 
 La educación tiene como finalidad el desarrollo integral de la persona humana. El Estado reconoce y garantiza la libertad de enseñanza. Los padres de familia tienen el deber de educar a sus hijos y el derecho de escoger los centros de educación y de participar en el proceso educativo.
 
-Ver jurisprudencia aquí
 
 Artículo 14. [Educación para la vida y el trabajo. Los medios de comunicación social]
 
@@ -309,7 +263,6 @@ La enseñanza se imparte, en todos sus niveles, con sujeción a los principios c
 
 Los medios de comunicación social deben colaborar con el Estado en la educación y en la formación moral y cultural.
 
-Ver jurisprudencia aquí
 
 Artículo 14-A. [Acceso a internet libre]*
 
@@ -317,7 +270,6 @@ El Estado garantiza, a través de la inversión pública o privada, el acceso a 
 
 * Artículo incorporado por el artículo 2 de la Ley 31878, publicada el 23 de setiembre de 2023.
 
-Ver jurisprudencia aquí
 
 Artículo 15. [Carrera pública magisterial y derechos del educando]
 
@@ -327,7 +279,6 @@ El educando tiene derecho a una formación que respete su identidad, así como a
 
 Toda persona, natural o jurídica, tiene el derecho de promover y conducir instituciones educativas y el de transferir la propiedad de éstas, conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 16. [Descentralización del sistema educativo]
 
@@ -341,7 +292,6 @@ La educación es un derecho humano fundamental que garantiza el desarrollo de la
 
 * Párrafo cuarto modificado por el artículo único de la Ley 31097, publicada el 29 de diciembre de 2020.
 
-Ver jurisprudencia aquí
 
 Artículo 17. [Obligatoriedad de la educación inicial, primaria y secundaria]
 
@@ -353,7 +303,6 @@ El Estado promueve la creación de centros de educación donde la población los
 
 El Estado garantiza la erradicación del analfabetismo. Asimismo fomenta la educación bilingüe e intercultural, según las características de cada zona. Preserva las diversas manifestaciones culturales y lingüísticas del país. Promueve la integración nacional.
 
-Ver jurisprudencia aquí
 
 Artículo 18. [Educación y autonomía universitaria]
 
@@ -365,7 +314,6 @@ La universidad es la comunidad de profesores, alumnos y graduados. Participan en
 
 Cada universidad es autónoma en su régimen normativo, de gobierno, académico, administrativo y económico. Las universidades se rigen por sus propios estatutos en el marco de la Constitución y de las leyes.
 
-Ver jurisprudencia aquí
 
 Artículo 19. [Régimen tributario de centros de educación]
 
@@ -377,13 +325,11 @@ La ley establece los mecanismos de fiscalización a que se sujetan las mencionad
 
 Para las instituciones educativas privadas que generen ingresos que por ley sean calificados como utilidades, puede establecerse la aplicación del impuesto a la renta.
 
-Ver jurisprudencia aquí
 
 Artículo 20. [Colegios profesionales]
 
 Los colegios profesionales son instituciones autónomas con personalidad de derecho público. La ley señala los casos en que la colegiación es obligatoria. 
 
-Ver jurisprudencia aquí
 
 Artículo 21. [Patrimonio cultural de la nación]*
 
@@ -398,13 +344,11 @@ Todos los bienes integrantes del patrimonio cultural de la Nación ya sean de ca
 Artículo único de la Ley 31304, publicada el 23 de julio de 2021, la cual fue declarada inconstitucional.
 Artículo único de la Ley 31414, publicada el 12 de febrero de 2022.
 
-Ver jurisprudencia aquí
 
 Artículo 22. [Protección y fomento del empleo]
 
 El trabajo es un deber y un derecho. Es base del bienestar social y un medio de realización de la persona.
 
-Ver jurisprudencia aquí
 
 Artículo 23. [El Estado y el trabajo]
 
@@ -418,7 +362,6 @@ Nadie está obligado a prestar trabajo sin retribución o sin su libre consentim
 
 * Párrafo primero modificado por el artículo único de la Ley 32188, publicada el 11 de diciembre de 2024.
 
-Ver jurisprudencia aquí
 
 Artículo 24. [Derechos del trabajador]
 
@@ -428,7 +371,6 @@ El pago de la remuneración y de los beneficios sociales del trabajador tiene pr
 
 Las remuneraciones mínimas se regulan por el Estado con participación de las organizaciones representativas de los trabajadores y de los empleadores.
 
-Ver jurisprudencia aquí
 
 Artículo 25. [Jornada ordinaria de trabajo]
 
@@ -436,7 +378,6 @@ La jornada ordinaria de trabajo es de ocho horas diarias o cuarenta y ocho horas
 
 Los trabajadores tienen derecho a descanso semanal y anual remunerados. Su disfrute y su compensación se regulan por ley o por convenio.
 
-Ver jurisprudencia aquí
 
 Artículo 26. [Principios que regulan la relación laboral]
 
@@ -448,13 +389,11 @@ En la relación laboral se respetan los siguientes principios:
 
 3. Interpretación favorable al trabajador en caso de duda insalvable sobre el sentido de una norma.
 
-Ver jurisprudencia aquí
 
 Artículo 27. [Protección del trabajador frente al despido arbitrario]
 
 La ley otorga al trabajador adecuada protección contra el despido arbitrario.
 
-Ver jurisprudencia aquí
 
 Artículo 28. [Derechos colectivos del trabajador. Derecho de sindicación, negociación colectiva y huelga]
 
@@ -468,13 +407,11 @@ La convención colectiva tiene fuerza vinculante en el ámbito de lo concertado.
 
 3. Regula el derecho de huelga para que se ejerza en armonía con el interés social. Señala sus excepciones y limitaciones.
 
-Ver jurisprudencia aquí
 
 Artículo 29. [Participación de los trabajadores en las utilidades]
 
 El Estado reconoce el derecho de los trabajadores a participar en las utilidades de la empresa y promueve otras formas de participación.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -484,7 +421,6 @@ Artículo 30. [Requisitos para la ciudadanía]
 
 Son ciudadanos los peruanos mayores de dieciocho años. Para el ejercicio de la ciudadanía se requiere la inscripción electoral.
 
-Ver jurisprudencia aquí
 
 Artículo 31. [Participación ciudadana en asuntos públicos]*
 
@@ -502,7 +438,6 @@ Es nulo y punible todo acto que prohíba o limite al ciudadano el ejercicio de s
 
 * Artículo modificado por el artículo único de la Ley 28480, publicada el 30 de marzo de 2005.
 
-Ver jurisprudencia aquí
 
 Artículo 32. [Consulta popular por referéndum. Excepciones]
 
@@ -518,7 +453,6 @@ Pueden ser sometidas a referéndum:
 
 No pueden someterse a referéndum la supresión o la disminución de los derechos fundamentales de la persona, ni las normas de carácter tributario y presupuestal, ni los tratados internacionales en vigor.
 
-Ver jurisprudencia aquí
 
 Artículo 33. [Suspensión del ejercicio de la ciudadanía]
 
@@ -530,7 +464,6 @@ El ejercicio de la ciudadanía se suspende:
 
 3. Por sentencia con inhabilitación de los derechos políticos.
 
-Ver jurisprudencia aquí
 
 Artículo 34. [Derecho al voto militar y policial]*
 
@@ -544,7 +477,6 @@ Están impedidas de postular a cargos de elección popular, las personas sobre q
 
 * Artículo incorporado por el artículo único de la Ley 31043, publicada el 15 de setiembre de 2020, conforme fe de erratas publicada el 20 de setiembre de 2020.
 
-Ver jurisprudencia aquí
 
 Artículo 35. [Organizaciones políticas]*
 
@@ -558,13 +490,11 @@ Solo se autoriza la difusión de propaganda electoral en medios de comunicación
 
 * Artículo modificado por el artículo único de la Ley 30905, publicada el 10 de enero de 2019.
 
-Ver jurisprudencia aquí
 
 Artículo 36. [Asilo político]
 
  El Estado reconoce el asilo político. Acepta la calificación del asilado que otorga el gobierno asilante. En caso de expulsión, no se entrega al asilado al país cuyo gobierno lo persigue.
 
-Ver jurisprudencia aquí
 
 Artículo 37. [Extradición]
 
@@ -574,13 +504,11 @@ No se concede extradición si se considera que ha sido solicitada con el fin de 
 
 Quedan excluidos de la extradición los perseguidos por delitos políticos o por hechos conexos con ellos. No se consideran tales el genocidio ni el magnicidio ni el terrorismo.
 
-Ver jurisprudencia aquí
 
 Artículo 38. [Deberes para con la patria]
 
 Todos los peruanos tienen el deber de honrar al Perú y de proteger los intereses nacionales, así como de respetar, cumplir y defender la Constitución y el ordenamiento jurídico de la Nación.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO IV
 DE LA FUNCIÓN PUBLICA
@@ -590,7 +518,6 @@ Todos los funcionarios y trabajadores públicos están al servicio de la Nación
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 39-A. [Impedimento para ejercicio de la función pública en cargos de confianza]*
 
@@ -611,7 +538,6 @@ Es obligatoria la publicación periódica en el diario oficial de los ingresos q
 Artículo único de la Ley 31122, publicada el 10 de febrero de 2021.
 Artículo único de la Ley 32145, publicada el 29 de octubre de 2024.
 
-Ver jurisprudencia aquí
 
 Artículo 41. [Declaración jurada de bienes y rentas]
 
@@ -628,13 +554,11 @@ El plazo de prescripción de la acción penal se duplica en caso de los delitos 
 
 * Párrafo cuarto modificado por el artículo único de la Ley 30650, publicada el 20 de agosto de 2017.
 
-Ver jurisprudencia aquí
 
 Artículo 42. [Derechos de sindicación y huelga de los servidores públicos]
 
 Se reconocen los derechos de sindicación y huelga de los servidores públicos. No están comprendidos los funcionarios del Estado con poder de decisión y los que desempeñan cargos de confianza o de dirección, así como los miembros de las Fuerzas Armadas y de la Policía Nacional.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -650,7 +574,6 @@ El Estado es uno e indivisible.
 
 Su gobierno es unitario, representativo y descentralizado, y se organiza según el principio de la separación de poderes.
 
-Ver jurisprudencia aquí
 
 Artículo 44. [Deberes del Estado]
 
@@ -658,7 +581,6 @@ Son deberes primordiales del Estado: defender la soberanía nacional; garantizar
 
 Asimismo, es deber del Estado establecer y ejecutar la política de fronteras y promover la integración, particularmente latinoamericana, así como el desarrollo y la cohesión de las zonas fronterizas, en concordancia con la política exterior.
 
-Ver jurisprudencia aquí
 
 Artículo 45. [Ejercicio del poder del Estado]
 
@@ -666,7 +588,6 @@ El poder del Estado emana del pueblo. Quienes lo ejercen lo hacen con las limita
 
 Ninguna persona, organización, Fuerza Armada, Policía Nacional o sector de la población puede arrogarse el ejercicio de ese poder. Hacerlo constituye rebelión o sedición.
 
-Ver jurisprudencia aquí
 
 Artículo 46. [Gobierno usurpador. Derecho de insurgencia]
 
@@ -676,19 +597,16 @@ La población civil tiene el derecho de insurgencia en defensa del orden constit
 
 Son nulos los actos de quienes usurpan funciones públicas.
 
-Ver jurisprudencia aquí
 
 Artículo 47. [Defensa judicial del Estado]
 
 La defensa de los intereses del Estado está a cargo de los Procuradores Públicos conforme a ley. El Estado está exonerado del pago de gastos judiciales.
 
-Ver jurisprudencia aquí
 
 Artículo 48. [Idiomas oficiales]
 
 Son idiomas oficiales el castellano y, en las zonas donde predominen, también lo son el quechua, el aimara y las demás lenguas aborígenes, según la ley.
 
-Ver jurisprudencia aquí
 
  Artículo 49. [Capital de la República del Perú y símbolos de la patria]
 
@@ -696,7 +614,6 @@ La capital de la República del Perú es la ciudad de Lima. Su capital históric
 
 Son símbolos de la Patria la bandera de tres franjas verticales con los colores rojo, blanco y rojo, y el escudo y el himno nacional establecidos por ley.
 
-Ver jurisprudencia aquí
 
 Artículo 50. [Estado, Iglesia católica y otras confesiones]
 
@@ -704,13 +621,11 @@ Dentro de un régimen de independencia y autonomía, el Estado reconoce a la Igl
 
 El Estado respeta otras confesiones y puede establecer formas de colaboración con ellas.
 
-Ver jurisprudencia aquí
 
 Artículo 51. [Supremacía de la Constitución]
 
 La Constitución prevalece sobre toda norma legal; la ley, sobre las normas de inferior jerarquía, y así sucesivamente. La publicidad es esencial para la vigencia de toda norma del Estado.
 
-Ver jurisprudencia aquí
 
 Artículo 52. [Nacionalidad]
 
@@ -720,7 +635,6 @@ Son asimismo peruanos los que adquieren la nacionalidad por naturalización o po
 
 * Párrafo primero modificado por el artículo único de la Ley 30738, publicada el 14 de marzo de 2018.
 
-Ver jurisprudencia aquí
 
 Artículo 53. [Adquisición y renuncia de la nacionalidad]
 
@@ -728,7 +642,6 @@ La ley regula las formas en que se adquiere o recupera la nacionalidad.
 
 La nacionalidad peruana no se pierde, salvo por renuncia expresa ante autoridad peruana.
 
-Ver jurisprudencia aquí
 
 Artículo 54. [Territorio, soberanía y jurisdicción]
 
@@ -740,7 +653,6 @@ En su dominio marítimo, el Estado ejerce soberanía y jurisdicción, sin perjui
 
 El Estado ejerce soberanía y jurisdicción sobre el espacio aéreo que cubre su territorio y el mar adyacente hasta el límite de las doscientas millas, sin perjuicio de las libertades de comunicación internacional, de conformidad con la ley y con los tratados ratificados por el Estado.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO II
 DE LOS TRATADOS
@@ -748,7 +660,6 @@ Artículo 55. [Tratados]
 
 Los tratados celebrados por el Estado y en vigor forman parte del derecho nacional.
 
-Ver jurisprudencia aquí
 
 Artículo 56. [Aprobación de tratados]*
 
@@ -766,7 +677,6 @@ También deben ser aprobados con la misma votación, los tratados que crean, mod
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 57. [Tratados ejecutivos]
 
@@ -778,7 +688,6 @@ La denuncia de los tratados es potestad del presidente de la República, con car
 
 * Párrafos primero y tercero modificados por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -790,13 +699,11 @@ Artículo 58. [Economía social de mercado]
 
 La iniciativa privada es libre. Se ejerce en una economía social de mercado. Bajo este régimen, el Estado orienta el desarrollo del país, y actúa principalmente en las áreas de promoción de empleo, salud, educación, seguridad, servicios públicos e infraestructura.
 
-Ver jurisprudencia aquí
 
 Artículo 59. [Rol económico del Estado]
 
 El Estado estimula la creación de riqueza y garantiza la libertad de trabajo y la libertad de empresa, comercio e industria. El ejercicio de estas libertades no debe ser lesivo a la moral, ni a la salud, ni a la seguridad públicas. El Estado brinda oportunidades de superación a los sectores que sufren cualquier desigualdad; en tal sentido, promueve las pequeñas empresas en todas sus modalidades.
 
-Ver jurisprudencia aquí
 
 Artículo 60. [Pluralismo económico]
 
@@ -806,7 +713,6 @@ Sólo autorizado por ley expresa, el Estado puede realizar subsidiariamente acti
 
 La actividad empresarial, pública o no pública, recibe el mismo tratamiento legal.
 
-Ver jurisprudencia aquí
 
 Artículo 61. [Libre competencia]
 
@@ -814,7 +720,6 @@ El Estado facilita y vigila la libre competencia. Combate toda práctica que la 
 
 La prensa, la radio, la televisión y los demás medios de expresión y comunicación social; y, en general, las empresas, los bienes y servicios relacionados con la libertad de expresión y de comunicación, no pueden ser objeto de exclusividad, monopolio ni acaparamiento, directa ni indirectamente, por parte del Estado ni de particulares.
 
-Ver jurisprudencia aquí
 
 Artículo 62. [Libertad de contratar]
 
@@ -822,7 +727,6 @@ La libertad de contratar garantiza que las partes pueden pactar válidamente seg
 
 Mediante contratos-ley, el Estado puede establecer garantías y otorgar seguridades. No pueden ser modificados legislativamente, sin perjuicio de la protección a que se refiere el párrafo precedente.
 
-Ver jurisprudencia aquí
 
 Artículo 63. [Inversión nacional y extranjera]
 
@@ -832,19 +736,16 @@ En todo contrato del Estado y de las personas de derecho público con extranjero
 
 El Estado y las demás personas de derecho público pueden someter las controversias derivadas de relación contractual a tribunales constituidos en virtud de tratados en vigor. Pueden también someterlas a arbitraje nacional o internacional, en la forma en que lo disponga la ley.
 
-Ver jurisprudencia aquí
 
 Artículo 64. [Tenencia y disposición de moneda extranjera]
 
 El Estado garantiza la libre tenencia y disposición de moneda extranjera.
 
-Ver jurisprudencia aquí
 
 Artículo 65. [Protección al consumidor]
 
 El Estado defiende el interés de los consumidores y usuarios. Para tal efecto garantiza el derecho a la información sobre los bienes y servicios que se encuentran a su disposición en el mercado. Asimismo vela, en particular, por la salud y la seguridad de la población.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO II
 DEL AMBIENTE Y LOS RECURSOS NATURALES
@@ -854,25 +755,21 @@ Los recursos naturales, renovables y no renovables, son patrimonio de la Nación
 
 Por ley orgánica se fijan las condiciones de su utilización y de su otorgamiento a particulares. La concesión otorga a su titular un derecho real, sujeto a dicha norma legal.
 
-Ver jurisprudencia aquí
 
 Artículo 67. [Política ambiental]
 
 El Estado determina la política nacional del ambiente. Promueve el uso sostenible de sus recursos naturales.
 
-Ver jurisprudencia aquí
 
 Artículo 68. [Conservación de la diversidad biológica y áreas naturales protegidas]
 
 El Estado está obligado a promover la conservación de la diversidad biológica y de las áreas naturales protegidas.
 
-Ver jurisprudencia aquí
 
 Artículo 69. [Desarrollo de la Amazonía]
 
 El Estado promueve el desarrollo sostenible de la Amazonía con una legislación adecuada.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO III
 DE LA PROPIEDAD
@@ -880,7 +777,6 @@ Artículo 70. [Inviolabilidad del derecho de propiedad]
 
 El derecho de propiedad es inviolable. El Estado lo garantiza. Se ejerce en armonía con el bien común y dentro de los límites de ley. A nadie puede privarse de su propiedad sino, exclusivamente, por causa de seguridad nacional o necesidad pública, declarada por ley, y previo pago en efectivo de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
 
-Ver jurisprudencia aquí
 
 Artículo 71. [Propiedad de los extranjeros]
 
@@ -888,19 +784,16 @@ En cuanto a la propiedad, los extranjeros, sean personas naturales o jurídicas,
 
 Sin embargo, dentro de cincuenta kilómetros de las fronteras, los extranjeros no pueden adquirir ni poseer por título alguno, minas, tierras, bosques, aguas, combustibles ni fuentes de energía, directa ni indirectamente, individualmente ni en sociedad, bajo pena de perder, en beneficio del Estado, el derecho así adquirido. Se exceptúa el caso de necesidad pública expresamente declarada por decreto supremo aprobado por el Consejo de Ministros conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 72. [Restricciones por seguridad nacional]
 
 La ley puede, sólo por razón de seguridad nacional, establecer temporalmente restricciones y prohibiciones específicas para la adquisición, posesión, explotación y transferencia de determinados bienes.
 
-Ver jurisprudencia aquí
 
 Artículo 73. [Bienes de dominio y uso público]
 
 Los bienes de dominio público son inalienables e imprescriptibles. Los bienes de uso público pueden ser concedidos a particulares conforme a ley, para su aprovechamiento económico.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -918,7 +811,6 @@ No surten efecto las normas tributarias dictadas en violación de lo que estable
 
 * Párrafos segundo y tercero modificados por el artículo único de la Ley 28390, publicada el 17 de noviembre de 2004.
 
-Ver jurisprudencia aquí
 
 Artículo 75. [De la deuda pública]
 
@@ -928,7 +820,6 @@ Las operaciones de endeudamiento interno y externo del Estado se aprueban confor
 
 Los municipios pueden celebrar operaciones de crédito con cargo a sus recursos y bienes propios, sin requerir autorización legal.
 
-Ver jurisprudencia aquí
 
 Artículo 76. [Contratación pública]
 
@@ -936,7 +827,6 @@ Las obras y la adquisición de suministros con utilización de fondos o recursos
 
 La contratación de servicios y proyectos cuya importancia y cuyo monto señala la Ley de Presupuesto se hace por concurso público. La ley establece el procedimiento, las excepciones y las respectivas responsabilidades.
 
-Ver jurisprudencia aquí
 
 Artículo 77. [Presupuesto público]
 
@@ -946,7 +836,6 @@ El presupuesto asigna equitativamente los recursos públicos, su programación y
 
 * Párrafo segundo modificado por el artículo único de la Ley 26472, publicada el 13 de junio de 1995.
 
-Ver jurisprudencia aquí
 
 Artículo 78. [Proyectos de ley de presupuesto, endeudamiento y equilibrio financiero]
 
@@ -964,7 +853,6 @@ No puede aprobarse el presupuesto sin partida destinada al servicio de la deuda 
 
 * Párrafo primero modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 79. [Restricciones en el gasto público]
 
@@ -978,7 +866,6 @@ Sólo por ley expresa, aprobada en cada cámara por los dos tercios del número 
 
 * Párrafos tercero y cuarto modificados por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 80. [Sustentación del presupuesto público]*
 
@@ -993,7 +880,6 @@ Los créditos suplementarios, habilitaciones y transferencias de partidas se tra
 Artículo 2 de la Ley 29401, publicada el 8 de setiembre de 2009.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 81. [La Cuenta General de la República]*
 
@@ -1013,7 +899,6 @@ El contralor general es designado por el Senado, a propuesta del Poder Ejecutivo
 
 * Párrafo segundo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO V
 DE LA MONEDA Y LA BANCA
@@ -1031,7 +916,6 @@ El Banco informa al país, exacta y periódicamente, sobre el estado de las fina
 
 El Banco está prohibido de conceder financiamiento al erario, salvo la compra, en el mercado secundario, de valores emitidos por el Tesoro Público, dentro del límite que señala su Ley Orgánica.
 
-Ver jurisprudencia aquí
 
 Artículo 85. [Reservas internacionales]
 
@@ -1062,7 +946,6 @@ El Poder Ejecutivo designa al superintendente de banca, seguros y administradora
 Artículo 1 de la Ley 28484, publicada el 5 de abril de 2005.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -1077,7 +960,6 @@ El Estado apoya preferentemente el desarrollo agrario. Garantiza el derecho de p
 
 Las tierras abandonadas, según previsión legal, pasan al dominio del Estado para su adjudicación en venta.
 
-Ver jurisprudencia aquí
 
 Artículo 89. [Comunidades campesinas, nativas y del pueblo afroperuano]*
 
@@ -1087,7 +969,6 @@ El Estado respeta la identidad cultural de las Comunidades Campesinas, Nativas y
 
 * Artículo modificado por el artículo 2 de la Ley 32189, publicada el 11 de diciembre de 2024.
 
-Ver jurisprudencia aquí
 
 TÍTULO IV
 DE LA ESTRUCTURA DEL ESTADO
@@ -1118,7 +999,6 @@ Los senadores y diputados pueden ser reelegidos de manera inmediata en el mismo 
 Artículo único de la Ley 29402, publicada el 8 de setiembre de 2009.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 90-A. [Prohibición de reelección inmediata] (Derogado)*
 
@@ -1161,7 +1041,6 @@ La función de senador o diputado es incompatible con cargos similares en empres
 Artículo 3 de la Ley 28484, publicada el 5 de abril de 2005.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 93. [Inmunidad parlamentaria]*
 
@@ -1178,7 +1057,6 @@ En caso de comisión de delitos antes de asumir el mandato, es competente el jue
 Artículo único de la Ley 31118, publicada el 6 de febrero de 2021.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 94. [Reglamentos del Senado y la Cámara de Diputados]*
 
@@ -1186,7 +1064,6 @@ El Congreso de la República, el Senado y la Cámara de Diputados elaboran y apr
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 95. [Irrenunciabilidad del mandato legislativo]*
 
@@ -1196,7 +1073,6 @@ Las sanciones disciplinarias que imponen las cámaras a sus representantes y que
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 96. [Facultad de solicitar información a las entidades públicas]*
 
@@ -1209,7 +1085,6 @@ El pedido se hace por escrito y de acuerdo con el reglamento de cada cámara. La
 Artículo 4 de la Ley 28484, publicada el 5 de abril de 2005.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 97. [Función fiscalizadora]
 
@@ -1219,7 +1094,6 @@ Para el cumplimiento de sus fines, dichas comisiones pueden acceder a cualquier 
 
 * Párrafo primero modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 98. [Inviolabilidad del recinto parlamentario]* 
 
@@ -1235,7 +1109,6 @@ Corresponde a la Cámara de Diputados, de acuerdo con su reglamento, acusar ante
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 100. [Antejuicio y juicio político]*
 
@@ -1249,7 +1122,6 @@ La sentencia absolutoria de la Corte Suprema devuelve al acusado sus derechos po
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 101. [Atribuciones de la Comisión Permanente]*
 
@@ -1274,7 +1146,6 @@ No pueden delegarse a la Comisión Permanente materias relativas a reforma const
 Artículo 5 de la Ley 28484, publicada el 5 de abril de 2005.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 102. [Atribuciones del Congreso]*
 
@@ -1298,7 +1169,6 @@ Son atribuciones del Congreso:
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 102-A. [Atribuciones del Senado]* 
 
@@ -1346,7 +1216,6 @@ Son atribuciones de la Cámara de Diputados:
 
 * Artículo incorporado por el artículo 2 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO II
 DE LA FUNCIÓN LEGISLATIVA
@@ -1358,7 +1227,6 @@ La Constitución no ampara el abuso del derecho.
 
 * Artículo modificado por el artículo 2 de la Ley 28389, publicada el 17 de noviembre de 2004.
 
-Ver jurisprudencia aquí
 
 Artículo 104. [Delegación de facultades al Poder Ejecutivo]
 
@@ -1372,7 +1240,6 @@ El presidente de la República da cuenta al Senado o a la Comisión Permanente, 
 
 * Párrafos primero y cuarto modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 105. [Proyectos de ley]* 
 
@@ -1388,7 +1255,6 @@ Rechazada la propuesta por el Senado, esta se archiva.
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 106. [Leyes orgánicas]*
 
@@ -1398,7 +1264,6 @@ Los proyectos de ley orgánica se tramitan como cualquiera otra ley. Para su apr
 
 * Párrafo segundo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -1415,7 +1280,6 @@ También tienen el mismo derecho en las materias que les son propias los otros p
 Artículo único de la Ley 28390, publicada el 17 de noviembre de 2004.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 108. [Promulgación de las leyes]*
 
@@ -1429,13 +1293,11 @@ Las leyes que derogan o modifican un decreto legislativo o un decreto de urgenci
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
  Artículo 109. [Vigencia y obligatoriedad de la ley]
 
 La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO IV
 PODER EJECUTIVO
@@ -1445,7 +1307,6 @@ El Presidente de la República es el Jefe del Estado y personifica a la Nación.
 
 Para ser elegido Presidente de la República se requiere ser peruano por nacimiento, tener más de treinta y cinco años de edad al momento de la postulación y gozar del derecho de sufragio.  
 
-Ver jurisprudencia aquí
 
 Artículo 111. [Elección del presidente de la República]
 
@@ -1455,7 +1316,6 @@ Si ninguno de los candidatos obtiene la mayoría absoluta, se procede a una segu
 
 Junto con el Presidente de la República son elegidos, de la misma manera, con los mismos requisitos y por igual término, dos vicepresidentes.
 
-Ver jurisprudencia aquí
 
 Artículo 112. [Duración del mandato presidencial]*
 
@@ -1468,7 +1328,6 @@ Artículo único de la Ley 31280, publicada el 16 de julio de 2021, la cual fue 
 
 De conformidad con el Resolutivo 2 de los Exps. 00019-2021-PI/TC, 00021-2021-PI/TC, 00022-2021-PI/TC (acums.), publicados el 26 de noviembre de 2021, la Ley 31280 fue declarada inconstitucional. De acuerdo con el Informe 014-2022-JUS/DGDNCR-DDJCR, las modificaciones que dicha norma pretendía introducir en el presente artículo carecen de efectos jurídicos, por lo que se conserva la redacción de la Ley 27365.
 
-Ver jurisprudencia aquí
 
 Artículo 113. [Vacancia de la Presidencia de la República]
 
@@ -1484,7 +1343,6 @@ La Presidencia de la República vaca por:
 
 5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el artículo 117 de la Constitución.
 
-Ver jurisprudencia aquí
 
 Artículo 114. [Suspensión del ejercicio de la Presidencia]
 
@@ -1502,7 +1360,6 @@ Cuando el Presidente de la República sale del territorio nacional, el Primer Vi
 
 * El Congreso de la República, a través del artículo único de la Ley 27375, del 5 de diciembre de 2000, interpretó que el mandato, conferido por el presente artículo al presidente del Congreso de la República para que asuma las funciones de presidente de la República —por impedimento permanente de este último y de  los vicepresidentes—, no implica que el cargo como presidente del Congreso ni como congresista de la República estén vacantes.
 
-Ver jurisprudencia aquí
 
 Artículo 116. [Asunción del cargo presidencial]
 
@@ -1514,7 +1371,6 @@ El presidente de la República sólo puede ser acusado, durante su período, por
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 118. [Atribuciones del presidente de la República]
 
@@ -1573,7 +1429,6 @@ Corresponde al Presidente de la República:
 
 ** Numeral 19 modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO V
 DEL CONSEJO DE MINISTROS
@@ -1585,7 +1440,6 @@ Artículo 120. [Refrendación ministerial]
 
 Son nulos los actos del Presidente de la República que carecen de refrendación ministerial.
 
-Ver jurisprudencia aquí
 
 Artículo 121. [Consejo de Ministros]
 
@@ -1597,7 +1451,6 @@ Artículo 122. [Nombramiento y remoción del presidente del Consejo de Ministros
 
 El Presidente de la República nombra y remueve al Presidente del Consejo. Nombra y remueve a los demás ministros, a propuesta y con acuerdo, respectivamente, del Presidente del Consejo.
 
-Ver jurisprudencia aquí
 
 Artículo 123. [Atribuciones del presidente del Consejo de Ministros y demás ministros]
 
@@ -1609,13 +1462,11 @@ Al Presidente del Consejo de Ministros, quien puede ser ministro sin cartera, le
 
 3. Refrendar los decretos legislativos, los decretos de urgencia y los demás decretos y resoluciones que señalan la Constitución y la ley.
 
-Ver jurisprudencia aquí
 
 Artículo 124. [Requisitos para ser ministro de Estado]
 
 Para ser Ministro de Estado, se requiere ser peruano por nacimiento, ciudadano en ejercicio y haber cumplido veinticinco años de edad. Los miembros de las Fuerzas Armadas y de la Policía Nacional pueden ser ministros.
 
-Ver jurisprudencia aquí
 
 Artículo 125. [Atribuciones del Consejo de Ministros]
 
@@ -1637,7 +1488,6 @@ Los ministros no pueden ejercer otra función pública, excepto la legislativa.
 
 Los ministros no pueden ser gestores de intereses propios o de terceros ni ejercer actividad lucrativa, ni intervenir en la dirección o gestión de empresas ni asociaciones privadas.
 
-Ver jurisprudencia aquí
 
 Artículo 127. [Encargo de la función ministerial]
 
@@ -1659,7 +1509,6 @@ El presidente del Consejo o uno, por lo menos, de los ministros, concurre perió
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO VI
 DE LAS RELACIONES CON EL PODER LEGISLATIVO
@@ -1671,7 +1520,6 @@ Si la Cámara de Diputados no está reunida, el presidente de la República conv
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 131. [Interpelación a los ministros]*
 
@@ -1683,7 +1531,6 @@ La Cámara de Diputados señala día y hora para que los ministros contesten la 
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 132. [Voto de censura o rechazo de la cuestión de confianza]
 
@@ -1701,7 +1548,6 @@ La desaprobación de una iniciativa ministerial no obliga al ministro a dimitir,
 
 El Congreso de la República, a través del artículo único de la Ley 31355, del 21 de octubre de 2021, estableció que la facultad que tiene un ministro y el presidente del Consejo de Ministros, a nombre del Consejo, de plantear una cuestión de confianza —conforme al último párrafo del presente artículo— está referida a materias de competencia del Poder Ejecutivo relacionadas directamente con la concreción de su política general de gobierno, no encontrándose, entre ellas, las relativas a la aprobación o no de reformas constitucionales ni las que afecten los procedimientos y las competencias exclusivas y excluyentes del Congreso de la República o de otros organismos constitucionalmente autónomos. La cuestión de confianza es aprobada o rehusada luego de concluido el debate y luego de realizada la votación conforme al Reglamento del Congreso. El resultado de la votación es comunicado expresamente al Poder Ejecutivo, mediante oficio, para que surta efecto. Solo el Congreso de la República puede interpretar el sentido de su decisión.
 
-Ver jurisprudencia aquí
 
 Artículo 133. [Crisis total del gabinete]* 
 
@@ -1711,7 +1557,6 @@ El presidente del Consejo de Ministros puede plantear ante la Cámara de Diputad
 
 El Congreso de la República, a través del artículo único de la Ley 31355, del 21 de octubre de 2021, reconoció que la facultad que tiene un ministro y el presidente del Consejo de Ministros, a nombre del Consejo, de plantear una cuestión de confianza —conforme al presente artículo— está referida a materias de competencia del Poder Ejecutivo relacionadas directamente con la concreción de su política general de gobierno, no encontrándose, entre ellas, las relativas a la aprobación de reformas constitucionales ni las que afecten los procedimientos y las competencias exclusivas y excluyentes del Congreso de la República o de otros organismos constitucionalmente autónomos.
 
-Ver jurisprudencia aquí
 
 Artículo 134. [Disolución de la Cámara de Diputados]*
 
@@ -1727,7 +1572,6 @@ No hay otras formas de revocatoria del mandato parlamentario. Bajo estado de sit
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 135. [Instalación de la nueva Cámara de Diputados]*
 
@@ -1757,7 +1601,6 @@ El plazo del estado de emergencia no excede de sesenta días. Su prórroga requi
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -1769,7 +1612,6 @@ La potestad de administrar justicia emana del pueblo y se ejerce por el Poder Ju
 
 En todo proceso, de existir incompatibilidad entre una norma constitucional y una norma legal, los jueces prefieren la primera. Igualmente, prefieren la norma legal sobre toda otra norma de rango inferior.
 
-Ver jurisprudencia aquí
 
 Artículo 139. [Principios de la Administración de justicia]
 
@@ -1781,99 +1623,77 @@ No existe ni puede establecerse jurisdicción alguna independiente, con excepci�
 
 No hay proceso judicial por comisión o delegación.
 
-Ver jurisprudencia aquí
 
 2. La independencia en el ejercicio de la función jurisdiccional.
 
 Ninguna autoridad puede avocarse a causas pendientes ante el órgano jurisdiccional ni interferir en el ejercicio de sus funciones. Tampoco puede dejar sin efecto resoluciones que han pasado en autoridad de cosa juzgada, ni cortar procedimientos en trámite, ni modificar sentencias ni retardar su ejecución. Estas disposiciones no afectan el derecho de gracia ni la facultad de investigación de la Cámara de Diputados, cuyo ejercicio no debe, sin embargo, interferir en el procedimiento jurisdiccional ni surte efecto jurisdiccional alguno.*
 
-Ver jurisprudencia aquí
 
 3. La observancia del debido proceso y la tutela jurisdiccional.
 
 Ninguna persona puede ser desviada de la jurisdicción predeterminada por la ley, ni sometida a procedimiento distinto de los previamente establecidos, ni juzgada por órganos jurisdiccionales de excepción ni por comisiones especiales creadas al efecto, cualquiera sea su denominación.
 
-Ver jurisprudencia aquí
 
 4. La publicidad en los procesos, salvo disposición contraria de la ley.
 
 Los procesos judiciales por responsabilidad de funcionarios públicos, y por los delitos cometidos por medio de la prensa y los que se refieren a derechos fundamentales garantizados por la Constitución, son siempre públicos.
 
-Ver jurisprudencia aquí
 
 5. La motivación escrita de las resoluciones judiciales en todas las instancias, excepto los decretos de mero trámite, con mención expresa de la ley aplicable y de los fundamentos de hecho en que se sustentan.
 
-Ver jurisprudencia aquí
 
 6. La pluralidad de la instancia.
 
-Ver jurisprudencia aquí
 
 7. La indemnización, en la forma que determine la ley, por los errores judiciales en los procesos penales y por las detenciones arbitrarias, sin perjuicio de la responsabilidad a que hubiere lugar.
 
-Ver jurisprudencia aquí
 
 8. El principio de no dejar de administrar justicia por vacío o deficiencia de la ley.
 
 En tal caso, deben aplicarse los principios generales del derecho y el derecho consuetudinario.
 
-Ver jurisprudencia aquí
 
 9. El principio de inaplicabilidad por analogía de la ley penal y de las normas que restrinjan derechos.
 
-Ver jurisprudencia aquí
 
 10. El principio de no ser penado sin proceso judicial.
 
-Ver jurisprudencia aquí
 
 11. La aplicación de la ley más favorable al procesado en caso de duda o de conflicto entre leyes penales.
 
-Ver jurisprudencia aquí
 
 12. El principio de no ser condenado en ausencia.
 
-Ver jurisprudencia aquí
 
 13. La prohibición de revivir procesos fenecidos con resolución ejecutoriada. La amnistía, el indulto, el sobreseimiento definitivo y la prescripción producen los efectos de cosa juzgada.
 
-Ver jurisprudencia aquí
 
 14. El principio de no ser privado del derecho de defensa en ningún estado del proceso. Toda persona será informada inmediatamente y por escrito de la causa o las razones de su detención. Tiene derecho a comunicarse personalmente con un defensor de su elección y a ser asesorada por éste desde que es citada o detenida por cualquier autoridad.
 
-Ver jurisprudencia aquí
 
 15. El principio de que toda persona debe ser informada, inmediatamente y por escrito, de las causas o razones de su detención.
 
-Ver jurisprudencia aquí
 
  16. El principio de la gratuidad de la administración de justicia y de la defensa gratuita para las personas de escasos recursos; y, para todos, en los casos que la ley señala.
 
-Ver jurisprudencia aquí
 
 17. La participación popular en el nombramiento y en la revocación de magistrados, conforme a ley.
 
-Ver jurisprudencia aquí
 
 18. La obligación del Poder Ejecutivo de prestar la colaboración que en los procesos le sea requerida.
 
-Ver jurisprudencia aquí
 
 19. La prohibición de ejercer función judicial por quien no ha sido nombrado en la forma prevista por la Constitución o la ley. Los órganos jurisdiccionales no pueden darle posesión del cargo, bajo responsabilidad.
 
-Ver jurisprudencia aquí
 
 20. El principio del derecho de toda persona de formular análisis y críticas de las resoluciones y sentencias judiciales, con las limitaciones de ley.
 
-Ver jurisprudencia aquí
 
  21. El derecho de los reclusos y sentenciados de ocupar establecimientos adecuados.
 
-Ver jurisprudencia aquí
 
  22. El principio de que el régimen penitenciario tiene por objeto la reeducación, rehabilitación y reincorporación del penado a la sociedad.
 
-Ver jurisprudencia aquí
 
 * Numeral 2 modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
@@ -1881,13 +1701,11 @@ Artículo 140. [Pena de muerte]
 
 La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada.
 
-Ver jurisprudencia aquí
 
  Artículo 141. [Casación]
 
 Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuando la acción se inicia en una Corte Superior o ante la propia Corte Suprema conforme a ley. Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el artículo 173.
 
-Ver jurisprudencia aquí
 
 Artículo 142. [Resoluciones no revisables por el Poder Judicial]*
 
@@ -1895,7 +1713,6 @@ No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecc
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 143. [Órganos jurisdiccionales]
 
@@ -1903,19 +1720,16 @@ El Poder Judicial está integrado por órganos jurisdiccionales que administran 
 
 Los órganos jurisdiccionales son: la Corte Suprema de Justicia y las demás cortes y juzgados que determine su ley orgánica.
 
-Ver jurisprudencia aquí
 
 Artículo 144. [Presidencia del Poder Judicial. Sala Plena]
 
 El Presidente de la Corte Suprema lo es también del Poder Judicial. La Sala Plena de la Corte Suprema es el órgano máximo de deliberación del Poder Judicial.
 
-Ver jurisprudencia aquí
 
 Artículo 145. [Presupuesto del Poder Judicial]
 
 El Poder Judicial presenta su proyecto de presupuesto al Poder Ejecutivo y lo sustenta ante el Congreso.
 
-Ver jurisprudencia aquí
 
 Artículo 146. [Exclusividad de la función jurisdiccional]
 
@@ -1933,7 +1747,6 @@ El Estado garantiza a los magistrados judiciales:
 
 4. Una remuneración que les asegure un nivel de vida digno de su misión y jerarquía.
 
-Ver jurisprudencia aquí
 
 Artículo 147. [Requisitos para ser magistrado de la Corte Suprema]
 
@@ -1951,13 +1764,11 @@ Para ser Magistrado de la Corte Suprema se requiere:
 
 Las resoluciones administrativas que causan estado son susceptibles de impugnación mediante la acción contencioso-administrativa.
 
-Ver jurisprudencia aquí
 
 Artículo 149. [Ejercicio de la función jurisdiccional por las comunidades campesinas y nativas]
 
 Las autoridades de las Comunidades Campesinas y Nativas, con el apoyo de las Rondas Campesinas, pueden ejercer las funciones jurisdiccionales dentro de su ámbito territorial de conformidad con el derecho consuetudinario, siempre que no violen los derechos fundamentales de la persona. La ley establece las formas de coordinación de dicha jurisdicción especial con los Juzgados de Paz y con las demás instancias del Poder Judicial.
 
-Ver jurisprudencia aquí
 
 Inscríbete aquí Más información
 
@@ -1976,7 +1787,6 @@ La Junta Nacional de Justicia es independiente y se rige por su Ley Orgánica.
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 151. [Academia de la Magistratura]
 
@@ -1984,7 +1794,6 @@ La Academia de la Magistratura, que forma parte del Poder Judicial, se encarga d
 
 Es requisito para el ascenso la aprobación de los estudios especiales que requiera dicha Academia.
 
-Ver jurisprudencia aquí
 
 Artículo 152. [Jueces de paz y de primera instancia]
 
@@ -1994,13 +1803,11 @@ Dicha elección, sus requisitos, el desempeño jurisdiccional, la capacitación 
 
 La ley puede establecer la elección de los jueces de primera instancia y determinar los mecanismos pertinentes.
 
-Ver jurisprudencia aquí
 
 Artículo 153. [Prohibición a jueces y fiscales]
 
 Los jueces y fiscales están prohibidos de participar en política, de sindicarse y de declararse en huelga.
 
-Ver jurisprudencia aquí
 
 Artículo 154. [Atribuciones de la Junta Nacional de Justicia]*
 
@@ -2020,7 +1827,6 @@ Son funciones de la Junta Nacional de Justicia:
 
 * Artículo modificado por el artículo único de la Ley 30904, publicada el 10 de enero de 2019.
 
-Ver jurisprudencia aquí
 
 Artículo 155. [Miembros de la Junta Nacional de Justicia]*
 
@@ -2048,7 +1854,6 @@ La selección de los miembros es realizada a través de un procedimiento de acue
 
 * Artículo modificado por el artículo único de la Ley 30904, publicada el 10 de enero de 2019.
 
-Ver jurisprudencia aquí
 
 Artículo 156. [Requisitos para ser miembro de la Junta Nacional de Justicia]*
 
@@ -2076,7 +1881,6 @@ Los miembros de la Junta Nacional de Justicia gozan de los mismos beneficios y d
 
 * Artículo modificado por el artículo único de la Ley 30904, publicada el 10 de enero de 2019.
 
-Ver jurisprudencia aquí
 
 Artículo 157. [Remoción de los miembros de la Junta Nacional de Justicia]*
 
@@ -2091,7 +1895,6 @@ Artículo 158. [Ministerio Público]
 
 El Ministerio Público es autónomo. El Fiscal de la Nación lo preside. Es elegido por la Junta de Fiscales Supremos. El cargo de Fiscal de la Nación dura tres años, y es prorrogable, por reelección, sólo por otros dos. Los miembros del Ministerio Público tienen los mismos derechos y prerrogativas y están sujetos a las mismas obligaciones que los del Poder Judicial en la categoría respectiva. Les afectan las mismas incompatibilidades. Su nombramiento está sujeto a requisitos y procedimientos idénticos a los de los miembros del Poder Judicial en su respectiva categoría.
 
-Ver jurisprudencia aquí
 
 Artículo 159. [Atribuciones del Ministerio Público]
 
@@ -2112,7 +1915,6 @@ Corresponde al Ministerio Público:
 
 7. Ejercer iniciativa en la formación de las leyes; y dar cuenta al Congreso, o al Presidente de la República, de los vacíos o defectos de la legislación.
 
-Ver jurisprudencia aquí
 
 Artículo 160. [Presupuesto del Ministerio Público]
 
@@ -2134,7 +1936,6 @@ El cargo dura cinco años y no está sujeto a mandato imperativo. Tiene las mism
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 162. [Atribuciones de la Defensoría del Pueblo]
 
@@ -2146,7 +1947,6 @@ El proyecto de presupuesto de la Defensoría del Pueblo es presentado ante el Po
 
 * Párrafo segundo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO XII
 DE LA SEGURIDAD Y DE LA DEFENSA NACIONAL
@@ -2156,7 +1956,6 @@ El Estado garantiza la seguridad de la Nación mediante el Sistema de Defensa Na
 
 La Defensa Nacional es integral y permanente. Se desarrolla en los ámbitos interno y externo. Toda persona, natural o jurídica, está obligada a participar en la Defensa Nacional, de conformidad con la ley.
 
-Ver jurisprudencia aquí
 
 Artículo 164. [Dirección, preparación y ejercicio del Sistema de Defensa Nacional]
 
@@ -2164,7 +1963,6 @@ La dirección, la preparación y el ejercicio de la Defensa Nacional se realizan
 
 La ley determina los alcances y procedimientos de la movilización para los efectos de la defensa nacional.
 
-Ver jurisprudencia aquí
 
 Artículo 165. [Finalidad de las Fuerzas Armadas]
 
@@ -2174,13 +1972,11 @@ Artículo 166. [Finalidad de la Policía Nacional]
 
 La Policía Nacional tiene por finalidad fundamental garantizar, mantener y restablecer el orden interno. Presta protección y ayuda a las personas y a la comunidad. Garantiza el cumplimiento de las leyes y la seguridad del patrimonio público y del privado. Previene, investiga y combate la delincuencia. Vigila y controla las fronteras.
 
-Ver jurisprudencia aquí
 
 Artículo 167. [Jefe supremo de las Fuerzas Armadas y Policía Nacional]
 
 El Presidente de la República es el Jefe Supremo de las Fuerzas Armadas y de la Policía Nacional.
 
-Ver jurisprudencia aquí
 
 Artículo 168. [Organización y funciones de las Fuerzas Armadas y Policía Nacional]
 
@@ -2188,13 +1984,11 @@ Las leyes y los reglamentos respectivos determinan la organización, las funcion
 
 Las Fuerzas Armadas organizan sus reservas y disponen de ellas según las necesidades de la Defensa Nacional, de acuerdo a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 169. [Carácter no deliberante de las Fuerzas Armadas y Policía Nacional]
 
 Las Fuerzas Armadas y la Policía Nacional no son deliberantes. Están subordinadas al poder constitucional.
 
-Ver jurisprudencia aquí
 
 Artículo 170. [Requerimiento logístico de las Fuerzas Armadas y Policía Nacional]
 
@@ -2204,7 +1998,6 @@ Artículo 171. [Fuerzas Armadas, Policía Nacional y el desarrollo del país]
 
 Las Fuerzas Armadas y la Policía Nacional participan en el desarrollo económico y social del país, y en la defensa civil de acuerdo a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 172. [Efectivos de las Fuerzas Armadas y Policía Nacional. Ascensos]
 
@@ -2212,7 +2005,6 @@ El número de efectivos de las Fuerzas Armadas y de la Policía Nacional se fija
 
 Los ascensos se confieren de conformidad con la ley. El Presidente de la República otorga los ascensos de los generales y almirantes de las Fuerzas Armadas y de los generales de la Policía Nacional, según propuesta del instituto correspondiente.
 
-Ver jurisprudencia aquí
 
 Artículo 173. [Competencia del Fuero Privativo Militar]
 
@@ -2220,7 +2012,6 @@ En caso de delito de función, los miembros de las Fuerzas Armadas y de la Polic
 
 Quienes infringen las normas del Servicio Militar Obligatorio están asimismo sometidos al Código de Justicia Militar.
 
-Ver jurisprudencia aquí
 
 Artículo 174. [Equivalencia de derechos de oficiales de las Fuerzas Armadas y Policía Nacional]
 
@@ -2228,7 +2019,6 @@ Los grados y honores, las remuneraciones y las pensiones inherentes a la jerarqu
 
 En ambos casos, los derechos indicados sólo pueden retirarse a sus titulares por sentencia judicial.
 
-Ver jurisprudencia aquí
 
 Artículo 175. [Uso y posesión de armas de guerra]
 
@@ -2238,7 +2028,6 @@ Se exceptúa la fabricación de armas de guerra por la industria privada en los 
 
 La ley reglamenta la fabricación, el comercio, la posesión y el uso, por los particulares, de armas distintas de las de guerra.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO XIII
 DEL SISTEMA ELECTORAL
@@ -2248,13 +2037,11 @@ El sistema electoral tiene por finalidad asegurar que las votaciones traduzcan l
 
 Tiene por funciones básicas el planeamiento, la organización y la ejecución de los procesos electorales o de referéndum u otras consultas populares; el mantenimiento y la custodia de un registro único de identificación de las personas; y el registro de los actos que modifican el estado civil.
 
-Ver jurisprudencia aquí
 
 Artículo 177. [Conformación del sistema electoral]
 
 El sistema electoral está conformado por el Jurado Nacional de Elecciones; la Oficina Nacional de Procesos Electorales; y el Registro Nacional de Identificación y Estado Civil. Actúan con autonomía y mantienen entre sí relaciones de coordinación, de acuerdo con sus atribuciones.
 
-Ver jurisprudencia aquí
 
 Artículo 178. [Atribuciones del Jurado Nacional de Elecciones]
 
@@ -2276,7 +2063,6 @@ En materia electoral, el Jurado Nacional de Elecciones tiene iniciativa en la fo
 
 Presenta al Poder Ejecutivo el proyecto de Presupuesto del Sistema Electoral que incluye por separado las partidas propuestas por cada entidad del sistema. Lo sustenta en esa instancia y ante el Congreso.
 
-Ver jurisprudencia aquí
 
 Artículo 179. [Composición del Pleno del Jurado Nacional de Elecciones]
 
@@ -2304,7 +2090,6 @@ Artículo 181. [Resoluciones del Pleno del Jurado Nacional de Elecciones]
 
 El Pleno del Jurado Nacional de Elecciones aprecia los hechos con criterio de conciencia. Resuelve con arreglo a ley y a los principios generales de derecho. En materias electorales, de referéndum o de otro tipo de consultas populares, sus resoluciones son dictadas en instancia final, definitiva, y no son revisables. Contra ellas no procede recurso alguno.
 
-Ver jurisprudencia aquí
 
 Artículo 182. [Oficina Nacional de Procesos Electorales]
 
@@ -2314,7 +2099,6 @@ Le corresponde organizar todos los procesos electorales, de referéndum y los de
 
 * Párrafo primero modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 183. [Registro Nacional de Identificación y Estado Civil]
 
@@ -2326,7 +2110,6 @@ Ejerce las demás funciones que la ley señala.
 
 * Párrafo primero modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 184. [Nulidad de los procesos electorales]
 
@@ -2348,7 +2131,6 @@ En las elecciones pluripersonales hay representación proporcional, conforme al 
 
 La ley contiene disposiciones especiales para facilitar el voto de los peruanos residentes en el extranjero.
 
-Ver jurisprudencia aquí
 
 CAPÍTULO XIV*
 DE LA DESCENTRALIZACIÓN
@@ -2361,7 +2143,6 @@ La descentralización es una forma de organización democrática y constituye un
 
 Los Poderes del Estado y los Organismos Autónomos así como el Presupuesto de la República se descentralizan de acuerdo a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 189. [División territorial del país]
 
@@ -2369,7 +2150,6 @@ El territorio de la República está integrado por regiones, departamentos, prov
 
 El ámbito del nivel regional de gobierno son las regiones y departamentos. El ámbito del nivel local de gobierno son las provincias, distritos y los centros poblados.
 
-Ver jurisprudencia aquí
 
 Artículo 190. [Creación de las regiones]
 
@@ -2403,7 +2183,6 @@ Artículo único de la Ley 28607, publicada el 4 de octubre de 2005.
 Artículo único de la Ley 30305, publicada el 10 de marzo de 2015.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 192. [Competencia de los gobiernos regionales]
 
@@ -2431,7 +2210,6 @@ Son competentes para:
 
 10. Ejercer las demás atribuciones inherentes a su función, conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 193. [Bienes y rentas de los gobiernos regionales]
 
@@ -2470,7 +2248,6 @@ Artículo único de la Ley 28607, publicada el 4 de octubre de 2005.
 Artículo único de la Ley 30305, publicada el 10 de marzo de 2015.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 195. [Competencia de los gobiernos locales]
 
@@ -2499,7 +2276,6 @@ Son competentes para:
 
 10. Ejercer las demás atribuciones inherentes a su función, conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 196. [Bienes y rentas de los gobiernos locales]
 
@@ -2527,7 +2303,6 @@ Artículo 197. [Otras funciones de los gobiernos locales]
 
 Las municipalidades promueven, apoyan y reglamentan la participación vecinal en el desarrollo local. Asimismo brindan servicios de seguridad ciudadana, con la cooperación de la Policía Nacional del Perú, conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 198. [Régimen especial de la capital de la República]
 
@@ -2535,13 +2310,11 @@ La Capital de la República no integra ninguna región. Tiene régimen especial 
 
 Las municipalidades de frontera tienen, asimismo, régimen especial en la Ley Orgánica de Municipalidades.
 
-Ver jurisprudencia aquí
 
 Artículo 199. [Fiscalización de los fondos de los gobiernos regionales y locales]
 
 Los gobiernos regionales y locales son fiscalizados por sus propios órganos de fiscalización y por los organismos que tengan tal atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría General de la República, la que organiza un sistema de control descentralizado y permanente. Los mencionados gobiernos formulan sus presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.
 
-Ver jurisprudencia aquí
 
 TÍTULO V
 DE LAS GARANTÍAS CONSTITUCIONALES
@@ -2549,29 +2322,23 @@ Artículo 200. [Procesos constitucionales]
 
 Son garantías constitucionales:
 
-Ver jurisprudencia aquí
 
 1. La Acción de Hábeas Corpus, que procede ante el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza la libertad individual o los derechos constitucionales conexos.
 
-Ver jurisprudencia aquí
 
 2. La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución, con excepción de los señalados en el inciso siguiente.
 
 No procede contra normas legales ni contra Resoluciones Judiciales emanadas de procedimiento regular.*
 
-Ver jurisprudencia aquí
 
 3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2, incisos 5 y 6 de la Constitución.**
 
-Ver jurisprudencia aquí
 
 4. La Acción de Inconstitucionalidad, que procede contra las normas que tienen rango de ley: leyes, decretos legislativos, decretos de urgencia, tratados, reglamentos del Congreso, normas regionales de carácter general y ordenanzas municipales que contravengan la Constitución en la forma o en el fondo.
 
-Ver jurisprudencia aquí
 
 5. La Acción Popular, que procede, por infracción de la Constitución y de la ley, contra los reglamentos, normas administrativas y resoluciones y decretos de carácter general, cualquiera sea la autoridad de la que emanen.
 
-Ver jurisprudencia aquí
 
 6. La Acción de Cumplimiento, que procede contra cualquier autoridad o funcionario renuente a acatar una norma legal o un acto administrativo, sin perjuicio de las responsabilidades de ley.
 
@@ -2581,7 +2348,6 @@ El ejercicio de las acciones de hábeas corpus y de amparo no se suspende durant
 
 Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del acto restrictivo. No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio.
 
-Ver jurisprudencia aquí
 
 * Numeral 2 modificado por el artículo único de la Ley 26470, publicada el 12 de junio de 1995.
 
@@ -2597,7 +2363,6 @@ Los magistrados del Tribunal Constitucional son elegidos por el Senado con el vo
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 202. [Atribuciones del Tribunal Constitucional]
 
@@ -2605,15 +2370,12 @@ Corresponde al Tribunal Constitucional:
 
 1. Conocer, en instancia única, la acción de inconstitucionalidad.
 
-Ver jurisprudencia aquí
 
 2. Conocer, en última y definitiva instancia, las resoluciones denegatorias de hábeas corpus, amparo, hábeas data, y acción de cumplimiento.
 
-Ver jurisprudencia aquí
 
 3. Conocer los conflictos de competencia, o de atribuciones asignadas por la Constitución, conforme a ley.
 
-Ver jurisprudencia aquí
 
 Artículo 203. [Personas facultadas para iniciar el proceso de inconstitucionalidad]*
 
@@ -2641,7 +2403,6 @@ Artículo único de la Ley 30305, publicada el 10 de marzo de 2015.
 Artículo único de la Ley 30651, publicada el 20 de agosto de 2017.
 Artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 Artículo 204. [Sentencia de inconstitucionalidad]
 
@@ -2649,13 +2410,11 @@ La sentencia del Tribunal que declara la inconstitucionalidad de una norma se pu
 
 No tiene efecto retroactivo la sentencia del Tribunal que declara inconstitucional, en todo o en parte, una norma legal.
 
-Ver jurisprudencia aquí
 
 Artículo 205. [Jurisdicción supranacional]
 
 Agotada la jurisdicción interna, quien se considere lesionado en los derechos que la Constitución reconoce puede recurrir a los tribunales u organismos internacionales constituidos según tratados o convenios de los que el Perú es parte.
 
-Ver jurisprudencia aquí
 
 TÍTULO VI
 DE LA REFORMA DE LA CONSTITUCIÓN
@@ -2667,7 +2426,6 @@ La iniciativa de reforma constitucional corresponde al presidente de la Repúbli
 
 * Artículo modificado por el artículo 1 de la Ley 31988, publicada el 20 de marzo de 2024. La reforma constitucional comprendida en la citada norma entra en vigor a partir de las próximas elecciones generales de 2026.
 
-Ver jurisprudencia aquí
 
 DISPOSICIONES FINALES Y TRANSITORIAS
 Primera. [Regímenes pensionarios de los servidores públicos]*
@@ -2692,7 +2450,6 @@ Autorízase a la entidad competente del Gobierno Nacional a iniciar las acciones
 
 Se interpreta que, de conformidad con el fundamento 159, el cuarto párrafo de la Primera Disposición Final y Transitoria de la Constitución, tiene el sentido de que la totalidad del ahorro proveniente de la aplicación de las nuevas reglas pensionarias, debe ser destinado a mejorar el sistema de seguridad social, lo cual supone, entre otros muchos aspectos, gastos en infraestructura y logística de salud, compra de más y mejores medicamentos, capacitación del personal de salud y mejora de sus honorarios, entre otros.
 
-Ver jurisprudencia aquí
 
 Segunda. [Pago y reajuste de pensiones que administra el Estado]
 
@@ -2708,7 +2465,6 @@ Cuarta. [Interpretación de los derechos fundamentales]
 
 Las normas relativas a los derechos y a las libertades que la Constitución reconoce se interpretan de conformidad con la Declaración Universal de Derechos Humanos y con los tratados y acuerdos internacionales sobre las mismas materias ratificados por el Perú.
 
-Ver jurisprudencia aquí
 
 Quinta. [Elecciones municipales]
 

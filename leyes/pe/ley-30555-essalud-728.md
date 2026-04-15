@@ -19,7 +19,7 @@ disclaimer: true
 
 - Administrativo
 # Ley 30555 que incorpora al régimen 728 de Essalud a trabajadores CAS
-Por LP • Pasión por el Derecho -                      26 abril, 2017                                                        Ya es oficial. Hoy se ha publicado en el diario oficial El Peruano, la **Ley 30555** que incorpora al personal de Essalud que se encuentra bajo el Régimen del Contrato Administrativo de Servicios (profesionales de la salud, técnicos y auxiliares asistenciales de la salud, profesionales administrativos, técnicos y auxiliares administrativos), al régimen laboral 728 de dicha institución.
+Por LP • Pasión por el Derecho - 26 abril, 2017Ya es oficial. Hoy se ha publicado en el diario oficial El Peruano, la **Ley 30555** que incorpora al personal de Essalud que se encuentra bajo el Régimen del Contrato Administrativo de Servicios (profesionales de la salud, técnicos y auxiliares asistenciales de la salud, profesionales administrativos, técnicos y auxiliares administrativos), al régimen laboral 728 de dicha institución.
 ## **LEY N° 30555 **
 **LA PRESIDENTA DEL CONGRESO DE LA REPÚBLICA**
 POR CUANTO:

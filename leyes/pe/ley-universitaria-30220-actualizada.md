@@ -17,11 +17,11 @@ disclaimer: true
 
 # Ley Universitaria (Ley 30220) actualizada 2026
 
-Inicio ** Administrativo ** Ley Universitaria (Ley 30220) - Administrativo
+Inicio ** Administrativo ** Ley Universitaria (Ley 30220)- Administrativo
 - Legislación
 - Normas legales
 # Ley Universitaria (Ley 30220) [actualizada 2026]
-Por LP • Pasión por el Derecho -                  21 abril, 2022                                            Compartimos con ustedes la Ley Universitaria, **Ley 30220**, publicada en el diario oficial *El Peruano*, el 9 de julio de 2014. 
+Por LP • Pasión por el Derecho - 21 abril, 2022Compartimos con ustedes la Ley Universitaria, **Ley 30220**, publicada en el diario oficial *El Peruano*, el 9 de julio de 2014. 
 La presente Ley sufrió su última modificación el 9 de enero de 2026 por la Ley 32551. Para ubicar de manera rápida el artículo o la palabra clave que busca, presione Control+F y le aparecerá un recuadro para que lo escriba.
 - Revise también la **Constitución Política del Perú [realmente actualizada 2021]**
 - Revise también el** Código Civil [actualizado 2021]**
@@ -300,7 +300,7 @@ Las Escuelas Profesionales están dirigidas por un Director de Escuela, designad
 La Unidad de Investigación, o la que haga sus veces, es la unidad encargada de integrar las actividades de Investigación de la Facultad. Está dirigida por un docente con grado de Doctor.
 **Artículo 38. Función y dirección de la Unidad de Posgrado**
 La Unidad de Posgrado, o la que haga sus veces, es la unidad encargada de integrar las actividades de Posgrado de la Facultad. Está dirigida por un docente con igual o mayor grado a los que otorga.
-**Artículo 39. Régimen de Estudios** 
+**Artículo 39. Régimen de Estudios**
 El régimen de estudios se establece en el Estatuto de cada universidad, preferentemente  bajo el sistema semestral, por créditos y con currículo flexible. Puede ser en la modalidad presencial, semipresencial o a distancia.
 El crédito académico es una medida del tiempo formativo exigido a los estudiantes, para lograr aprendizajes teóricos y prácticos.
 Para estudios presenciales se define un crédito académico como equivalente a un mínimo de dieciséis (16) horas lectivas de teoría o el doble de horas de práctica.
@@ -532,7 +532,7 @@ El Decano tiene las siguientes atribuciones:
 **70.8** Las demás atribuciones que el Estatuto le asigne.
 **Artículo 71. Elección del Decano**
 Es elegido mediante votación universal, obligatoria, directa y secreta por todos los docentes ordinarios y estudiantes matriculados de la Facultad, con el mismo procedimiento para la elección del Rector y los Vicerrectores establecido en la presente Ley.
-**Artículo 72. El Comité Electoral Universitario de la universidad pública** 
+**Artículo 72. El Comité Electoral Universitario de la universidad pública**
 Cada universidad pública tiene un Comité Electoral Universitario que es elegido por la Asamblea Universitaria cada vez que ocurre un proceso electoral, con una anticipación no menor de seis (6) meses previos a dicho proceso, y constituido por tres (3) profesores principales, dos (2) asociados y un (1) auxiliar, y por tres (3) estudiantes. Está prohibida la reelección de sus miembros.
 El Comité Electoral es autónomo y se encarga de organizar, conducir y controlar los procesos electorales, así como de pronunciarse sobre las reclamaciones que se presenten. Sus fallos son inapelables.
 El  sistema electoral es el de lista completa. El voto de los electores es personal, obligatorio, directo y secreto. El Estatuto de cada universidad pública norma el funcionamiento del Comité Electoral Universitario, de acuerdo a la presente Ley.
@@ -623,7 +623,7 @@ Los docentes gozan de los siguientes derechos:
 **88.11** Gozar de incentivos a la excelencia académica, los que se determinan en el Estatuto.
 **88.12** Los derechos y beneficios previsionales conforme a ley.
 **88.13** Los otros que dispongan los órganos competentes.
-**Artículo 89. Sanciones** 
+**Artículo 89. Sanciones**
 Los docentes que transgredan los principios, deberes, obligaciones y prohibiciones en el ejercicio de la función docente, incurren en responsabilidad administrativa y son pasibles de sanciones según la gravedad de la falta y la jerarquía del servidor o funcionario; las que se aplican en observancia de las garantías constitucionales del debido proceso. Las sanciones son:
 **89.1** Amonestación escrita.
 **89.2** Suspensión en el cargo hasta por treinta (30) días sin goce de remuneraciones.
@@ -634,10 +634,10 @@ Las sanciones señaladas no eximen de las responsabilidades civiles y penales a 
 Cuando el proceso administrativo contra un docente que se origina por la presunción de hostigamiento sexual en agravio de un miembro de la comunidad universitaria o los delitos de violación contra la libertad sexual, apología del terrorismo, terrorismo y sus formas agravadas, corrupción de funcionarios y/o tráfico ilícito de drogas; así como incurrir en actos de violencia que atenten contra los  derechos fundamentales de la persona y contra el patrimonio que impiden el normal funcionamiento de servicios públicos, el docente es separado preventivamente sin perjuicio de la sanción que se imponga.
 **Artículo 91. Calificación y gravedad de la falta**
 Es atribución del órgano de gobierno correspondiente, calificar la falta o infracción atendiendo la naturaleza de la acción u omisión, así como la gravedad de las mismas, en el marco de las normas vigentes.
-**Artículo 92. Amonestación escrita** 
+**Artículo 92. Amonestación escrita**
 El incumplimiento de los principios, deberes, obligaciones y prohibiciones en el ejercicio de la función docente, debidamente comprobado y calificado como leve, es pasible de amonestación escrita.
 La sanción es impuesta por la autoridad inmediata superior, según corresponda.
-**Artículo 93. Suspensión** 
+**Artículo 93. Suspensión**
 Cuando el incumplimiento de los principios, deberes, obligaciones y prohibiciones en el ejercicio de la función docente, debidamente comprobado, no pueda ser calificado como leve por las circunstancias de la acción u omisión, será pasible de suspensión en el cargo hasta por treinta (30) días sin goce de remuneraciones.
 Asimismo, el docente que incurre en una falta o infracción, habiendo sido sancionado, previamente en dos (2) ocasiones con amonestación escrita, es pasible de suspensión.
 La sanción es impuesta por la autoridad inmediata superior, según corresponda.
@@ -840,7 +840,7 @@ El proceso de acreditación universitaria hace suyo el enfoque de responsabilida
 En las universidades privadas se establecen becas totales o parciales que cubran los derechos de enseñanza, sobre la base de criterios de rendimiento académico, deportivo y situación económica.
 En las universidades públicas se puede establecer programas de ayuda para que sus estudiantes puedan cumplir con sus tareas formativas en las mejores condiciones; procurando apoyo en alimentación, materiales de estudio e investigación y otros.
 Todos los alumnos universitarios gozan del pasaje universitario, que consiste en el 50% del precio regular ofrecido al público en general.
-**Artículo 128. Seguro universitario** 
+**Artículo 128. Seguro universitario**
 Las universidades pueden ofrecer un seguro a los miembros de la comunidad universitaria.
 **Artículo 129. Integración de personas con discapacidad en la comunidad universitaria**
 Las universidades implementan todos los servicios que brindan considerando la integración a la comunidad universitaria de las personas con discapacidad, de conformidad con la Ley 29973, Ley General de la Persona con Discapacidad.
@@ -1004,22 +1004,22 @@ Presidente Constitucional de la República
 **RENÉ CORNEJO DÍAZ**
 Presidente del Consejo de Ministros
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

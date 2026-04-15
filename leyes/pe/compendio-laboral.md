@@ -17,10 +17,10 @@ disclaimer: true
 
 # Compendio LP de normas laborales régimen privado
 
-Inicio ** Laboral ** Compendio LP de normas laborales - Laboral
+Inicio ** Laboral ** Compendio LP de normas laborales- Laboral
 - Normas legales
 # Compendio LP de normas laborales [actualizado 2023]
-Por LP • Pasión por el Derecho -                  18 febrero, 2022                                            El derecho laboral peruano cuenta con una gran cantidad normas que regulan las relaciones de trabajo. Estas abarcan el tipo de contratación, los beneficios sociales del trabajador, regímenes especiales, protección de trabajadores en vulnerabilidad, entre otros.
+Por LP • Pasión por el Derecho - 18 febrero, 2022El derecho laboral peruano cuenta con una gran cantidad normas que regulan las relaciones de trabajo. Estas abarcan el tipo de contratación, los beneficios sociales del trabajador, regímenes especiales, protección de trabajadores en vulnerabilidad, entre otros.
 Sin embargo, no encontramos un solo dispositivo normativo que articule el total de las normas laborales en concordancia. El objetivo de una norma de esta característica permitiría tener un índice general; además, podríamos articular el uso de las leyes que regulen aspectos en común.
 No hay certeza de cuándo podamos tener un cuerpo normativo completo, general y totalizador de las relaciones laborales. Hasta entonces, el equipo de **LP Pasión por el Derecho** ha hecho el esfuerzo de recopilar las normas laborales más importantes. Este compendio seguirá actualizándose y será la manera de continuar colaborando con la comunidad jurídica.
 En este compendio podrá encontrar un panorama general de la normativa laboral nacional, cuyo contenido se actualiza día a día.
@@ -46,12 +46,12 @@ Ley del Servicio Civil
 Régimen disciplinario y procedimiento sancionador de la Ley N° 30057, Ley del Servicio Civil
 CONTRATO ADMINISTRATIVO DE SERVICIO (CAS)
 **• Decreto Legislativo 1057**
-Decreto que regula el régimen de contratación administrativa de servicios 
+Decreto que regula el régimen de contratación administrativa de servicios
 **DECRETO LEGISLATIVO 276**
 **• Decreto Legislativo 276**
 Ley de Bases de la Carrera Administrativa
 • Decreto Supremo N° 05-90-PCM
-Reglamento de Ley de la Carrera Administrativa 
+Reglamento de Ley de la Carrera Administrativa
 **MODALIDADES FORMATIVAS LABORALES**
 **• LEY N° 28518 **
 Ley sobre modalidades formativas laborales
@@ -59,7 +59,7 @@ Ley sobre modalidades formativas laborales
 Aprueban Reglamento de la Ley sobre modalidades formativas laborales
 LABORAL ESPECIAL
 **• LEY N° 29973**
-Ley General de la Persona con Discapacidad 
+Ley General de la Persona con Discapacidad
 **• LEY N° 27986**
 Ley de los trabajadores del hogar y su Reglamento
 **• LEY 31110**
@@ -205,22 +205,22 @@ Decreto Supremo que incrementa la Remuneración Mínima Vital de los trabajadore
 [Continúa&#8230;]
 ## **Descargue aquí el compendio completo**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

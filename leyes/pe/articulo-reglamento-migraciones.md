@@ -19,7 +19,7 @@ disclaimer: true
 
 - Penal
 # Reglamentan Ley de Migraciones y crean nuevas calidades migratorias
-Por LP • Pasión por el Derecho -                      28 marzo, 2017                                                        El día de ayer, 27 de marzo se publicó en el diario oficial El Peruano el Reglamento de la nueva **Ley de Migraciones, aprobado mediante D.L. 1350**, que otorga la calidad migratoria de trabajador a los extranjeros para que desarrollen actividades económicas y/o laborales, lo que conlleva a su capacidad de tributación en el Perú.
+Por LP • Pasión por el Derecho - 28 marzo, 2017El día de ayer, 27 de marzo se publicó en el diario oficial El Peruano el Reglamento de la nueva **Ley de Migraciones, aprobado mediante D.L. 1350**, que otorga la calidad migratoria de trabajador a los extranjeros para que desarrollen actividades económicas y/o laborales, lo que conlleva a su capacidad de tributación en el Perú.
 **Te puede interesar: ¿Qué ha dicho el Tribunal Constitucional sobre el derecho a la intimidad genética?**
 La norma permite que los extranjeros que laboran en empresas foráneas con sede en Perú, y que han obtenido la calidad migratoria de designado, accedan no solo a su permanencia temporal, sino también a una residencia, si su plazo de asignación supera los 365 días, lo cual les permite obtener el carné de extranjería, abrir una cuenta bancaria, transferir dinero, adquirir bienes y, por consiguiente, tributar.
 **Lee también: El uso de sentencias extranjeras en los tribunales constitucionales**

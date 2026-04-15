@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Artículos ** ¿Cómo calcular una liquidación de beneficios sociales?- Artículos
 - Laboral
 # ¿Cómo calcular una liquidación de beneficios sociales?
-Por LP • Pasión por el Derecho -                  28 octubre, 2021                                            Una vez terminada la relación laboral por renuncia, despido, no renovación de contratos, jubilación, mutuo disenso, etc. el trabajador tiene derecho a la liquidación de beneficios sociales. Este documento se debe entregar junto con el certificado de trabajo y la constancia de cese.
+Por LP • Pasión por el Derecho - 28 octubre, 2021Una vez terminada la relación laboral por renuncia, despido, no renovación de contratos, jubilación, mutuo disenso, etc. el trabajador tiene derecho a la liquidación de beneficios sociales. Este documento se debe entregar junto con el certificado de trabajo y la constancia de cese.
 - Lea también: **¿Qué son las vacaciones truncas? ¿Cómo calcularlas?**
 Aquí se consideran los **conceptos truncos**, es decir aquellos beneficios que se han generado pero que no cumplen con la característica de pagarse en la fecha que la ley establece, sino que son pagados antes.
 - Lea también: **Todo sobre los beneficios sociales en el ordenamiento peruano**
@@ -126,22 +126,22 @@ Este concepto no está sujeto a ningún descuento por lo que se debe entregar de
 En nuestro programa Calculo laboral, abordamos el tema con diversos ejemplos.
 Revive el programa **Aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-Elani Yahaira Mamani Gutiérrez -                 4 abril, 2026                            La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
-4 abril, 2026                            ### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
-4 abril, 2026                            ### Alianza Lima: abren investigación tras muerte de una persona y decenas...
-4 abril, 2026                            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Elani Yahaira Mamani Gutiérrez - 4 abril, 2026La Sala Especializada en Eliminación de Barreras Burocráticas del Indecopi declaró ilegal la exigencia de presentar una copia del contrato de trabajo como requisito...### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+4 abril, 2026### Dictan detención a policías que habrían intervenido en casa de ciudadanas...
+4 abril, 2026### Alianza Lima: abren investigación tras muerte de una persona y decenas...
+4 abril, 2026### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
 3 abril, 2026

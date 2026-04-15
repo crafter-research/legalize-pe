@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Civil ** Los 10 artículos del título preliminar del Código Civil- Civil
 # Los 10 artículos del título preliminar del Código Civil
-Por Saúl José Coca Guzmán -                  6 julio, 2021                                            **Sumario.-** 1**. **Introducción, 2. Los 10 artículo del título preliminar del Código Civil, 2.1. Abrogación de la ley, 2.2. Ejercicio abusivo del derecho, 2.3. Aplicación de la ley en el tiempo, 2.4. Aplicación analógica de la ley, 2.5. Orden público, buenas costumbres y nulidad del acto jurídico, 2.6. Interés para obrar, 2.7. Aplicación de norma pertinente por el juez, 2.8. Obligación de suplir los defectos o deficiencias de la ley, 2.9. Aplicación supletoria del Código Civil, 2.10. Vacíos de la ley.
+Por Saúl José Coca Guzmán - 6 julio, 2021**Sumario.-** 1**. **Introducción, 2. Los 10 artículo del título preliminar del Código Civil, 2.1. Abrogación de la ley, 2.2. Ejercicio abusivo del derecho, 2.3. Aplicación de la ley en el tiempo, 2.4. Aplicación analógica de la ley, 2.5. Orden público, buenas costumbres y nulidad del acto jurídico, 2.6. Interés para obrar, 2.7. Aplicación de norma pertinente por el juez, 2.8. Obligación de suplir los defectos o deficiencias de la ley, 2.9. Aplicación supletoria del Código Civil, 2.10. Vacíos de la ley.
 Lea también: **Código Civil peruano [realmente actualizado]**
 ## **1. Introducción**
 Es erróneo pensar que el título preliminar del Código Civil (en adelante TPCC) resulta de aplicación solo al campo del derecho civil excluyendo otras áreas del derecho privado como el derecho laboral y derecho comercial. Ya que su alcance trasciende las fronteras del derecho privado alcanzando al derecho público, es así que también resulta aplicable al derecho constitucional, derecho administrativo, derecho tributario, derecho penal, etc.
@@ -112,22 +112,22 @@ Colegimos que, *prima facie,* la obligación de dar cuentas al Congreso de las l
 **Constitucionalmente** hablando tienen derecho a **iniciativa en la formación de leyes** la Corte Suprema (Poder del Estado: Judicial), el Tribunal Constitucional (órgano constitucional autónomo) y la Fiscalía de la Nación (Órgano constitucional autónomo) en las materias que les son propias.
 La **Corte Suprema, el Tribunal Constitucional y el Fiscal de la Nación** apenas adviertan una laguna o norma defectuosa, deberán proponer respectivamente como colmarla o interpretarla adecuadamente (iniciativa legislativa), posteriormente dicha propuesta será enviada al Congreso (dación de cuentas), quien finalmente decidirá si la aprueba o no, la modifica o crea una nueva ley distinta a la propuesta.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-Civil            ### Descargue en PDF los plenos jurisdiccionales del año 2025
-Civil            ### La necesidad obligatoria de los alimentos
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+Civil### Descargue en PDF los plenos jurisdiccionales del año 2025
+Civil### La necesidad obligatoria de los alimentos
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

@@ -77,13 +77,13 @@ CADENA FUNCIONAL PROGRAMATICA
 
 CERTIFICADO N° 0450
 
-| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS |  |  |
+| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS | | |
 | --- | --- | --- | --- |
-| SECCION FUNCIONAL | 007 GESTION DEL PROGRAMA |  |  |
-| GENERICA DE GASTO | 2.3. BIENES Y SERVICIOS |  |  |
+| SECCION FUNCIONAL | 007 GESTION DEL PROGRAMA | | |
+| GENERICA DE GASTO | 2.3. BIENES Y SERVICIOS | | |
 | CLASIFICADOR | 2.3.2.1.1.1. | $ 766.72*T.C. 3.35 | S/ 2,568.51 |
-| 2.3.2.1.1.2. | $ 370*T.C. 3.35*7dias | S/ 8,676.50 |  |
-| MONTO TOTAL | S/ 11,245.01 |  |  |
+| 2.3.2.1.1.2. | $ 370*T.C. 3.35*7dias | S/ 8,676.50 | |
+| MONTO TOTAL | S/ 11,245.01 | | |
 
 Que, con Oficio N° 144-AE-URH-UNP-2026 del 02.Mar.2026,, el Abog. Leopoldo Jesús García Vega, Jefe de la Unidad de Recursos Humanos señala: “(…) relacionado con la solicitud de licencia con goce de haber a favor del servidor docente Dr. Ing. Wilmer Arévalo Nima, a fin de participar en la delegación del SPE UNP STUDENT CHAPTER DE LA UNP, en el “2026 LATIN AMERICA AND THE CARIBBEAN STUDENT” organizado por la Society of Petroleum Engineers (SPE), a realizarse en la ciudad de Buenos Aires - República de Argentina. Del 12 al 18.May.2026. Sobre el particular, se hace mención que la licencia cuenta con acuerdo de Consejo de Facultad en su Sesión Extraordinaria N° 01, de fecha 27.Ene.2026, la cual autoriza al Dr. Ing. Wilmer Arévalo Nima, Decano de la Facultad de Ingeniería de Minas, para participar con la Delegación de SPE UNP STUDENT CHAPTER de la UNP. Siendo así, esta Unidad de Recursos Humanos considera procedente el otorgamiento de la licencia con goce de haber que nos ocupa, por el tiempo comprendida entre el 12 al 18.May.2026.”;
 
@@ -113,13 +113,13 @@ CADENA FUNCIONAL PROGRAMATICA
 
 CERTIFICADO N° 0450
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 Artículo 4°.- DISPONER, la presentación de la respectiva rendición de cuentas, en el plazo dispuesto en el Artículo 6° del D.S. N° 047-2002-PCM, modificado por el D.S. N° 056-2013-PCM.
 

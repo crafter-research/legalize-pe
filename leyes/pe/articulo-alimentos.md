@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Civil ** Todo lo que debes conocer sobre el derecho de alimentos- Civil
 - Familia
 # Todo lo que debes conocer sobre el derecho de alimentos
-Por LP • Pasión por el Derecho -                  9 junio, 2021                                            El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Instituciones del derecho familiar no patrimonial peruano* (2018, PUCP), escrito por el profesor **Roger Rodríguez Iturri**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, los alimentos. Así que los animamos a leer el libro.
+Por LP • Pasión por el Derecho - 9 junio, 2021El Fondo Editorial PUCP liberó su colección «Lo esencial del derecho». Ahí destaca el libro *Instituciones del derecho familiar no patrimonial peruano* (2018, PUCP), escrito por el profesor **Roger Rodríguez Iturri**. Compartimos este fragmento del texto que explica, de manera ágil y sencilla, los alimentos. Así que los animamos a leer el libro.
 Lea también: **Diplomado Derecho de familia y procesal familiar. Dos libros gratis y pago en dos cuotas hasta el 4 de enero**
 # **Los alimentos**
 ## **1. Naturaleza jurídica de los alimentos**
@@ -108,22 +108,22 @@ De acuerdo al inciso 6 del artículo 648 del Código Procesal Civil, son bienes 
 ## **17. Fijación de alimentos a modo de protección**
 Según la Ley sobre violencia contra la mujer e integrantes del grupo familiar, 30364, el juez de familia puede fijar alimentos tutelares, según el caso.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-Civil            ### Descargue en PDF los plenos jurisdiccionales del año 2025
-Civil            ### La necesidad obligatoria de los alimentos
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+Civil### Descargue en PDF los plenos jurisdiccionales del año 2025
+Civil### La necesidad obligatoria de los alimentos
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
 4 abril, 2026

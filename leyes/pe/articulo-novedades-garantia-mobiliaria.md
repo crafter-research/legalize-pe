@@ -19,7 +19,7 @@ disclaimer: true
 
 - Civil
 # Novedades del nuevo régimen de garantía mobiliaria y los principios registrales afectados
-Por LP • Pasión por el Derecho -                      5 febrero, 2019                                                        **Escribe: Pamela Huamaní Servellón**
+Por LP • Pasión por el Derecho - 5 febrero, 2019**Escribe: Pamela Huamaní Servellón**
 *Asistente registral, zona registral XI &#8211; Sede Ica*
 El pasado 8 de enero venció el plazo para la emisión del Reglamento del Decreto Legislativo 1400 (publicado el 10/09/2018), y que aprueba el nuevo régimen de garantía mobiliaria. Respecto a esta nueva norma es preciso recordar que ha sido emitida en virtud de la delegación de poderes conferido por el Congreso de la República al Poder Ejecutivo mediante Ley 30823 (18/7/2018), que delega en dicho poder del Estado, entre otras, la facultad de legislar en materia de gestión económica, competitividad y de modernización en la gestión del Estado, estableciendo un nuevo régimen en materia de garantía mobiliaria, que hasta antes de la expedición de dicha norma, se venía rigiendo por la Ley 28677.
 Lea también: **Aprueban nuevo Régimen de Garantía Mobiliaria [D.L. 1400]**

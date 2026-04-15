@@ -22,7 +22,7 @@ Inicio ** Administrativo ** El proceso contencioso administrativo: principios, p
 - Artículos y monografías
 - Contencioso administrativo
 # El proceso contencioso administrativo: principios, partes, vía procedimental, modelo de demanda
-Escribe Gustavo de la Vega Pacchioni, abogado por la Universidad Científica del Sur.Por Juris.pe -                  30 junio, 2022                                            **Sumario.** 1. Principios del proceso contencioso administrativo; 2. ¿En qué casos se puede iniciar un acto administrativo contencioso?; 3. ¿Qué actos administrativos no son impugnables en procesos contenciosos administrativos?; 4. Partes procesales.; 4.1 Legitimidad para obrar activa., 4.2 Legitimidad para obrar activa en tutela de intereses difusos.; 4.3 Legitimidad para obrar pasiva., 4.4 Representación.; 5. Vía procedimental y plazos., 5.1 Proceso urgente, 5.2 Proceso ordinario, 5.3 Plazos.; 6. Conclusión del proceso.;  7. Modelo de demanda.
+Escribe Gustavo de la Vega Pacchioni, abogado por la Universidad Científica del Sur.Por Juris.pe - 30 junio, 2022**Sumario.** 1. Principios del proceso contencioso administrativo; 2. ¿En qué casos se puede iniciar un acto administrativo contencioso?; 3. ¿Qué actos administrativos no son impugnables en procesos contenciosos administrativos?; 4. Partes procesales.; 4.1 Legitimidad para obrar activa., 4.2 Legitimidad para obrar activa en tutela de intereses difusos.; 4.3 Legitimidad para obrar pasiva., 4.4 Representación.; 5. Vía procedimental y plazos., 5.1 Proceso urgente, 5.2 Proceso ordinario, 5.3 Plazos.; 6. Conclusión del proceso.;  7. Modelo de demanda.
 ## **1. Principios del proceso contencioso administrativo**
 Los principios del proceso contencioso administrativo son fundamentales para su inicio, ya que su vulneración implica una afectación directa a la tutela jurisdiccional efectiva. Recordemos que los principios otorgan garantías a los derechos fundamentales de los administrados. En ese sentido el artículo 139 de la Constitución Política del Perú señala que son principios: […] «la observancia del debido proceso y la tutela jurisdiccional».
 Además, el proceso contencioso administrativo consta de 4 principios según el Texto Único Ordenado de la Ley 27584, que son lo siguientes:
@@ -62,9 +62,9 @@ La legitimidad para obrar pasiva significa quienes son los pasibles de recibir u
 1. La entidad administrativa que expidió en última instancia el acto o la declaración administrativa impugnada.
 2. La entidad administrativa cuyo silencio, inercia u omisión es objeto del proceso.
 3. La entidad administrativa cuyo acto u omisión produjo daños y su resarcimiento es discutido en el proceso.
-4. La entidad administrativa y el particular que participaron en un procedimiento administrativo trilateral. 
-5. El particular titular de los derechos declarados por el acto cuya nulidad pretenda la entidad administrativa que lo expidió en el supuesto previsto en el segundo párrafo del artículo 13. 
-6. La entidad administrativa que expidió el acto y la persona en cuyo favor se deriven derechos de la actuación impugnada en el supuesto previsto en el segundo párrafo del artículo 13. 
+4. La entidad administrativa y el particular que participaron en un procedimiento administrativo trilateral.
+5. El particular titular de los derechos declarados por el acto cuya nulidad pretenda la entidad administrativa que lo expidió en el supuesto previsto en el segundo párrafo del artículo 13.
+6. La entidad administrativa que expidió el acto y la persona en cuyo favor se deriven derechos de la actuación impugnada en el supuesto previsto en el segundo párrafo del artículo 13.
 7. Las personas jurídicas bajo el régimen privado que presten servicios públicos o ejercen función administrativa, en virtud de concesión, delegación o autorización del Estado están incluidas en los supuestos previstos precedentemente, según corresponda.
 ### **4.4 Representación**
 La representación se encuentra y la defensa de la administración pública se encuentran a cargo de la Procuraduría Pública competente, de cada institución, a excepción de norma que señale un representante judicial de la entidad.
@@ -72,18 +72,18 @@ Lea también: **Diplomado en Derecho Administrativo, procedimiento sancionador 
 ## **5. Vía procedimental y plazos**
 ### **5.1 Proceso Urgente**
 El proceso urgente se caracteriza por «admitir y resolver a la brevedad algunos reclamos específicos como las demandas sobre otorgamiento de pensión»[4]. En ese sentido el TUO de la Ley 27584 solo admite los procesos urgentes si las pretensiones tienen los siguientes supuestos.
-1. El cese de cualquier actuación material que no se sustente en acto administrativo. 
-2. El cumplimiento por la administración de una determinada actuación a la que se encuentre obligada por mandato de la ley o en virtud de acto administrativo firme. 
+1. El cese de cualquier actuación material que no se sustente en acto administrativo.
+2. El cumplimiento por la administración de una determinada actuación a la que se encuentre obligada por mandato de la ley o en virtud de acto administrativo firme.
 3. Las relativas a materia previsional en cuanto se refieran al contenido esencial del derecho a la pensión.
 ### **5.2 Proceso ordinario**
 El proceso ordinario se tramita sobre el resto de pretensiones no previstas en el artículo 25 del TUO de la Ley 27584 con cumplimento de las reglas contenidas en el artículo 27.1 de la Ley mencionada.
 ### **5.3 Plazos**
 Los plazos están señalados textualmente en el artículo 27.2 del TUO de la Ley 27584 y son los siguientes:
-a) Tres días para interponer tacha u oposiciones a los medios probatorios, contados desde la notificación de la resolución que los tiene por ofrecidos; 
+a) Tres días para interponer tacha u oposiciones a los medios probatorios, contados desde la notificación de la resolución que los tiene por ofrecidos;
 b) Cinco días para interponer excepciones o defensas, contados desde la notificación de la demanda;
-c) Diez días para contestar la demanda, contados desde la notificación de la resolución que la admite a trámite; 
-d) Tres días para solicitar informe oral, contados desde la notificación de la resolución que dispone que el expediente se encuentra en el estado de dictar sentencia; 
-e) Quince días para emitir sentencia, contados desde la vista de la causa. De no haberse solicitado informe oral ante el juez de la causa, el plazo se computa desde el día siguiente de vencido el plazo para dicha solicitud. 
+c) Diez días para contestar la demanda, contados desde la notificación de la resolución que la admite a trámite;
+d) Tres días para solicitar informe oral, contados desde la notificación de la resolución que dispone que el expediente se encuentra en el estado de dictar sentencia;
+e) Quince días para emitir sentencia, contados desde la vista de la causa. De no haberse solicitado informe oral ante el juez de la causa, el plazo se computa desde el día siguiente de vencido el plazo para dicha solicitud.
 f) Cinco días para apelar la sentencia, contados desde su notificación.
 ## **6. Conclusión del proceso**
 La conclusión del proceso se da con una sentencia que declara fundada la demanda y podrá decidir en función de la pretensión lo siguiente:
@@ -137,22 +137,22 @@ A UD. pido admitir la presente demanda.
 [5] Pacori Cari, José María. Ibíd. 2020, pp. 269-271.
 Lea también: **Diplomado en Derecho Administrativo, procedimiento sancionador y gestión pública**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

@@ -20,7 +20,7 @@ disclaimer: true
 - Normas legales
 - Noticias
 # Reglamentan D.L. que regula el régimen común sobre propiedad industrial
-Por Claudia Beltrán Felipa -                      29 mayo, 2017                                                        ## **Aprueban el Reglamento del Decreto Legislativo N° 1075, Decreto Legislativo que aprueba disposiciones complementarias a la Decisión 486 de la Comunidad Andina que establece el Régimen Común sobre Propiedad Industrial y sus modificaciones**
+Por Claudia Beltrán Felipa - 29 mayo, 2017## **Aprueban el Reglamento del Decreto Legislativo N° 1075, Decreto Legislativo que aprueba disposiciones complementarias a la Decisión 486 de la Comunidad Andina que establece el Régimen Común sobre Propiedad Industrial y sus modificaciones**
 ## **DECRETO SUPREMO ****N° 059-2017-PCM**
 **EL PRESIDENTE DE LA REPÚBLICA**
 **CONSIDERANDO:**

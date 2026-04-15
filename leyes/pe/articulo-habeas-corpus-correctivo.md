@@ -20,7 +20,7 @@ disclaimer: true
 - Constitucional
 - Penal
 # El Tribunal Constitucional y el hábeas corpus correctivo
-Por Jorge A. Pérez López -                      26 febrero, 2018                                                        **Sumario: **I. Introducción. II. Definición del hábeas corpus correctivo. III. Casos en los que corresponde la interposición del hábeas corpus correctivo. IV. La constatación in situ de las condiciones de reclusión. V. Exigencias prácticas del hábeas corpus correctivo.
+Por Jorge A. Pérez López - 26 febrero, 2018**Sumario: **I. Introducción. II. Definición del hábeas corpus correctivo. III. Casos en los que corresponde la interposición del hábeas corpus correctivo. IV. La constatación in situ de las condiciones de reclusión. V. Exigencias prácticas del hábeas corpus correctivo.
 # **I. INTRODUCCIÓN**
 La expresión latina *habeas corpus* significa **“traer el cuerpo”**, **“que tengas el cuerpo”**. Esta expresión se entiende como la presentación de un detenido ante el juez, con el objeto de que este examine la causa de la detención y disponga su arresto o libertad, según sea el caso[1]. Esta concepción es restringida en cuanto a su significado y responde a los alcances que tenía esta garantía constitucional en sus orígenes.
 Lea también: **La validez constitucional del aborto terapéutico**

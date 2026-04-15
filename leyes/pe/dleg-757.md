@@ -23,7 +23,7 @@ DECRETO LEGISLATIVO N° 757 - APRUEBAN LEY MARCO PARA EL CRECIMIENTO DE LA INVER
 Decreto Legislativo publicado el 13 de noviembre de 1991. Modificado por Ley N° 25541 publicada el 11 de junio de 1992, Decreto Ley N° 25596 publicado el 4 de julio de 1992, Ley N° 26092 publicada el 28 de diciembre de 1992, Ley N° 26724 publicada el 29 de diciembre de 1996, Ley N° 26734 publicada el 31 de diciembre de 1996 y Ley N° 26786 publicada el 13 de mayo de 1997.
 EL PRESIDENTE DE LA REPUBLICA
 POR CUANTO:
-El Congreso de la República, de conformidad con lo dispuesto por el artículo 188 de la Constitución Política del Perú, mediante Ley N° 25327, deleg� en el Poder Ejecutivo, entre otras la facultad de dictar Decretos Legislativos orientados a crear las condiciones necesarias para la inversión privada de los diferentes sectores productivos;
+El Congreso de la República, de conformidad con lo dispuesto por el artículo 188 de la Constitución Política del Perú, mediante Ley N° 25327, deleg en el Poder Ejecutivo, entre otras la facultad de dictar Decretos Legislativos orientados a crear las condiciones necesarias para la inversión privada de los diferentes sectores productivos;
 Que es necesario consolidar el programa de Reformas Estructurales de la economía que ha emprendido el Gobierno, motivo por el cual resulta pertinente expedir una Ley Marco que contenga las disposiciones requeridas para el crecimiento de la inversión privada en todos los sectores de la economía;
 Que para cumplir con dicha finalidad resulta indispensable eliminar todas las trabas y distorsiones legales y administrativas que entorpecen el desarrollo de las actividades económicas y restringen la libre iniciativa privada, restando competitividad a las empresas privadas, la que es esencial para una exitosa inserción en el mercado internacional;
 Que asimismo, es necesario dictar disposiciones que otorguen seguridad jurídica a los inversionistas e incentivar un modelo de desarrollo que armonice la inversión productiva con la conservación del medio ambiente;
@@ -34,7 +34,6 @@ LEY MARCO PARA EL CRECIMIENTO DE LA INVERSION PRIVADA
 TITULO I DE LOS ALCANCES DE LA LEY
 Artículo 1.- La presente Ley tiene por objeto garantizar la libre iniciativa y las inversiones privadas, efectuadas o por efectuarse, en todos los sectores de la actividad económica y en cualesquiera de las formas empresariales o contractuales permitidas por la Constitución y las Leyes.
 Establece derechos, garantías y obligaciones que son de aplicación a todas las personas naturales o jurídicas, nacionales o extranjeras, que sean titulares de inversiones en el país. Sus
-
 
 
 normas son de observancia obligatoria por todos los organismos del Estado, ya sean del Gobierno Central, Gobiernos Regionales, o Locales, a todo nivel.
@@ -53,7 +52,6 @@ En ningén caso se otorgará a las empresas del Estado atribuciones de imperio o
 Artículo 8.- El Estado garantiza la propiedad privada sin más límites que los que establece la Constitución Política.
 
 
-
 En aplicación del artículo 131 de la Constitución Política, que reconoce la libertad empresarial, y en concordancia con las disposiciones contempladas en el presente capítulo, el Estado no expropiará empresas ni acciones o participaciones en ellas, salvo los casos de interés nacional debidamente sustentados mediante Ley del Congreso de la República.
 Artículo 9.- De conformidad con lo prescrito en los artículos 130 y 131 de la Constitución Política, toda empresa tiene derecho a organizar y desarrollar sus actividades en la forma que juzgue conveniente.
 Queda derogada toda disposición legal que fije modalidades de producción o ándices de productividad, que prohiba u obligue a la utilización de insumos o procesos tecnológicos y, en general, que intervenga en los procesos productivos de las empresas en función al tipo de actividad económica que desarrollen, su capacidad instalada, o cualquier otro factor económico similar, salvo las disposiciones legales referidas a la higiene y seguridad industrial, la conservación del medio ambiente y la salud.
@@ -62,9 +60,8 @@ La distribución de utilidades de las empresas del sistema financiero se rige po
 Artículo 11.- El Estado asegura la prestación de servicios públicos básicos promoviendo la participación del sector privado, a fin de mejorar la calidad de los servicios.
 Artículo 12.- El Estado no establece tratamientos discriminatorios ni diferenciados en materia cambiaria, precios, tarifas o derechos no arancelarios, entre los inversionistas y las empresas en que éstos participen ni basíndose en sectores o tipo de actividad económica o en la ubicación geográfica de las empresas. Tampoco podrá establecerlos entre las personas naturales nacionales o extranjeras.
 Ninguna autoridad, funcionario o empleado del Gobierno Central, Gobiernos Regionales o Locales en cualesquiera de sus niveles, ni empresas del Estado, podrá establecer o aplicar tratamientos discriminatorios ni diferenciados, de conformidad con lo dispuesto en el presente artículo, bajo responsabilidad.
-Artículo 13.- De conformidad con lo prescrito en el último párrafo del artículo 126 de la Constitución Política, decl�rase de necesidad nacional la inversión privada, nacional y extranjera, en actividades productivas realizadas o por realizarse en las zonas de frontera del país. En consecuencia, las personas naturales y jurídicas extranjeras podrán adquirir concesiones y derechos sobre minas, tierras, bosques, aguas, combustibles, fuentes de energía y otros recursos que sean necesarios para el desarrollo de sus actividades productivas dentro de cincuenta kilómetros de las fronteras del país, previa autorización otorgada mediante resolución suprema refrendada por el Ministro que ejerza la Presidencia del Consejo de Ministros y el Ministro del Sector Correspondiente. Dicha resolución suprema podrá establecer las condiciones a las cuales se sujeta la adquisición o explotación.
+Artículo 13.- De conformidad con lo prescrito en el último párrafo del artículo 126 de la Constitución Política, declrase de necesidad nacional la inversión privada, nacional y extranjera, en actividades productivas realizadas o por realizarse en las zonas de frontera del país. En consecuencia, las personas naturales y jurídicas extranjeras podrán adquirir concesiones y derechos sobre minas, tierras, bosques, aguas, combustibles, fuentes de energía y otros recursos que sean necesarios para el desarrollo de sus actividades productivas dentro de cincuenta kilómetros de las fronteras del país, previa autorización otorgada mediante resolución suprema refrendada por el Ministro que ejerza la Presidencia del Consejo de Ministros y el Ministro del Sector Correspondiente. Dicha resolución suprema podrá establecer las condiciones a las cuales se sujeta la adquisición o explotación.
 Las autoridades sectoriales competentes otorgarán las concesiones y otras formas de autorización para la explotación de recursos naturales ubicados dentro de cincuenta kilómetros
-
 
 
 de las fronteras del país en favor de las personas naturales o jurídicas extranjeras que lo soliciten, previo cumplimiento de las disposiciones legales aplicables y luego de verificar que se hayan expedido la resolución suprema a la que se refiere el párrafo anterior.
@@ -82,7 +79,6 @@ c) Cuando los Gobiernos Locales crean, modifican o suprimen contribuciones, arbi
 2. En caso de creación de las contribuciones, arbitrios o derechos, que establezca expresamente la materia imponible, el hecho generador del tributo, lo sujetos pasivos, así como el plazo de vigencia del tributo que se autoriza a crear y, de ser el caso, los agentes perceptores o retenedores. Iguales requisitos se exigen para la modificación de las contribuciones arbitrios o derechos, en cuanto sean aplicables.
 
 
-
 Las contribuciones, arbitrios y derechos se aprueban por Edicto Municipal, conforme a lo establecido en el presente inciso y dentro de los siguientes límites:
 2.1. Las contribuciones de mejoras son los pagos obligatorios que deben realizar los contribuyentes a las Municipalidades por los beneficios individuales comprobables que obtengan de la realización de obras públicas.
 El rendimiento de las contribuciones solamente será destinado a la recuperación de la inversión realizada en dichas obras públicas o al financiamiento de su mantenimiento,
@@ -95,7 +91,6 @@ e) Cuando se modifica la cuantéa de los tributos denominados tasas por decreto 
 Artículo 15.- El principio de publicidad en materia tributaria supone que todas las normas tributarias deben ser publicadas en el diario oficial con una anticipación no menor de cinco (05) días calendario al vencimiento de la fecha en que las obligaciones tributarias formales o sustanciales sean exigibles, a fin de permitir el cumplimiento de las mismas por los contribuyentes.
 Tratándose de Decretos Legislativos, los mismos deberán ser publicados dentro del plazo previsto para el ejercicio de las facultades delegados y con la anticipaci én indicada en el párrafo anterior.
 Artículo 16.- Las empresas y sus inversiones tendrán derecho acceder en vía de impugnación ante el Tribunal Fiscal o el Tribunal de Aduanas, en su caso, en las materias relativas a los impuestos, contribuciones, tasas, arbitrios, derechos registrales, aranceles, tasas y otros derechos que se cobre por la tramitación de procedimientos administrativos, debiándose sujetarse al procedimiento de Ley. El Tribunal Fiscal o el Tribunal de Aduanas, según corresponda constituye la última instancia administrativa.
-
 
 
 TITULO IV DE LA SEGURIDAD JURIDICA DE LAS INVERSIONES EN MATERIA
@@ -115,7 +110,6 @@ a. Si es de aprobación automética, de acuerdo con lo prescrito en el artículo
 1 Mediante el Decreto Supremo N° 094-92-PCM, publicado el 2 de enero de 1993 e incluido en este Compendio, se reglamentaron las normas relativas a la seguridad jurídica en materia administrativa previstas en el Título IV del Decreto Legislativo N° 757.
 
 
-
 2.1 Si vencido el plazo correspondiente procede el silencio administrativo positivo o negativo, conforme a lo prescrito en los artículos 25 y 26 del presente Decreto Legislativo; o,
 2.2 Si no procede la aplicación de los plazos ni opera el silencio administrativo, por tratarse de los procedimientos administrativos a que se refiere el artículo 27 del presente Decreto Legislativo:
 d) Los casos en que proceda el pago de derechos y el monto de los mismos;
@@ -132,7 +126,6 @@ Artículo 23.- Solamente podrá exigirse a los interesados el cumplimiento de lo
 Artículo 24.- Las solicitudes presentadas ante las distintas entidades de la Administración Pública a que se refiere el artículo 20 del presente Decreto Legislativo, se considerarán
 
 
-
 autométicamente aprobadas el mismo día de la presentación del recurso o formato correspondientes, siempre que se cumpla con los requisitos y se entregue la documentación completa exigidos por el TUPA para cada caso.
 Para efectos de lo dispuesto en el párrafo anterior, bastará como constancia de la aprobación automética de la solicitud, la copia del recurso o format o que haya presentado el interesado, que contenga el sello oficial de recepción.
 Artículo 25.- En casos excepcionales, podrá establecerse que los procedimientos administrativos requerirán de evaluación previa, lo que se deberá expresar en el TUPA. En estos casos, la entidad pertinente contará con un plazo máximo de 30 días calendario para emitir el pronunciamiento correspondiente, contados a partir de la fecha de la presentación de la solicitud o formato. Transcurrido dicho plazo sin que medie pronunciamiento definitivo, el trámite se considerará aprobado.
@@ -144,30 +137,27 @@ Artículo 30.- Las entidades a que se refiere e l artículo 22 del presente Decr
 Cuando el TUPA exija la presentación de formularios o formatos, la Administración Pública aceptará la presentación de copias simples de los formatos correspondientes en reemplazo de los originales, salvo que estos últimos sean de distribución gratuita y están a disposición de los interesados.
 
 
-
 Artículo 31.- Las entidades a que se refiere el artículo 20 del presente Decreto Legislativo podrán solicitar las copias de documentos que hayan sido expedidos por la misma entidad, ni documentación que haya sido presentada con anterioridad por el interesado ante dicha entidad que no haya perdido su validez o vigencia, según está establecida en el mismo documento.
 Artículo 32.- Las copias de documentos, están o no certificadas por notarios, funcionarios o servidores públicos en el ejercicio de sus funciones, tendrán el mismo valor que los originales para el cumplimiento de los requisitos correspondientes a los procedimientos administrativos seguidos ante cualquier entidad de la Administración Pública a que se refiere el artículo 20 del presente Decreto Legislativo. Dichas entidades no exigirán la presentación de traducciones oficiales bastando que se presente traducción simple bajo responsabilidad solidaria del traductor y el interesado.
 Artículo 33.- La presentación de documentos o recursos, el retiro de notificaciones, certificados, pronunciamientos o descuentos, el requerimiento de información por los interesados, así como cualquier otra gestión de carácter administrativo, deberá realizarse durante el horario de atención pública. Por ningén motivo las entidades de la Administración Pública fraccionarán su horario de atención para dedicar una parte del tiempo a atender sólo determinados asuntos.
 Artículo 34.- Las entidades de la Administración Pública a que se refiere el artículo 20 del presente Decreto Legislativo deberán establecer una sola oficina de trámite documentario, a través de la cual los interesados realizarán todas las gestiones y obtendrán la información que requieran para la realización de los procedimientos administrativos.
 CAPITULO III DE LA TRANSPARENCIA EN LA TRAMITACION DE PROCEDIMIENTOS
 ADMINISTRATIVOS
-Artículo 35.- Los documentos, antecedentes, estudios, dictómenes, opiniones, datos estad�sticos y toda otra información que las entidades del sector público tengan en su poder, debe ser suministrados a los particulares que así lo soliciten. En caso de ser necesaria la expedición de copias, los interesados deberán sufragar los correspondientes gastos. Quedan exceptuadas la documentación e información que puedan afectar a la seguridad nacional y las relaciones exteriores, las que tengan alcances y circulación meramente internos de la administración pública, y las correspondientes a los particulares que tengan carácter reservado conforme a los dispositivos legales vigentes o que se refieran a secretos comerciales o tecnológicos.
+Artículo 35.- Los documentos, antecedentes, estudios, dictómenes, opiniones, datos estadsticos y toda otra información que las entidades del sector público tengan en su poder, debe ser suministrados a los particulares que así lo soliciten. En caso de ser necesaria la expedición de copias, los interesados deberán sufragar los correspondientes gastos. Quedan exceptuadas la documentación e información que puedan afectar a la seguridad nacional y las relaciones exteriores, las que tengan alcances y circulación meramente internos de la administración pública, y las correspondientes a los particulares que tengan carácter reservado conforme a los dispositivos legales vigentes o que se refieran a secretos comerciales o tecnológicos.
 Artículo 36.- Los funcionarios y servidores públicos que incumplan las disposiciones contenidas en el artículo 24 del presente Decreto Legislativo, incurrirán en falta disciplinaria sancionable de conformidad con lo dispuesto en el artículo 26 del Decreto Legislativo N° 276. Los interesados podrán interponer, indistinta o conjuntamente, el recurso de queja a que se refiere el artículo 108 del Decreto Supremo N° 006-67-SC, dirigirse al órgano de control interno de la entidad respectiva, o interponer el recurso de queja ante el Fiscal de la Nación a que se refiere el artículo 67 del Decreto Legislativo N° 52, sin perjuicio de las acciones civiles o penales a que hubiera lugar.
 Artículo 37.- Las personas a quienes los funcionarios o servidores públicos soliciten un donativo, una promesa o cualquier ventaja indebida para favorecer, realizar u omitir un trámite, ya sea en cumplimiento o en violación de sus funciones podrán denunciar tales hechos, indistinta o conjuntamente, al órgano de control interno de la entidad respectiva o al Ministerio Público conforme a lo dispuesto en los artículos 11, 12 y 13 del Decreto Legislativo N° 52, sin perjuicio de las acciones civiles o penales a que hubiera lugar.
-
 
 
 TITULO V DE LA ESTABILIDAD JURIDICA DE LAS INVERSIONES
 CAPITULO PRIMERO DE LOS CONVENIOS DE ESTABILIDAD JURIDICA
 Artículo 38.- El presente capítulo otorga a los inversionistas nacionales y a las empresas en que éstos participan, un tratamiento igual al establecido en el título II del Decreto Legislativo N° 662, de manera tal que las indicadas disposiciones y las contenidas en este capítulo son aplicables en la misma medida a los inversionistas nacionales y extranjeros y a las empresas en que éstos participan.
 Artículo 39.- Los convenios de estabilidad jurídica se celebran al amparo del artículo 1357 del Código Civil y tienen la calidad de contratos con fuerza de Ley, de manera que no pue den ser modificados o dejados sin efecto unilateralmente por el Estado. Tales contratos tienen carácter civil y no administrativo, y sólo podrán modificarse o dejarse sin efecto por acuerdo entre las partes.
-Artículo 40.- Los convenios que se celebran al amparo del artículo 12 del Decreto Legislativo N° 662 pueden tener por objeto también garantizar la estabilidad del régimen tributario aplicable a las empresas receptoras de la inversión, exclusivamente en cuanto a los impuestos cuya materia imponible está constituida por la renta de las empresas, siempre y cuando el monto total de las nuevas inversiones, recibidas por la empresa sea mayor al 50% de su capital y reservas y está destinado a la ampliación de la capacidad productiva o al mejoramiento tecnol�gi co. Asimismo, se podrá celebrar tales convenios cuando se trate de la transferencia de más del 50% de las acciones de las empresas comprendidas en la actividad empresarial del Estado.
+Artículo 40.- Los convenios que se celebran al amparo del artículo 12 del Decreto Legislativo N° 662 pueden tener por objeto también garantizar la estabilidad del régimen tributario aplicable a las empresas receptoras de la inversión, exclusivamente en cuanto a los impuestos cuya materia imponible está constituida por la renta de las empresas, siempre y cuando el monto total de las nuevas inversiones, recibidas por la empresa sea mayor al 50% de su capital y reservas y está destinado a la ampliación de la capacidad productiva o al mejoramiento tecnolgi co. Asimismo, se podrá celebrar tales convenios cuando se trate de la transferencia de más del 50% de las acciones de las empresas comprendidas en la actividad empresarial del Estado.
 Artículo 41.- Los Convenios de Estabilidad que se celebren al amparo del título II del Decreto Legislativo N° 662 pueden tener por objeto también garantizar la estabilidad del régimen tributario aplicable a los contratos de arrendamiento financiero, siempre que el valor de los bienes objeto del contrato no sea inferior a US$ 2,000.000; o siendo menor, con un límite no inferior a US$ 500,000, la adquisición de los bienes determine la generación directa o indirecta de más de veinte puestos de trabajo permanente o no menos de US$ 2,000.000 de ingreso de divisas por concepto de exportaciones durante los tres años siguientes a la suscripción del convenio, sin que exista obligación de aporte de capital o plazos mínimos.
 Artículo 42.- El Estado podrá aprobar la cesión de posición contractual realizada por un inversionista en favor de otro inversionista con respecto al convenio de estabilidad jurídica que hubiera celebrado.
 Artículo 43.- Todos los trámites y procedimientos relativos a los convenios de estabilidad jurídica que sigan los inversionistas nacionales, se realizarán ante la dependencia que designe el Ministerio del Sector correspondiente.
 Artículo 44.- Los Gobiernos Regionales y Locales podrán celebrar convenios de estabilidad jurídica con los inversionistas que efectéen inversiones en sus respectivas jurisdicciones, y con las empresas establecidas o que se establezcan en ellas, exclusivamente con respecto a las materias de su competencia.
 Artículo 45.- Los derechos, garantías y seguridades contempladas en el presente capítulo no limitan en forma alguna la facultad de los inversionistas o empresas de acogerse también a regúmenes previstos en otros dispositivos legales.
-
 
 
 CAPITULO SEGUNDO DE LOS SEGUROS DE LA INVERSION PRIVADA
@@ -182,7 +172,6 @@ Artículo 50.- Las autoridades sectoriales competentes para conocer sobre los as
 En caso de que la empresa desarrollara dos o más actividades de competencia de distintos sectores, será la autoridad sectorial competente la que corresponda a la actividad de la empresa por la que se generen mayores ingresos brut os anuales.
 Artículo 51.- La Autoridad Sectorial Competente comunicará al Consejo Nacional del Ambiente - CONAM, sobre las actividades a desarrollarse en su sector, que por su riesgo ambiental, pudieran exceder los niveles o estándares tolerables de contaminación o deterioro del ambiente, las que obligatoriamente deberán presentar estudios de impacto ambiental previos a su ejecución y, sobre los limites máximos permisibles del impacto ambiental acumulado.
 Asimismo, propondrá al Consejo Nacional del Ambiente -CONAM:
-
 
 
 a) Los requisitos para la elaboración de los Estudios de Impacto Ambiental y Programas de Adecuación del Manejo Ambiental;
@@ -200,7 +189,6 @@ Artículo 54.- La calidad de área natural protegida solamente puede otorgarse p
 El establecimiento de áreas naturales protegidas no tiene efectos retroactivos ni afecta los derechos adquiridos con anterioridad a la creación de las mismas.
 
 
-
 Artículo 55.- Está prohibido internar al territorio nacional residuos o desechos, cualquiera sea su origen o estado material, que por su naturaleza, uso o fines, resultare peligrosos o radiactivos. Por decreto supremo que cuente con el voto aprobatorio d el Consejo de Ministros se establecerá la relación de dichos bienes. El internamiento de cualquier otro tipo de residuos o desechos sólo podrá estar destinado a su reciclaje, reutilización o transformación.
 Artículo 56.- El Estado puede adjudicar tierras con fines de ecoturismo a particulares, en propiedad o en uso, previa presentación del denuncio correspondiente.
 DISPOSICIONES COMPLEMENTARIAS
@@ -211,25 +199,23 @@ PRIMERA. - Las medidas excepcionales de interés nacional que deben adoptarse en
 SEGUNDA.- Los incrementos en precios y tarifas o las mejoras remunerativas se sujetarán a las siguientes reglas:
 a) Los precios y tarifas que por mandato legal sean fijados administrativamente se reajustarán teniendo en consideración factores económicos y no sistemas o métodos de reajuste autométicos basados en ándices de variación de precios; y,
 b) Los pactos, convenios colectivos de trabajo no podrán contener sistemas de reajuste automético de remuneraciones fijados en función a ándices de variación de precios, o ser pactados o referidos a moneda extranjera.
-Los trabajadores del régimen de la actividad privada regidos total o parcialmente por normas, pactos o cl�usulas de dicha ándole, tienen derecho a solicitar el reajuste de sus remuneraciones y la mejora de las condiciones de trabajo a través del procedimiento de la negociación colectiva, al igual que los demás trabajadores del régimen comén de la actividad privada, debiendo considerarse, entre otros factores, el incremento de la producción y la productividad. (Texto según la modificación dispuesta por el artículo 2 de la Ley N° 25541)
+Los trabajadores del régimen de la actividad privada regidos total o parcialmente por normas, pactos o clusulas de dicha ándole, tienen derecho a solicitar el reajuste de sus remuneraciones y la mejora de las condiciones de trabajo a través del procedimiento de la negociación colectiva, al igual que los demás trabajadores del régimen comén de la actividad privada, debiendo considerarse, entre otros factores, el incremento de la producción y la productividad. (Texto según la modificación dispuesta por el artículo 2 de la Ley N° 25541)
 TERCERA. - Con el objeto de promover las inversiones privadas en los sistemas de administración de fondos colectivos y de garantizar su adecuado funcionamiento, créase el Registro de Bienes Muebles de los Sistemas de Administración de Fondos Colectivos, el que estará a cargo de la Comisión Nacional Supervisora de Empresas y Valores.
 Por decreto supremo, refrendado por el Ministro de Economía y Finanzas, deberá aprobarse el Reglamento de Registro a que se refiere el párrafo anterior en un plazo que no excederá de 60 días calendario.
 
 
-
 Para efectos del cálculo de los derechos a que se refiere el artículo 4 del Decreto Ley N° 23186, no se tomará en cuenta las cuotas capitales de las empresas administradoras de fondos colectivos, por cuanto no constituyen ingresos efectivos de las mismas.
 CUARTA.- En las asociaciones civiles, para la inscripción en el registro pertinente de los integrantes del Consejo Directivo, bastará la presentación de copia del acta de la Asamblea General de Asociados en la que conste dicho acuerdo. Igualmente, en el caso de gerentes y demás apoderados, bastará la presentación de la copia del acta del órgano competente. Esta disposición rige para todas las inscripciones que se realicen a partir de la fecha de vigencia del presente Decreto Legislativo, aunque los acuerdos o nombramientos se hubieran producido anteriormente.
-QUINTA.- Prec�sase que las entidades del extranjero pueden realizar negocios en el país mediante apoderados con facultades especiales o generales, para lo cual pueden contratar personal y obtener los registros laborales y de otra ándole que sean necesarios para el desarrollo de sus actividades. El nombramiento de los apoderados de dichas entidades se inscriben en el Registro Mercantil, para lo cual se abrirá partidas especiales en cada caso.
+QUINTA.- Precsase que las entidades del extranjero pueden realizar negocios en el país mediante apoderados con facultades especiales o generales, para lo cual pueden contratar personal y obtener los registros laborales y de otra ándole que sean necesarios para el desarrollo de sus actividades. El nombramiento de los apoderados de dichas entidades se inscriben en el Registro Mercantil, para lo cual se abrirá partidas especiales en cada caso.
 SEXTA.- Entióndase que a toda mención a "sueldos mínimos vitales mensuales" hecha en los artículos 1623, 1624 y 1625° del Código Civil, se entenderá referida a Unidades Impositivas Tributarias (UIT).
 SETIMA.- Sustitéyase el inciso 3 del artículo 359 de la Ley General de Sociedades, cuyo texto único ordenado ha sido aprobado por el Decreto Supremo N° 003-85-JUS, por el siguiente:
-"3. P�rdidas que, al cierre del ejercicio soc ial, reduzcan el patrimonio social a cantidad inferior a la tercera parte del capital, salvo que se reintegre o se reduzca, o que los accionistas directamente o por intermedios de terceros otorguen garantía en beneficio de los acreedores de la sociedad, que cuente con la aceptación de estos, por un monto equivalente al de la reducción del patrimonio social".
+"3. Prdidas que, al cierre del ejercicio soc ial, reduzcan el patrimonio social a cantidad inferior a la tercera parte del capital, salvo que se reintegre o se reduzca, o que los accionistas directamente o por intermedios de terceros otorguen garantía en beneficio de los acreedores de la sociedad, que cuente con la aceptación de estos, por un monto equivalente al de la reducción del patrimonio social".
 OCTAVA.- Disposición derogada por el inciso a del artículo 2 del Decreto Ley N° 26092.
 NOVENA.- Toda mención hecha en el Decreto Legislativo N° 613 Código del Medio Ambiente y los Recursos Naturales a "autoridades", "autoridad competente" o "autoridad ambiental" se entenderá referida a la autoridad sectorial competente, es decir, al Ministerio del Sector correspondiente a la actividad que se desarrolla.
 Asimismo, toda prohibición hecha en dicha norma legal de contaminar el medio ambiente, se entenderá referida a la que exceda los niveles tolerables de contaminación establecidos para cada efluente por la autoridad sectorial competente, tomando en consideración la degradación acumulativa.
 DECIMA.- Sustitéyase el artículo 137 del Decreto Legislativo N° 613 por el siguiente:
 "Artículo 137.- Las acciones interpuestas en defensa del medio ambiente o cuya materia principal tiene dicho propósito, son ejercidas ante el juez del lugar donde se afecté el derecho o donde tiene su domicilio el demandado".
 DECIMA PRIMERA. - Quien inicie una acción ante el Poder Judicial al amparo de lo dispuesto en el segundo párrafo del artículo 3 del título preliminar del Decreto Legislativo N° 613 que sea desestimada, será responsable por los daños y perjuicios que hubiera causado.
-
 
 
 DECIMA SEGUNDA.- Quedan exceptuadas del plazo dispuesto en el artículo 15 del presente Decreto Legislativo, las normas legales por medio de las cuales se fija el Impuesto Selectivo al Consumo que afecta a los combustibles.
@@ -241,7 +227,7 @@ PRIMERA. - Disposición derogada por la Segunda Disposición Final del Decreto L
 SEGUNDA.- Suspóndase hasta el 31 de diciembre de 1997, lo dispuesto en el último párrafo del Artículo 169, en el segundo párrafo del artículo 222 y en el inciso 3 del artículo 359 del Texto Unico Ordenado de la Ley General de Sociedades, aprobados por Decreto Supremo N° 003-85JUS. (Texto según la modificación dispuesta por el artículo 1 de la Ley N° 26724)
 TERCERA. - Las disposiciones contenidas en Leyes y decretos Legislativos que establezcan o regulen sistemas para la fijación de tarifas públicas, que se encuentren vigentes a la fecha de entrada en vigor del presente Decreto Legislativo, subsistirán hasta que por decreto supremo se adecuen a lo prescrito en el primer párrafo del artículo 4 de esta norma legal.
 CUARTA.- En tanto no sea aprobado el respectivo TUPA a que se refiere el capítulo II del título IV del presente Decreto Legislativo, las dependencias de la Administración Pública, sean del Gobierno Central, los Gobiernos Regionales o Locales, no podrán elevar los derechos por la realización de procedimientos administrativos vigentes a la fecha de entrada en vigor de este Decreto Legislativo.
-QUINTA.- Prec�sase que las disposiciones contenidas en los artículos 5 y 29 del Decreto Legislativo N° 662 implican que los derecho s, tasas o aranceles administrativos cobrados a inversionistas extranjeros deben ser reducidos a los niveles de los cobrados a los nacionales al momento de la entrada en vigencia del Decreto Legislativo N° 662.
+QUINTA.- Precsase que las disposiciones contenidas en los artículos 5 y 29 del Decreto Legislativo N° 662 implican que los derecho s, tasas o aranceles administrativos cobrados a inversionistas extranjeros deben ser reducidos a los niveles de los cobrados a los nacionales al momento de la entrada en vigencia del Decreto Legislativo N° 662.
 DISPOSICIONES FINALES
 PRIMERA. - Deróguese las siguientes disposiciones legales:
 a) El artículo V del título preliminar, los artículos 8, 17, 18, 56, 57, 58, 89, 107, y 115 y los capítulos XXI y XXII del Decreto Legislativo N° 613.
@@ -250,9 +236,8 @@ c) El inciso 1 del artículo 1599 y el inciso 2 del artículo 1913 del Código C
 d) Los Decretos Supremos N° 020-90-TR, 021-90-TR y el inciso c del artículo 1 del Decreto Supremo N° 034-90-TR.
 
 
-
 e) Los Decretos Supremos N° 399-86-EF, 400-86-EF, 226-90-EF, 254-90-EF y demás disposiciones complementarias, modificatorias y reglamentarias; y,
 f) Toda otra norma legal que se oponga a lo dispuesto en el presente Decreto Legislativo.
 SEGUNDA.- Manténgase la vigencia de lo dispuesto en la décima quinta disposición complementaria del Decreto Legislativo N° 653.
-Lo establecido en el artículo 12 del presente Decreto Legislativo no comprende las disposiciones vigentes en defensa del productor agrario, incluyendo los derechos espe c�ficos, sobretasas y cl�usulas de salvaguardia.
+Lo establecido en el artículo 12 del presente Decreto Legislativo no comprende las disposiciones vigentes en defensa del productor agrario, incluyendo los derechos espe cficos, sobretasas y clusulas de salvaguardia.
 TERCERA. - El presente Decreto Legislativo entrará en vigencia treinta días después de su publicación en diario oficial "El Peruano".

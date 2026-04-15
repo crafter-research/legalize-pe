@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** Reglamento de la Ley que incorpora al personal CAS indeterminado de Essalud...- Administrativo
 - Normas legales
 # Reglamento de la Ley que incorpora al personal CAS indeterminado de Essalud al régimen laboral del DL 728 [Decreto Supremo 007-2023-TR]
-Publicado en el diario oficial El Peruano el 06 de julio de 2023Por Elani Yahaira Mamani Gutiérrez -                  6 julio, 2023                                            A través del **Decreto Supremo 007-2023-TR**, aprueban el Reglamento de la Ley 31703 que incorpora al personal CAS indeterminado de Essalud al régimen laboral del DL 728.
+Publicado en el diario oficial El Peruano el 06 de julio de 2023Por Elani Yahaira Mamani Gutiérrez - 6 julio, 2023A través del **Decreto Supremo 007-2023-TR**, aprueban el Reglamento de la Ley 31703 que incorpora al personal CAS indeterminado de Essalud al régimen laboral del DL 728.
 ### **Decreto Supremo que aprueba el Reglamento de la Ley N° 31703, Ley que incorpora al Régimen Laboral del Decreto Legislativo 728, Ley de Productividad y Competitividad Laboral, a los trabajadores del Seguro Social de Salud (ESSALUD) que se encuentran bajo el Régimen del Contrato Administrativo de Servicios (CAS) con contrato a plazo indeterminado**
 ### **DECRETO SUPREMO Nº 007-2023-TR**
 **LA PRESIDENTA DE LA REPÚBLICA**
@@ -112,22 +112,22 @@ ESSALUD debe adoptar todas las medidas y acciones necesarias para garantizar la 
 ### **ANEXO**
 ### **Descargue el decreto aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

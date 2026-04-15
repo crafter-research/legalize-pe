@@ -79,13 +79,13 @@ CADENA FUNCIONAL PROGRAMÁTICA
 
 CERTIFICADO N° 1822
 
-| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS |  |
+| RUBRO DE FINANCIAMIENTO | 00 RECURSOS ORDINARIOS | |
 | --- | --- | --- |
-| SECCIÓN FUNCIONAL | 007 GESTIÓN DEL PROGRAMA |  |
-| GENÉRICA DE GASTO | 2.3. BIENES Y SERVICIOS |  |
+| SECCIÓN FUNCIONAL | 007 GESTIÓN DEL PROGRAMA | |
+| GENÉRICA DE GASTO | 2.3. BIENES Y SERVICIOS | |
 | CLASIFICADOR | 2.3.2.1.1.1. | S/ 5,352.07 |
 | 2.3.2.1.1.2. | $ 370*T.C. 3.35*9dias | S/ 11,155.50 |
-| MONTO TOTAL | S/ 16,507.57 |  |
+| MONTO TOTAL | S/ 16,507.57 | |
 
 Que, mediante Informe Legal N° 414-2026-OCAJ-UNP, la Abog. Evelyn M. Adrianzen Palacios, Jefe (e) de la Oficina Central de Asesoría Jurídica, recomienda textualmente lo siguiente: “Que, se deberá declarar PROCEDENTE la autorización del viaje del Decano de la Facultad de Arquitectura y Urbanismo de esta Casa Superior de Estudios, Arq. A. David Choquehuanca Panta, según señala el Acuerdo de Sesión de Consejo de Facultad del 27.Feb.2026 -el cual obra en el Oficio N° 041-UNP-FAU/2026-; (…) b) Asimismo, de declare PROCEDENTE la solicitud de otorgamiento de la LICENCIA CON GOCE DE HABER, en mérito a la opinión técnica emitida por parte del Especialista del Área de Escalafón adscrito a la Unidad de Recursos Humanos, quien mediante Oficio N° 0185-URH-AE-UNP-2026 del 24.Mar.2026, da cuenta respecto a la procedencia a la LICENCIA CON GOCE DE HABER del 14 al 22.Abr.2026 en beneficio al Decano Arq. A. David Choquehuanca Panta. c) Se debe REMITIR lo actuado al pleno del Consejo Universitario, para que dicho Órgano de Gobierno actúe conforme a sus atribuciones conferidas por ley y se emita el documento resolutivo correspondiente, cuya resolución deberá ser publicada en el Diario Oficial El Peruano conforme a lo previsto en el Decreto Supremo Nº 047-2002-PCM (modificado por el Decreto Supremo N°056-2013-PCM).”;
 
@@ -111,13 +111,13 @@ CADENA FUNCIONAL PROGRAMÁTICA
 
 CERTIFICADO N° 1822
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 Artículo 4°.- DISPONER, la presentación de la respectiva rendición de cuentas, en el plazo dispuesto en el Artículo 6° del D.S. N° 047-2002-PCM, modificado por el D.S. N° 056-2013-PCM.
 

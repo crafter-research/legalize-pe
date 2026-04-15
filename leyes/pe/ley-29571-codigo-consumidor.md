@@ -17,11 +17,11 @@ disclaimer: true
 
 # Código de Protección y Defensa del Consumidor
 
-Inicio ** Administrativo ** Código de Protección y Defensa del Consumidor (Ley 29571) - Administrativo
+Inicio ** Administrativo ** Código de Protección y Defensa del Consumidor (Ley 29571)- Administrativo
 - Legislación
 - Legislación Básica
 # Código de Protección y Defensa del Consumidor (Ley 29571) [actualizado 2026]
-Por LP • Pasión por el Derecho -                  11 noviembre, 2025                                            Compartimos con ustedes el **Código de Protección y Defensa del Consumidor**, **Ley 29571**, promulgado el 2 de setiembre de 2010.
+Por LP • Pasión por el Derecho - 11 noviembre, 2025Compartimos con ustedes el **Código de Protección y Defensa del Consumidor**, **Ley 29571**, promulgado el 2 de setiembre de 2010.
 Este texto está actualizado al mes de febrero de 2026. La última modificación se produjo mediante el DL 1729, publicado el 12 de febrero de 2026.
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione Control+F y le aparecerá un recuadro para que lo escriba.
 ## **CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR **
@@ -43,7 +43,7 @@ El presente Código tiene la finalidad de que los consumidores accedan a product
 **3.** Están también comprendidas en el presente Código las operaciones a título gratuito cuando tengan un propósito comercial dirigido a motivar o fomentar el consumo.
 **Artículo IV.- Definiciones **
 Para los efectos del presente Código, se entiende por:
-**1. Consumidores o usuarios** 
+**1. Consumidores o usuarios**
 **1.1** Las personas naturales o jurídicas que adquieren, utilizan o disfrutan como destinatarios  finales productos o servicios materiales e inmateriales, en beneficio propio o de su grupo familiar o social, actuando así en un ámbito ajeno a una actividad empresarial o profesional. No se considera consumidor para efectos de este Código a quien adquiere, utiliza o disfruta de un producto o servicio normalmente destinado para los fines de su actividad como proveedor.
 **1.2** Los microempresarios que evidencien una situación de asimetría informativa con el proveedor respecto de aquellos productos o servicios que no formen parte del giro propio del negocio.
 **1.3** En caso de duda sobre el destino final de determinado producto o servicio, se califica como consumidor a quien lo adquiere, usa o disfruta.
@@ -1123,22 +1123,22 @@ Presidente Constitucional de la República
 Presidente del Consejo de Ministros
 ## **Descargue el PDF aquí**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Civil ** Breves comentarios sobre el nuevo Reglamento de Inscripción de Cooperativas (RIC)- Civil
 # Breves comentarios sobre el nuevo Reglamento de Inscripción de Cooperativas (RIC)
-* Abogado por la Universidad Nacional Mayor de San Marcos con estudios de maestría en derecho civil y comercial por la misma casa de estudios y en derecho privado europeo por la Università degli Studi “Mediterranea” de Reggio Calabria (Italia). Abogado del Tribunal Registral y miembro de la Red de Capacitadores Registrales de la Superintendencia Nacional de los Registros Públicos.Por Javier Enrique Echevarría Calle -                  7 marzo, 2023                                            **Sumario:** **1.** Introducción, **2.** Ámbito de aplicación, principios y demás normas aplicables, **3.** Algunas novedades introducidas por el RIC, **4.** A manera de conclusión.
+* Abogado por la Universidad Nacional Mayor de San Marcos con estudios de maestría en derecho civil y comercial por la misma casa de estudios y en derecho privado europeo por la Università degli Studi “Mediterranea” de Reggio Calabria (Italia). Abogado del Tribunal Registral y miembro de la Red de Capacitadores Registrales de la Superintendencia Nacional de los Registros Públicos.Por Javier Enrique Echevarría Calle - 7 marzo, 2023**Sumario:** **1.** Introducción, **2.** Ámbito de aplicación, principios y demás normas aplicables, **3.** Algunas novedades introducidas por el RIC, **4.** A manera de conclusión.
 ## **1. Introducción**
 Recientemente ha visto la luz en el diario oficial *El Peruano* la Resolución 026-2023-SUNARP/SA[1] que aprueba el Reglamento RE-001-SNR-DTR o Reglamento de Inscripción de Cooperativas (RIC), que tiene como objeto regular la inscripción de los actos inscribibles relativos a las organizaciones cooperativas conforme a lo previsto en el Texto Único Ordenado (TUO) de la Ley General de Cooperativas (LGC), la Ley 30822, la Ley 31029 y demás normas complementarias.
 La citada Resolución prevé que este nuevo reglamento entre en vigor a los quince días calendarios contados desde el día siguiente de su publicación[2].
@@ -81,22 +81,22 @@ No resulta aplicable supletoriamente la parte final del art. 163 de la Ley Gener
 **Alcances del artículo 4 de la Ley 31029, que precisa que lo señalado en el tercer párrafo del artículo 163 de la Ley General de Sociedades, sobre continuidad en funciones, aunque hubiese concluido el período, mientras no se produzca nueva elección, se aplica a los consejos y comités de las organizaciones cooperativas.**
 De conformidad con el artículo 4 de la ley 31029, los consejos y comités de las organizaciones cooperativas continúan en funciones, aunque hubiese concluido su período, mientras no se produzca nueva elección, siempre que el vencimiento del período de funciones hubiere ocurrido a partir del inicio del Estado de Emergencia. La misma regla se aplica para las renovaciones por tercios de dichos órganos.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Civil            ### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
-Civil            ### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
-**                Civil            ### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
-Civil            ### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
-Civil            ### Descargue en PDF los plenos jurisdiccionales del año 2025
-Civil            ### La necesidad obligatoria de los alimentos
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-LP • Pasión por el Derecho -                 4 abril, 2026                            3. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
-4 abril, 2026                            ### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
+Civil### ¿Puedo embargar a un perro en el Perú para que me paguen una deuda?
+Civil### Alimentos: Aunque el padre percibe al mes dos sueldos mínimos (como gerente general de una empresa y como administrador de una notaría), sus cuentas...
+** Civil### [VÍDEO] Mario Castillo: Nunca se olviden de que la vida no es solo la profesión
+Civil### Interpretación sistemática: Cuando existe mala fe tanto en el constructor como en el propietario del suelo, corresponde que este último, de haberse amparado su...
+Civil### Descargue en PDF los plenos jurisdiccionales del año 2025
+Civil### La necesidad obligatoria de los alimentos
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de...
+LP • Pasión por el Derecho - 4 abril, 20263. CONCLUSIÓN: 3.1. En el marco de la normativa de contrataciones públicas, se establece que, independientemente de si el contrato - derivado de un...### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+4 abril, 2026### Martín Vizcarra: PJ anula resolución que rechazó su excarcelación y ordena...
 4 abril, 2026

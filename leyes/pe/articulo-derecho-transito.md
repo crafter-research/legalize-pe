@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** Introducción al derecho administrativo de tránsito- Administrativo
 - Artículos
 # Introducción al derecho administrativo de tránsito
-Por José María Pacori Cari -                  9 enero, 2025                                            **Sumario: 1.** ¿Qué es el tránsito? &#8211;** 2.** ¿Qué es el Derecho Administrativo de Tránsito? &#8211;** 3.** Normatividad básica &#8211;** 4.** Principios del Derecho Administrativo de Tránsito &#8211; **5.** Autoridades de Tránsito &#8211; **6.** Actividad de fiscalización &#8211; **7.** Procedimiento administrativo sancionador de tránsito &#8211; **8.** Infracciones de tránsito &#8211;** 9.** Sanciones administrativas &#8211; **10.** Medidas preventivas &#8211; **11.** Registro Nacional de Sanciones
+Por José María Pacori Cari - 9 enero, 2025**Sumario: 1.** ¿Qué es el tránsito? &#8211;** 2.** ¿Qué es el Derecho Administrativo de Tránsito? &#8211;** 3.** Normatividad básica &#8211;** 4.** Principios del Derecho Administrativo de Tránsito &#8211; **5.** Autoridades de Tránsito &#8211; **6.** Actividad de fiscalización &#8211; **7.** Procedimiento administrativo sancionador de tránsito &#8211; **8.** Infracciones de tránsito &#8211;** 9.** Sanciones administrativas &#8211; **10.** Medidas preventivas &#8211; **11.** Registro Nacional de Sanciones
 Inscríbete aquí Más información
 #### **Fundamentos del Derecho Administrativo de Tránsito**
 *De lege patere quam ipse fecisti*[1]. La circulación de peatones y conductores de vehículos en la vía pública es fiscalizada por las autoridades de tránsito, con la finalidad de garantizar una sociedad libre y democrática que respete los derechos y libertades de cada uno de los ciudadanos que se desplazan en la vía pública.
@@ -100,7 +100,7 @@ Por su parte, la Defensoría del Pueblo en el Oficio 0174-2022-DP/AMASPPI del 12
 *“De conformidad con lo expuesto, **la municipalidad distrital no puede ejercer el control del tránsito terrestre, por ser competencia de la municipalidad provincial**, la que con el apoyo de la Policía Nacional del Perú, supervisa, controla y sanciona las infracciones sobre la materia, incluidas las faltas relacionadas al estacionamiento vehicular” (el resaltado es nuestro).*
 Asimismo, las municipalidades distritales realizarán, en materia de vialidad, la instalación, mantenimiento y renovación de los sistemas de señalización de tránsito en su jurisdicción[30].
 **5.5. La Policía Nacional del Perú**. En materia de tránsito terrestre, a través del efectivo asignado al control del tránsito o al control de carreteras, es competente para[31]:
-- 
+-
 - Garantizar y controlar la libre circulación en las vías públicas del territorio nacional.
 - Fiscalizar el cumplimiento de las normas de tránsito y seguridad vial por los usuarios de la infraestructura vial; así como aplicar medidas preventivas.
 - Ejercer funciones de control, dirigiendo y vigilando el normal desarrollo del tránsito.
@@ -137,14 +137,14 @@ En caso se determine que no existe responsabilidad administrativa respecto de lo
 El administrado puede interponer únicamente el recurso de apelación contra la Resolución Final; el plazo para interponer dicho recurso es de quince (15) días hábiles desde su notificación[52].
 **8. INFRACCIONES DE TRÁNSITO**
 Las infracciones de tránsito se clasifican de la siguiente forma[53]:
-- 
+-
 - Del conductor, *verbi gratia*, conducir un vehículo automotor sin tener licencia de conducir.
 - Del peatón, *verbi gratia*, cruzar de manera intempestiva o temerariamente la calzada, sin respetar las normas de tránsito.
 Las infracciones de tránsito para los efectos de las sanciones se califican como Leves (L), Graves (G), y Muy Graves (MG)[54].
 **9. SANCIONES ADMINISTRATIVAS**
 Las infracciones de tránsito son sancionadas por la Autoridad Competente que corresponda[55], esto es, las sanciones que se impongan por infracciones de tránsito son aplicadas por la SUTRAN o la Municipalidad Provincial, según corresponda[56].
 **9.1. Sanciones aplicables a los conductores**. Las sanciones administrativas aplicables a los conductores por las infracciones de tránsito son[57]:
-- 
+-
 - Multa.
 - Suspensión de la licencia de conducir.
 - Cancelación definitiva de la licencia de conducir e inhabilitación del conductor.
@@ -237,22 +237,22 @@ Inscríbete aquí Más información
 [62] Cfr. Artículo 322 Código de Tránsito, Perú
 [63] Cfr. Artículo 322 Código de Tránsito, Perú
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Artículos            ### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Artículos### El TC reafirma que la maternidad activa una protección laboral reforzada incluso en contratos de locación de servicios (Exp. 03645-2025-PA/TC)
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

@@ -19,10 +19,10 @@ disclaimer: true
 
 Inicio ** Laboral ** ¿Qué beneficios laborales tienen los docentes universitarios?- Laboral
 # ¿Qué beneficios laborales tienen los docentes universitarios?
-Por Jesús Miguel Chanamé Arriola -                  17 enero, 2022                                            **Sumario:** 1 Introducción; 2. Ley de reforma universitaria; 2.1 Profesores ordinarios; 3. Docentes de universidad pública; 3.1 Beneficios sociales; 4. Docentes de universidad privada; 5. Jubilación; 6. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 17 enero, 2022**Sumario:** 1 Introducción; 2. Ley de reforma universitaria; 2.1 Profesores ordinarios; 3. Docentes de universidad pública; 3.1 Beneficios sociales; 4. Docentes de universidad privada; 5. Jubilación; 6. Conclusiones.
 Lea también: **¿Qué beneficios laborales tienen los profesores de educación básica?**
 ## **1. Introducción**
-Con la nueva Ley Universitaria, Ley 30220, se cambiaron muchas disposiciones sobre el trabajo de los docentes universitarios. Así, esta norma definió sus actividades y beneficios sociales. 
+Con la nueva Ley Universitaria, Ley 30220, se cambiaron muchas disposiciones sobre el trabajo de los docentes universitarios. Así, esta norma definió sus actividades y beneficios sociales.
 Al respecto, los docentes universitarios tienen como funciones la investigación, el mejoramiento continuo y permanente de la enseñanza, la proyección social y la gestión universitaria, en los ámbitos que les corresponde.
 Veremos en el presente artículo la base normativa para el pago de beneficios sociales de docentes del sector público y privado.
 - Lea también: **Ley Universitaria (Ley 30220) [actualizada 2021]**
@@ -102,22 +102,22 @@ La Ley Universitaria, Ley 30220, regula sin distinción el régimen laboral de l
 Los docentes pueden ser ordinarios, extraodinarios o contratados y depende del tipo de plazo de su contrato y las funciones que realizan.
 Los docentes tienen beneficios o derechos reconocidos, entre los que principalmente resaltan están los 60 días de vacaciones, año sabático con fines de investigación, reserva de plaza, entre otros.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-**** #### MÁS LEÍDOS
-Cursos            ### Código Penal peruano [actualizado 2026]
-LP • Pasión por el Derecho -                 14 febrero, 2026                            El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...            ### Código Civil peruano [actualizado 2026]
-21 enero, 2026                            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-1 abril, 2026                            ### Código Procesal Penal peruano [actualizado 2026]
-12 febrero, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+****#### MÁS LEÍDOS
+Cursos### Código Penal peruano [actualizado 2026]
+LP • Pasión por el Derecho - 14 febrero, 2026El Código Penal del Perú (Decreto Legislativo 635) fue promulgado el 3 de abril de 1991 y publicado el 8 de abril del mismo...### Código Civil peruano [actualizado 2026]
+21 enero, 2026### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+1 abril, 2026### Código Procesal Penal peruano [actualizado 2026]
+12 febrero, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

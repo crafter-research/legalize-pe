@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Administrativo ** Introducción al procedimiento de ejecución coactiva. Fundamentos de la coacción administrativa- Administrativo
 # Introducción al procedimiento de ejecución coactiva. Fundamentos de la coacción administrativa
-Por José María Pacori Cari -                  8 agosto, 2022                                            **Sumario:** **1.** Autotutela administrativa,** 2.** Principios de la ejecución de los actos administrativos, **3.** Presupuestos de la ejecución administrativa,** 4.** ¿Qué es el procedimiento de ejecución coactiva?,** 5.** Tipos de procedimientos de ejecución coactiva, **6.** Sujetos del procedimiento de ejecución coactiva,** 7.** Inicio del procedimiento de ejecución coactiva, **8.** Resolución de ejecución coactiva,** 9.** Medidas cautelares, **10.** Tasación y remate, **11.** Revisión judicial del procedimiento.
+Por José María Pacori Cari - 8 agosto, 2022**Sumario:** **1.** Autotutela administrativa,** 2.** Principios de la ejecución de los actos administrativos, **3.** Presupuestos de la ejecución administrativa,** 4.** ¿Qué es el procedimiento de ejecución coactiva?,** 5.** Tipos de procedimientos de ejecución coactiva, **6.** Sujetos del procedimiento de ejecución coactiva,** 7.** Inicio del procedimiento de ejecución coactiva, **8.** Resolución de ejecución coactiva,** 9.** Medidas cautelares, **10.** Tasación y remate, **11.** Revisión judicial del procedimiento.
 *Is qui exsequitur mandatum non debet excedere fines mandati*. El procedimiento administrativo es el conjunto de actos y diligencias tendientes a la emisión de un acto administrativo, este procedimiento puede iniciarse de oficio o a instancia de parte, en ambos casos, el fin del procedimiento se produce, entre otros supuestos, con la emisión de una resolución administrativa que es el acto administrativo que estima o desestima la pretensión administrativa que se tramita, esta resolución es de cumplimiento obligatorio, en el caso que la resolución no sea cumplida voluntariamente por los administrados, la Administración Pública realizará su cumplimiento a través del procedimiento de ejecución coactiva que se sustenta en la autotutela administrativa.
 **1. AUTOTUTELA ADMINISTRATIVA**
 Por el principio de **autotutela administrativa** los actos administrativos de las entidades públicas se ejecutan de forma directa e inmediata no necesitando una resolución judicial, *ergo*, las entidades públicas tienen la facultad de hacer cumplir coactivamente sus actos administrativos sin la necesidad de recurrir a los órganos judiciales, la autotutela administrativa tiene su fundamento en el inciso 1 del artículo 118 de la Constitución Política del Perú que indica
@@ -127,22 +127,22 @@ El procedimiento de ejecución coactiva se sustenta en el principio de autotutel
 * El autor es jurista, maestro y abogado especialista en Derecho Administrativo, Derecho del Trabajo y Derecho de la Seguridad Social en el Perú, puede contactarlo en [email&#160;protected] o móvil y WhatsApp (+51) 959666272.
 Lea también: **Diplomado en Derecho Administrativo, procedimiento sancionador y gestión pública**
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-Agustin Ricci -                 4 abril, 2026                            La abogada Miyanou Dufour, en entrevista para el programa Juiciosos, señaló que la regulación jurídica de la actividad extractiva se sustenta en sólidas bases...            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+** Noticias### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+Agustin Ricci - 4 abril, 2026La abogada Miyanou Dufour, en entrevista para el programa Juiciosos, señaló que la regulación jurídica de la actividad extractiva se sustenta en sólidas bases...### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
 4 abril, 2026

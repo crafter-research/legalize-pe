@@ -20,7 +20,7 @@ disclaimer: true
 Inicio ** Administrativo ** ¿Qué régimen laboral es aplicable al personal docente o administrativo de universidades...- Administrativo
 - Laboral
 # ¿Qué régimen laboral es aplicable al personal docente o administrativo de universidades públicas? [Informe 000724-2021-Servir-GPGSC]
-Por LP • Pasión por el Derecho -                  12 noviembre, 2021                                            **Conclusiones: ****3.1** Corresponderá a cada Universidad analizar cada caso en concreto y determinar la modalidad de contratación de su personal, esto es, personal docente y personal no docente.
+Por LP • Pasión por el Derecho - 12 noviembre, 2021**Conclusiones: ****3.1** Corresponderá a cada Universidad analizar cada caso en concreto y determinar la modalidad de contratación de su personal, esto es, personal docente y personal no docente.
 **3.2** Atendiendo a que no existe disposición vigente que exceptúe la incorporación de personal bajo el régimen del Decreto Legislativo N° 276 de la regla general de prohibición de ingreso de personal al sector público establecida en el numeral 8.1 del artículo 8 de la Ley N° 31084, prevalecerá dicha regla general y no será posible la incorporación de personal bajo el régimen del Decreto Legislativo N° 276 en las entidades de los tres niveles de gobierno.
 **3.3** Para cubrir la necesidad de servicio que surja ante el cese o ausencia temporal de personal bajo el régimen del Decreto Legislativo N° 276, la entidad deberá evaluar mecanismos alternativos como ejecutar acciones de desplazamiento.
 **3.4** Consideramos pertinente recordar que tanto la Cuarta Disposición Complementaria Final del Decreto Legislativo N° 1057 como la Sexta Disposición Complementaria Final del Reglamento General de la Ley N° 30057, normas vigentes y aplicables a todas las entidades públicas en los tres niveles de gobierno, prohíben -bajo responsabilidad del titular de la entidad- celebrar contratos de locación de servicios (servicios no personales, órdenes de servicios, terceros, etc.) para realizar labores subordinadas o no autónomas, las cuales comprenden al desarrollo de las funciones propias de los puestos previstos en los instrumentos de gestión de la entidad.
@@ -99,22 +99,22 @@ CUARTA.- Las entidades comprendidas en la presente norma quedan prohibidas en lo
 SEXTA.- Precisiones de la locación de servicios Las entidades sólo pueden contratar a personas naturales bajo la figura de Locación de servicios prevista en el artículo 1764 del código civil y sus normas complementarias, para realizar labores no subordinadas, bajo responsabilidad del titular».
 [4] Publicado con fecha 01 de abril de 2021, en el Diario Oficial “El Peruano”.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
-Administrativo            ### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
-Jurisprudencia            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
-Administrativo            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
-Administrativo            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            #### LO ÚLTIMO
-**                Noticias            ### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
-Lizbeth Ubillus -                 4 abril, 2026                            En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...            **### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
-4 abril, 2026                            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-4 abril, 2026                            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en torno a las recientes modificaciones del Régimen CAS
+Administrativo### En el marco de la normativa de contrataciones públicas, independientemente de si el contrato derivado de un procedimiento de selección de bienes y servicios...
+Jurisprudencia### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se afecte la salud de sus trabajadores [Res. 0261-2026-SUNAFIL/TFL-Primera Sala]
+Administrativo### Para solicitar la sustitución del personal clave, el profesional reemplazante debe tener un perfil igual o mayor al establecido en las bases del procedimiento...
+Administrativo### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar servicios de seguridad personal [Resolución 0110-2026/SEL-Indecopi]
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026#### LO ÚLTIMO
+** Noticias### [VÍDEO] Antauro Humala: «Hay que ser bien anormal en el Perú...
+Lizbeth Ubillus - 4 abril, 2026En entrevista para LP, Antauro Humala Tasso abordó sus propuestas políticas y su rol dentro de la alianza vinculada a la candidatura presidencial de...**### Miyanou Dufour: En derecho minero tienes que saber hablar y escribir...
+4 abril, 2026### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+4 abril, 2026### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
 4 abril, 2026

@@ -19,7 +19,7 @@ disclaimer: true
 
 - Civil
 # Asociación, fundación y comité. Las personas jurídicas en el Código Civil peruano
-Por Saúl José Coca Guzmán -                      14 marzo, 2020                                                        ## **Sumario.-** 1.- Introducción; 2. Antecedentes; 3. La asociación; 4. La fundación; 5. El comité; 6. Conclusiones; 7; Bibliografía.
+Por Saúl José Coca Guzmán - 14 marzo, 2020## **Sumario.-** 1.- Introducción; 2. Antecedentes; 3. La asociación; 4. La fundación; 5. El comité; 6. Conclusiones; 7; Bibliografía.
 ### **1.- Introducción y antecedentes**
 La vida jurídica es marcada por la intervención de múltiples organismos creados con miras a satisfacer intereses colectivos que pueden, activa o pasivamente, ser sujetos de derecho, patrimoniales o extrapatrimoniales. Bautizadas como personas morales, estas son titulares de un patrimonio distinto que el de sus miembros, tienen prerrogativas y soportan las cargas que le son propias. Los acreedores de uno de los miembros del grupo no están, en principio, autorizados a hacerse de los bienes pertenecientes a estos últimos. (Teyssié, 1999, p. 303)
 El hombre como ser social busca del otro para llevar a cabo acciones. Su sentimiento gregario así se lo exige, complementando sus debilidades y haciendo trascender su obra frente a la temporalidad de su vida. El hombre necesariamente está vinculado a una serie de conjuntos sociales con cierta permanencia. Asociarse es una forma de trascender. Para los grandes proyectos y aspiraciones deben conjugarse esfuerzos, unirse con los demás. En forma individual y aislada, el ser humano “puede lograr ciertos fines, limitados a sus esfuerzos y posibilidades; empero, hay ciertos fines que trascienden a su propia vida individual, aislada y que no pueden cumplirlos sino asociándose a otras personas o destinando parte de sus bienes al logro de esos fines” (Varsi Rospigliosi, 2014, p. 243)
@@ -46,7 +46,7 @@ Varsi Rospigliosi señala que cuenta con dos órganos: la **asamblea general** y
 El primero es el órgano supremo. Se encarga de decidir la función de la asociación. Reúne a todos los asociados.
 El segundo el órgano de gobierno. Se encarga de establecer las directrices que deben guiar a la asociación. Ejecuta los actos aprobados por la asamblea y hace cumplir el Estatuto. Reúne a los asociados elegidos por la asamblea general. Cuenta con un Presidente y un secretario y, dado el caso, con otros cargos (vicepresidente, vocales). (Varsi Rospigliosi, 2014, p. 280)
 La asociación se puede disolver por cualquier de las causales siguientes:
-- 
+-
 - De pleno derecho cuando no pueda funcionar según su estatuto (art. 94)
 - Por liquidación según lo acordado por su respectiva Junta de Acreedores de conformidad con la ley de la materia (art. 95).
 - Cuando sus actividades o fines sean o resulten contrarios al orden público o a las buenas costumbres. (art. 96).

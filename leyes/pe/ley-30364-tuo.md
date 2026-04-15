@@ -21,7 +21,7 @@ Inicio ** Legislación Básica ** TUO de la Ley 30364, para prevenir, sancionar 
 - Legisprudencia
 - Normas legales
 # TUO de la Ley 30364, para prevenir, sancionar y erradicar la violencia contra las mujeres e integrantes del grupo familiar [DS 004-2020-MIMP]
-Por LP • Pasión por el Derecho -                  25 julio, 2024                                            La **Ley 30364**, Ley para prevenir, sancionar y erradicar la violencia contra las mujeres y los integrantes del grupo familiar, fue publicada en el diario oficial *El Peruano*, el 23 de noviembre de 2015. 
+Por LP • Pasión por el Derecho - 25 julio, 2024La **Ley 30364**, Ley para prevenir, sancionar y erradicar la violencia contra las mujeres y los integrantes del grupo familiar, fue publicada en el diario oficial *El Peruano*, el 23 de noviembre de 2015. 
 El 6 de setiembre de 2020 se publicó en el diario oficial *El Peruano* el texto único ordenado de esta norma mediante **Decreto Supremo 004-2020-MIMP**. Asimismo, el reglamento de esta ley vio la luz el el 27 de julio de 2016 mediante el Decreto Supremo 009-2016-MIMP.
 - **Matricúlate en nuestro Diplomado Violencia familiar, de género y delitos sexuales. Hasta 8 AGO dos libros gratis y pago en dos cuotas**
 Para ubicar de manera rápida el artículo o la palabra clave que busca, presione **Control+F**  y le aparecerá un recuadro para que lo escriba.
@@ -573,22 +573,22 @@ Deróganse los artículos 122-A y 122-B del Código Penal.
 #### **SEGUNDA.- Derogación de la Ley N.º 26260, Ley de Protección frente a la Violencia Familiar**
 Deróganse la Ley N.º 26260, Ley de Protección frente a la Violencia Familiar, y las demás leyes y disposiciones que se opongan a la presente Ley.
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Administrativo            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-Administrativo            ### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
-Administrativo            ### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
-Administrativo            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
-Administrativo            ### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva  475-2022-Junín]
-Administrativo            ### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### La devolución de un pago indebido prescribe a los cinco años...
-1 abril, 2026                            ### ¿Por qué el 2 de abril se celebra el Día del...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### Multan a abogados que presentaron cuatro demandas de amparo de la...
-30 marzo, 2026                            #### LO ÚLTIMO
-Noticias            ### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
-LP • Pasión por el Derecho -                 2 abril, 2026                            El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### El TC reafirma que la maternidad activa una protección laboral reforzada...
-2 abril, 2026                            ### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
-2 abril, 2026                            ### Entregar el celular con información ya borrada o seleccionada no puede...
+Administrativo### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+Administrativo### OECE deroga directiva sobre notificaciones y audiencias del Tribunal de Contrataciones [Resolución D000071-2026-OECE-PRE]
+Administrativo### Suspenden plazos procesales y administrativos en este distrito judicial [RA 000093-2026-CE-PJ]
+Administrativo### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas [Decreto Supremo 003-2026-DE]
+Administrativo### Destituyen juez de paz por solicitar dinero a cambio de favorecer a una de las partes en elecciones comunales [Investigación Definitiva 475-2022-Junín]
+Administrativo### Poder Judicial: modifican TUPA para optimizar trámite de inscripción de título de abogado [RA 000058-2026-CE-PJ]
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### La devolución de un pago indebido prescribe a los cinco años...
+1 abril, 2026### ¿Por qué el 2 de abril se celebra el Día del...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### Multan a abogados que presentaron cuatro demandas de amparo de la...
+30 marzo, 2026#### LO ÚLTIMO
+Noticias### CALE condecora al Dr. Enrique Becerra Medina con la medalla «José...
+LP • Pasión por el Derecho - 2 abril, 2026El Ilustre Colegio de Abogados de Lima Este (CALE) realizó una solemne ceremonia académica para conferir la Medalla “José Luis Bustamante y Rivero” al...### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### El TC reafirma que la maternidad activa una protección laboral reforzada...
+2 abril, 2026### Modifican el TUPA del MINJUSDH [Decreto Supremo 004-2026-JUS]
+2 abril, 2026### Entregar el celular con información ya borrada o seleccionada no puede...
 2 abril, 2026

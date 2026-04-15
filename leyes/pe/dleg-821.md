@@ -18,7 +18,7 @@ ocrProcessed: true
 
 # Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo
 
-NORMAS LEGALES
+
 NUEVO TEXTO DE LA
 
 LEY DEL IMPUESTO

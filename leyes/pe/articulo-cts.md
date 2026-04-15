@@ -19,12 +19,12 @@ disclaimer: true
 
 Inicio ** Laboral ** CTS: lo que debes saber sobre la «compensación por tiempo de servicio»- Laboral
 # CTS: lo que debes saber sobre la «compensación por tiempo de servicio»
-Por Jesús Miguel Chanamé Arriola -                  29 octubre, 2020                                            **Sumario:** 1. Introducción, 2. Definición, 3. ¿Me corresponde el beneficio de la CTS?, 3.1. Requisitos, 3.2. Trabajadores que no reciben CTS, 4. ¿Cómo calcular la CTS?, 4.1. Días computables, 4.2. Conceptos remunerativos, 4.3. Remuneraciones complementarias, 5. Preguntas frecuentes, 6. Pago de multas, 7. Jurisprudencia vinculante, 8. Conclusiones.
+Por Jesús Miguel Chanamé Arriola - 29 octubre, 2020**Sumario:** 1. Introducción, 2. Definición, 3. ¿Me corresponde el beneficio de la CTS?, 3.1. Requisitos, 3.2. Trabajadores que no reciben CTS, 4. ¿Cómo calcular la CTS?, 4.1. Días computables, 4.2. Conceptos remunerativos, 4.3. Remuneraciones complementarias, 5. Preguntas frecuentes, 6. Pago de multas, 7. Jurisprudencia vinculante, 8. Conclusiones.
 ## **1. Introducción**
 La **compensación por tiempo de servicio** (en adelante CTS) es un beneficio social que se instituyó en el 1 de marzo de 1997 mediante el Decreto Legislativo 650. Se trata de un pago realizado en los meses de mayo y octubre a favor de los trabajadores.
 En las líneas siguientes aclararemos sobre el reconocimiento de este beneficio en nuestro ordenamiento; además, a qué trabajadores les corresponde (incluido el régimen), así como el cálculo correspondiente.
 Se incluyen también respuestas a preguntas frecuentes, además, jurisprudencia respecto al pago de la CTS.
-## **2. Definición** 
+## **2. Definición**
 Si bien el Decreto Legislativo 650 incorpora a nuestro ordenamiento la CTS, actualmente, por un tema práctico, se recurre al texto único ordenado de esta norma, aprobado por el **Decreto Supremo 001-97-TR** que incluye las modificaciones y disposiciones reglamentarias (en adelante «TUO de la Ley CTS»).
 Así, en el primer artículo de esta norma se establece lo siguiente:
 **Artículo 1.-** La compensación por tiempo de servicios tiene la calidad de beneficio social de previsión de las contingencias que origina el cese en el trabajo y de promoción del trabajador y su familia.
@@ -67,19 +67,19 @@ Cuadro inspirado en el artículo 16 y 18 del TUO de la Ley CTS.
 Calcularemos el promedio mensual de un trabajador que hizo horas extras, durante el mes de mayo recibió 150 soles adicionales; luego, en el mes de junio, 100 soles; asimismo, durante setiembre y octubre, 120 soles.
 En este caso se cumple con ser un monto entregado por regularidad, ya que se realizó el pago por más de 3 meses. Al cumplirse esta condición, se debe sumar los montos, consiguiendo un total de 490 soles, los cuales se promedian por el total del semestre, es decir, 6 meses. El resultado es de 81.66 soles.
 ## **5. Preguntas frecuentes**
-- 
+-
 #### **¿Si trabajé de junio a agosto, me corresponde el pago de CTS?**
 Sí, corresponde el pago de CTS trunca, que se calcula con la remuneración dividida entre 12 y multiplicado por los meses que se laboró.
-- 
+-
 #### **¿Si estuve en suspensión perfecta de mayo a agosto me deben pagar la CTS?**
 Solo se pagarán los meses trabajados, esto es setiembre y octubre.
-- 
+-
 #### **Me otorgaron vacaciones adelantadas por la emergencia sanitaria, ¿ingresa al cómputo?**
 Sí, no se excluye este concepto.
-- 
+-
 #### **¿Si se me redujo la remuneración durante el semestre de mayo a octubre?**
 Debe considerarse la última remuneración.
-- 
+-
 #### **¿Ingresa al cálculo de las gratificaciones el pago de la gratificación por fiestas patrias?**
 Se computa como un sexto del monto de la gratificación.
 ## **6. Pago de multas**
@@ -95,22 +95,22 @@ El monto a depositar se calcula a partir de los meses trabajados y los días efe
 No todos los ingresos que recibe el trabajador se computan para el pago de la CTS, hay conceptos exentos por la ley.
 **Más información en este vídeo de nuestro canal de Youtube. **
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Laboral            ### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
-Jurisprudencia            ### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
-Administrativo            ### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
-Administrativo            ### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
-Casación            ### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
-Abogados            ### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Convocatorias            ### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
-LP • Pasión por el Derecho -                 3 abril, 2026                            La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            ### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
-3 abril, 2026                            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-3 abril, 2026                            ### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
+Laboral### ¿Trabajarás en Semana Santa? Conoce la remuneración que deberás recibir
+Jurisprudencia### No todo accidente laboral es responsabilidad del empleador [Resolución 0385-2026-Sunafil/TFL-Primera Sala]
+Administrativo### El teletrabajo otorgado al personal considerado como población vulnerable responsable del cuidado de niños de hasta doce años de edad -en principio- se mantendrá...
+Administrativo### ¿Cómo se sanciona un mismo hecho cometido por servidores de distintos regímenes disciplinarios? [Informe Técnico 000552-2026-Servir-GPGSC]
+Casación### La devolución de un pago indebido prescribe a los cinco años de haberse efectuado dicho pago y no desde que se tomo conocimiento del...
+Abogados### Entre mejoras económicas y pérdida de derechos: la otra cara de la Ley 32563 en el régimen CAS
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Convocatorias### Sunafil lanza convocatorias para personas con secundaria completa, egresados, bachilleres y...
+LP • Pasión por el Derecho - 3 abril, 2026La Superintendencia Nacional de Fiscalización Laboral (SUNAFIL) lanza convocatorias para personas con secundaria completa, egresados, bachilleres y profesionales con remuneración mensual de hasta S/10...### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026### ¡Nuevo! Ministerio Público lanza convocatoria para cubrir 147 plazas en todo...
+3 abril, 2026### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+3 abril, 2026### ¡Atención, estudiantes y egresados! ONP lanza convocatoria de prácticas
 3 abril, 2026

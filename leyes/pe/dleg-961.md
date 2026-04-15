@@ -106,6054 +106,5269 @@ CÓDIGO DE JUSTICIA MILITAR POLICIAL
      Ministro de Defensa
 
 
-
 INDICE
-
-
 
 
 TÍTULO PRELIMINAR
 
 
-
-
 Artículo I
 
-	
 
 Objeto del Código
 
 
-
-
 Artículo II
 
-	
 
 Preeminencia de las normas en materia de Derechos Humanos
 
 
-
-
 Artículo III
 
-	
 
 Principio de legalidad
 
 
-
-
 Artículo IV
 
-	
 
 Prohibición de la analogía
 
 
-
-
 Artículo V
 
-	
 
 Principio de lesividad
 
 
-
-
 Artículo VI
 
-	
 
 Prohibición de doble incriminación
 
 
-
-
 Artículo VII
 
-	
 
 Conocimiento de la ley
 
 
-
-
 Artículo VIII
 
-	
 
 Juez natural
 
 
-
-
 Artículo IX
 
-	
 
 Función de la pena y de las medidas de seguridad
 
 
-
-
 Artículo X
 
-	
 
 Principio de culpabilidad
 
 
-
-
 Artículo XI
 
-	
 
 Derecho de defensa
 
 
-
-
 Artículo XII
 
-	
 
 Doble instancia
 
 
-
-
 Artículo XIII
 
-	
 
 Investigación integral
 
 
-
-
 Artículo XIV
 
-	
 
 Aplicación supletoria
-
-
 
 
 LIBRO PRIMERO PARTE GENERAL
 
 
-
-
 TÍTULO I
 
-	
 
 DE LA LEY PENAL
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Aplicación Espacial
 
 
- 	
+ 
 
 Artículo 1
 
-	
 
 Principio de territorialidad
 
 
- 	
+ 
 
 Artículo 2
 
-	
 
 Extraterritorialidad
 
 
- 	
+ 
 
 Artículo 3
 
-	
 
 Extradición y Entrega
 
 
- 	
+ 
 
 Artículo 4
 
-	
 
 Ubicuidad
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Aplicación Temporal
 
 
- 	
+ 
 
 Artículo 5
 
-	
 
 Aplicación temporal de la ley
 
 
- 	
+ 
 
 Articulo 6
 
-	
 
 Momento de comisión
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Aplicación Personal
 
 
- 	
+ 
 
 Artículo 7
 
-	
 
 Militar o policía
 
 
- 	
+ 
 
 Artículo 8
 
-	
 
 Principio de igualdad
 
 
-
-
 TÍTULO II
 
-	
 
 DEL HECHO PUNIBLE DE FUNCIÓN
 
 
- 	
+ 
 
 Artículo 9
 
-	
 
 Infracción militar o policial
 
 
- 	
+ 
 
 Artículo 10
 
-	
 
 Omisión impropia
 
 
- 	
+ 
 
 Artículo 11
 
-	
 
 Error de tipo y error de prohibición
 
 
- 	
+ 
 
 Artículo 12
 
-	
 
 Tentativa
 
 
- 	
+ 
 
 Artículo 13
 
-	
 
 Desistimiento
 
 
- 	
+ 
 
 Artículo 14
 
-	
 
 Desistimiento en concurso de personas
 
 
- 	
+ 
 
 Artículo 15
 
-	
 
 Concurso de personas en la conducta punible
 
 
- 	
+ 
 
 Artículo 16
 
-	
 
 Autores
 
 
- 	
+ 
 
 Artículo 17
 
-	
 
 Partícipes
 
 
- 	
+ 
 
 Artículo 18
 
-	
 
 Incomunicabilidad
 
 
- 	
+ 
 
 Artículo 19
 
-	
 
 Ausencia de responsabilidad
 
 
- 	
+ 
 
 Artículo 20
 
-	
 
 Eximentes imperfectas
 
 
-
-
 TÍTULO III
 
-	
 
 DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 Clases de Penas
 
 
- 	
+ 
 
 Artículo 21
 
-	
 
 Sanciones Penales
 
 
- 	
+ 
 
 Artículo 22
 
-	
 
 Pena privativa de la libertad
 
 
- 	
+ 
 
 Artículo 23
 
-	
 
 Cómputo
 
 
- 	
+ 
 
 Artículo 24
 
-	
 
 Clases de penas limitativas de otros derechos
 
 
- 	
+ 
 
 Artículo 25
 
-	
 
 Imposición de penas limitativas de derechos
 
 
- 	
+ 
 
 Artículo 26
 
-	
 
 Efectos de pena de expulsión
 
 
- 	
+ 
 
 Artículo 27
 
-	
 
 Separación del servicio
 
 
- 	
+ 
 
 Artículo 28
 
-	
 
 Efectos de la separación del servicio
 
 
- 	
+ 
 
 Artículo 29
 
-	
 
 Inhabilitación
 
 
- 	
+ 
 
 Artículo 30
 
-	
 
 Inhabilitación principal o accesoria
 
 
- 	
+ 
 
 Artículo 31
 
-	
 
 Duración de la Inhabilitación
 
 
- 	
+ 
 
 Artículo 32
 
-	
 
 Pena de multa
 
 
- 	
+ 
 
 Artículo 33
 
-	
 
 Tiempo y forma de pago
 
 
- 	
+ 
 
 CAPÍTULO II
 
-	
 
 Aplicación de las Penas
 
 
- 	
+ 
 
 Artículo 34
 
-	
 
 Motivación del proceso de individualización de la pena
 
 
- 	
+ 
 
 Artículo 35
 
-	
 
 Parámetros y fundamentos para la individualización de la pena
 
 
- 	
+ 
 
 Artículo 36
 
-	
 
 Circunstancias de menor punibilidad
 
 
- 	
+ 
 
 Artículo 37
 
-	
 
 Circunstancias de mayor punibilidad
 
 
- 	
+ 
 
 Artículo 38
 
-	
 
 Concurso ideal de delitos
 
 
- 	
+ 
 
 Artículo 39
 
-	
 
 Delito continuado
 
 
- 	
+ 
 
 Artículo 40
 
-	
 
 Concurso real de delitos
 
 
- 	
+ 
 
 Artículo 41
 
-	
 
 Concurso real retrospectivo
 
 
- 	
+ 
 
 CAPÍTULO III
 
-	
 
 Conversión de la pena
 
 
- 	
+ 
 
 Artículo 42
 
-	
 
 Conversión de la pena privativa de libertad
 
 
- 	
+ 
 
 Artículo 43
 
-	
 
 Revocación de la conversión
 
 
- 	
+ 
 
 Artículo 44
 
-	
 
 Multa
 
 
- 	
+ 
 
 CAPÍTULO IV
 
-	
 
 Suspensión de la Ejecución de la Pena
 
 
- 	
+ 
 
 Artículo 45
 
-	
 
 Término y requisitos
 
 
- 	
+ 
 
 Artículo 46
 
-	
 
 Reglas de Conducta
 
 
- 	
+ 
 
 Artículo 47
 
-	
 
 Incumplimiento de las Reglas de Conducta
 
 
- 	
+ 
 
 Artículo 48
 
-	
 
 Revocación Automática
 
 
- 	
+ 
 
 Artículo 49
 
-	
 
 Extinción de la Condena
 
 
- 	
+ 
 
 CAPÍTULO V
 
-	
 
 Dispensa de la Pena
 
 
- 	
+ 
 
 Artículo 50
 
-	
 
 Dispensa de la pena
 
 
- 	
+ 
 
 CAPÍTULO VI
 
-	
 
 Rehabilitación
 
 
- 	
+ 
 
 Artículo 51
 
-	
 
 Rehabilitación Automática
 
 
- 	
+ 
 
 Artículo 52
 
-	
 
 Reserva sobre la Condena Impuesta
 
 
- 	
+ 
 
 CAPÍTULO VII
 
-	
 
 Medidas de Seguridad
 
 
- 	
+ 
 
 Artículo 53
 
-	
 
 Disposiciones Aplicables
 
 
-
-
 TÍTULO IV
 
-	
 
 DE LA EXTINCIÓN DE LA ACCIÓN PENAL Y DE LA CONDENA
 
 
- 	
+ 
 
 Artículo 54
 
-	
 
 Causales de extinción de la acción penal
 
 
- 	
+ 
 
 Artículo 55
 
-	
 
 Causales de extinción de la pena
 
 
- 	
+ 
 
 Artículo 56
 
-	
 
 Plazos de prescripción
 
 
- 	
+ 
 
 Artículo 57
 
-	
 
 Inicio del plazo de prescripción
 
 
- 	
+ 
 
 Artículo 58
 
-	
 
 Prescripción en concurso
 
 
-
-
 TÍTULO V
 
-	
 
 DE LA REPARACIÓN CIVIL
 
 
- 	
+ 
 
 Artículo 59
 
-	
 
 Reparación civil
 
 
- 	
+ 
 
 Artículo 60
 
-	
 
 Restitución del Bien
 
 
- 	
+ 
 
 Artículo 61
 
-	
 
 Responsabilidad Solidaria
 
 
- 	
+ 
 
 Artículo 62
 
-	
 
 Condenado Insolvente
 
 
- 	
+ 
 
 Artículo 63
 
-	
 
 Acciones civiles
 
 
- 	
+ 
 
 Artículo 64
 
-	
 
 Decomiso de Bienes
 
 
- 	
+ 
 
 Artículo 65
 
-	
 
 Decomiso y Reparación Civil
-
-
 
 
 LIBRO SEGUNDO PARTE ESPECIAL
 
 
-
-
 TÍTULO I
 
-	
 
 DELITOS CONTRA LA DEFENSA NACIONAL
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Traición a la Patria
 
 
- 	
+ 
 
 Artículo 66
 
-	
 
 Traición a la Patria
 
 
- 	
+ 
 
 Artículo 67
 
-	
 
 Traición a la Patria en tiempo de paz
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Delitos contra la seguridad interna
 
 
- 	
+ 
 
 Artículo 68
 
-	
 
 Rebelión de personal militar policial
 
 
- 	
+ 
 
 Artículo 69
 
-	
 
 Exención de pena
 
 
- 	
+ 
 
 Artículo 70
 
-	
 
 Sedición
 
 
- 	
+ 
 
 Artículo 71
 
-	
 
 Motín
 
 
- 	
+ 
 
 Artículo 72
 
-	
 
 Negativa del militar o policía a evitar rebelión, sedición o motín
 
 
- 	
+ 
 
 Artículo 73
 
-	
 
 Colaboración con organización ilegal
 
 
- 	
+ 
 
 Artículo 74
 
-	
 
 Falsa Alarma
 
 
- 	
+ 
 
 Artículo 75
 
-	
 
 Derrotismo
 
 
- 	
+ 
 
 Artículo 76
 
-	
 
 Conspiración del personal militar policial
 
 
- 	
+ 
 
 Artículo 77
 
-	
 
 Disposiciones comunes - Agravantes inherentes a militares y policías
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Violación de información relativa a la Defensa Nacional, Orden Interno y Seguridad Ciudadana
 
 
- 	
+ 
 
 Artículo 78
 
-	
 
 Infidencia
 
 
- 	
+ 
 
 Artículo 79
 
-	
 
 Posesión no autorizada de información
 
 
- 	
+ 
 
 Artículo 80
 
-	
 
 Infidencia culposa
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Ultraje a símbolos nacionales militares y policiales
 
 
- 	
+ 
 
 Artículo 81
 
-	
 
 Ultraje a los símbolos nacionales militares y policiales
 
 
- 	
+ 
 
 Artículo 82
 
-	
 
 Ultraje a las Fuerzas Armadas y Policía Nacional del Perú
 
 
-
-
 TÍTULO II
 
-	
 
 DELITOS CONTRA EL DERECHO INTERNACIONAL HUMANITARIO
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 Delitos contra las personas protegidas por el Derecho Internacional Humanitario perpetrados por personal militar o policial
 
 
- 	
+ 
 
 Artículo 83
 
-	
 
 Disposiciones especiales
 
 
- 	
+ 
 
 Artículo 84
 
-	
 
 Responsabilidad de los jefes y otros superiores
 
 
- 	
+ 
 
 Artículo 85
 
-	
 
 Órdenes superiores
 
 
- 	
+ 
 
 Artículo 86
 
-	
 
 Imprescriptibilidad
 
 
- 	
+ 
 
 Artículo 87
 
-	
 
 Jurisdicción Universal
 
 
- 	
+ 
 
 Artículo 88
 
-	
 
 Non Bis In Idem
 
 
- 	
+ 
 
 Artículo 89
 
-	
 
 Responsabilidad del Estado
 
 
- 	
+ 
 
 Artículo 90
 
-	
 
 Delitos contra personas protegidas por el DIH
 
 
- 	
+ 
 
 Artículo 91
 
-	
 
 Forma agravada
 
 
- 	
+ 
 
 Artículo 92
 
-	
 
 Lesión al enemigo fuera de combate
 
 
- 	
+ 
 
 Artículo 93
 
-	
 
 Confinación ilegal
 
 
- 	
+ 
 
 Artículo 94
 
-	
 
 Personas protegidas por el DIH
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Delitos de empleo de métodos prohibidos en la conducción de hostilidades
 
 
- 	
+ 
 
 Artículo 95
 
-	
 
 Métodos prohibidos en las hostilidades
 
 
- 	
+ 
 
 Artículo 96
 
-	
 
 Forma agravada
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Delitos contra el patrimonio y otros derechos
 
 
- 	
+ 
 
 Artículo 97
 
-	
 
 Saqueo, destrucción apropiación y confiscación de bienes
 
 
- 	
+ 
 
 Artículo 98
 
-	
 
 Abolición de derechos y acciones
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Delitos contra operaciones humanitarias y emblemas
 
 
- 	
+ 
 
 Artículo 99
 
-	
 
 Delitos contra operaciones humanitarias
 
 
- 	
+ 
 
 Artículo 100
 
-	
 
 Utilización indebida de los signos protectores
 
 
- 	
+ 
 
 Artículo 101
 
-	
 
 Daños extensos y graves al medio natural
 
 
- 	
+ 
 
 Capítulo V
 
-	
 
 Delitos de empleo de medios prohibidos en la conducción de hostilidades
 
 
- 	
+ 
 
 Artículo 102
 
-	
 
 Medios Prohibidos en las hostilidades
 
 
- 	
+ 
 
 Artículo 103
 
-	
 
 Forma agravada
 
 
- 	
+ 
 
 Artículo 104
 
-	
 
 Plan Sistemático
 
 
- 	
+ 
 
 Capítulo VI
 
-	
 
 Capítulo II
 
 
- 	
+ 
 
 Artículo 105
 
-	
 
 Inhabilitación
 
 
-
-
 TÍTULO III
 
-	
 
 DELITOS CONTRA EL SERVICIO DE SEGURIDAD
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Delitos cometidos por centinela, vigía o responsables de la seguridad
 
 
- 	
+ 
 
 Artículo 106
 
-	
 
 Violación de consigna
 
 
- 	
+ 
 
 Artículo 107
 
-	
 
 Abandono de puesto de vigilancia
 
 
- 	
+ 
 
 Artículo 108
 
-	
 
 Omisión de aviso o repulsión
 
 
- 	
+ 
 
 Artículo 109
 
-	
 
 Abandono de puesto
 
 
- 	
+ 
 
 Artículo 110
 
-	
 
 Abandono de escolta
 
 
- 	
+ 
 
 Artículo 111
 
-	
 
 Seguridad de las instalaciones y bienes
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Deserción
 
 
- 	
+ 
 
 Artículo 112
 
-	
 
 Deserción
 
 
- 	
+ 
 
 Artículo 113
 
-	
 
 Deserción del Prisionero de guerra
 
 
- 	
+ 
 
 Artículo 114
 
-	
 
 Dispensa de pena
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Inutilización voluntaria para el servicio activo
 
 
- 	
+ 
 
 Artículo 115
 
-	
 
 Incapacitación voluntaria para el servicio
 
 
- 	
+ 
 
 Artículo 116
 
-	
 
 Simulación
 
 
- 	
+ 
 
 Artículo 117
 
-	
 
 Colaboración
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Capitulación Indebida y Cobardía
 
 
- 	
+ 
 
 Artículo 118
 
-	
 
 Capitulación indebida
 
 
- 	
+ 
 
 Artículo 119
 
-	
 
 Cobardía
 
 
- 	
+ 
 
 Artículo 120
 
-	
 
 Exención
 
 
-
-
 TÍTULO IV
 
-	
 
 DELITOS CONTRA LA INTEGRIDAD INSTITUCIONAL
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Insulto al Superior
 
 
- 	
+ 
 
 Artículo 121
 
-	
 
 Insulto al Superior- Agresión
 
 
- 	
+ 
 
 Artículo 122
 
-	
 
 Acto tendiente a agredir o amenazar
 
 
- 	
+ 
 
 Artículo 123
 
-	
 
 Coacción, injuria y difamación
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Insubordinación
 
 
- 	
+ 
 
 Artículo 124
 
-	
 
 Insubordinación
 
 
- 	
+ 
 
 Artículo 125
 
-	
 
 Amenazas
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Desobediencia
 
 
- 	
+ 
 
 Artículo 126
 
-	
 
 Desobediencia
 
 
- 	
+ 
 
 Artículo 127
 
-	
 
 Desobediencia - incumplimiento de itinerario
 
 
- 	
+ 
 
 Artículo 128
 
-	
 
 Excusa indebida
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Delitos contra el servicio de seguridad
 
 
- 	
+ 
 
 Artículo 129
 
-	
 
 Desobediencia al servicio de seguridad
 
 
- 	
+ 
 
 Artículo 130
 
-	
 
 Agresión al servicio de seguridad
 
 
-
-
 TÍTULO V
 
-	
 
 DELITOS COMETIDOS EN EL EJERCICIO DEL MANDO O AUTORIDAD
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Omisión de deberes del mando
 
 
- 	
+ 
 
 Artículo 131
 
-	
 
 Abandono de comando
 
 
- 	
+ 
 
 Artículo 132
 
-	
 
 Empleo indebido de armas
 
 
- 	
+ 
 
 Artículo 133
 
-	
 
 Inicio de operación innecesaria
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Delitos contra la Administración Militar Policial
 
 
- 	
+ 
 
 Artículo 134
 
-	
 
 Contra la función y administración militar policial
 
 
-
-
 TÍTULO VI
 
-	
 
 DELITOS DE VIOLACIÓN AL DEBER MILITAR POLICIAL (*) RECTIFICADO POR FE DE ERRATAS
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Delitos contra el deber militar policial
 
 
- 	
+ 
 
 Artículo 135
 
-	
 
 Abandono de puesto
 
 
- 	
+ 
 
 Artículo 136
 
-	
 
 Daños a operaciones por culpa
 
 
- 	
+ 
 
 Artículo 137
 
-	
 
 Omisión de cumplimiento de deber en función operativa
 
 
- 	
+ 
 
 Artículo 138
 
-	
 
 Comando negligente militar o policial
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Excesos en el ejercicio del grado, mando o posición en el servicio Militar Policial
 
 
- 	
+ 
 
 Artículo 139
 
-	
 
 Excesos en la facultad de mando
 
 
- 	
+ 
 
 Artículo 140
 
-	
 
 Modalidad culposa en el ejercicio de grado, jerarquía o mando
 
 
- 	
+ 
 
 Artículo 141
 
-	
 
 Excesos en el ejercicio del mando en agravio del subordinado
 
 
-
-
 TÍTULO VII
 
-	
 
 DELITOS QUE AFECTAN LOS RECURSOS DESTINADOS A LA DEFENSA NACIONAL Y ORDEN INTERNO
 
 
- 	
+ 
 
 Artículo 142
 
-	
 
 Afectación de los bienes destinados a la defensa, seguridad nacional y orden interno
 
 
- 	
+ 
 
 Artículo 143
 
-	
 
 Facilitamiento culposo
 
 
- 	
+ 
 
 Artículo 144
 
-	
 
 Avería o deterioro culposo
 
 
-
-
 TÍTULO VIII
 
-	
 
 DELITOS CONTRA LA FIDELIDAD A LA FUNCIÓN MILITAR POLICIAL
 
 
- 	
+ 
 
 Artículo 145
 
-	
 
 Información falsa sobre asuntos del servicio
 
 
- 	
+ 
 
 Artículo 146
 
-	
 
 Falsificación o adulteración de documentación militar policial
 
 
- 	
+ 
 
 Artículo 147
 
-	
 
 Certificación falsa
 
 
- 	
+ 
 
 Artículo 148
 
-	
 
 Uso indebido de insignias o distintivos
 
 
- 	
+ 
 
 Artículo 149
 
-	
 
 Destrucción de documento militar policial
-
-
 
 
 LIBRO TERCERO PROCESAL PENAL
 
 
-
-
 TÍTULO I
 
-	
 
 PRINCIPIOS Y GARANTÍAS PROCESALES
 
 
- 	
+ 
 
 Artículo 150
 
-	
 
 Juicio previo
 
 
- 	
+ 
 
 Artículo 151
 
-	
 
 Principios del proceso
 
 
- 	
+ 
 
 Artículo 152
 
-	
 
 Imparcialidad e independencia
 
 
- 	
+ 
 
 Artículo 153
 
-	
 
 Principio de presunción de inocencia
 
 
- 	
+ 
 
 Artículo 154
 
-	
 
 Derecho de no autoincriminación
 
 
- 	
+ 
 
 Artículo 155
 
-	
 
 Intérprete
 
 
- 	
+ 
 
 Artículo 156
 
-	
 
 Protección de la Intimidad y Privacidad
 
 
- 	
+ 
 
 Artículo 157
 
-	
 
 Prohibición de Incomunicación y del Secreto
 
 
- 	
+ 
 
 Artículo 158
 
-	
 
 Derechos de la víctima
 
 
- 	
+ 
 
 Artículo 159
 
-	
 
 Igualdad de trato
 
 
- 	
+ 
 
 Artículo 160
 
-	
 
 Separación de la función de investigar y de juzgar
 
 
- 	
+ 
 
 Artículo 161
 
-	
 
 Justicia en tiempo razonable
 
 
- 	
+ 
 
 Artículo 162
 
-	
 
 Sentencia
 
 
- 	
+ 
 
 Artículo 163
 
-	
 
 Motivación
 
 
- 	
+ 
 
 Artículo 164
 
-	
 
 Deliberación
 
 
- 	
+ 
 
 Artículo 165
 
-	
 
 Legalidad y validez de la prueba
 
 
- 	
+ 
 
 Artículo 166
 
-	
 
 Exclusiones
 
 
- 	
+ 
 
 Artículo 167
 
-	
 
 Apreciación de las pruebas
 
 
- 	
+ 
 
 Artículo 168
 
-	
 
 Aplicación Temporal
 
 
- 	
+ 
 
 Artículo 169
 
-	
 
 Solución del Conflicto
 
 
- 	
+ 
 
 Artículo 170
 
-	
 
 Reglas de Interpretación
 
 
- 	
+ 
 
 Artículo 171
 
-	
 
 Medidas de Coerción
 
 
- 	
+ 
 
 Artículo 172
 
-	
 
 Condiciones carcelarias
 
 
-
-
 TÍTULO II
 
-	
 
 ACCIONES QUE NACEN DE LOS DELITOS
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Acción Penal
 
 
- 	
+ 
 
 Sección I
 
-	
 
 Reglas Generales
 
 
- 	
+ 
 
 Artículo 173
 
-	
 
 Acción Penal Pública
 
 
- 	
+ 
 
 Artículo 174
 
-	
 
 Cuestión Prejudicial
 
 
- 	
+ 
 
 Artículo 175
 
-	
 
 Prelación
 
 
- 	
+ 
 
 Artículo 176
 
-	
 
 Efectos de la Cuestión Prejudicial y de la Prelación
 
 
- 	
+ 
 
 Artículo 177
 
-	
 
 Cuestión Previa
 
 
- 	
+ 
 
 Sección II
 
-	
 
 Excepciones
 
 
- 	
+ 
 
 Artículo 178
 
-	
 
 Enumeración
 
 
- 	
+ 
 
 Artículo 179
 
-	
 
 Trámite
 
 
- 	
+ 
 
 Artículo 180
 
-	
 
 Efectos
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Acción Civil
 
 
- 	
+ 
 
 Artículo 181
 
-	
 
 Acción Civil
 
 
- 	
+ 
 
 Artículo 182
 
-	
 
 Ejercicio
 
 
- 	
+ 
 
 Artículo 183
 
-	
 
 Delegación
 
 
- 	
+ 
 
 Artículo 184
 
-	
 
 Intereses Estatales
 
 
-
-
 TÍTULO III
 
-	
 
 LA JUSTICIA PENAL
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Jurisdicción y Competencia
 
 
- 	
+ 
 
 Artículo 185
 
-	
 
 Potestad jurisdiccional
 
 
- 	
+ 
 
 Artículo 186
 
-	
 
 Improrrogabilidad de la jurisdicción penal militar policial
 
 
- 	
+ 
 
 Artículo 187
 
-	
 
 Límites de la jurisdicción penal militar policial
 
 
-
-
 TÍTULO IV
 
-	
 
 LA COMPETENCIA
 
 
- 	
+ 
 
 Artículo 188
 
-	
 
 Determinación de la competencia
 
 
- 	
+ 
 
 Artículo 189
 
-	
 
 Efectos de las cuestiones de competencia
 
 
- 	
+ 
 
 Artículo 190
 
-	
 
 Contienda de competencia por requerimiento
 
 
- 	
+ 
 
 Artículo 191
 
-	
 
 Contienda de competencia por inhibición
 
 
- 	
+ 
 
 Artículo 192
 
-	
 
 Contienda de competencia
 
 
- 	
+ 
 
 Artículo 193
 
-	
 
 Consulta del Juez
 
 
- 	
+ 
 
 Artículo 194
 
-	
 
 Inhibición del Juez
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 La Competencia por el Territorio
 
 
- 	
+ 
 
 Artículo 195
 
-	
 
 Competencia territorial
 
 
- 	
+ 
 
 Artículo 196
 
-	
 
 Delitos cometidos en un medio de transporte
 
 
- 	
+ 
 
 Artículo 197
 
-	
 
 Delito cometido en el extranjero
 
 
- 	
+ 
 
 Artículo 198
 
-	
 
 Delitos graves y de trascendencia nacional
 
 
- 	
+ 
 
 Artículo 199
 
-	
 
 Validez de los actos procesales ya realizados
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Tribunales Competentes
 
 
- 	
+ 
 
 Artículo 200
 
-	
 
 Órganos
 
 
- 	
+ 
 
 Artículo 201
 
-	
 
 Inhibición
 
 
- 	
+ 
 
 Artículo 202
 
-	
 
 Requisitos de la recusación
 
 
- 	
+ 
 
 Artículo 203
 
-	
 
 Reemplazo del inhibido o recusado
 
 
- 	
+ 
 
 Artículo 204
 
-	
 
 Trámite cuando el Juez no conviene en la recusación
 
 
- 	
+ 
 
 Artículo 205
 
-	
 
 Trámites especiales
 
 
- 	
+ 
 
 Artículo 206
 
-	
 
 Inhibición y recusación de secretarios y auxiliares jurisdiccionales
 
 
- 	
+ 
 
 Artículo 207
 
-	
 
 Resolución y diligencias urgentes
 
 
-
-
 TÍTULO V
 
-	
 
 SUJETOS PROCESALES
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 EL IMPUTADO
 
 
- 	
+ 
 
 Sección Primera: Normas Generales
 
 
- 	
+ 
 
 Artículo 208
 
-	
 
 Derechos del Imputado
 
 
- 	
+ 
 
 Artículo 209
 
-	
 
 Identificación
 
 
- 	
+ 
 
 Artículo 210
 
-	
 
 Domicilio
 
 
- 	
+ 
 
 Artículo 211
 
-	
 
 Inimputabilidad del procesado
 
 
- 	
+ 
 
 Artículo 212
 
-	
 
 Anomalía psíquica sobrevenida
 
 
- 	
+ 
 
 Artículo 213
 
-	
 
 Enfermedad del imputado
 
 
- 	
+ 
 
 Artículo 214
 
-	
 
 Informe trimestral del Director del Centro Hospitalario
 
 
- 	
+ 
 
 Artículo 215
 
-	
 
 Contumacia y Ausencia
 
 
- 	
+ 
 
 Sección Segunda: Defensa
 
 
- 	
+ 
 
 Artículo 216
 
-	
 
 Libertad de Declarar
 
 
- 	
+ 
 
 Artículo 217
 
-	
 
 Registro
 
 
- 	
+ 
 
 Artículo 218
 
-	
 
 Desarrollo
 
 
- 	
+ 
 
 Artículo 219
 
-	
 
 Métodos prohibidos
 
 
- 	
+ 
 
 Artículo 220
 
-	
 
 Facultades Militares Policiales
 
 
- 	
+ 
 
 Artículo 221
 
-	
 
 Valoración
 
 
- 	
+ 
 
 Artículo 222
 
-	
 
 Derecho de elección
 
 
- 	
+ 
 
 Artículo 223
 
-	
 
 Nombramiento
 
 
- 	
+ 
 
 Artículo 224
 
-	
 
 Nombramiento en caso de urgencia
 
 
- 	
+ 
 
 Artículo 225
 
-	
 
 Renuncia y abandono
 
 
- 	
+ 
 
 Artículo 226
 
-	
 
 Pluralidad de defensores
 
 
- 	
+ 
 
 CAPÍTULO II
 
-	
 
 LA VÍCTIMA
 
 
- 	
+ 
 
 Sección Primera: Derechos Fundamentales
 
 
- 	
+ 
 
 Artículo 227
 
-	
 
 Calidad de víctima
 
 
- 	
+ 
 
 Artículo 228
 
-	
 
 Derechos de la Víctima
 
 
- 	
+ 
 
 Artículo 229
 
-	
 
 Asesoramiento Técnico
 
 
- 	
+ 
 
 Sección Segunda: Acción Civil
 
 
- 	
+ 
 
 Artículo 230
 
-	
 
 Acción civil
 
 
- 	
+ 
 
 Artículo 231
 
-	
 
 Forma y contenido de la acción civil
 
 
- 	
+ 
 
 Artículo 232
 
-	
 
 Oportunidad
 
 
- 	
+ 
 
 Artículo 233
 
-	
 
 Desistimiento
 
 
- 	
+ 
 
 Artículo 234
 
-	
 
 Impedimento de acudir a la vía extra - penal
 
 
- 	
+ 
 
 Artículo 235
 
-	
 
 Actor Civil en Delitos de Función Militar Policial
 
 
- 	
+ 
 
 CAPÍTULO III
 
-	
 
 LA FISCALÍA MILITAR POLICIAL
 
 
- 	
+ 
 
 Artículo 236
 
-	
 
 Funciones
 
 
- 	
+ 
 
 Artículo 237
 
-	
 
 Objetividad
 
 
- 	
+ 
 
 Artículo 238
 
-	
 
 Poderes y atribuciones
 
 
- 	
+ 
 
 Artículo 239
 
-	
 
 Inhibición
 
 
- 	
+ 
 
 Artículo 240
 
-	
 
 Fuerzas Armadas y Policía Nacional
 
 
- 	
+ 
 
 Artículo 241
 
-	
 
 Apoyo de la Policía y de las Fuerzas Armadas
 
 
- 	
+ 
 
 Artículo 242
 
-	
 
 Coordinación
 
 
- 	
+ 
 
 Artículo 243
 
-	
 
 Los Órganos de Control Militar y Policial
 
 
- 	
+ 
 
 Artículo 244
 
-	
 
 Responsabilidad del funcionario negligente
 
 
- 	
+ 
 
 CAPÍTULO IV
 
-	
 
 NORMAS COMUNES A LAS PARTES
 
 
- 	
+ 
 
 Artículo 245
 
-	
 
 Buena fe procesal
 
 
- 	
+ 
 
 Artículo 246
 
-	
 
 Poder de disciplina y discrecional
 
 
-
-
 TÍTULO VI
 
-	
 
 ACTOS PROCESALES
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Idioma y forma de los Actos Procesales
 
 
- 	
+ 
 
 Artículo 247
 
-	
 
 Idioma
 
 
- 	
+ 
 
 Artículo 248
 
-	
 
 Día y hora de cumplimiento
 
 
- 	
+ 
 
 Artículo 249
 
-	
 
 Lugar
 
 
- 	
+ 
 
 Artículo 250
 
-	
 
 Documentación
 
 
- 	
+ 
 
 Artículo 251
 
-	
 
 Actas
 
 
- 	
+ 
 
 Artículo 252
 
-	
 
 Invalidez del acta
 
 
- 	
+ 
 
 Artículo 253
 
-	
 
 Reserva del original
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Actos y Resoluciones Judiciales
 
 
- 	
+ 
 
 Artículo 254
 
-	
 
 Resoluciones Judiciales
 
 
- 	
+ 
 
 Artículo 255
 
-	
 
 Aclaratoria
 
 
- 	
+ 
 
 Artículo 256
 
-	
 
 Reposición
 
 
- 	
+ 
 
 Artículo 257
 
-	
 
 Copia Auténtica
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Plazos
 
 
- 	
+ 
 
 Artículo 258
 
-	
 
 Principios Generales
 
 
- 	
+ 
 
 Artículo 259
 
-	
 
 Plazos judiciales
 
 
- 	
+ 
 
 Artículo 260
 
-	
 
 Plazos para resolver
 
 
- 	
+ 
 
 Artículo 261
 
-	
 
 Reposición del plazo
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Control de la duración del Procedimiento
 
 
- 	
+ 
 
 Artículo 262
 
-	
 
 Duración máxima
 
 
- 	
+ 
 
 Artículo 263
 
-	
 
 Indemnización
 
 
- 	
+ 
 
 Artículo 264
 
-	
 
 Queja por Retardo de Justicia
 
 
- 	
+ 
 
 Artículo 265
 
-	
 
 Demora en las Medidas Cautelares
 
 
- 	
+ 
 
 Capítulo V
 
-	
 
 Reglas de Cooperación Judicial
 
 
- 	
+ 
 
 Artículo 266
 
-	
 
 Cooperación de autoridades
 
 
- 	
+ 
 
 Artículo 267
 
-	
 
 Cooperación de otras autoridades
 
 
- 	
+ 
 
 Artículo 268
 
-	
 
 Negación o suspensión de la cooperación
 
 
- 	
+ 
 
 Artículo 269
 
-	
 
 Investigaciones conjuntas
 
 
- 	
+ 
 
 Capítulo VI
 
-	
 
 Comunicaciones
 
 
- 	
+ 
 
 Artículo 270
 
-	
 
 Regla General
 
 
-
-
 TÍTULO VII
 
-	
 
 INVALIDEZ DE LOS ACTOS PROCESALES
 
 
- 	
+ 
 
 Artículo 271
 
-	
 
 Artículo 149
 
 
- 	
+ 
 
 Artículo 272
 
-	
 
 Saneamiento
 
 
- 	
+ 
 
 Artículo 273
 
-	
 
 Taxatividad
 
 
- 	
+ 
 
 Artículo 274
 
-	
 
 Nulidad absoluta
 
 
- 	
+ 
 
 Artículo 275
 
-	
 
 Nulidad relativa
 
 
- 	
+ 
 
 Artículo 276
 
-	
 
 Convalidación
 
 
- 	
+ 
 
 Artículo 277
 
-	
 
 Saneamiento
 
 
- 	
+ 
 
 Artículo 278
 
-	
 
 Efectos de la nulidad
 
 
-
-
 TÍTULO VIII
 
-	
 
 MEDIOS DE PRUEBA
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 NORMAS GENERALES
 
 
- 	
+ 
 
 Artículo 279
 
-	
 
 Libertad Probatoria
 
 
- 	
+ 
 
 Artículo 280
 
-	
 
 Admisibilidad de la Prueba
 
 
- 	
+ 
 
 Artículo 281
 
-	
 
 Prescindencia de Prueba
 
 
- 	
+ 
 
 CAPÍTULO II
 
-	
 
 COMPROBACIONES DIRECTAS
 
 
- 	
+ 
 
 Artículo 282
 
-	
 
 Objeto
 
 
- 	
+ 
 
 Artículo 283
 
-	
 
 Adecuación
 
 
- 	
+ 
 
 Artículo 284
 
-	
 
 Participación de testigos y peritos
 
 
- 	
+ 
 
 Artículo 285
 
-	
 
 Registro de personas
 
 
- 	
+ 
 
 Artículo 286
 
-	
 
 Registro de Vehículos
 
 
- 	
+ 
 
 Artículo 287
 
-	
 
 Allanamiento y Registro de Morada
 
 
- 	
+ 
 
 Artículo 288
 
-	
 
 Lugares Especiales
 
 
- 	
+ 
 
 Artículo 289
 
-	
 
 Allanamiento sin Autorización Judicial
 
 
- 	
+ 
 
 Artículo 290
 
-	
 
 Trámite de la autorización
 
 
- 	
+ 
 
 Artículo 291
 
-	
 
 Autorización del Juez
 
 
- 	
+ 
 
 Artículo 292
 
-	
 
 Entrega de Objetos o Documentos
 
 
- 	
+ 
 
 Artículo 293
 
-	
 
 Procedimiento para el decomiso
 
 
- 	
+ 
 
 Artículo 294
 
-	
 
 Objetos no sometidos a decomiso
 
 
- 	
+ 
 
 Artículo 295
 
-	
 
 Comunicaciones
 
 
- 	
+ 
 
 Artículo 296
 
-	
 
 Clausura de locales
 
 
- 	
+ 
 
 Artículo 297
 
-	
 
 Incautación de datos
 
 
- 	
+ 
 
 Artículo 298
 
-	
 
 Control
 
 
- 	
+ 
 
 Artículo 299
 
-	
 
 Destino de los objetos decomisados
 
 
- 	
+ 
 
 CAPÍTULO III
 
-	
 
 TESTIMONIOS
 
 
- 	
+ 
 
 Artículo 300
 
-	
 
 Deber de testificar
 
 
- 	
+ 
 
 Artículo 301
 
-	
 
 Capacidad de atestiguar
 
 
- 	
+ 
 
 Artículo 302
 
-	
 
 Abstención para rendir testimonio
 
 
- 	
+ 
 
 Artículo 303
 
-	
 
 Criterio judicial
 
 
- 	
+ 
 
 Artículo 304
 
-	
 
 Compulsión
 
 
- 	
+ 
 
 Artículo 305
 
-	
 
 Residentes en el Extranjero
 
 
- 	
+ 
 
 Artículo 306
 
-	
 
 Forma de la declaración
 
 
- 	
+ 
 
 CAPÍTULO IV
 
-	
 
 PERITAJES
 
 
- 	
+ 
 
 Artículo 307
 
-	
 
 Procedencia
 
 
- 	
+ 
 
 Artículo 308
 
-	
 
 Nombramiento
 
 
- 	
+ 
 
 Artículo 309
 
-	
 
 Procedimiento de designación y obligaciones del perito
 
 
- 	
+ 
 
 Artículo 310
 
-	
 
 Impedimento y subrogación del perito
 
 
- 	
+ 
 
 Artículo 311
 
-	
 
 Acceso al proceso y reserva
 
 
- 	
+ 
 
 Artículo 312
 
-	
 
 Perito de parte
 
 
- 	
+ 
 
 Artículo 313
 
-	
 
 Contenido del informe pericial oficial
 
 
- 	
+ 
 
 Artículo 314
 
-	
 
 Contenido del informe pericial de parte
 
 
- 	
+ 
 
 Artículo 315
 
-	
 
 Reglas adicionales
 
 
- 	
+ 
 
 Artículo 316
 
-	
 
 Examen pericial
 
 
- 	
+ 
 
 CAPÍTULO V
 
-	
 
 EL CAREO
 
 
- 	
+ 
 
 Artículo 317
 
-	
 
 Procedencia
 
 
- 	
+ 
 
 Artículo 318
 
-	
 
 Reglas del careo
 
 
- 	
+ 
 
 CAPÍTULO VI
 
-	
 
 OTROS MEDIOS DE PRUEBA
 
 
- 	
+ 
 
 Artículo 319
 
-	
 
 Reconocimientos
 
 
- 	
+ 
 
 Artículo 320
 
-	
 
 Informes
 
 
- 	
+ 
 
 Artículo 321
 
-	
 
 Reconocimiento de personas
 
 
- 	
+ 
 
 Artículo 322
 
-	
 
 Recaudos
 
 
- 	
+ 
 
 Artículo 323
 
-	
 
 Levantamiento de cadáver
 
 
- 	
+ 
 
 Artículo 324
 
-	
 
 Necropsia
 
 
- 	
+ 
 
 Artículo 325
 
-	
 
 Embalsamamiento de cadáver
 
 
- 	
+ 
 
 Artículo 326
 
-	
 
 Examen de vísceras y materias sospechosas
 
 
- 	
+ 
 
 Artículo 327
 
-	
 
 Examen de lesiones y de agresión sexual
 
 
- 	
+ 
 
 Artículo 328
 
-	
 
 Preexistencia y Valorización
 
 
-
-
 TÍTULO IX
 
-	
 
 MEDIDAS DE COERCIÓN Y CAUTELARES
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 MEDIDAS DE COERCIÓN
 
 
- 	
+ 
 
 Artículo 329
 
-	
 
 Principio General
 
 
- 	
+ 
 
 Artículo 330
 
-	
 
 Libertad
 
 
- 	
+ 
 
 Artículo 331
 
-	
 
 Medidas de coerción
 
 
- 	
+ 
 
 Artículo 332
 
-	
 
 Artículo 192
 
 
- 	
+ 
 
 Artículo 333
 
-	
 
 Forma y carácter
 
 
- 	
+ 
 
 Artículo 334
 
-	
 
 Duración máxima
 
 
- 	
+ 
 
 Artículo 335
 
-	
 
 Tratamiento
 
 
- 	
+ 
 
 Artículo 336
 
-	
 
 Cesación de la Prisión Preventiva
 
 
- 	
+ 
 
 Artículo 337
 
-	
 
 Revocatoria y revisión de las medidas cautelares. Excarcelación
 
 
- 	
+ 
 
 Artículo 338
 
-	
 
 Incumplimiento
 
 
- 	
+ 
 
 Artículo 339
 
-	
 
 Limitaciones a la Prisión Preventiva
 
 
- 	
+ 
 
 Artículo 340
 
-	
 
 Internación
 
 
- 	
+ 
 
 Artículo 341
 
-	
 
 Aprehensión sin orden judicial
 
 
- 	
+ 
 
 Artículo 342
 
-	
 
 Flagrancia
 
 
- 	
+ 
 
 Artículo 343
 
-	
 
 Detención
 
 
- 	
+ 
 
 CAPÍTULO II
 
-	
 
 MEDIDAS CAUTELARES
 
 
- 	
+ 
 
 Artículo 344
 
-	
 
 Allanamiento sin Autorización Judicial
 
 
- 	
+ 
 
 Artículo 345
 
-	
 
 Indagación sobre bienes embargables
 
 
- 	
+ 
 
 Artículo 346
 
-	
 
 Embargo
 
 
- 	
+ 
 
 Artículo 347
 
-	
 
 Ejecución e Impugnación del auto de embargo
 
 
- 	
+ 
 
 Artículo 348
 
-	
 
 Variación y Alzamiento de la medida de embargo
 
 
- 	
+ 
 
 Artículo 349
 
-	
 
 Sentencia firme y embargo
 
 
- 	
+ 
 
 Artículo 350
 
-	
 
 Autorización para vender el bien embargado
 
 
- 	
+ 
 
 Artículo 351
 
-	
 
 Desafectación y Tercería
 
 
- 	
+ 
 
 Artículo 352
 
-	
 
 Trámite de la apelación en segunda instancia
 
 
-
-
 TÍTULO X
 
-	
 
 PROCEDIMIENTO ORDINARIO
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 ASPECTOS GENERALES DE LA ETAPA PREPARATORIA
 
 
- 	
+ 
 
 Artículo 353
 
-	
 
 Finalidad
 
 
- 	
+ 
 
 Artículo 354
 
-	
 
 Legajo de investigación
 
 
- 	
+ 
 
 Artículo 355
 
-	
 
 Valor de las actuaciones
 
 
- 	
+ 
 
 Artículo 356
 
-	
 
 Actuación jurisdiccional
 
 
- 	
+ 
 
 Artículo 357
 
-	
 
 Incidentes audiencias durante la etapa preparatoria
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Actos Iniciales
 
 
- 	
+ 
 
 Sección Primera: Denuncia
 
 
- 	
+ 
 
 Artículo 358
 
-	
 
 Denuncia
 
 
- 	
+ 
 
 Artículo 359
 
-	
 
 Obligación de denunciar
 
 
- 	
+ 
 
 Artículo 360
 
-	
 
 Participación y responsabilidad
 
 
- 	
+ 
 
 Artículo 361
 
-	
 
 Trámite
 
 
- 	
+ 
 
 Sección Segunda: Iniciación de Oficio
 
 
- 	
+ 
 
 Artículo 362
 
-	
 
 Diligencias iniciales
 
 
- 	
+ 
 
 Artículo 363
 
-	
 
 Medidas precautorias
 
 
- 	
+ 
 
 Artículo 364
 
-	
 
 Investigación preliminar
 
 
- 	
+ 
 
 Artículo 365
 
-	
 
 Valoración inicial
 
 
- 	
+ 
 
 Artículo 366
 
-	
 
 Desestimación
 
 
- 	
+ 
 
 Artículo 367
 
-	
 
 Archivo
 
 
- 	
+ 
 
 Artículo 368
 
-	
 
 Control de la decisión fiscal
 
 
- 	
+ 
 
 Artículo 369
 
-	
 
 Apertura de la investigación preparatoria
 
 
- 	
+ 
 
 Artículo 370
 
-	
 
 Investigación genérica
 
 
- 	
+ 
 
 Artículo 371
 
-	
 
 Denuncias públicas
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Desarrollo de la investigación
 
 
- 	
+ 
 
 Artículo 372
 
-	
 
 Atribuciones
 
 
- 	
+ 
 
 Nombramiento
 
-	
 
 Intervención de las partes
 
 
- 	
+ 
 
 Artículo 374
 
-	
 
 Anticipo jurisdiccional de prueba
 
 
- 	
+ 
 
 Artículo 375
 
-	
 
 Urgencia
 
 
- 	
+ 
 
 Artículo 376
 
-	
 
 Carácter de las actuaciones
 
 
- 	
+ 
 
 Artículo 377
 
-	
 
 Duración
 
 
- 	
+ 
 
 Artículo 378
 
-	
 
 Prórroga
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Conclusión de la Etapa Preparatoria
 
 
- 	
+ 
 
 Artículo 379
 
-	
 
 Actos conclusivos
 
 
- 	
+ 
 
 Artículo 380
 
-	
 
 Sobreseimiento
 
 
- 	
+ 
 
 Artículo 381
 
-	
 
 Contenido de la resolución
 
 
- 	
+ 
 
 Artículo 382
 
-	
 
 Trámite
 
 
- 	
+ 
 
 Artículo 383
 
-	
 
 Efectos
 
 
- 	
+ 
 
 Capítulo V
 
-	
 
 Control de la acusación
 
 
- 	
+ 
 
 Artículo 384
 
-	
 
 Acusación
 
 
- 	
+ 
 
 Artículo 385
 
-	
 
 Ofrecimiento de Prueba
 
 
- 	
+ 
 
 Artículo 386
 
-	
 
 Acusación Subsidiaria
 
 
- 	
+ 
 
 Artículo 387
 
-	
 
 Comunicación a la Víctima y al Actor Civil
 
 
- 	
+ 
 
 Artículo 388
 
-	
 
 Defensor
 
 
- 	
+ 
 
 Artículo 389
 
-	
 
 Audiencia
 
 
- 	
+ 
 
 Artículo 390
 
-	
 
 Prueba
 
 
- 	
+ 
 
 Artículo 391
 
-	
 
 Decisión
 
 
- 	
+ 
 
 Artículo 392
 
-	
 
 Auto de Enjuiciamiento
 
 
- 	
+ 
 
 Capítulo VI
 
-	
 
 JUICIO ORAL Y PÚBLICO
 
 
- 	
+ 
 
 Sección Primera: Normas Generales
 
 
- 	
+ 
 
 Artículo 393
 
-	
 
 Preparación del Juicio
 
 
- 	
+ 
 
 Artículo 394
 
-	
 
 División del juicio en dos fases
 
 
- 	
+ 
 
 Artículo 395
 
-	
 
 Excepciones
 
 
- 	
+ 
 
 Artículo 396
 
-	
 
 Inmediación
 
 
- 	
+ 
 
 Artículo 397
 
-	
 
 Limitaciones a la libertad del imputado
 
 
- 	
+ 
 
 Artículo 398
 
-	
 
 Publicidad
 
 
- 	
+ 
 
 Artículo 399
 
-	
 
 Medios de Comunicación
 
 
- 	
+ 
 
 Artículo 400
 
-	
 
 Acceso del Público
 
 
- 	
+ 
 
 Artículo 401
 
-	
 
 Oralidad
 
 
- 	
+ 
 
 Artículo 402
 
-	
 
 Excepciones a la oralidad
 
 
- 	
+ 
 
 Artículo 403
 
-	
 
 Orden y dirección del debate
 
 
- 	
+ 
 
 Artículo 404
 
-	
 
 Continuidad, suspensión e interrupción
 
 
- 	
+ 
 
 Artículo 405
 
-	
 
 Reemplazo Inmediato
 
 
- 	
+ 
 
 Artículo 406
 
-	
 
 Imposibilidad de Asistencia
 
 
- 	
+ 
 
 Artículo 407
 
-	
 
 Delito en la Audiencia
 
 
- 	
+ 
 
 Sección Segunda: Sustanciación del Juicio
 
 
- 	
+ 
 
 Artículo 408
 
-	
 
 Apertura y Juramento
 
 
- 	
+ 
 
 Artículo 409
 
-	
 
 Defensa
 
 
- 	
+ 
 
 Artículo 410
 
-	
 
 Ampliación de la Acusación
 
 
- 	
+ 
 
 Artículo 411
 
-	
 
 Recepción de pruebas
 
 
- 	
+ 
 
 Artículo 412
 
-	
 
 Interrogatorio
 
 
- 	
+ 
 
 Artículo 413
 
-	
 
 Peritos
 
 
- 	
+ 
 
 Artículo 414
 
-	
 
 Otros medios de Prueba
 
 
- 	
+ 
 
 Artículo 415
 
-	
 
 DELITOS CONTRA LA FIDELIDAD A LA FUNCIÓN MILITAR POLICIAL
 
 
- 	
+ 
 
 Artículo 416
 
-	
 
 Clausura del Debate
 
 
- 	
+ 
 
 Sección Tercera: Deliberación y Sentencia
 
 
- 	
+ 
 
 Artículo 417
 
-	
 
 Deliberación
 
 
- 	
+ 
 
 Artículo 418
 
-	
 
 Requisitos Esenciales de la Sentencia
 
 
- 	
+ 
 
 Artículo 419
 
-	
 
 Redacción y lectura
 
 
- 	
+ 
 
 Artículo 420
 
-	
 
 Sentencia y Acusación
 
 
- 	
+ 
 
 Artículo 421
 
-	
 
 Decisión
 
 
- 	
+ 
 
 Artículo 422
 
-	
 
 Responsabilidad Civil
 
 
- 	
+ 
 
 Sección Cuarta: Registro de la audiencia
 
 
- 	
+ 
 
 Artículo 423
 
-	
 
 Forma
 
 
- 	
+ 
 
 Artículo 424
 
-	
 
 Valor de los registros
 
 
-
-
 TÍTULO XI
 
-	
 
 PROCESOS ESPECIALES
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 PROCESOS EN TIEMPO DE CONFLICTO ARMADO
 
 
- 	
+ 
 
 Artículo 425
 
-	
 
 Trámite
 
 
- 	
+ 
 
 Artículo 426
 
-	
 
 Reglas
 
 
- 	
+ 
 
 Artículo 427
 
-	
 
 Práctica de diligencias
 
 
- 	
+ 
 
 Artículo 428
 
-	
 
 Diligencia en plazas sitiadas
 
 
- 	
+ 
 
 Artículo 429
 
-	
 
 Proceso ordinario
 
 
- 	
+ 
 
 Artículo 430
 
-	
 
 Plazos
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 PROCEDIMIENTOS ABREVIADOS
 
 
- 	
+ 
 
 Sección Primera: Acuerdo Pleno
 
 
- 	
+ 
 
 Artículo 431
 
-	
 
 Admisibilidad
 
 
- 	
+ 
 
 Artículo 432
 
-	
 
 Trámite y Resolución
 
 
- 	
+ 
 
 Artículo 433
 
-	
 
 Inadmisibilidad
 
 
- 	
+ 
 
 Sección Segunda: Acuerdo Parcial
 
 
- 	
+ 
 
 Artículo 434
 
-	
 
 Admisibilidad
 
 
- 	
+ 
 
 Artículo 435
 
-	
 
 Integración de la Sala del Consejo Territorial Militar Policial
 
 
- 	
+ 
 
 Artículo 436
 
-	
 
 Trámite
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 PROCEDIMIENTO PARA ASUNTOS COMPLEJOS
 
 
- 	
+ 
 
 Artículo 437
 
-	
 
 Procedencia y Trámite
 
 
- 	
+ 
 
 Artículo 438
 
-	
 
 Plazos
 
 
- 	
+ 
 
 Artículo 439
 
-	
 
 Producción de Prueba Masiva
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 PROCEDIMIENTO PARA LA APLICACIÓN DE MEDIDAS DE SEGURIDAD
 
 
- 	
+ 
 
 Artículo 440
 
-	
 
 Procedencia
-
-
 
 
 TÍTULO XII
 
-	
 
 CONTROL DE LAS DECISIONES JUDICIALES
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 NORMAS GENERALES
 
 
- 	
+ 
 
 Artículo 441
 
-	
 
 Principio General
 
 
- 	
+ 
 
 Artículo 442
 
-	
 
 Adhesión
 
 
- 	
+ 
 
 Artículo 443
 
-	
 
 Decisiones durante las Audiencias
 
 
- 	
+ 
 
 Artículo 444
 
-	
 
 Extensión
 
 
- 	
+ 
 
 Artículo 445
 
-	
 
 Efecto Suspensivo
 
 
- 	
+ 
 
 Artículo 446
 
-	
 
 Desistimiento
 
 
- 	
+ 
 
 Artículo 447
 
-	
 
 Competencia
 
 
- 	
+ 
 
 Artículo 448
 
-	
 
 Reforma en Perjuicio
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 DECISIONES IMPUGNABLES
 
 
- 	
+ 
 
 Artículo 449
 
-	
 
 Decisiones Impugnables
 
 
- 	
+ 
 
 Artículo 450
 
-	
 
 Sobreseimiento
 
 
- 	
+ 
 
 Artículo 451
 
-	
 
 Sentencia Condenatoria
 
 
- 	
+ 
 
 Artículo 452
 
-	
 
 Sentencia Absolutoria
 
 
- 	
+ 
 
 Artículo 453
 
-	
 
 Refundición de Penas
 
 
- 	
+ 
 
 Artículo 454
 
-	
 
 Legitimación del imputado
 
 
- 	
+ 
 
 Artículo 455
 
-	
 
 Legitimación de la Víctima y del Actor Civil
 
 
- 	
+ 
 
 Artículo 456
 
-	
 
 Legitimación del Fiscal
 
 
- 	
+ 
 
 Artículo 457
 
-	
 
 Interposición
 
 
- 	
+ 
 
 Artículo 458
 
-	
 
 Prueba
 
 
- 	
+ 
 
 Artículo 459
 
-	
 
 Emplazamiento
 
 
- 	
+ 
 
 Artículo 460
 
-	
 
 Audiencia
 
 
- 	
+ 
 
 Artículo 461
 
-	
 
 Resolución
 
 
- 	
+ 
 
 Artículo 462
 
-	
 
 Reenvío
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 REVISIÓN DE SENTENCIA FIRME
 
 
- 	
+ 
 
 Artículo 463
 
-	
 
 Procedencia
 
 
- 	
+ 
 
 Artículo 464
 
-	
 
 Legitimación
 
 
- 	
+ 
 
 Artículo 465
 
-	
 
 Interposición
 
 
- 	
+ 
 
 Artículo 466
 
-	
 
 Procedimiento
 
 
- 	
+ 
 
 Artículo 467
 
-	
 
 Resolución
-
-
 
 
 LIBRO CUARTO: EJECUCIÓN PENAL
 
 
-
-
 TÍTULO I
 
-	
 
 DISPOSICIONES PRELIMINARES
 
 
- 	
+ 
 
 Artículo 468
 
-	
 
 Legalidad
 
 
- 	
+ 
 
 Artículo 469
 
-	
 
 Derecho de Defensa
 
 
- 	
+ 
 
 Artículo 470
 
-	
 
 Principio de Igualdad
 
 
- 	
+ 
 
 Artículo 471
 
-	
 
 Control en la ejecución de la pena
 
 
- 	
+ 
 
 Artículo 472
 
-	
 
 Principio de humanidad de las penas
 
 
- 	
+ 
 
 Artículo 473
 
-	
 
 Retroactividad benigna
 
 
- 	
+ 
 
 Artículo 474
 
-	
 
 Participación Comunitaria
 
 
- 	
+ 
 
 Artículo 475
 
-	
 
 Ejecución de sentencia
 
 
-
-
 TÍTULO II
 
-	
 
 DERECHOS y OBLIGACIONES DE LOS INTERNOS
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 De los derechos
 
 
- 	
+ 
 
 Artículo 476
 
-	
 
 Interno
 
 
- 	
+ 
 
 Artículo 477
 
-	
 
 Derechos
 
 
- 	
+ 
 
 Artículo 478
 
-	
 
 Enumeración
 
 
- 	
+ 
 
 Artículo 479
 
-	
 
 Derecho de la mujer
 
 
- 	
+ 
 
 Forma agravada
 
-	
 
 De las obligaciones
 
 
- 	
+ 
 
 Artículo 480
 
-	
 
 Obligaciones del interno
 
 
-
-
 TÍTULO III
 
-	
 
 EJECUCIÓN DE PENAS
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 De la Pena de Muerte
 
 
- 	
+ 
 
 Artículo 481
 
-	
 
 Aislamiento del condenado
 
 
- 	
+ 
 
 Artículo 482
 
-	
 
 Designación de lugar y fecha
 
 
- 	
+ 
 
 Artículo 483
 
-	
 
 Notificación de la ejecución
 
 
- 	
+ 
 
 Artículo 484
 
-	
 
 Ejecución de la pena de muerte
 
 
- 	
+ 
 
 Artículo 485
 
-	
 
 Ejecución de más de un condenado
 
 
- 	
+ 
 
 Artículo 486
 
-	
 
 Verificación de deceso
 
 
- 	
+ 
 
 Artículo 487
 
-	
 
 Certificación
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 De las Penas Limitativas de Derechos
 
 
- 	
+ 
 
 Artículo 488
 
-	
 
 Degradación
 
 
- 	
+ 
 
 Artículo 489
 
-	
 
 Acto de degradación
 
 
- 	
+ 
 
 Artículo 490
 
-	
 
 Procedimiento de la degradación
 
 
- 	
+ 
 
 Artículo 491
 
-	
 
 Expulsión
 
 
- 	
+ 
 
 Artículo 492
 
-	
 
 Separación temporal o absoluta del servicio
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 De la Pena Privativa de la Libertad
 
 
- 	
+ 
 
 Artículo 493
 
-	
 
 Pena Privativa de Libertad
 
 
- 	
+ 
 
 Artículo 494
 
-	
 
 Remisión de testimonio de condena y registro de antecedentes
 
 
- 	
+ 
 
 Artículo 495
 
-	
 
 Finalidad de la Pena Privativa de Libertad
 
 
- 	
+ 
 
 Artículo 496
 
-	
 
 Diagnóstico y ubicación
 
 
- 	
+ 
 
 Artículo 497
 
-	
 
 Tratamiento
 
 
- 	
+ 
 
 Artículo 498
 
-	
 
 Informe de tratamiento
 
 
-
-
 TÍTULO IV
 
-	
 
 BENEFICIOS PENITENCIARIOS
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 Permiso de salida
 
 
- 	
+ 
 
 Artículo 499
 
-	
 
 Beneficio de salida
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Redención de la pena
 
 
- 	
+ 
 
 Artículo 500
 
-	
 
 Redención de Penas
 
 
- 	
+ 
 
 Artículo 501
 
-	
 
 Excepciones
 
 
- 	
+ 
 
 Capítulo III
 
-	
 
 Prelibertad
 
 
- 	
+ 
 
 Artículo 502
 
-	
 
 Prelibertad
 
 
- 	
+ 
 
 Artículo 503
 
-	
 
 Salidas Transitorias y Beneficios
 
 
- 	
+ 
 
 Artículo 504
 
-	
 
 Concesión del beneficio
 
 
- 	
+ 
 
 Artículo 505
 
-	
 
 Revocatoria
 
 
- 	
+ 
 
 Capítulo IV
 
-	
 
 Libertad Condicional
 
 
- 	
+ 
 
 Artículo 506
 
-	
 
 Libertad Condicional
 
 
- 	
+ 
 
 Artículo 507
 
-	
 
 Requisitos
 
 
- 	
+ 
 
 Artículo 508
 
-	
 
 Procedimiento
 
 
- 	
+ 
 
 Artículo 509
 
-	
 
 Revocatoria
 
 
-
-
 TÍTULO V
 
-	
 
 OFICINA GENERAL DE CENTROS DE RECLUSIÓN MILITAR POLICIAL
 
 
- 	
+ 
 
 Artículo 510
 
-	
 
 Oficina General de Centros de Reclusión Militar Policial
 
 
-
-
 TÍTULO VI
 
-	
 
 DE LOS CENTROS DE RECLUSIÓN MILITAR POLICIAL
 
 
- 	
+ 
 
 CAPÍTULO I
 
-	
 
 Organización de los Centros de Reclusión
 
 
- 	
+ 
 
 Artículo 511
 
-	
 
 Centros de Reclusión
 
 
- 	
+ 
 
 Artículo 512
 
-	
 
 Autoridades del Centro de Reclusión
 
 
- 	
+ 
 
 CAPÍTULO II
 
-	
 
 De los Centros de Reclusión Militar Policial
 
 
- 	
+ 
 
 Artículo 513
 
-	
 
 Clasificación
 
 
- 	
+ 
 
 Artículo 514
 
-	
 
 Prisioneros de Guerra
 
 
- 	
+ 
 
 Artículo 515
 
-	
 
 Excepción
 
 
-
-
 TÍTULO VII
 
-	
 
 REGIMEN DISCIPLINARIO
 
 
- 	
+ 
 
 Capítulo I
 
-	
 
 De las Faltas y Sanciones
 
 
- 	
+ 
 
 Artículo 516
 
-	
 
 Régimen Disciplinario
 
 
- 	
+ 
 
 Artículo 517
 
-	
 
 Potestad Disciplinaria
 
 
- 	
+ 
 
 Artículo 518
 
-	
 
 Faltas Disciplinarias
 
 
- 	
+ 
 
 Artículo 519
 
-	
 
 Artículo 95
 
 
- 	
+ 
 
 Artículo 520
 
-	
 
 Sanciones por Faltas Graves
 
 
- 	
+ 
 
 Capítulo II
 
-	
 
 Procedimiento para Imponer las Sanciones
 
 
- 	
+ 
 
 Artículo 521
 
-	
 
 Inicio del procedimiento
 
 
- 	
+ 
 
 Artículo 522
 
-	
 
 Procedimiento disciplinario
 
 
- 	
+ 
 
 Artículo 523
 
-	
 
 Criterios para determinar la sanción
 
 
- 	
+ 
 
 Artículo 524
 
-	
 
 Requisitos de la resolución
 
 
- 	
+ 
 
 Artículo 525
 
-	
 
 Recursos de impugnación
 
 
- 	
+ 
 
 Artículo 526
 
-	
 
 Medidas Coercitivas de Emergencia
-
-
 
 
 DISPOSICIONES COMPLEMENTARIAS
 
 
-
-
 Primera
 
 
-
-
 Segunda
-
-
 
 
 DISPOSICIONES FINALES
 
 
-
-
 Primera
 
 
-
-
 Segunda
-
-
 
 
 Tercera
 
 
-
-
 Cuarta
-
-
 
 
 Quinta
 
 
-
-
 DISPOSICIONES TRANSITORIAS
-
-
 
 
 Primera
 
 
-
-
 Segunda
 
 
-
-
 Cuadro de Modificaciones
-
 
 
 TÍTULO PRELIMINAR
@@ -12562,541 +11777,376 @@ DISPOSICIONES TRANSITORIAS
       Segunda.- El Poder Ejecutivo, en un plazo de 120 días deberá expedir el Reglamento de Ejecución Penal Militar Policial que establezca el régimen de vida en los Centros de Reclusión Militar Policial y otras disposiciones contenidas en el presente Código, relativas a la ejecución de la pena.
 
 
-
-
 CUADRO DE MODIFICACIONES DEL CÓDIGO DE JUSTICIA MILITAR POLICIAL
-
 
 
 ARTICULO
 AFECTADO
 
-	
 
 AFECTACION JURIDICA
 
-	
 
 FECHA DE
 PUBLICACION
 
 
-
-
 Art. 68
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 70, inc. 1
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 70, inc. 4
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 75, extremo:"y que atenten contra la integridad, independencia y poder unitario del estado"
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 82, extremo: “será reprimido con pena privativa de libertad no mayor de cuatro años y con sesenta a ciento ochenta días-multa”.
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 90
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 91
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 92
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 93
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 95
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 96
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 97
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 98
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 99
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 100
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 101
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 102
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 103
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 115
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 116
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 117
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 121, 1er. párrafo, extremo: “causándole lesiones leves”.
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 121, inc. 1, extremo: “o si se causa lesiones graves al superior”.
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 121, inc. 2, extremo:  “o si se causa la muerte del superior”.
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 123, extremo: “coaccione, injurie o difame, de palabra, por escrito o con publicidad a un superior”
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 125
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 130, inc. 1
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 130, inc. 2, extremo: “o causa la muerte”.
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 134
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 139, inc. 1
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 139, inc. 2
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 140
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 141, inc. 1
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 141, inc. 2
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 142
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 143
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 144
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 147
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
-
-
 
 
 Art. 148
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
 
 
-
-
 Art. 149
 
-	
 
 DECLARADO INCONSTITUCIONAL por el Resolutivo 1 del Pleno Jurisdiccional del Tribunal Constitucional Expediente N° 0012-2006-PI-TC
 
-	
 
 08-01-2007
 

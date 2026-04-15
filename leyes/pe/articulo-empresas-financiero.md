@@ -19,7 +19,7 @@ disclaimer: true
 
 Inicio ** Penal ** Las empresas del sistema financiero en el Perú. A propósito de la...- Penal
 # Las empresas del sistema financiero en el Perú. A propósito de la Ley 26702
-Por Valentin Rodolfo Soto Llerena -                  8 marzo, 2022                                            **Sumilla:** 1. Empresas del sistema financiero; 1.1. Definición y características; 1.2. Constitución de empresas financieras; 1.3. Autorizaciones en la constitución de empresas financieras; 1.4. Capital; 1.5. Accionistas; 1.6. Utilidades y dividendos; 1.7. Órganos y funciones específicas; 2. Las operaciones realizables por las empresas financieras; 3. Empresas de operaciones múltiples.
+Por Valentin Rodolfo Soto Llerena - 8 marzo, 2022**Sumilla:** 1. Empresas del sistema financiero; 1.1. Definición y características; 1.2. Constitución de empresas financieras; 1.3. Autorizaciones en la constitución de empresas financieras; 1.4. Capital; 1.5. Accionistas; 1.6. Utilidades y dividendos; 1.7. Órganos y funciones específicas; 2. Las operaciones realizables por las empresas financieras; 3. Empresas de operaciones múltiples.
 ## **1. ****Empresas del sistema financiero**
 ### **1.1. ****Definición y características**
 Las empresas financieras son aquellas instituciones que captan recursos del público y cuya especialidad consiste en facilitar las colocaciones de primeras emisiones de valores, operar con valores mobiliarios y brindar asesoría de carácter financiero[1].
@@ -90,7 +90,7 @@ Es importante señalar que para estas entidades financieras organizadas y consti
 Al respecto, el artículo 50 de la LGSF[14] establece que las empresas del sistema financiero y de seguros, organizadas como sociedades anónimas deben tener, en todo momento, el número mínimo de accionistas que establece la Ley General de Sociedades, vale decir, pluralidad de socios. Y según el artículo 29[15] de la Ley N° 26702 es imperativo en exigir que el íntegro de las acciones de las empresas financieras estén registradas en la bolsa de valores[16].
 Existen impedimentos que prohíben ser accionistas, estos están expresamente señalados en el art. 20 de la LGSF.
 Entre estos impedimentos son:
-- 
+-
 - **No pueden ser accionistas de una empresa del sistema financiero otra empresa de la misma naturaleza:** en este caso, no se considera como empresa de la misma naturaleza a aquellos otros tipos de empresas que integran el sistema financiero o de seguros y que sean distintos al de la empresa citada, se consideraría esta limitación, por ejemplo, en el caso de un banco accionista de otro banco.
 - **Los funcionarios y trabajadores públicos:** así como sus cónyuges, no pueden ser titulares de accionistas de una empresa financiera, en una proporción que exceda el 5% del capital de la empresa. Esta restricción es mayor en el caso del presidente de SMV, Superintendente de Banca y Seguros, trabajadores de ambas instituciones, así como sus cónyuges, quienes no pueden ser titulares de accionistas de ninguna empresa del sistema financiero.
 - **Los accionistas mayoritarios directa o indirectamente:** de una empresa del sistema financiero o de seguros, no pueden ser titulares directa o indirectamente, de más del 5% de las acciones de otra empresa de la misma naturaleza.
@@ -98,7 +98,7 @@ Entre estos impedimentos son:
 Las utilidades obtenidas en el ejercicio económico anual de una empresa financiera deben ser aplicadas perfectamente a la recomposición del capital social mínimo, siempre que exista un déficit y la empresa se encuentra dentro del plazo de 90 días que se le otorga para dicho efecto.
 Las utilidades del ejercicio económico se determinan luego de haber efectuado todas las provisiones dispuestas por ley para las empresas del sistema financiero, determinadas por la SBS o acordadas por la propia empresa, estas serán aplicadas en la forma establecida en el orden de prelación que señala la LGSF[17].
 El orden de prelación para la aplicación de las utilidades del ejercicio económico anual es el siguiente:
-- 
+-
 - Para la recomposición del capital mínimo establecido para las Empresas del Sistema Financiero;
 - Para la constitución de la reserva legal o, en su caso, para su reconstitución;
 - Para la constitución del fondo de garantía (solo rige para empresas de seguro); y,
@@ -191,22 +191,22 @@ Este esquema significa que las empresas de operaciones múltiples, como son las 
 [18]  Cfr. Ley N° 26702 “Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la Superintendencia de Banca y Seguros”, art. 75.
 [19] Instituto de Formación Bancaria. Separata de sistema financiero y sus principales productos y servicios. Disponible en: file:///C:/Users/hp/Downloads/Separata_Sistema_Financiero_y_sus_principales_Productos_y_Servicios_2011-2%20(2).pdf
 Comentarios:#### ARTÍCULOS RELACIONADOSMÁS DEL AUTOR
-Noticias            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-Noticias            ### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
-Jurisprudencia            ### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
-Penal            ### ¿Sabías que el Día del Abogado nació con un error?
-Penal            ### La «especialidad de flagrancia» como presupuesto de validez y el riesgo de la usurpación funcional
-**                Noticias            ### Delia Espinoza: PJ evaluó querella contra Rospigliosi por presunta difamación
-**** #### MÁS LEÍDOS
-Noticias            ### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
-Lizbeth Ubillus -                 1 abril, 2026                            El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...            ### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
-2 abril, 2026                            ### Código Penal peruano [actualizado 2026]
-14 febrero, 2026                            ### CAL lanza convocatoria para pertenecer a su registro de árbitros
-2 abril, 2026                            ### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
-3 abril, 2026                            #### LO ÚLTIMO
-Abogados            ### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
-César David Ojeda Quiroz -                 4 abril, 2026                            Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...            ### En el marco de la normativa de contrataciones públicas, independientemente de...
-4 abril, 2026                            ### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
-4 abril, 2026                            ### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
-4 abril, 2026                            ### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
+Noticias### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+Noticias### ¿Sacerdote que no denuncia un delito confesado comete omisión de denuncia?
+Jurisprudencia### Entregar el celular con información ya borrada o seleccionada no puede considerarse, en rigor, un acto de colaboración absoluta que desvanezca el riesgo de...
+Penal### ¿Sabías que el Día del Abogado nació con un error?
+Penal### La «especialidad de flagrancia» como presupuesto de validez y el riesgo de la usurpación funcional
+** Noticias### Delia Espinoza: PJ evaluó querella contra Rospigliosi por presunta difamación
+****#### MÁS LEÍDOS
+Noticias### Tomás Gálvez plantea que requisitos generales en Ley de Carrera Fiscal...
+Lizbeth Ubillus - 1 abril, 2026El fiscal de la Nación, Tomás Aladino Gálvez, presentó un proyecto de ley que modifica el artículo 4 de la Ley 30483. La iniciativa...### Modifican Reglamento sobre uso de la fuerza por las Fuerzas Armadas...
+2 abril, 2026### Código Penal peruano [actualizado 2026]
+14 febrero, 2026### CAL lanza convocatoria para pertenecer a su registro de árbitros
+2 abril, 2026### ¿Cometo delito si no devuelvo «yape» que me enviaron por error?
+3 abril, 2026#### LO ÚLTIMO
+Abogados### Análisis sobre los aspectos controvertidos de la Ley 32563. Reflexiones en...
+César David Ojeda Quiroz - 4 abril, 2026Sumario: I. Introducción; II. Sobre la definición del contrato administrativo de servicios (CAS); III. Sobre la duración de los CAS; IV. ¿En qué casos...### En el marco de la normativa de contrataciones públicas, independientemente de...
+4 abril, 2026### Empleadores deben contar con protocolos de seguridad y aplicarlos cuando se...
+4 abril, 2026### Para solicitar la sustitución del personal clave, el profesional reemplazante debe...
+4 abril, 2026### Declaran ilegal que Sucamec exija contrato de trabajo previo para autorizar...
 4 abril, 2026
