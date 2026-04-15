@@ -86,9 +86,31 @@ const citationData = {
   fechaPublicacion: meta.fechaPublicacion,
   diarioOficial: meta.diarioOficial || 'El Peruano',
 }
+
+// JSON-LD structured data for SEO
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Legislation",
+  "name": meta.titulo,
+  "identifier": meta.identificador,
+  "legislationType": rangoLabels[meta.rango] ?? meta.rango,
+  "datePublished": meta.fechaPublicacion,
+  "jurisdiction": {
+    "@type": "AdministrativeArea",
+    "name": "Peru"
+  },
+  "inLanguage": "es",
+  "url": `https://legalize.crafter.ing/leyes/${id}`,
+  "publisher": {
+    "@type": "Organization",
+    "name": meta.diarioOficial || "El Peruano"
+  }
+}
 ---
 
 <Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main id="main-content">
     <div class="container">
       <nav class="breadcrumb" aria-label="Navegación de ruta">
@@ -152,7 +174,16 @@ const citationData = {
         </div>
 
         <div class="action-buttons">
-          <button id="btn-cite" class="btn btn-primary" type="button">
+          <button id="btn-bookmark" class="btn btn-primary" type="button" title="Guardar en favoritos">
+            <svg class="icon-bookmark-outline" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+            <svg class="icon-bookmark-filled" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" style="display:none">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+            <span class="btn-text" id="bookmark-text">Guardar</span>
+          </button>
+          <button id="btn-cite" class="btn btn-secondary" type="button">
             Citar
           </button>
           <button id="btn-print" class="btn btn-secondary" type="button" title="Imprimir / Guardar PDF">
@@ -452,6 +483,137 @@ const citationData = {
       shareMenu.hidden = true
     })
   })
+
+  // Bookmark functionality
+  const btnBookmark = document.getElementById('btn-bookmark')
+  const bookmarkText = document.getElementById('bookmark-text')
+  const iconOutline = btnBookmark?.querySelector('.icon-bookmark-outline')
+  const iconFilled = btnBookmark?.querySelector('.icon-bookmark-filled')
+
+  function getBookmarks() {
+    try {
+      return JSON.parse(localStorage.getItem('bookmarks') || '[]')
+    } catch { return [] }
+  }
+
+  function saveBookmarks(bookmarks) {
+    localStorage.setItem('bookmarks', JSON.stringify(bookmarks))
+  }
+
+  function isBookmarked() {
+    return getBookmarks().some(b => b.id === identificador)
+  }
+
+  function updateBookmarkUI() {
+    const bookmarked = isBookmarked()
+    if (iconOutline) iconOutline.style.display = bookmarked ? 'none' : 'block'
+    if (iconFilled) iconFilled.style.display = bookmarked ? 'block' : 'none'
+    if (bookmarkText) bookmarkText.textContent = bookmarked ? 'Guardado' : 'Guardar'
+    if (btnBookmark) btnBookmark.classList.toggle('bookmarked', bookmarked)
+  }
+
+  function toggleBookmark() {
+    const bookmarks = getBookmarks()
+    const existing = bookmarks.findIndex(b => b.id === identificador)
+    if (existing >= 0) {
+      bookmarks.splice(existing, 1)
+    } else {
+      bookmarks.unshift({
+        id: identificador,
+        titulo: citation.titulo,
+        rango: citation.rango,
+        fecha: citation.fechaPublicacion,
+        savedAt: new Date().toISOString()
+      })
+    }
+    saveBookmarks(bookmarks)
+    updateBookmarkUI()
+  }
+
+  btnBookmark?.addEventListener('click', toggleBookmark)
+  updateBookmarkUI()
+
+  // Recently viewed tracking
+  function trackRecentlyViewed() {
+    try {
+      const recent = JSON.parse(localStorage.getItem('recentlyViewed') || '[]')
+      const existing = recent.findIndex(r => r.id === identificador)
+      if (existing >= 0) recent.splice(existing, 1)
+      recent.unshift({
+        id: identificador,
+        titulo: citation.titulo,
+        rango: citation.rango,
+        fecha: citation.fechaPublicacion,
+        viewedAt: new Date().toISOString()
+      })
+      // Keep only last 20
+      localStorage.setItem('recentlyViewed', JSON.stringify(recent.slice(0, 20)))
+    } catch {}
+  }
+  trackRecentlyViewed()
+
+  // Search term highlighting
+  function highlightSearchTerms() {
+    try {
+      const params = new URLSearchParams(window.location.search)
+      const query = params.get('q')
+      if (!query || query.length < 2) return
+
+      const terms = query.toLowerCase().split(/\s+/).filter(t => t.length >= 2)
+      if (terms.length === 0) return
+
+      const content = document.querySelector('.prose')
+      if (!content) return
+
+      // Walk through text nodes and highlight matches
+      const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, null, false)
+      const nodesToProcess = []
+      let node
+      while (node = walker.nextNode()) {
+        if (node.textContent && node.parentNode?.nodeName !== 'SCRIPT') {
+          nodesToProcess.push(node)
+        }
+      }
+
+      for (const textNode of nodesToProcess) {
+        const text = textNode.textContent
+        const lower = text.toLowerCase()
+        let hasMatch = false
+        for (const term of terms) {
+          if (lower.includes(term)) { hasMatch = true; break }
+        }
+        if (!hasMatch) continue
+
+        // Create regex pattern for all terms
+        const pattern = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')
+        const regex = new RegExp(`(${pattern})`, 'gi')
+        const parts = text.split(regex)
+        if (parts.length === 1) continue
+
+        const fragment = document.createDocumentFragment()
+        for (const part of parts) {
+          if (terms.some(t => part.toLowerCase() === t)) {
+            const mark = document.createElement('mark')
+            mark.className = 'search-highlight'
+            mark.textContent = part
+            fragment.appendChild(mark)
+          } else {
+            fragment.appendChild(document.createTextNode(part))
+          }
+        }
+        textNode.parentNode?.replaceChild(fragment, textNode)
+      }
+
+      // Scroll to first highlight
+      const firstHighlight = document.querySelector('.search-highlight')
+      if (firstHighlight) {
+        setTimeout(() => {
+          firstHighlight.scrollIntoView({ behavior: 'smooth', block: 'center' })
+        }, 100)
+      }
+    } catch {}
+  }
+  highlightSearchTerms()
 
   // Version History
   const toggleBtn = document.getElementById('history-toggle')
@@ -1255,6 +1417,34 @@ const citationData = {
 
   .btn-text {
     margin-left: 0.25rem;
+  }
+
+  /* Bookmark button states */
+  #btn-bookmark.bookmarked {
+    background: #22c55e;
+    color: #000;
+  }
+
+  #btn-bookmark.bookmarked:hover {
+    background: #16a34a;
+  }
+
+  [data-theme="light"] #btn-bookmark.bookmarked {
+    background: #16a34a;
+    color: #fff;
+  }
+
+  /* Search term highlighting */
+  .prose :global(.search-highlight) {
+    background: rgba(234, 179, 8, 0.3);
+    color: inherit;
+    padding: 0.1em 0.2em;
+    border-radius: 2px;
+    scroll-margin-top: 100px;
+  }
+
+  [data-theme="light"] .prose :global(.search-highlight) {
+    background: rgba(234, 179, 8, 0.4);
   }
 
   /* Share menu */
