@@ -1,72 +1,40 @@
 ---
 export const prerender = true
 
-import { readFileSync, readdirSync, statSync } from 'node:fs'
-import { join, relative } from 'node:path'
 import Layout from '../../layouts/Layout.astro'
+import { buildCompactSearchIndex } from '../../lib/search-index'
 
-interface LeyFrontmatter {
-  titulo: string
-  identificador: string
-  rango: string
-  fechaPublicacion: string
-  estado: string
-}
+const compactLeyes = buildCompactSearchIndex()
 
-function parseFrontmatter(content: string): LeyFrontmatter {
-  const parts = content.split('---')
-  const yamlBlock = parts[1] ?? ''
-  const result: Record<string, string> = {}
-  for (const line of yamlBlock.split('\n')) {
-    const match = line.match(/^(\w+):\s*"?([^"]*)"?\s*$/)
-    if (match) {
-      result[match[1]] = match[2].trim()
-    }
-  }
-  return result as unknown as LeyFrontmatter
-}
-
-function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
-  const files: string[] = []
-  for (const entry of readdirSync(dir)) {
-    if (entry.startsWith('.') || entry.startsWith('HISTORIAL')) continue
-    const fullPath = join(dir, entry)
-    const stat = statSync(fullPath)
-    if (stat.isDirectory()) {
-      files.push(...getAllMdFiles(fullPath, baseDir))
-    } else if (entry.endsWith('.md')) {
-      files.push(relative(baseDir, fullPath))
-    }
-  }
-  return files
-}
-
-const leyesDir = join(process.cwd(), '../../leyes/pe')
-const files = getAllMdFiles(leyesDir)
-
-const leyes = files.map((filename) => {
-  const content = readFileSync(join(leyesDir, filename), 'utf-8')
-  return parseFrontmatter(content)
-}).filter(ley => ley.titulo && ley.identificador).sort((a, b) => a.titulo.localeCompare(b.titulo, 'es'))
+// Transform for display
+const leyes = compactLeyes.map((l) => ({
+  identificador: l.id,
+  titulo: l.t,
+  rango: l.r,
+  estado: l.e,
+  fechaPublicacion: l.f,
+}))
 
 const rangoLabels: Record<string, string> = {
-  constitucion: 'Constitución',
+  constitucion: 'Constitucion',
   ley: 'Ley',
-  'ley-organica': 'Ley Orgánica',
+  'ley-organica': 'Ley Organica',
   'decreto-legislativo': 'Decreto Legislativo',
   'decreto-urgencia': 'Decreto de Urgencia',
   'decreto-supremo': 'Decreto Supremo',
   reglamento: 'Reglamento',
 }
 
-// Get unique rangos for filter
-const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
+const uniqueRangos = [...new Set(leyes.map((l) => l.rango))].filter(Boolean).sort()
+
+// Serialize index for client-side Fuse.js (compact format)
+const searchIndex = JSON.stringify(compactLeyes)
 ---
 
-<Layout title="Normas — Legalize PE" description="Busca y explora la legislación peruana. Encuentra leyes, decretos legislativos, decretos supremos y más.">
+<Layout title="Normas — Legalize PE" description="Busca y explora la legislacion peruana con busqueda inteligente. Encuentra leyes, decretos legislativos, decretos supremos y mas.">
   <main id="main-content">
     <div class="container">
-      <nav class="breadcrumb" aria-label="Navegación de ruta">
+      <nav class="breadcrumb" aria-label="Navegacion de ruta">
         <a href="/">Inicio</a>
         <span aria-hidden="true">/</span>
         <span aria-current="page">Normas</span>
@@ -75,11 +43,10 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
       <header class="page-header">
         <h1>Buscar normas legales</h1>
         <p class="subtitle">
-          Explora {leyes.length} normas de legislación peruana
+          Explora {leyes.length} normas de legislacion peruana con busqueda inteligente
         </p>
       </header>
 
-      <!-- Search Section -->
       <section class="search-section" role="search" aria-label="Buscar normas legales">
         <div class="search-box">
           <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -89,11 +56,11 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
           <input
             type="text"
             id="search-input"
-            placeholder="Ley 26702, Código Civil, DLeg 1310..."
+            placeholder="Busca por titulo, numero, articulo o contenido..."
             autocomplete="off"
             aria-label="Buscar normas legales"
           />
-          <button type="button" id="clear-search" class="clear-btn" aria-label="Limpiar búsqueda" style="display: none;">
+          <button type="button" id="clear-search" class="clear-btn" aria-label="Limpiar busqueda" style="display: none;">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
               <path d="M18 6 6 18"></path>
               <path d="m6 6 12 12"></path>
@@ -106,7 +73,7 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
             <label for="filter-tipo">Tipo de norma</label>
             <select id="filter-tipo">
               <option value="">Todas</option>
-              {uniqueRangos.map(rango => (
+              {uniqueRangos.map((rango) => (
                 <option value={rango}>{rangoLabels[rango] ?? rango}</option>
               ))}
             </select>
@@ -124,28 +91,22 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
 
         <div id="search-results-info" class="results-info" role="status" aria-live="polite">
           Mostrando <span id="results-count">{leyes.length}</span> normas
+          <span id="search-mode" class="search-mode"></span>
         </div>
       </section>
 
-      <!-- Examples -->
       <div id="search-examples" class="search-examples">
         <span class="examples-label">Ejemplos:</span>
-        <button type="button" class="example-chip" data-query="código civil">Código Civil</button>
-        <button type="button" class="example-chip" data-query="trabajo">Trabajo</button>
-        <button type="button" class="example-chip" data-query="constitución">Constitución</button>
-        <button type="button" class="example-chip" data-query="penal">Penal</button>
-        <button type="button" class="example-chip" data-query="tributario">Tributario</button>
+        <button type="button" class="example-chip" data-query="codigo civil">Codigo Civil</button>
+        <button type="button" class="example-chip" data-query="articulo 2">Articulo 2</button>
+        <button type="button" class="example-chip" data-query="constitucion">Constitucion</button>
+        <button type="button" class="example-chip" data-query="penal delitos">Penal</button>
+        <button type="button" class="example-chip" data-query="tributario impuesto">Tributario</button>
       </div>
 
-      <!-- Laws List -->
       <ul class="leyes-list" id="leyes-list">
         {leyes.map((ley) => (
-          <li
-            data-titulo={ley.titulo.toLowerCase()}
-            data-identificador={ley.identificador.toLowerCase()}
-            data-rango={ley.rango}
-            data-estado={ley.estado}
-          >
+          <li data-id={ley.identificador}>
             <a href={`/leyes/${ley.identificador}`} class="ley-card">
               <div class="ley-card-main">
                 <span class="ley-titulo">{ley.titulo}</span>
@@ -165,7 +126,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
         ))}
       </ul>
 
-      <!-- No results message -->
       <div id="no-results" class="no-results" style="display: none;" role="status" aria-live="polite">
         <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <circle cx="11" cy="11" r="8"></circle>
@@ -173,113 +133,219 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
           <path d="M8 8l6 6"></path>
           <path d="M14 8l-6 6"></path>
         </svg>
-        <p>No se encontraron normas con esos criterios</p>
+        <p>No se encontraron normas</p>
+        <span class="suggestion">Intenta con terminos mas generales o revisa la ortografia</span>
         <button type="button" id="clear-filters" class="btn-secondary">Limpiar filtros</button>
       </div>
+
+      <script type="application/json" id="search-data" set:html={searchIndex}></script>
     </div>
   </main>
 </Layout>
 
 <script>
-  const searchInput = document.getElementById('search-input') as HTMLInputElement
-  const clearBtn = document.getElementById('clear-search') as HTMLButtonElement
-  const filterTipo = document.getElementById('filter-tipo') as HTMLSelectElement
-  const filterEstado = document.getElementById('filter-estado') as HTMLSelectElement
-  const leyesList = document.getElementById('leyes-list') as HTMLUListElement
-  const resultsCount = document.getElementById('results-count') as HTMLSpanElement
-  const noResults = document.getElementById('no-results') as HTMLDivElement
-  const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement
-  const examplesSection = document.getElementById('search-examples') as HTMLDivElement
-  const exampleChips = document.querySelectorAll('.example-chip')
+  import Fuse from 'fuse.js'
 
-  function normalizeText(text: string): string {
-    return text
-      .toLowerCase()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '') // Remove accents
+  // Search index is embedded in the page
+  const searchIndexData = document.getElementById('search-data')
+  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string}> = searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
+
+  interface Ley {
+    identificador: string
+    titulo: string
+    rango: string
+    estado: string
+    fechaPublicacion: string
   }
 
-  function filterLeyes() {
-    const query = normalizeText(searchInput.value.trim())
-    const tipo = filterTipo.value
-    const estado = filterEstado.value
+  interface FuseMatch {
+    key?: string
+    indices: readonly [number, number][]
+  }
 
-    const items = leyesList.querySelectorAll('li')
-    let visibleCount = 0
+  interface FuseResult {
+    item: Ley
+    matches?: readonly FuseMatch[]
+    score?: number
+  }
 
-    items.forEach((item) => {
-      const titulo = normalizeText(item.dataset.titulo || '')
-      const identificador = normalizeText(item.dataset.identificador || '')
-      const itemRango = item.dataset.rango || ''
-      const itemEstado = item.dataset.estado || ''
+  // Initialize search
+  ;(() => {
+    const leyes: Ley[] = rawIndex.map((l) => ({
+      identificador: l.id,
+      titulo: l.t,
+      rango: l.r,
+      estado: l.e,
+      fechaPublicacion: l.f,
+    }))
 
-      const matchesQuery = !query || titulo.includes(query) || identificador.includes(query)
-      const matchesTipo = !tipo || itemRango === tipo
-      const matchesEstado = !estado || itemEstado === estado
+    // Configure Fuse.js for fuzzy search
+    const fuse = new Fuse(leyes, {
+      keys: [
+        { name: 'titulo', weight: 0.6 },
+        { name: 'identificador', weight: 0.4 },
+      ],
+      threshold: 0.35,
+      ignoreLocation: true,
+      includeMatches: true,
+      includeScore: true,
+      minMatchCharLength: 2,
+    })
 
-      if (matchesQuery && matchesTipo && matchesEstado) {
-        item.style.display = ''
-        visibleCount++
+    const searchInput = document.getElementById('search-input') as HTMLInputElement | null
+    const clearBtn = document.getElementById('clear-search') as HTMLButtonElement | null
+    const filterTipo = document.getElementById('filter-tipo') as HTMLSelectElement | null
+    const filterEstado = document.getElementById('filter-estado') as HTMLSelectElement | null
+    const leyesList = document.getElementById('leyes-list') as HTMLUListElement | null
+    const resultsCount = document.getElementById('results-count') as HTMLSpanElement | null
+    const searchMode = document.getElementById('search-mode') as HTMLSpanElement | null
+    const noResults = document.getElementById('no-results') as HTMLDivElement | null
+    const clearFiltersBtn = document.getElementById('clear-filters') as HTMLButtonElement | null
+    const examplesSection = document.getElementById('search-examples') as HTMLDivElement | null
+    const exampleChips = document.querySelectorAll<HTMLButtonElement>('.example-chip')
+
+    if (!searchInput || !leyesList) return
+
+    let debounceTimer: ReturnType<typeof setTimeout> | null = null
+
+    function highlightMatch(text: string, indices: readonly [number, number][]): string {
+      if (!indices || indices.length === 0) return text
+      let result = ''
+      let lastIndex = 0
+      for (const [start, end] of indices) {
+        result += text.slice(lastIndex, start)
+        result += `<mark>${text.slice(start, end + 1)}</mark>`
+        lastIndex = end + 1
+      }
+      result += text.slice(lastIndex)
+      return result
+    }
+
+    function filterLeyes() {
+      if (!searchInput || !leyesList || !filterTipo || !filterEstado) return
+
+      const query = searchInput.value.trim()
+      const tipo = filterTipo.value
+      const estado = filterEstado.value
+
+      const items = leyesList.querySelectorAll('li')
+      const itemsById = new Map<string, HTMLLIElement>()
+      items.forEach((item) => {
+        const li = item as HTMLLIElement
+        if (li.dataset.id) itemsById.set(li.dataset.id, li)
+      })
+
+      // Reset all items
+      items.forEach((item) => {
+        const li = item as HTMLLIElement
+        li.style.display = 'none'
+        li.style.order = ''
+        const titulo = li.querySelector('.ley-titulo')
+        if (titulo) titulo.innerHTML = titulo.textContent || ''
+      })
+
+      let results: FuseResult[]
+      let isFuzzy = false
+
+      if (query.length >= 2) {
+        // Use Fuse.js fuzzy search
+        const fuseResults = fuse.search(query)
+        results = fuseResults.map((r: FuseResult) => ({
+          item: r.item,
+          matches: r.matches,
+          score: r.score,
+        }))
+        isFuzzy = true
       } else {
-        item.style.display = 'none'
+        // No query - show all
+        results = leyes.map((item) => ({ item, matches: [], score: 0 }))
+      }
+
+      // Apply filters
+      results = results.filter(({ item }) => {
+        const matchesTipo = !tipo || item.rango === tipo
+        const matchesEstado = !estado || item.estado === estado
+        return matchesTipo && matchesEstado
+      })
+
+      // Display results
+      let visibleCount = 0
+      results.forEach(({ item, matches }, index) => {
+        const li = itemsById.get(item.identificador)
+        if (!li) return
+
+        li.style.display = ''
+        li.style.order = index.toString()
+        visibleCount++
+
+        if (isFuzzy && matches) {
+          // Highlight matches in titulo
+          const tituloMatch = matches.find((m) => m.key === 'titulo')
+          if (tituloMatch) {
+            const titulo = li.querySelector('.ley-titulo')
+            if (titulo) {
+              titulo.innerHTML = highlightMatch(item.titulo, tituloMatch.indices)
+            }
+          }
+        }
+      })
+
+      if (resultsCount) resultsCount.textContent = visibleCount.toString()
+      if (searchMode) searchMode.textContent = isFuzzy && query ? ' (busqueda inteligente)' : ''
+      if (noResults) noResults.style.display = visibleCount === 0 ? 'flex' : 'none'
+      leyesList.style.display = visibleCount === 0 ? 'none' : ''
+      if (clearBtn) clearBtn.style.display = searchInput.value ? 'flex' : 'none'
+      if (examplesSection) examplesSection.style.display = query || tipo || estado ? 'none' : 'flex'
+    }
+
+    function debouncedFilter() {
+      if (debounceTimer) clearTimeout(debounceTimer)
+      debounceTimer = setTimeout(filterLeyes, 150)
+    }
+
+    function clearSearch() {
+      if (!searchInput || !filterTipo || !filterEstado) return
+      searchInput.value = ''
+      filterTipo.value = ''
+      filterEstado.value = ''
+      filterLeyes()
+      searchInput.focus()
+    }
+
+    searchInput.addEventListener('input', debouncedFilter)
+    filterTipo?.addEventListener('change', filterLeyes)
+    filterEstado?.addEventListener('change', filterLeyes)
+    clearBtn?.addEventListener('click', clearSearch)
+    clearFiltersBtn?.addEventListener('click', clearSearch)
+
+    exampleChips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        if (!searchInput) return
+        searchInput.value = chip.dataset.query || ''
+        filterLeyes()
+      })
+    })
+
+    document.addEventListener('keydown', (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault()
+        searchInput?.focus()
+        searchInput?.select()
+      }
+      if (e.key === 'Escape' && document.activeElement === searchInput) {
+        clearSearch()
       }
     })
 
-    resultsCount.textContent = visibleCount.toString()
-    noResults.style.display = visibleCount === 0 ? 'flex' : 'none'
-    leyesList.style.display = visibleCount === 0 ? 'none' : ''
-
-    // Show/hide clear button
-    clearBtn.style.display = searchInput.value ? 'flex' : 'none'
-
-    // Hide examples when searching
-    examplesSection.style.display = (query || tipo || estado) ? 'none' : 'flex'
-  }
-
-  function clearSearch() {
-    searchInput.value = ''
-    filterTipo.value = ''
-    filterEstado.value = ''
-    filterLeyes()
-    searchInput.focus()
-  }
-
-  // Event listeners
-  searchInput.addEventListener('input', filterLeyes)
-  filterTipo.addEventListener('change', filterLeyes)
-  filterEstado.addEventListener('change', filterLeyes)
-  clearBtn.addEventListener('click', clearSearch)
-  clearFiltersBtn.addEventListener('click', clearSearch)
-
-  // Example chips
-  exampleChips.forEach(chip => {
-    chip.addEventListener('click', () => {
-      searchInput.value = (chip as HTMLButtonElement).dataset.query || ''
+    // Read query parameter from URL on page load
+    const urlParams = new URLSearchParams(window.location.search)
+    const queryFromUrl = urlParams.get('q')
+    if (queryFromUrl && searchInput) {
+      searchInput.value = queryFromUrl
       filterLeyes()
-    })
-  })
-
-  // Keyboard shortcut: Ctrl/Cmd + K to focus search
-  document.addEventListener('keydown', (e) => {
-    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-      e.preventDefault()
       searchInput.focus()
-      searchInput.select()
     }
-    // Escape to clear
-    if (e.key === 'Escape' && document.activeElement === searchInput) {
-      clearSearch()
-    }
-  })
-
-  // Read query parameter from URL on page load
-  const urlParams = new URLSearchParams(window.location.search)
-  const queryFromUrl = urlParams.get('q')
-  if (queryFromUrl) {
-    searchInput.value = queryFromUrl
-    filterLeyes()
-    searchInput.focus()
-  }
+  })()
 </script>
 
 <style>
@@ -317,7 +383,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     color: var(--color-text-muted);
   }
 
-  /* Search Section */
   .search-section {
     margin-bottom: 1.5rem;
   }
@@ -378,7 +443,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     color: var(--color-bg);
   }
 
-  /* Filters */
   .filters {
     display: flex;
     gap: 1rem;
@@ -430,7 +494,11 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     color: var(--color-text);
   }
 
-  /* Example chips */
+  .search-mode {
+    font-size: 0.8rem;
+    color: var(--color-accent);
+  }
+
   .search-examples {
     display: flex;
     align-items: center;
@@ -466,7 +534,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     color: #000;
   }
 
-  /* Laws List */
   .leyes-list {
     list-style: none;
     display: flex;
@@ -499,14 +566,20 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     flex-direction: column;
     gap: 0.5rem;
     min-width: 0;
+    flex: 1;
   }
 
   .ley-titulo {
     font-weight: 500;
     font-size: 1rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    line-height: 1.4;
+  }
+
+  .ley-titulo :global(mark) {
+    background: rgba(255, 200, 0, 0.3);
+    color: inherit;
+    padding: 0.1em 0.2em;
+    border-radius: 2px;
   }
 
   .ley-meta {
@@ -556,7 +629,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     transform: translateX(3px);
   }
 
-  /* No results */
   .no-results {
     display: flex;
     flex-direction: column;
@@ -574,6 +646,13 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
 
   .no-results p {
     font-size: 1rem;
+    margin: 0;
+  }
+
+  .suggestion {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    opacity: 0.7;
   }
 
   .btn-secondary {
@@ -620,7 +699,6 @@ const uniqueRangos = [...new Set(leyes.map(l => l.rango))].sort()
     }
 
     .ley-titulo {
-      white-space: normal;
       font-size: 0.95rem;
     }
 
