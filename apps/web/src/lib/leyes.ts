@@ -16,7 +16,10 @@ export interface LeyFrontmatter {
   ocrQuality?: 'poor' | 'medium' | 'good'
 }
 
-export function parseFrontmatter(content: string): { meta: LeyFrontmatter; body: string } {
+export function parseFrontmatter(content: string): {
+  meta: LeyFrontmatter
+  body: string
+} {
   const parts = content.split(/^---\s*$/m)
   const yamlBlock = parts[1] ?? ''
   const body = parts.slice(2).join('---').trim()
