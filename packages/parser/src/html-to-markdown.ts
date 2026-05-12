@@ -147,7 +147,32 @@ function convertTable(
 }
 
 function cleanMarkdown(markdown: string): string {
-  return markdown
+  let cleaned = markdown
+
+  // Remove OCR artifacts
+  const ocrPatterns = [
+    /Ver jurisprudencia aquí\.?/gi,
+    /Ver jurisprudencia aqu[ií]\.?/gi,
+    /Inicio \*\* Legislación/gi,
+    /Inicio\s*\*+\s*Legislaci[oó]n/gi,
+    /Firmado por:.*?(?=\n|$)/gi,
+    /NORMAS LEGALES\s*/g,
+    /El Peruano\s*\/?\s*\w+\s+\d+\s+de\s+\w+\s+de\s+\d+/gi,
+    /^P[aá]gina\s+\d+\s*$/gim,
+    /^\d+\s+NORMAS LEGALES\s*$/gim,
+    /\[Ver enlace\]/gi,
+    /\[link\]/gi,
+    /^-{3,}\s*$/gm,
+  ]
+
+  for (const pattern of ocrPatterns) {
+    cleaned = cleaned.replace(pattern, '')
+  }
+
+  return cleaned
+    .replace(/\n{4,}/g, '\n\n\n') // Max 2 blank lines
+    .replace(/[ \t]+$/gm, '') // Trailing whitespace
+    .replace(/^\s+$/gm, '') // Lines with only whitespace
     .replace(/\n{3,}/g, '\n\n') // Remove excessive newlines
     .replace(/^\s+|\s+$/g, '') // Trim
     .concat('\n') // Ensure final newline

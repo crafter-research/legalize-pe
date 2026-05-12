@@ -1,70 +1,17 @@
 import { readFileSync, readdirSync, statSync } from 'node:fs'
 import { join, relative } from 'node:path'
+import { parseFrontmatter as parseFromParser } from '@legalize-pe/parser'
+import type { LawMetadata } from '@legalize-pe/parser'
 
-export interface LeyFrontmatter {
-  titulo: string
-  identificador: string
-  pais: string
-  jurisdiccion: string
-  rango: string
-  fechaPublicacion: string
-  ultimaActualizacion: string
-  estado: string
-  fuente: string
-  diarioOficial: string
-  ocrProcessed?: boolean
-  ocrQuality?: 'poor' | 'medium' | 'good'
-  materias?: string[]
-  sumilla?: string
-  fuenteAlternativa?: string
-  disclaimer?: boolean
-}
+// Keep local type as alias for compatibility
+export type LeyFrontmatter = LawMetadata
 
 export function parseFrontmatter(content: string): {
   meta: LeyFrontmatter
   body: string
 } {
-  const parts = content.split(/^---\s*$/m)
-  const yamlBlock = parts[1] ?? ''
-  const body = parts.slice(2).join('---').trim()
-  const result: Record<string, string | boolean | string[]> = {}
-  const lines = yamlBlock.split('\n')
-
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i]
-
-    // Handle empty arrays like: materias: []
-    const emptyArrayMatch = line.match(/^(\w+):\s*\[\]\s*$/)
-    if (emptyArrayMatch) {
-      result[emptyArrayMatch[1]] = []
-      continue
-    }
-
-    // Handle inline arrays like: materias: ["civil", "penal"]
-    const inlineArrayMatch = line.match(/^(\w+):\s*\[([^\]]*)\]\s*$/)
-    if (inlineArrayMatch) {
-      const items = inlineArrayMatch[2]
-        .split(',')
-        .map((s) => s.trim().replace(/^["']|["']$/g, ''))
-        .filter(Boolean)
-      result[inlineArrayMatch[1]] = items
-      continue
-    }
-
-    // Handle simple key: value pairs
-    const match = line.match(/^(\w+):\s*"?([^"]*?)"?\s*$/)
-    if (match) {
-      const value = match[2].trim()
-      if (value === 'true') {
-        result[match[1]] = true
-      } else if (value === 'false') {
-        result[match[1]] = false
-      } else {
-        result[match[1]] = value
-      }
-    }
-  }
-  return { meta: result as unknown as LeyFrontmatter, body }
+  const { frontmatter, body } = parseFromParser(content)
+  return { meta: frontmatter, body }
 }
 
 export function getAllMdFiles(dir: string, baseDir: string = dir): string[] {

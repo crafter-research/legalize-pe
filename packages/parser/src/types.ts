@@ -6,11 +6,19 @@ export interface LawMetadata {
   rango: string
   sector?: string
   fechaPublicacion: string
+  fechaPromulgacion?: string
   fechaVigencia?: string
   ultimaActualizacion?: string
   estado: 'vigente' | 'derogado' | 'modificado' | 'pendiente-revision'
   fuente: string
-  diarioOficial: 'El Peruano'
+  fuenteAlternativa?: string
+  diarioOficial: string
+  sumilla?: string
+  materias?: string[]
+  spijId?: string
+  ocrProcessed?: boolean
+  ocrQuality?: 'poor' | 'medium' | 'good'
+  disclaimer?: boolean
 }
 
 export interface ParseOptions {

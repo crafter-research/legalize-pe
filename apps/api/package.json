@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@legalize-pe/git": "workspace:*",
+    "@legalize-pe/parser": "workspace:*",
     "@libsql/client": "^0.14.0",
     "drizzle-orm": "^0.38.3",
     "next": "^15.1.3",

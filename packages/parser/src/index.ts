@@ -5,5 +5,5 @@
  */
 
 export { parseHtmlToMarkdown } from './html-to-markdown'
-export { generateFrontmatter } from './frontmatter'
+export { generateFrontmatter, parseFrontmatter } from './frontmatter'
 export type { LawMetadata, ParseOptions, ParseResult } from './types'
