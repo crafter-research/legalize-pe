@@ -15,30 +15,32 @@ export interface CompactLey {
   id: string
   t: string // titulo
   r: string // rango
-  e: string // estado
+  e?: string // estado (optional, omit if 'vigente')
   f: string // fechaPublicacion
   b: string // body preview (cleaned)
-  m: string[] // materias
+  m?: string[] // materias (optional, omit if empty)
 }
 
 function cleanBodyForSearch(body: string): string {
-  return body
-    // Remove OCR artifacts from El Peruano
-    .replace(/Firmado por:.*?(?=\n|$)/gi, '')
-    .replace(/NORMAS LEGALES/g, '')
-    .replace(/El Peruano\s*\/?\s*\w+\s+\d+\s+de\s+\w+\s+de\s+\d+/gi, '')
-    // Remove markdown formatting
-    .replace(/^#+\s+/gm, '')
-    .replace(/\*+/g, '')
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-    // Remove common legal boilerplate
-    .replace(/Ver jurisprudencia aqu[ií]\.?/gi, '')
-    .replace(/CONCORDANCIAS:.*?(?=\n\n|\n[A-Z])/gs, '')
-    // Fix encoding issues (replace invalid chars)
-    .replace(/�/g, '')
-    // Normalize whitespace
-    .replace(/\s+/g, ' ')
-    .trim()
+  return (
+    body
+      // Remove OCR artifacts from El Peruano
+      .replace(/Firmado por:.*?(?=\n|$)/gi, '')
+      .replace(/NORMAS LEGALES/g, '')
+      .replace(/El Peruano\s*\/?\s*\w+\s+\d+\s+de\s+\w+\s+de\s+\d+/gi, '')
+      // Remove markdown formatting
+      .replace(/^#+\s+/gm, '')
+      .replace(/\*+/g, '')
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      // Remove common legal boilerplate
+      .replace(/Ver jurisprudencia aqu[ií]\.?/gi, '')
+      .replace(/CONCORDANCIAS:.*?(?=\n\n|\n[A-Z])/gs, '')
+      // Fix encoding issues (replace invalid chars)
+      .replace(/�/g, '')
+      // Normalize whitespace
+      .replace(/\s+/g, ' ')
+      .trim()
+  )
 }
 
 export function buildSearchIndex(): SearchableLey[] {
@@ -46,7 +48,6 @@ export function buildSearchIndex(): SearchableLey[] {
   const leyes: SearchableLey[] = []
 
   for (const filename of files) {
-    
     const content = readFileSync(join(LEYES_DIR, filename), 'utf-8')
     const { meta, body } = parseFrontmatter(content)
 
@@ -79,24 +80,36 @@ export function buildCompactSearchIndex(): CompactLey[] {
   const leyes: CompactLey[] = []
 
   for (const filename of files) {
-    
     const content = readFileSync(join(LEYES_DIR, filename), 'utf-8')
     const { meta, body } = parseFrontmatter(content)
 
     if (!meta.titulo || !meta.identificador) continue
 
-    // Clean and extract first 300 chars of body for search
-    const cleanedBody = cleanBodyForSearch(body).slice(0, 300)
+    // Clean and extract first 150 chars of body for search (reduced from 300)
+    const cleanedBody = cleanBodyForSearch(body).slice(0, 150)
 
-    leyes.push({
+    // Build compact object, omitting empty/default values
+    const ley: CompactLey = {
       id: meta.identificador,
       t: meta.titulo,
       r: meta.rango || '',
-      e: meta.estado || 'vigente',
       f: meta.fechaPublicacion || '',
       b: cleanedBody,
-      m: Array.isArray(meta.materias) ? meta.materias : [],
-    })
+    }
+
+    // Only add estado if not 'vigente' (default)
+    const estado = meta.estado || 'vigente'
+    if (estado !== 'vigente') {
+      ley.e = estado
+    }
+
+    // Only add materias if non-empty
+    const materias = Array.isArray(meta.materias) ? meta.materias : []
+    if (materias.length > 0) {
+      ley.m = materias
+    }
+
+    leyes.push(ley)
   }
 
   return leyes.sort((a, b) => (b.f ?? '').localeCompare(a.f ?? ''))

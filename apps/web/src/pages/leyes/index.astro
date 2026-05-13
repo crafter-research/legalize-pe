@@ -171,7 +171,7 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
     rangoLabelsData ? JSON.parse(rangoLabelsData.textContent || '{}') : {}
 
   // Load search index from static JSON file
-  let rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> = []
+  let rawIndex: Array<{id: string, t: string, r: string, e?: string, f: string, b: string, m?: string[]}> = []
 
   interface Ley {
     identificador: string
@@ -223,7 +223,7 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
     }
 
     // Populate materia filter
-    const allMaterias = rawIndex.flatMap((l) => l.m || [])
+    const allMaterias = rawIndex.flatMap((l) => l.m ?? [])
     const materiaCount = new Map<string, number>()
     for (const m of allMaterias) {
       materiaCount.set(m, (materiaCount.get(m) || 0) + 1)
@@ -279,10 +279,10 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
       identificador: l.id,
       titulo: l.t,
       rango: l.r,
-      estado: l.e,
+      estado: l.e ?? 'vigente',
       fechaPublicacion: l.f,
       body: l.b,
-      materias: l.m || [],
+      materias: l.m ?? [],
     }))
 
     const fuse = new Fuse(leyes, {

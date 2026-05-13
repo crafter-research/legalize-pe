@@ -105,6 +105,59 @@ const jsonLd = {
     "name": meta.diarioOficial || "El Peruano"
   }
 }
+
+// Related laws - find laws with shared materias
+interface SearchIndexItem {
+  id: string
+  t: string
+  r: string
+  m: string[]
+}
+
+interface RelatedLaw {
+  id: string
+  titulo: string
+  rango: string
+  sharedMaterias: string[]
+  sharedCount: number
+}
+
+let relatedLaws: RelatedLaw[] = []
+try {
+  const searchIndexPath = join(process.cwd(), 'public/search-index.json')
+  const searchIndex: SearchIndexItem[] = JSON.parse(readFileSync(searchIndexPath, 'utf-8'))
+
+  const currentMaterias = meta.materias || []
+
+  if (currentMaterias.length > 0) {
+    // Find laws with at least one shared materia
+    const related = searchIndex
+      .filter(law => {
+        if (law.id === id) return false
+        if (!law.m || law.m.length === 0) return false
+
+        const shared = law.m.filter(m => currentMaterias.includes(m))
+        return shared.length > 0
+      })
+      .map(law => {
+        const shared = law.m.filter(m => currentMaterias.includes(m))
+        return {
+          id: law.id,
+          titulo: law.t,
+          rango: rangoLabels[law.r] ?? law.r,
+          sharedMaterias: shared,
+          sharedCount: shared.length
+        }
+      })
+      .sort((a, b) => b.sharedCount - a.sharedCount)
+      .slice(0, 5)
+
+    relatedLaws = related
+  }
+} catch (error) {
+  // If search index doesn't exist or error loading, just show no related laws
+  console.error('Error loading related laws:', error)
+}
 ---
 
 <Layout title={`${meta.titulo} — Legalize PE`} description={`${meta.titulo}. ${rangoLabels[meta.rango] ?? meta.rango} peruana publicada el ${meta.fechaPublicacion}.`}>
@@ -308,6 +361,27 @@ const jsonLd = {
       )}
 
       <article class="content-box prose" set:html={htmlContent} />
+
+      {relatedLaws.length > 0 && (
+        <section class="related-laws">
+          <h2>Leyes Relacionadas</h2>
+          <ul class="related-laws-list">
+            {relatedLaws.map(law => (
+              <li class="related-law-item">
+                <a href={`/leyes/${law.id}`} class="related-law-link">
+                  <span class="related-law-title">{law.titulo}</span>
+                  <span class="related-law-rango">{law.rango}</span>
+                </a>
+                <div class="related-law-materias">
+                  {law.sharedMaterias.map(materia => (
+                    <span class="materia-tag">{materia}</span>
+                  ))}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   </main>
 </Layout>
@@ -317,6 +391,9 @@ const jsonLd = {
 
   const btnCite = document.getElementById('btn-cite')
   const citationModal = document.getElementById('citation-modal')
+
+  // Store the element that triggered the modal for focus restoration
+  let modalTriggerElement = null
 
   // Citation Modal
   function formatDate(dateStr) {
@@ -340,18 +417,73 @@ const jsonLd = {
     document.getElementById('cite-apa').textContent = apaCite
     document.getElementById('cite-url').textContent = pageUrl
 
+    // Store the current active element to restore focus later
+    modalTriggerElement = document.activeElement
+
     citationModal.hidden = false
     document.body.style.overflow = 'hidden'
+
+    // Set focus to the modal close button after modal is shown
+    setTimeout(() => {
+      const closeButton = citationModal?.querySelector('.modal-close')
+      closeButton?.focus()
+    }, 10)
   }
 
   function closeCitationModal() {
     citationModal.hidden = true
     document.body.style.overflow = ''
+
+    // Restore focus to the trigger element
+    if (modalTriggerElement && typeof modalTriggerElement.focus === 'function') {
+      modalTriggerElement.focus()
+      modalTriggerElement = null
+    }
+  }
+
+  // Focus trap for citation modal
+  function handleModalKeydown(e) {
+    if (!citationModal || citationModal.hidden) return
+
+    // Close on Escape
+    if (e.key === 'Escape') {
+      closeCitationModal()
+      return
+    }
+
+    // Handle Tab key for focus trap
+    if (e.key === 'Tab') {
+      const focusableElements = citationModal.querySelectorAll(
+        'button:not([disabled]), [href]:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"]):not([disabled])'
+      )
+      const focusableArray = Array.from(focusableElements)
+      const firstFocusable = focusableArray[0]
+      const lastFocusable = focusableArray[focusableArray.length - 1]
+
+      if (focusableArray.length === 0) return
+
+      if (e.shiftKey) {
+        // Shift + Tab
+        if (document.activeElement === firstFocusable) {
+          e.preventDefault()
+          lastFocusable?.focus()
+        }
+      } else {
+        // Tab
+        if (document.activeElement === lastFocusable) {
+          e.preventDefault()
+          firstFocusable?.focus()
+        }
+      }
+    }
   }
 
   btnCite?.addEventListener('click', openCitationModal)
   citationModal?.querySelector('.modal-backdrop')?.addEventListener('click', closeCitationModal)
   citationModal?.querySelector('.modal-close')?.addEventListener('click', closeCitationModal)
+
+  // Add keydown listener for focus trap
+  document.addEventListener('keydown', handleModalKeydown)
 
   // Copy citation buttons
   document.querySelectorAll('.btn-copy-cite').forEach(btn => {
@@ -383,11 +515,8 @@ const jsonLd = {
     })
   })
 
-  // Close modal on Escape
+  // Close share menu on Escape
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !citationModal?.hidden) {
-      closeCitationModal()
-    }
     if (e.key === 'Escape' && !shareMenu?.hidden) {
       shareMenu.hidden = true
     }
@@ -1462,6 +1591,91 @@ const jsonLd = {
     color: var(--color-text-muted);
   }
 
+  /* Related Laws Section */
+  .related-laws {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .related-laws h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: var(--color-text);
+  }
+
+  .related-laws-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .related-law-item {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    transition: all 0.2s;
+  }
+
+  .related-law-item:hover {
+    background: #27272a;
+    border-color: var(--color-accent);
+  }
+
+  .related-law-link {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 0.5rem;
+  }
+
+  .related-law-title {
+    flex: 1;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--color-text);
+    line-height: 1.5;
+  }
+
+  .related-law-item:hover .related-law-title {
+    color: var(--color-accent);
+  }
+
+  .related-law-rango {
+    flex-shrink: 0;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+  }
+
+  .related-law-materias {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+  }
+
+  .materia-tag {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    font-weight: 500;
+  }
+
   /* Print styles */
   @media print {
     .action-buttons,
@@ -1469,7 +1683,8 @@ const jsonLd = {
     .toc,
     .breadcrumb,
     .share-menu,
-    .modal {
+    .modal,
+    .related-laws {
       display: none !important;
     }
 
@@ -1533,6 +1748,16 @@ const jsonLd = {
     .modal-content {
       max-height: 90vh;
       overflow-y: auto;
+    }
+
+    .related-law-link {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .related-law-rango {
+      align-self: flex-start;
     }
   }
 </style>

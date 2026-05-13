@@ -10,50 +10,191 @@ interface SearchResult {
 // Common legal terms and their related keywords
 const LEGAL_KEYWORDS: Record<string, string[]> = {
   // ==================== LABOR LAW ====================
-  laboral: ['trabajo', 'trabajador', 'empleador', 'empleo', 'despido', 'contrato', 'remuneracion', 'salario', 'sueldo', 'empleado', 'obrero', 'patrono', 'jornada', 'horario'],
-  cts: ['compensacion', 'tiempo', 'servicios', 'beneficios', 'liquidacion', 'deposito'],
-  despido: ['cese', 'terminacion', 'desvinculacion', 'finalizacion', 'despidos', 'despedido', 'arbitrario', 'nulo', 'injustificado', 'indemnizacion'],
+  laboral: [
+    'trabajo',
+    'trabajador',
+    'empleador',
+    'empleo',
+    'despido',
+    'contrato',
+    'remuneracion',
+    'salario',
+    'sueldo',
+    'empleado',
+    'obrero',
+    'patrono',
+    'jornada',
+    'horario',
+  ],
+  cts: [
+    'compensacion',
+    'tiempo',
+    'servicios',
+    'beneficios',
+    'liquidacion',
+    'deposito',
+  ],
+  despido: [
+    'cese',
+    'terminacion',
+    'desvinculacion',
+    'finalizacion',
+    'despidos',
+    'despedido',
+    'arbitrario',
+    'nulo',
+    'injustificado',
+    'indemnizacion',
+  ],
   despidos: ['despido', 'cese', 'terminacion', 'desvinculacion', 'arbitrario'],
   vacaciones: ['descanso', 'feriado', 'licencia', 'permisos', 'dias libres'],
-  remuneracion: ['salario', 'sueldo', 'pago', 'remuneraciones', 'honorarios', 'jornal'],
-  gratificacion: ['gratificaciones', 'fiestas patrias', 'navidad', 'bonificacion', 'aguinaldo'],
+  remuneracion: [
+    'salario',
+    'sueldo',
+    'pago',
+    'remuneraciones',
+    'honorarios',
+    'jornal',
+  ],
+  gratificacion: [
+    'gratificaciones',
+    'fiestas patrias',
+    'navidad',
+    'bonificacion',
+    'aguinaldo',
+  ],
   trabajo: ['laboral', 'empleo', 'trabajador', 'empleador', 'ocupacion'],
   trabajador: ['empleado', 'obrero', 'asalariado', 'dependiente'],
   empleador: ['patron', 'empresa', 'empleadores', 'patrono'],
 
   // ==================== CIVIL LAW - CONTRACTS ====================
-  civil: ['codigo civil', 'obligaciones', 'contratos', 'responsabilidad', 'actos juridicos'],
+  civil: [
+    'codigo civil',
+    'obligaciones',
+    'contratos',
+    'responsabilidad',
+    'actos juridicos',
+  ],
   contrato: ['convenio', 'acuerdo', 'pacto', 'obligacion', 'clausula'],
-  obligacion: ['obligaciones', 'deuda', 'acreedor', 'deudor', 'cumplimiento', 'incumplimiento'],
-  responsabilidad: ['dano', 'perjuicio', 'indemnizacion', 'culpa', 'dolo', 'negligencia'],
+  obligacion: [
+    'obligaciones',
+    'deuda',
+    'acreedor',
+    'deudor',
+    'cumplimiento',
+    'incumplimiento',
+  ],
+  responsabilidad: [
+    'dano',
+    'perjuicio',
+    'indemnizacion',
+    'culpa',
+    'dolo',
+    'negligencia',
+  ],
 
   // ==================== CIVIL LAW - PROPERTY & HOUSING ====================
   inquilino: ['arrendatario', 'locatario', 'ocupante', 'residente'],
   alquiler: ['arrendamiento', 'renta', 'arriendo', 'locacion', 'alquilar'],
-  arrendamiento: ['alquiler', 'renta', 'arriendo', 'locacion', 'inquilino', 'arrendatario', 'arrendador'],
+  arrendamiento: [
+    'alquiler',
+    'renta',
+    'arriendo',
+    'locacion',
+    'inquilino',
+    'arrendatario',
+    'arrendador',
+  ],
   arrendatario: ['inquilino', 'locatario', 'arrendamiento'],
   arrendador: ['propietario', 'dueno', 'casero', 'locador'],
   propietario: ['dueno', 'arrendador', 'propiedad', 'titular', 'poseedor'],
-  propiedad: ['inmueble', 'predio', 'bien', 'posesion', 'dominio', 'titularidad'],
-  vivienda: ['casa', 'departamento', 'inmueble', 'hogar', 'domicilio', 'residencia'],
+  propiedad: [
+    'inmueble',
+    'predio',
+    'bien',
+    'posesion',
+    'dominio',
+    'titularidad',
+  ],
+  vivienda: [
+    'casa',
+    'departamento',
+    'inmueble',
+    'hogar',
+    'domicilio',
+    'residencia',
+  ],
   departamento: ['vivienda', 'inmueble', 'piso', 'apartamento'],
   desalojo: ['desahucio', 'lanzamiento', 'restitucion', 'desocupacion'],
   hipoteca: ['garantia', 'credito', 'prestamo', 'banco', 'inmueble'],
 
   // ==================== FAMILY LAW ====================
-  familia: ['matrimonio', 'divorcio', 'patria potestad', 'alimentos', 'hijos', 'conyuges', 'parientes', 'filiacion', 'adopcion', 'tutela', 'curatela'],
-  matrimonio: ['casamiento', 'conyuges', 'esposos', 'union', 'matrimonial', 'boda', 'nupcias', 'casarse', 'casado', 'casada', 'casar', 'casarme', 'casarnos'],
-  casar: ['matrimonio', 'casamiento', 'boda', 'nupcias', 'esposo', 'esposa', 'conyuge'],
+  familia: [
+    'matrimonio',
+    'divorcio',
+    'patria potestad',
+    'alimentos',
+    'hijos',
+    'conyuges',
+    'parientes',
+    'filiacion',
+    'adopcion',
+    'tutela',
+    'curatela',
+  ],
+  matrimonio: [
+    'casamiento',
+    'conyuges',
+    'esposos',
+    'union',
+    'matrimonial',
+    'boda',
+    'nupcias',
+    'casarse',
+    'casado',
+    'casada',
+    'casar',
+    'casarme',
+    'casarnos',
+  ],
+  casar: [
+    'matrimonio',
+    'casamiento',
+    'boda',
+    'nupcias',
+    'esposo',
+    'esposa',
+    'conyuge',
+  ],
   casarse: ['matrimonio', 'casamiento', 'boda', 'nupcias'],
   casarme: ['matrimonio', 'casamiento', 'boda', 'nupcias'],
-  divorcio: ['separacion', 'disolucion', 'divorcios', 'divorciar', 'divorciarse', 'divorciarme', 'divorciarnos', 'separarse', 'fin matrimonio', 'ruptura', 'divorciarme', 'separarnos'],
+  divorcio: [
+    'separacion',
+    'disolucion',
+    'divorcios',
+    'divorciar',
+    'divorciarse',
+    'divorciarme',
+    'divorciarnos',
+    'separarse',
+    'fin matrimonio',
+    'ruptura',
+    'divorciarme',
+    'separarnos',
+  ],
   divorciarme: ['divorcio', 'separacion', 'disolucion', 'matrimonio'],
   divorciarse: ['divorcio', 'separacion', 'disolucion', 'matrimonio'],
   separacion: ['divorcio', 'disolucion', 'separarse', 'ruptura', 'cuerpos'],
   esposo: ['esposa', 'conyuge', 'marido', 'mujer', 'pareja', 'consorte'],
   esposa: ['esposo', 'conyuge', 'marido', 'mujer', 'pareja', 'consorte'],
   conyuge: ['esposo', 'esposa', 'marido', 'mujer', 'consorte', 'conyugal'],
-  alimentos: ['pension', 'alimenticia', 'manutencion', 'sostenimiento', 'alimentario'],
+  alimentos: [
+    'pension',
+    'alimenticia',
+    'manutencion',
+    'sostenimiento',
+    'alimentario',
+  ],
   pension: ['alimentos', 'alimenticia', 'mensualidad', 'cuota'],
   hijos: ['menores', 'ninos', 'descendientes', 'prole', 'hijo', 'hija'],
   custodia: ['tenencia', 'guarda', 'patria potestad', 'regimen', 'visitas'],
@@ -63,12 +204,28 @@ const LEGAL_KEYWORDS: Record<string, string[]> = {
   adopcion: ['adoptar', 'adoptivo', 'adoptante', 'adoptado'],
   union: ['convivencia', 'concubinato', 'hecho', 'conviviente', 'pareja'],
   conviviente: ['concubino', 'pareja', 'union de hecho'],
-  herencia: ['sucesion', 'heredero', 'testamento', 'legado', 'causante', 'fallecido'],
+  herencia: [
+    'sucesion',
+    'heredero',
+    'testamento',
+    'legado',
+    'causante',
+    'fallecido',
+  ],
   sucesion: ['herencia', 'herederos', 'testamento', 'intestada', 'causante'],
   testamento: ['herencia', 'sucesion', 'legado', 'voluntad', 'testamentario'],
 
   // ==================== CRIMINAL LAW ====================
-  penal: ['delito', 'pena', 'sancion', 'crimen', 'criminal', 'codigo penal', 'condena', 'prision'],
+  penal: [
+    'delito',
+    'pena',
+    'sancion',
+    'crimen',
+    'criminal',
+    'codigo penal',
+    'condena',
+    'prision',
+  ],
   delito: ['crimen', 'infraccion', 'ilicito', 'falta', 'hecho punible'],
   robo: ['hurto', 'sustraccion', 'apropiacion', 'asalto', 'latrocinio'],
   hurto: ['robo', 'sustraccion', 'apoderamiento'],
@@ -78,7 +235,15 @@ const LEGAL_KEYWORDS: Record<string, string[]> = {
   denuncia: ['denunciar', 'acusar', 'querella', 'demanda penal'],
 
   // ==================== TAX LAW ====================
-  tributario: ['impuesto', 'tributo', 'fiscal', 'sunat', 'igv', 'renta', 'contribucion'],
+  tributario: [
+    'impuesto',
+    'tributo',
+    'fiscal',
+    'sunat',
+    'igv',
+    'renta',
+    'contribucion',
+  ],
   impuesto: ['tributo', 'contribucion', 'tasa', 'gravamen'],
   igv: ['iva', 'valor agregado', 'ventas', 'impuesto general'],
   renta: ['ingresos', 'ganancias', 'utilidades', 'impuesto a la renta'],
@@ -97,13 +262,25 @@ const LEGAL_KEYWORDS: Record<string, string[]> = {
   osce: ['contrataciones', 'estado', 'supervision'],
 
   // ==================== ADMINISTRATIVE LAW ====================
-  administrativo: ['procedimiento', 'silencio', 'recurso', 'impugnacion', 'administracion', 'funcionario'],
+  administrativo: [
+    'procedimiento',
+    'silencio',
+    'recurso',
+    'impugnacion',
+    'administracion',
+    'funcionario',
+  ],
   procedimiento: ['tramite', 'proceso', 'gestion', 'diligencia'],
   recurso: ['apelacion', 'reclamacion', 'impugnacion', 'queja'],
   funcionario: ['servidor', 'empleado publico', 'autoridad'],
 
   // ==================== CONSTITUTIONAL LAW ====================
-  constitucion: ['constitucional', 'derechos fundamentales', 'garantias', 'carta magna'],
+  constitucion: [
+    'constitucional',
+    'derechos fundamentales',
+    'garantias',
+    'carta magna',
+  ],
   amparo: ['tutela', 'proteccion', 'derechos', 'accion de amparo', 'garantia'],
   habeas: ['corpus', 'libertad', 'detencion'],
   derechos: ['garantias', 'libertades', 'fundamentales', 'humanos'],
@@ -114,7 +291,13 @@ const LEGAL_KEYWORDS: Record<string, string[]> = {
   reclamo: ['queja', 'denuncia', 'consumidor', 'libro'],
 
   // ==================== ENVIRONMENTAL LAW ====================
-  ambiental: ['medio ambiente', 'ecologia', 'contaminacion', 'recursos naturales', 'impacto'],
+  ambiental: [
+    'medio ambiente',
+    'ecologia',
+    'contaminacion',
+    'recursos naturales',
+    'impacto',
+  ],
 
   // ==================== PROPERTY REGISTRATION ====================
   registral: ['sunarp', 'registro', 'inscripcion', 'partida', 'asiento'],
@@ -135,13 +318,53 @@ const LEGAL_KEYWORDS: Record<string, string[]> = {
 
 // Stop words to remove from queries
 const STOP_WORDS = new Set([
-  'el', 'la', 'los', 'las', 'un', 'una', 'unos', 'unas',
-  'de', 'del', 'al', 'a', 'en', 'con', 'por', 'para',
-  'que', 'mi', 'su', 'me', 'se', 'no', 'si', 'como',
-  'es', 'son', 'esta', 'estas', 'ese', 'esos',
-  'sobre', 'dice', 'dicen', 'puede', 'pueden',
-  'hacer', 'tengo', 'tiene', 'hay', 'cuales', 'cual',
-  'mis', 'sus', 'mis', 'tus', 'nuestro', 'vuestro',
+  'el',
+  'la',
+  'los',
+  'las',
+  'un',
+  'una',
+  'unos',
+  'unas',
+  'de',
+  'del',
+  'al',
+  'a',
+  'en',
+  'con',
+  'por',
+  'para',
+  'que',
+  'mi',
+  'su',
+  'me',
+  'se',
+  'no',
+  'si',
+  'como',
+  'es',
+  'son',
+  'esta',
+  'estas',
+  'ese',
+  'esos',
+  'sobre',
+  'dice',
+  'dicen',
+  'puede',
+  'pueden',
+  'hacer',
+  'tengo',
+  'tiene',
+  'hay',
+  'cuales',
+  'cual',
+  'mis',
+  'sus',
+  'mis',
+  'tus',
+  'nuestro',
+  'vuestro',
 ])
 
 /**
@@ -153,10 +376,29 @@ function spanishStem(word: string): string[] {
   const MIN_STEM_LENGTH = 4 // Avoid false positives like "cas" from "casar"
 
   // Common verb endings to remove (ordered by length - longer first for proper matching)
-  const verbEndings = ['arme', 'arte', 'arse', 'arnos', 'ando', 'aron', 'aba',
-                       'erme', 'erte', 'erse', 'ernos', 'iendo', 'ieron',
-                       'irme', 'irte', 'irse', 'irnos',
-                       'ar', 'er', 'ir', 'ia']
+  const verbEndings = [
+    'arme',
+    'arte',
+    'arse',
+    'arnos',
+    'ando',
+    'aron',
+    'aba',
+    'erme',
+    'erte',
+    'erse',
+    'ernos',
+    'iendo',
+    'ieron',
+    'irme',
+    'irte',
+    'irse',
+    'irnos',
+    'ar',
+    'er',
+    'ir',
+    'ia',
+  ]
 
   for (const ending of verbEndings) {
     if (word.endsWith(ending) && word.length > ending.length + 2) {
@@ -164,8 +406,8 @@ function spanishStem(word: string): string[] {
       // Only add stems that are long enough to be meaningful
       if (root.length >= MIN_STEM_LENGTH) {
         stems.push(root)
-        stems.push(root + 'o')  // e.g., divorci -> divorcio
-        stems.push(root + 'io') // e.g., separac -> separacion
+        stems.push(`${root}o`) // e.g., divorci -> divorcio
+        stems.push(`${root}io`) // e.g., separac -> separacion
       }
     }
   }
@@ -185,7 +427,7 @@ function extractKeywords(query: string): string[] {
   const normalized = query
     .toLowerCase()
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // Remove accents
+    .replace(/\p{Diacritic}/gu, '') // Remove accents
     .replace(/[?!¿¡.,;:]/g, ' ')
     .trim()
 
@@ -207,7 +449,7 @@ function extractKeywords(query: string): string[] {
     if (word.endsWith('s') && word.length > 4) {
       keywords.push(word.slice(0, -1)) // Remove plural 's'
     } else if (!word.endsWith('s')) {
-      keywords.push(word + 's') // Add plural
+      keywords.push(`${word}s`) // Add plural
     }
   }
 
@@ -248,7 +490,7 @@ function expandKeywords(keywords: string[]): string[] {
 function calculateRelevance(
   law: CompactLey,
   keywords: string[],
-  expandedKeywords: string[]
+  expandedKeywords: string[],
 ): { score: number; reasons: string[] } {
   let score = 0
   const reasons: string[] = []
@@ -257,12 +499,12 @@ function calculateRelevance(
   const normalize = (text: string) =>
     text
       .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/\p{Diacritic}/gu, '')
       .toLowerCase()
 
   const tituloNorm = normalize(law.t)
   const bodyNorm = normalize(law.b)
-  const materiasNorm = law.m.map(m => normalize(m))
+  const materiasNorm = (law.m ?? []).map((m) => normalize(m))
 
   // Check for exact keyword matches in title (highest weight)
   for (const keyword of keywords) {
@@ -277,8 +519,10 @@ function calculateRelevance(
     for (const keyword of expandedKeywords) {
       if (materia.includes(keyword)) {
         score += 8
-        if (!reasons.some(r => r.startsWith('Materia:'))) {
-          reasons.push(`Materia: ${law.m.find(m => normalize(m).includes(keyword))}`)
+        if (!reasons.some((r) => r.startsWith('Materia:'))) {
+          reasons.push(
+            `Materia: ${law.m?.find((m) => normalize(m).includes(keyword))}`,
+          )
         }
       }
     }
@@ -295,8 +539,11 @@ function calculateRelevance(
   }
 
   // Bonus for multiple keyword matches
-  const matchedKeywords = keywords.filter(k =>
-    tituloNorm.includes(k) || bodyNorm.includes(k) || materiasNorm.some(m => m.includes(k))
+  const matchedKeywords = keywords.filter(
+    (k) =>
+      tituloNorm.includes(k) ||
+      bodyNorm.includes(k) ||
+      materiasNorm.some((m) => m.includes(k)),
   )
 
   if (matchedKeywords.length > 1) {
@@ -308,8 +555,8 @@ function calculateRelevance(
     score *= 0.8
   }
 
-  // Bonus for vigente laws
-  if (law.e === 'vigente') {
+  // Bonus for vigente laws (default if e is undefined)
+  if (!law.e || law.e === 'vigente') {
     score *= 1.2
   }
 
@@ -322,7 +569,7 @@ function calculateRelevance(
 export function smartSearch(
   query: string,
   laws: CompactLey[],
-  limit = 10
+  limit = 10,
 ): SearchResult[] {
   if (!query.trim()) return []
 
@@ -336,7 +583,11 @@ export function smartSearch(
   const results: SearchResult[] = []
 
   for (const law of laws) {
-    const { score, reasons } = calculateRelevance(law, keywords, expandedKeywords)
+    const { score, reasons } = calculateRelevance(
+      law,
+      keywords,
+      expandedKeywords,
+    )
 
     if (score > 0) {
       results.push({
@@ -359,7 +610,7 @@ export function smartSearch(
 export function fuzzySearch(
   query: string,
   laws: CompactLey[],
-  limit = 10
+  limit = 10,
 ): SearchResult[] {
   const fuse = new Fuse(laws, {
     keys: [
@@ -373,7 +624,7 @@ export function fuzzySearch(
 
   const fuseResults = fuse.search(query, { limit })
 
-  return fuseResults.map(result => ({
+  return fuseResults.map((result) => ({
     law: result.item,
     score: (1 - (result.score ?? 0)) * 100, // Convert to 0-100 scale
     matchReasons: ['Coincidencia por búsqueda difusa'],
@@ -386,7 +637,7 @@ export function fuzzySearch(
 export function intelligentSearch(
   query: string,
   laws: CompactLey[],
-  limit = 10
+  limit = 10,
 ): SearchResult[] {
   // Try smart search first
   const smartResults = smartSearch(query, laws, limit)
@@ -400,7 +651,7 @@ export function intelligentSearch(
   const fuzzyResults = fuzzySearch(query, laws, limit)
 
   // Merge results, avoiding duplicates
-  const seen = new Set(smartResults.map(r => r.law.id))
+  const seen = new Set(smartResults.map((r) => r.law.id))
   const combined = [...smartResults]
 
   for (const fuzzyResult of fuzzyResults) {

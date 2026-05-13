@@ -11,11 +11,18 @@
     "lint:fix": "biome check --write .",
     "format": "biome format --write .",
     "test": "turbo run test",
-    "typecheck": "turbo run typecheck"
+    "typecheck": "turbo run typecheck",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx,astro}": ["biome check --write"],
+    "*.{json,md}": ["biome format --write"]
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@types/pdf-parse": "^1.1.5",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.4",
     "pdf-parse": "^2.4.5",
     "tsx": "^4.19.2",
     "turbo": "^2.3.3",

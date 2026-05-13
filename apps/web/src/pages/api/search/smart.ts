@@ -1,8 +1,8 @@
-import type { APIRoute } from 'astro'
 import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { intelligentSearch } from '../../../lib/smart-search'
+import type { APIRoute } from 'astro'
 import type { CompactLey } from '../../../lib/search-index'
+import { intelligentSearch } from '../../../lib/smart-search'
 
 export const prerender = false
 
@@ -12,9 +12,9 @@ let cachedLaws: CompactLey[] | null = null
 function getSearchIndex(): CompactLey[] {
   if (!cachedLaws) {
     const indexPath = join(process.cwd(), 'public', 'search-index.json')
-    cachedLaws = JSON.parse(readFileSync(indexPath, 'utf-8'))
+    cachedLaws = JSON.parse(readFileSync(indexPath, 'utf-8')) as CompactLey[]
   }
-  return cachedLaws
+  return cachedLaws as CompactLey[]
 }
 
 export const POST: APIRoute = async ({ request }) => {
@@ -30,7 +30,7 @@ export const POST: APIRoute = async ({ request }) => {
         {
           status: 400,
           headers: { 'Content-Type': 'application/json' },
-        }
+        },
       )
     }
 
@@ -54,14 +54,14 @@ export const POST: APIRoute = async ({ request }) => {
     return new Response(
       JSON.stringify({
         query,
-        results: paginatedResults.map(r => ({
+        results: paginatedResults.map((r) => ({
           id: r.law.id,
           titulo: r.law.t,
           rango: r.law.r,
-          estado: r.law.e,
+          estado: r.law.e ?? 'vigente',
           fechaPublicacion: r.law.f,
           bodyPreview: r.law.b,
-          materias: r.law.m,
+          materias: r.law.m ?? [],
           score: r.score,
           matchReasons: r.matchReasons,
         })),
@@ -75,7 +75,7 @@ export const POST: APIRoute = async ({ request }) => {
       {
         status: 200,
         headers: { 'Content-Type': 'application/json' },
-      }
+      },
     )
   } catch (error) {
     console.error('Smart search error:', error)
@@ -87,7 +87,7 @@ export const POST: APIRoute = async ({ request }) => {
       {
         status: 500,
         headers: { 'Content-Type': 'application/json' },
-      }
+      },
     )
   }
 }
