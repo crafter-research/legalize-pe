@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Asesor de Secretaría General II del Ministerio"
+titulo: "Resolución Ministerial N° 167-2026-EF-49 - Designan Asesor de Secretaría General II del Ministerio"
 identificador: "resolucion-ministerial-167-2026-ef-49"
 pais: "pe"
 jurisdiccion: "nacional"

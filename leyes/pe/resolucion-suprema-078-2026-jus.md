@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de extradición pasiva de ciudadana peruana para ser extraditada de la República del Perú y ser procesada en el Reino de España"
+titulo: "Resolución Suprema N° 078-2026-JUS - Acceden a solicitud de extradición pasiva de ciudadana peruana para ser extraditada de la República del Perú y ser procesada en el Reino de España"
 identificador: "resolucion-suprema-078-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

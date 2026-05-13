@@ -1,5 +1,5 @@
 ---
-titulo: "Cancelan el título de Notario Público del distrito de Miraflores provincia de Lima departamento de Lima perteneciente al Distrito Notarial de Lima"
+titulo: "Resolución Ministerial N° 149-2026-JUS - Cancelan el título de Notario Público del distrito de Miraflores provincia de Lima departamento de Lima perteneciente al Distrito Notarial de Lima"
 identificador: "resolucion-ministerial-149-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

@@ -1,5 +1,5 @@
 ---
-titulo: "Aceptan renuncia de Director Ejecutivo del Programa Nacional de Asistencia Solidaria Pensión 65"
+titulo: "Resolución Suprema N° 008-2026-MIDIS - Aceptan renuncia de Director Ejecutivo del Programa Nacional de Asistencia Solidaria Pensión 65"
 identificador: "resolucion-suprema-008-2026-midis"
 pais: "pe"
 jurisdiccion: "nacional"

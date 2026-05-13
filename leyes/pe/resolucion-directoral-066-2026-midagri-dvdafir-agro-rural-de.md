@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Jefe de la Subunidad de Infraestructura de Riego Menor de la Unidad de Infraestructura Rural del Programa de Desarrollo Productivo Agrario Rural – AGRO RURAL"
+titulo: "Resolución Directoral N° 066-2026-MIDAGRI-DVDAFIR-AGRO-RURAL-DE - Designan Jefe de la Subunidad de Infraestructura de Riego Menor de la Unidad de Infraestructura Rural del Programa de Desarrollo Productivo Agrario Rural – AGRO RURAL"
 identificador: "resolucion-directoral-066-2026-midagri-dvdafir-agro-rural-de"
 pais: "pe"
 jurisdiccion: "nacional"

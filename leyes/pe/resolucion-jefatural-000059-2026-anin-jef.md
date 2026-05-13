@@ -1,5 +1,5 @@
 ---
-titulo: "Aprueban ejecución de la expropiación de área afectada de inmueble para el Proyecto: Creación del servicio de protección en las riberas del Río Huaura vulnerable ante peligro de inundaciones en las localidades de 5 distritos de la provincia de Oyón y 6 distritos de la provincia de Huaura – Departamento de Lima y el valor de tasación"
+titulo: "Resolución Jefatural N° 000059-2026-ANIN-JEF - Aprueban ejecución de la expropiación de área afectada de inmueble para el Proyecto: Creación del servicio de protección en las riberas del Río Huaura vulnerable ante peligro de inundaciones en las localidades de 5 distritos de la provincia de Oyón y 6 distritos de la provincia de Huaura – Departamento de Lima y el valor de tasación"
 identificador: "resolucion-jefatural-000059-2026-anin-jef"
 pais: "pe"
 jurisdiccion: "nacional"

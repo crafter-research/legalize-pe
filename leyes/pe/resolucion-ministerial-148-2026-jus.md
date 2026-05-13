@@ -1,5 +1,5 @@
 ---
-titulo: "Cancelan el título de Notario del distrito de La Victoria provincia de Lima departamento de Lima correspondiente al Distrito Notarial de Lima"
+titulo: "Resolución Ministerial N° 148-2026-JUS - Cancelan el título de Notario del distrito de La Victoria provincia de Lima departamento de Lima correspondiente al Distrito Notarial de Lima"
 identificador: "resolucion-ministerial-148-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

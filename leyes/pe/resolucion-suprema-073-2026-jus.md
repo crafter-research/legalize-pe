@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de ampliación de extradición activa de ciudadano peruano para ser extraditado del Reino de España y ser procesado en la República del Perú"
+titulo: "Resolución Suprema N° 073-2026-JUS - Acceden a solicitud de ampliación de extradición activa de ciudadano peruano para ser extraditado del Reino de España y ser procesado en la República del Perú"
 identificador: "resolucion-suprema-073-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

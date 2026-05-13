@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Viceministra de Minas"
+titulo: "Resolución Suprema N° 015-2026-EM - Designan Viceministra de Minas"
 identificador: "resolucion-suprema-015-2026-em"
 pais: "pe"
 jurisdiccion: "nacional"

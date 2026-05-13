@@ -1,5 +1,5 @@
 ---
-titulo: "Aprueban el uso del padrón de electores afiliados de la organización política Partido por el Entendimiento Recuperación y la Unificación del Perú para las elecciones primarias de las Elecciones Regionales y Municipales 2026"
+titulo: "Resolución N° 0702-2026-JNE - Aprueban el uso del padrón de electores afiliados de la organización política Partido por el Entendimiento Recuperación y la Unificación del Perú para las elecciones primarias de las Elecciones Regionales y Municipales 2026"
 identificador: "resolucion-0702-2026-jne"
 pais: "pe"
 jurisdiccion: "nacional"

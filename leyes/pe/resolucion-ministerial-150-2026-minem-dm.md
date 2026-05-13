@@ -1,5 +1,5 @@
 ---
-titulo: "Autorizan transferencia financiera de recursos a favor del Gobierno Regional de Lima"
+titulo: "Resolución Ministerial N° 150-2026-MINEM-DM - Autorizan transferencia financiera de recursos a favor del Gobierno Regional de Lima"
 identificador: "resolucion-ministerial-150-2026-minem-dm"
 pais: "pe"
 jurisdiccion: "nacional"

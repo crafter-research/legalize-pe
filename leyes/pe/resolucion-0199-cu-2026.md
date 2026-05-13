@@ -1,5 +1,5 @@
 ---
-titulo: "Autorizan viaje de Decano de la Facultad de Ingeniería de Minas de la Universidad Nacional de Piura a Argentina en comisión de servicios"
+titulo: "Resolución N° 0199-CU-2026 - Autorizan viaje de Decano de la Facultad de Ingeniería de Minas de la Universidad Nacional de Piura a Argentina en comisión de servicios"
 identificador: "resolucion-0199-cu-2026"
 pais: "pe"
 jurisdiccion: "nacional"

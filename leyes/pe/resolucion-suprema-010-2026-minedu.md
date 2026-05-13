@@ -1,5 +1,5 @@
 ---
-titulo: "Designan representante del Ministerio de Educación ante el Consejo Directivo del Centro de Formación en Turismo - CENFOTUR"
+titulo: "Resolución Suprema N° 010-2026-MINEDU - Designan representante del Ministerio de Educación ante el Consejo Directivo del Centro de Formación en Turismo - CENFOTUR"
 identificador: "resolucion-suprema-010-2026-minedu"
 pais: "pe"
 jurisdiccion: "nacional"

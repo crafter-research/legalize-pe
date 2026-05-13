@@ -1,5 +1,5 @@
 ---
-titulo: "Aprueban el uso del padrón de electores afiliados de la organización política Partido Frente de la Esperanza 2021 para las elecciones primarias de las Elecciones Regionales y Municipales 2026"
+titulo: "Resolución N° 0690-2026-JNE - Aprueban el uso del padrón de electores afiliados de la organización política Partido Frente de la Esperanza 2021 para las elecciones primarias de las Elecciones Regionales y Municipales 2026"
 identificador: "resolucion-0690-2026-jne"
 pais: "pe"
 jurisdiccion: "nacional"
