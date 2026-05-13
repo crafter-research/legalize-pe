@@ -3,324 +3,222 @@ export const prerender = true
 
 import Layout from '../layouts/Layout.astro'
 
-const BASE_URL = 'https://legalize.crafter.ing'
+const requestExample = `{
+  "query": "string"  // Mínimo 2 caracteres
+}`
 
-// Endpoints del sitio web (Git-based, disponibles en el frontend)
-const webEndpoints = [
-  {
-    method: 'GET',
-    path: '/api/normas/:id/history',
-    description: 'Historial de cambios de una norma (commits de Git)',
-    params: [{ name: 'id', type: 'string', desc: 'Identificador de la norma (ej: dleg-295)' }],
-    example: `curl "${BASE_URL}/api/normas/dleg-295/history"`,
-    response: `{
-  "data": [
+const responseExample = `{
+  "query": "string",
+  "results": [
     {
-      "hash": "abc1234567890",
-      "shortHash": "abc1234",
-      "authorDate": "2024-01-15T10:30:00Z",
-      "commitDate": "2024-01-15T10:30:00Z",
-      "message": "feat(leyes): actualización Código Civil Art. 140",
-      "subject": "feat(leyes): actualización Código Civil Art. 140"
+      "id": "string",
+      "titulo": "string",
+      "rango": "string",
+      "estado": "string",
+      "fechaPublicacion": "string",
+      "bodyPreview": "string",
+      "materias": ["string"],
+      "score": number,
+      "matchReasons": ["string"]
     }
-  ]
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/:id/at/:commit',
-    description: 'Contenido de una norma en un commit específico',
-    params: [
-      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
-      { name: 'commit', type: 'string', desc: 'Hash del commit (7-40 caracteres)' },
-    ],
-    example: `curl "${BASE_URL}/api/normas/dleg-295/at/abc1234"`,
-    response: `{
-  "data": {
-    "hash": "abc1234567890",
-    "authorDate": "2024-01-15T10:30:00Z",
-    "content": "---\\ntitulo: Código Civil\\n---\\n\\n# Código Civil...",
-    "message": "feat(leyes): actualización Art. 140"
-  }
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/:id/diff',
-    description: 'Diferencias entre dos versiones',
-    params: [
-      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
-      { name: 'from', type: 'string', desc: 'Hash del commit inicial (requerido)' },
-      { name: 'to', type: 'string', desc: 'Hash del commit final (requerido)' },
-    ],
-    example: `curl "${BASE_URL}/api/normas/dleg-295/diff?from=abc1234&to=def5678"`,
-    response: `{
-  "data": {
-    "fromHash": "abc1234",
-    "toHash": "def5678",
-    "fromDate": "2024-01-10T10:00:00Z",
-    "toDate": "2024-01-15T10:30:00Z",
-    "hunks": [...],
-    "stats": { "additions": 5, "deletions": 2 }
-  }
-}`,
-  },
-  {
-    method: 'GET',
-    path: '/api/normas/:id/compare',
-    description: 'Comparación lado a lado de dos versiones',
-    params: [
-      { name: 'id', type: 'string', desc: 'Identificador de la norma' },
-      { name: 'from', type: 'string', desc: 'Hash del commit inicial (requerido)' },
-      { name: 'to', type: 'string', desc: 'Hash del commit final (requerido)' },
-    ],
-    example: `curl "${BASE_URL}/api/normas/dleg-295/compare?from=abc1234&to=def5678"`,
-    response: `{
-  "data": {
-    "from": { "hash": "abc1234", "date": "...", "lines": [...] },
-    "to": { "hash": "def5678", "date": "...", "lines": [...] }
-  }
-}`,
-  },
-]
+  ],
+  "totalResults": number
+}`
 
-// Nota: La API REST completa está disponible en apps/api (Next.js)
-// con endpoints adicionales para búsqueda, filtros, estadísticas, etc.
+const curlExample = `curl -X POST https://legalize.crafter.ing/api/search/smart \\
+  -H "Content-Type: application/json" \\
+  -d '{
+    "query": "despido injustificado"
+  }'`
+
+const javascriptExample = `const response = await fetch('https://legalize.crafter.ing/api/search/smart', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    query: 'despido injustificado'
+  })
+});
+
+const data = await response.json();
+console.log(data);`
+
+const pythonExample = `import requests
+
+response = requests.post(
+  'https://legalize.crafter.ing/api/search/smart',
+  headers={'Content-Type': 'application/json'},
+  json={'query': 'despido injustificado'}
+)
+
+data = response.json()
+print(data)`
 ---
 
-<Layout title="API para Desarrolladores — Legalize PE">
+<Layout
+  title="API para Desarrolladores — Legalize PE"
+  description="Documentación de la API de búsqueda inteligente con NLP en español para consultas legales."
+>
   <main id="main-content">
-    <!-- Header -->
-    <header class="header">
-      <div class="container">
-        <nav class="nav" aria-label="Navegación principal">
-          <a href="/" class="nav-brand">Legalize PE</a>
-          <div class="nav-links">
-            <a href="/leyes">Normas</a>
-            <a href="/developers" class="active" aria-current="page">Developers</a>
-            <a href="https://github.com/crafter-research/legalize-pe" target="_blank" rel="noopener">GitHub<span class="sr-only"> (abre en nueva ventana)</span></a>
-          </div>
-        </nav>
-      </div>
-    </header>
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Navegación de ruta">
+        <a href="/">Inicio</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">API</span>
+      </nav>
 
-    <!-- Hero -->
-    <section class="hero">
-      <div class="container">
+      <header class="page-header">
         <h1>API para Desarrolladores</h1>
-        <p class="tagline">
-          Accede a toda la legislación peruana mediante nuestra API REST gratuita o clonando el repositorio Git.
+        <p class="subtitle">
+          Integra búsqueda inteligente con NLP en español en tu aplicación.
         </p>
-      </div>
-    </section>
+      </header>
 
-    <!-- Quick Start -->
-    <section class="section">
-      <div class="container">
-        <h2 class="section-title">Inicio rápido</h2>
-
-        <div class="quick-grid">
-          <div class="quick-card">
-            <h3>API REST</h3>
-            <p>Consulta normas, busca por texto y obtén historial de cambios.</p>
-            <pre><code>curl "https://legalize.crafter.ing/api/normas?q=laboral"</code></pre>
+      <section class="api-section">
+        <div class="endpoint-card">
+          <div class="endpoint-header">
+            <div class="endpoint-method">POST</div>
+            <code class="endpoint-url">/api/search/smart</code>
           </div>
+          <p class="endpoint-description">
+            Búsqueda inteligente con NLP en español que identifica conceptos legales,
+            materias y contexto para encontrar las normas más relevantes.
+          </p>
+        </div>
 
-          <div class="quick-card">
-            <h3>Repositorio Git</h3>
-            <p>Clona el repositorio y accede a todas las normas como archivos Markdown.</p>
-            <pre><code>git clone https://github.com/crafter-research/legalize-pe.git
-cd legalize-pe/leyes/pe
-cat constitucion-1993.md</code></pre>
+        <div class="section-card">
+          <h2>Request</h2>
+          <div class="spec-item">
+            <span class="spec-label">Content-Type</span>
+            <code>application/json</code>
           </div>
+          <div class="spec-item">
+            <span class="spec-label">Body</span>
+          </div>
+          <pre><code>{requestExample}</code></pre>
         </div>
-      </div>
-    </section>
 
-    <!-- Base URL -->
-    <section class="section section-alt">
-      <div class="container">
-        <h2 class="section-title">URL Base</h2>
-        <div class="info-box">
-          <code class="base-url">{BASE_URL}/api</code>
-          <p>Todas las respuestas son en formato JSON. No se requiere autenticación.</p>
+        <div class="section-card">
+          <h2>Response</h2>
+          <div class="spec-item">
+            <span class="spec-label">Status</span>
+            <code>200 OK</code>
+          </div>
+          <div class="spec-item">
+            <span class="spec-label">Body</span>
+          </div>
+          <pre><code>{responseExample}</code></pre>
         </div>
-      </div>
-    </section>
 
-    <!-- Endpoints -->
-    <section class="section">
-      <div class="container">
-        <h2 class="section-title">Endpoints de Historial (Git)</h2>
-        <p class="section-desc">Estos endpoints permiten acceder al historial de versiones de las normas, basado en el repositorio Git.</p>
+        <div class="section-card">
+          <h2>Probar la API</h2>
+          <div class="try-it">
+            <label for="api-query" class="try-label">Query</label>
+            <input
+              type="text"
+              id="api-query"
+              placeholder="Ejemplo: despido injustificado"
+              class="try-input"
+              aria-label="Query de prueba"
+            />
+            <button type="button" id="execute-btn" class="btn-primary">
+              Ejecutar
+            </button>
 
-        <div class="endpoints">
-          {webEndpoints.map((ep, i) => (
-            <div class="endpoint" id={`endpoint-${i}`}>
-              <div class="endpoint-header">
-                <span class="method">{ep.method}</span>
-                <code class="path">{ep.path}</code>
-              </div>
-              <p class="endpoint-desc">{ep.description}</p>
-
-              {ep.params.length > 0 && (
-                <div class="params">
-                  <h4>Parámetros</h4>
-                  <table>
-                    <thead>
-                      <tr>
-                        <th>Nombre</th>
-                        <th>Tipo</th>
-                        <th>Descripción</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {ep.params.map((p) => (
-                        <tr>
-                          <td><code>{p.name}</code></td>
-                          <td>{p.type}</td>
-                          <td>{p.desc}</td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              )}
-
-              <div class="example">
-                <h4>Ejemplo</h4>
-                <pre><code>{ep.example}</code></pre>
-              </div>
-
-              <div class="response">
-                <h4>Respuesta</h4>
-                <pre><code>{ep.response}</code></pre>
-              </div>
+            <div id="loading-indicator" class="loading-indicator" style="display: none;">
+              <span>Ejecutando...</span>
             </div>
-          ))}
-        </div>
-      </div>
-    </section>
 
-    <!-- Git Structure -->
-    <section class="section section-alt">
-      <div class="container">
-        <h2 class="section-title">Estructura del Repositorio</h2>
+            <div id="response-container" style="display: none;">
+              <div class="response-header">
+                <span class="response-label">Response</span>
+                <div class="response-meta">
+                  <span id="response-status" class="response-status"></span>
+                  <span id="response-time" class="response-time"></span>
+                </div>
+              </div>
+              <pre id="response-body" class="response-body"><code></code></pre>
+            </div>
 
-        <pre class="tree"><code>legalize-pe/
-├── leyes/
-│   └── pe/                    # Legislación nacional
-│       ├── constitucion-1993.md
-│       ├── dleg-295.md        # Código Civil
-│       ├── dleg-635.md        # Código Penal
-│       ├── ley-26702.md       # Ley de Bancos
-│       └── ...
-├── apps/
-│   ├── api/                   # API REST (Next.js)
-│   └── web/                   # Sitio web (Astro)
-└── packages/
-    ├── git/                   # Utilidades Git
-    └── scraper/               # Scraper de SPIJ</code></pre>
-
-        <h3>Formato de los archivos</h3>
-        <p>Cada norma es un archivo Markdown con frontmatter YAML:</p>
-
-        <pre><code>---
-titulo: "Código Civil"
-identificador: "dleg-295"
-rango: "decreto-legislativo"
-fechaPublicacion: "1984-07-25"
-estado: "vigente"
-fuente: "https://spij.minjus.gob.pe/..."
----
-
-# Código Civil
-
-## Título Preliminar
-
-**Artículo I.- Abrogación de la ley**
-La ley se deroga sólo por otra ley...</code></pre>
-      </div>
-    </section>
-
-    <!-- Historial Git -->
-    <section class="section">
-      <div class="container">
-        <h2 class="section-title">Historial de Cambios con Git</h2>
-        <p class="section-desc">Cada modificación a una norma queda registrada como un commit. Puedes ver el historial completo de cualquier ley:</p>
-
-        <pre><code># Ver historial de cambios
-git log --oneline -- leyes/pe/dleg-295.md
-
-# Ver cambios específicos
-git show abc123 -- leyes/pe/dleg-295.md
-
-# Comparar versiones
-git diff abc123..def456 -- leyes/pe/dleg-295.md
-
-# Ver estado en una fecha específica (usando reflog)
-git show "HEAD@&#123;YYYY-MM-DD&#125;":leyes/pe/dleg-295.md</code></pre>
-      </div>
-    </section>
-
-    <!-- Rate Limits -->
-    <section class="section section-alt">
-      <div class="container">
-        <h2 class="section-title">Límites y Uso</h2>
-
-        <div class="limits-grid">
-          <div class="limit-card">
-            <h3>Sin autenticación</h3>
-            <p>No necesitas API key para usar la API.</p>
-          </div>
-          <div class="limit-card">
-            <h3>Rate Limit</h3>
-            <p>100 requests por minuto por IP.</p>
-          </div>
-          <div class="limit-card">
-            <h3>Caché</h3>
-            <p>Respuestas cacheadas por 5 minutos.</p>
+            <div id="error-container" class="error-container" style="display: none;">
+              <div class="error-header">Error</div>
+              <pre id="error-body" class="error-body"><code></code></pre>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
 
-    <!-- Licencia -->
-    <section class="section">
-      <div class="container">
-        <h2 class="section-title">Licencia y Atribución</h2>
-        <div class="license-content">
-          <p>
-            El contenido de las normas es de <strong>dominio público</strong> según el Artículo 9 del
-            Decreto Legislativo 822 (Ley sobre el Derecho de Autor).
-          </p>
-          <p>
-            El código fuente está bajo licencia <strong>MIT</strong>. Puedes usar, modificar y distribuir
-            libremente tanto el código como los datos.
-          </p>
-          <p>
-            Fuente original: <a href="https://spij.minjus.gob.pe" target="_blank" rel="noopener">SPIJ<span class="sr-only"> (abre en nueva ventana)</span></a>
-            (Sistema Peruano de Información Jurídica) del Ministerio de Justicia y
-            <a href="https://diariooficial.elperuano.pe" target="_blank" rel="noopener">Diario Oficial El Peruano<span class="sr-only"> (abre en nueva ventana)</span></a>.
+        <div class="section-card">
+          <h2>Ejemplos de Código</h2>
+
+          <div class="tabs">
+            <button type="button" class="tab-btn active" data-tab="curl">cURL</button>
+            <button type="button" class="tab-btn" data-tab="javascript">JavaScript</button>
+            <button type="button" class="tab-btn" data-tab="python">Python</button>
+          </div>
+
+          <div class="tab-content active" data-tab="curl">
+            <pre><code>{curlExample}</code></pre>
+          </div>
+
+          <div class="tab-content" data-tab="javascript">
+            <pre><code>{javascriptExample}</code></pre>
+          </div>
+
+          <div class="tab-content" data-tab="python">
+            <pre><code>{pythonExample}</code></pre>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <h2>Rate Limiting</h2>
+          <p class="info-text">
+            El API está limitado a <strong>100 solicitudes por minuto</strong> por dirección IP.
+            Si excedes este límite, recibirás una respuesta <code>429 Too Many Requests</code>.
           </p>
         </div>
-      </div>
-    </section>
 
-    <!-- Footer -->
-    <footer>
-      <div class="container footer-content">
-        <div class="footer-brand">
-          <strong>Legalize PE</strong>
-          <span>por <a href="https://shiara.design" target="_blank" rel="noopener">Shiara Arauzo<span class="sr-only"> (abre en nueva ventana)</span></a></span>
+        <div class="section-card">
+          <h2>Consejos para Consultas Efectivas</h2>
+          <ul class="tips-list">
+            <li>
+              <strong>Usa lenguaje natural:</strong> El sistema entiende consultas en español coloquial.
+            </li>
+            <li>
+              <strong>Sé específico:</strong> Incluye detalles relevantes sobre el contexto legal.
+            </li>
+            <li>
+              <strong>Menciona materias:</strong> Referencias a "laboral", "civil", "penal" mejoran la precisión.
+            </li>
+            <li>
+              <strong>Consultas cortas:</strong> Entre 3-15 palabras suele ser óptimo.
+            </li>
+            <li>
+              <strong>Evita tecnicismos innecesarios:</strong> El NLP normaliza y enriquece tu consulta.
+            </li>
+          </ul>
         </div>
-        <nav class="footer-links" aria-label="Enlaces del pie de página">
-          <a href="/leyes">Normas</a>
-          <a href="/developers" aria-current="page">Developers</a>
-          <a href="https://github.com/crafter-research/legalize-pe" target="_blank" rel="noopener">GitHub<span class="sr-only"> (abre en nueva ventana)</span></a>
-        </nav>
-      </div>
-    </footer>
+      </section>
+
+      <section class="info-section">
+        <div class="info-card">
+          <h3>Soporte</h3>
+          <p>
+            Para reportar problemas o solicitar funcionalidades, abre un issue en
+            <a href="https://github.com/crafter-research/legalize-pe" target="_blank" rel="noopener">GitHub</a>.
+          </p>
+        </div>
+
+        <div class="info-card">
+          <h3>Licencia</h3>
+          <p>
+            Esta API es de uso gratuito. Los datos provienen del
+            <a href="https://www.gob.pe/spij" target="_blank" rel="noopener">SPIJ</a>
+            y están disponibles bajo términos de datos abiertos.
+          </p>
+        </div>
+      </section>
+    </div>
   </main>
 </Layout>
 
@@ -331,323 +229,504 @@ git show "HEAD@&#123;YYYY-MM-DD&#125;":leyes/pe/dleg-295.md</code></pre>
     padding: 0 1.5rem;
   }
 
-  /* Header */
-  .header {
-    border-bottom: 1px solid var(--color-border);
-    padding: 1rem 0;
-    position: sticky;
-    top: 0;
-    background: var(--color-bg);
-    z-index: 100;
-  }
-
-  .nav {
+  /* Breadcrumb */
+  .breadcrumb {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-  }
-
-  .nav-brand {
-    font-weight: 700;
-    font-size: 1.1rem;
-  }
-
-  .nav-links {
-    display: flex;
-    gap: 1.5rem;
-    font-size: 0.9rem;
-  }
-
-  .nav-links a {
+    gap: 0.5rem;
+    font-size: 0.875rem;
     color: var(--color-text-muted);
+    padding: 1.5rem 0 0.5rem;
   }
 
-  .nav-links a:hover,
-  .nav-links a.active {
+  .breadcrumb a {
+    color: var(--color-text-muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
     color: var(--color-text);
   }
 
-  /* Hero */
-  .hero {
-    padding: 3rem 0;
-    border-bottom: 1px solid var(--color-border);
+  /* Header */
+  .page-header {
+    padding: 1.5rem 0 2rem;
   }
 
-  .hero h1 {
-    font-size: 2.25rem;
+  .page-header h1 {
+    font-size: 1.75rem;
     font-weight: 700;
-    margin-bottom: 0.75rem;
-  }
-
-  .tagline {
-    color: var(--color-text-muted);
-    font-size: 1.1rem;
-    max-width: 600px;
-  }
-
-  /* Sections */
-  .section {
-    padding: 3rem 0;
-  }
-
-  .section-alt {
-    background: #0a0a0a;
-  }
-
-  .section-title {
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-  }
-
-  .section-desc {
-    color: var(--color-text-muted);
-    margin-bottom: 1.5rem;
-  }
-
-  /* Quick Start */
-  .quick-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .quick-card {
-    padding: 1.5rem;
-    background: #0a0a0a;
-    border: 1px solid var(--color-border);
-    border-radius: 10px;
-  }
-
-  .quick-card h3 {
-    font-size: 1.1rem;
+    letter-spacing: -0.02em;
     margin-bottom: 0.5rem;
   }
 
-  .quick-card p {
+  .subtitle {
     color: var(--color-text-muted);
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
+    font-size: 1rem;
+    line-height: 1.6;
   }
 
-  /* Info Box */
-  .info-box {
-    padding: 1.5rem;
-    border: 1px solid var(--color-border);
-    border-radius: 10px;
-  }
-
-  .base-url {
-    font-size: 1.25rem;
-    background: #1a1a1a;
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    display: inline-block;
-    margin-bottom: 0.75rem;
-  }
-
-  .info-box p {
-    color: var(--color-text-muted);
-    font-size: 0.9rem;
-    margin: 0;
-  }
-
-  /* Endpoints */
-  .endpoints {
+  /* API Section */
+  .api-section {
+    margin-bottom: 3rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
   }
 
-  .endpoint {
-    padding: 1.5rem;
-    background: #0a0a0a;
+  .endpoint-card {
+    background: var(--color-bg-secondary);
     border: 1px solid var(--color-border);
     border-radius: 10px;
+    padding: 1.5rem;
   }
 
   .endpoint-header {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
   }
 
-  .method {
-    background: #1a472a;
-    color: #4ade80;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
+  .endpoint-method {
+    background: #10b981;
+    color: #000;
     font-size: 0.75rem;
     font-weight: 700;
-  }
-
-  .path {
-    font-size: 1rem;
-    background: transparent;
-    padding: 0;
-  }
-
-  .endpoint-desc {
-    color: var(--color-text-muted);
-    margin-bottom: 1.25rem;
-  }
-
-  .endpoint h4 {
-    font-size: 0.85rem;
-    font-weight: 600;
-    margin-bottom: 0.75rem;
-    color: var(--color-text-muted);
-    text-transform: uppercase;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
     letter-spacing: 0.05em;
   }
 
-  .params {
-    margin-bottom: 1.25rem;
-  }
-
-  .params table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.875rem;
-  }
-
-  .params th {
-    text-align: left;
-    padding: 0.5rem;
-    border-bottom: 1px solid var(--color-border);
-    color: var(--color-text-muted);
-    font-weight: 500;
-  }
-
-  .params td {
-    padding: 0.5rem;
-    border-bottom: 1px solid var(--color-border);
-  }
-
-  .params tr:last-child td {
-    border-bottom: none;
-  }
-
-  .example,
-  .response {
-    margin-bottom: 1rem;
-  }
-
-  .example pre,
-  .response pre {
-    margin: 0;
-    font-size: 0.8rem;
-  }
-
-  /* Tree */
-  .tree {
-    background: #0a0a0a;
-  }
-
-  .tree + h3 {
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
-    font-size: 1.1rem;
-  }
-
-  .tree + h3 + p {
-    color: var(--color-text-muted);
-    margin-bottom: 1rem;
-  }
-
-  /* Limits */
-  .limits-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-  }
-
-  .limit-card {
-    padding: 1.25rem;
-    border: 1px solid var(--color-border);
-    border-radius: 8px;
-    text-align: center;
-  }
-
-  .limit-card h3 {
+  .endpoint-url {
     font-size: 1rem;
-    margin-bottom: 0.375rem;
+    color: var(--color-text);
+    font-weight: 600;
   }
 
-  .limit-card p {
+  .endpoint-description {
     color: var(--color-text-muted);
-    font-size: 0.85rem;
-    margin: 0;
+    line-height: 1.6;
+    font-size: 0.95rem;
   }
 
-  /* License */
-  .license-content {
+  /* Section Card */
+  .section-card {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    padding: 1.5rem;
+  }
+
+  .section-card h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .spec-item {
+    margin-bottom: 0.75rem;
+  }
+
+  .spec-label {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+
+  .spec-label::after {
+    content: ':';
+  }
+
+  .info-text {
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+
+  /* Try It Section */
+  .try-it {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.75rem;
   }
 
-  .license-content p {
+  .try-label {
+    font-size: 0.875rem;
     color: var(--color-text-muted);
-    line-height: 1.7;
+    font-weight: 600;
   }
 
-  /* Footer */
-  footer {
-    padding: 2rem 0;
-    border-top: 1px solid var(--color-border);
+  .try-input {
+    width: 100%;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    color: var(--color-text);
+    font-size: 0.95rem;
+    font-family: inherit;
+    transition: border-color 0.15s, box-shadow 0.15s;
   }
 
-  .footer-content {
+  .try-input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.1);
+  }
+
+  .try-input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .btn-primary {
+    background: #fff;
+    color: #000;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    align-self: flex-start;
+  }
+
+  .btn-primary:hover:not(:disabled) {
+    background: #e5e5e5;
+  }
+
+  .btn-primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  /* Loading Indicator */
+  .loading-indicator {
+    padding: 1rem;
+    text-align: center;
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+  }
+
+  .loading-indicator span::after {
+    content: '...';
+    animation: dots 1.5s steps(4, end) infinite;
+  }
+
+  @keyframes dots {
+    0%, 20% { content: '.'; }
+    40% { content: '..'; }
+    60%, 100% { content: '...'; }
+  }
+
+  /* Response */
+  .response-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 0.5rem;
   }
 
-  .footer-brand {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
+  .response-label {
     font-size: 0.875rem;
+    color: var(--color-text-muted);
+    font-weight: 600;
   }
 
-  .footer-brand span {
+  .response-meta {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .response-status {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    background: #10b981;
+    color: #000;
+  }
+
+  .response-status.error {
+    background: #ef4444;
+    color: #fff;
+  }
+
+  .response-time {
+    font-size: 0.75rem;
     color: var(--color-text-muted);
   }
 
-  .footer-links {
-    display: flex;
-    gap: 1.5rem;
+  .response-body {
+    max-height: 400px;
+    overflow-y: auto;
+    margin: 0;
+  }
+
+  /* Error */
+  .error-container {
+    padding: 1rem;
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid #ef4444;
+    border-radius: 8px;
+  }
+
+  .error-header {
     font-size: 0.875rem;
+    color: #ef4444;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
   }
 
-  .footer-links a {
+  .error-body {
+    margin: 0;
+    background: transparent;
+    border: none;
+    color: #ef4444;
+  }
+
+  /* Tabs */
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .tab-btn {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 0.5rem 1rem;
     color: var(--color-text-muted);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
   }
 
-  .footer-links a:hover {
+  .tab-btn:hover {
     color: var(--color-text);
   }
 
+  .tab-btn.active {
+    color: var(--color-text);
+    border-bottom-color: var(--color-accent);
+  }
+
+  .tab-content {
+    display: none;
+  }
+
+  .tab-content.active {
+    display: block;
+  }
+
+  /* Tips List */
+  .tips-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .tips-list li {
+    padding-left: 1.5rem;
+    position: relative;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+
+  .tips-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: #10b981;
+    font-weight: 600;
+  }
+
+  .tips-list strong {
+    color: var(--color-text);
+  }
+
+  /* Info Section */
+  .info-section {
+    display: grid;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .info-card {
+    background: var(--color-bg-secondary);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    padding: 1.25rem;
+  }
+
+  .info-card h3 {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+  }
+
+  .info-card p {
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+  }
+
+  .info-card p:last-child {
+    margin-bottom: 0;
+  }
+
+  .info-card a {
+    color: var(--color-text);
+    text-decoration: underline;
+    text-decoration-color: var(--color-border);
+  }
+
+  .info-card a:hover {
+    text-decoration-color: var(--color-text);
+  }
+
+  /* Mobile */
   @media (max-width: 640px) {
-    .hero h1 {
-      font-size: 1.75rem;
+    .container {
+      padding: 0 1rem;
     }
 
-    .limits-grid {
-      grid-template-columns: 1fr;
+    .page-header h1 {
+      font-size: 1.5rem;
     }
 
-    .footer-content {
+    .endpoint-header {
       flex-direction: column;
-      gap: 1rem;
-      text-align: center;
+      align-items: flex-start;
     }
 
-    .nav-links {
-      gap: 1rem;
-      font-size: 0.8rem;
+    .response-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .tabs {
+      flex-wrap: wrap;
+    }
+  }
+
+  @media (min-width: 641px) {
+    .info-section {
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 </style>
+
+<script>
+  // Tab switching
+  const tabBtns = document.querySelectorAll('.tab-btn')
+  const tabContents = document.querySelectorAll('.tab-content')
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const targetTab = btn.dataset.tab
+
+      // Update buttons
+      tabBtns.forEach(b => b.classList.remove('active'))
+      btn.classList.add('active')
+
+      // Update content
+      tabContents.forEach(content => {
+        if (content.dataset.tab === targetTab) {
+          content.classList.add('active')
+        } else {
+          content.classList.remove('active')
+        }
+      })
+    })
+  })
+
+  // API execution
+  const queryInput = document.getElementById('api-query') as HTMLInputElement
+  const executeBtn = document.getElementById('execute-btn') as HTMLButtonElement
+  const loadingIndicator = document.getElementById('loading-indicator')
+  const responseContainer = document.getElementById('response-container')
+  const errorContainer = document.getElementById('error-container')
+  const responseStatus = document.getElementById('response-status')
+  const responseTime = document.getElementById('response-time')
+  const responseBody = document.getElementById('response-body')?.querySelector('code')
+  const errorBody = document.getElementById('error-body')?.querySelector('code')
+
+  executeBtn.addEventListener('click', async () => {
+    const query = queryInput.value.trim()
+    if (!query) {
+      alert('Por favor ingresa una consulta')
+      return
+    }
+
+    // Hide previous results
+    responseContainer!.style.display = 'none'
+    errorContainer!.style.display = 'none'
+    loadingIndicator!.style.display = 'block'
+    executeBtn.disabled = true
+
+    const startTime = performance.now()
+
+    try {
+      const response = await fetch('/api/search/smart', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ query }),
+      })
+
+      const endTime = performance.now()
+      const duration = Math.round(endTime - startTime)
+
+      const data = await response.json()
+
+      loadingIndicator!.style.display = 'none'
+
+      if (!response.ok) {
+        // Show error
+        errorContainer!.style.display = 'block'
+        if (errorBody) {
+          errorBody.textContent = JSON.stringify(data, null, 2)
+        }
+      } else {
+        // Show response
+        responseContainer!.style.display = 'block'
+        responseStatus!.textContent = `${response.status} ${response.statusText}`
+        responseStatus!.className = 'response-status'
+        responseTime!.textContent = `${duration}ms`
+        if (responseBody) {
+          responseBody.textContent = JSON.stringify(data, null, 2)
+        }
+      }
+    } catch (error) {
+      loadingIndicator!.style.display = 'none'
+      errorContainer!.style.display = 'block'
+      if (errorBody) {
+        errorBody.textContent = error instanceof Error ? error.message : 'Unknown error'
+      }
+    } finally {
+      executeBtn.disabled = false
+    }
+  })
+
+  // Allow Enter key to execute
+  queryInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      executeBtn.click()
+    }
+  })
+</script>
