@@ -9,53 +9,128 @@ interface SearchResult {
 
 // Common legal terms and their related keywords
 const LEGAL_KEYWORDS: Record<string, string[]> = {
-  // Labor topics
-  laboral: ['trabajo', 'trabajador', 'empleador', 'empleo', 'despido', 'contrato', 'remuneracion', 'salario', 'sueldo', 'empleado'],
-  cts: ['compensacion', 'tiempo', 'servicios', 'beneficios'],
-  despido: ['cese', 'terminacion', 'desvinculacion', 'finalizacion', 'despidos', 'despedido'],
-  despidos: ['despido', 'cese', 'terminacion', 'desvinculacion'],
-  vacaciones: ['descanso', 'feriado', 'licencia'],
-  remuneracion: ['salario', 'sueldo', 'pago', 'remuneraciones'],
+  // ==================== LABOR LAW ====================
+  laboral: ['trabajo', 'trabajador', 'empleador', 'empleo', 'despido', 'contrato', 'remuneracion', 'salario', 'sueldo', 'empleado', 'obrero', 'patrono', 'jornada', 'horario'],
+  cts: ['compensacion', 'tiempo', 'servicios', 'beneficios', 'liquidacion', 'deposito'],
+  despido: ['cese', 'terminacion', 'desvinculacion', 'finalizacion', 'despidos', 'despedido', 'arbitrario', 'nulo', 'injustificado', 'indemnizacion'],
+  despidos: ['despido', 'cese', 'terminacion', 'desvinculacion', 'arbitrario'],
+  vacaciones: ['descanso', 'feriado', 'licencia', 'permisos', 'dias libres'],
+  remuneracion: ['salario', 'sueldo', 'pago', 'remuneraciones', 'honorarios', 'jornal'],
+  gratificacion: ['gratificaciones', 'fiestas patrias', 'navidad', 'bonificacion', 'aguinaldo'],
+  trabajo: ['laboral', 'empleo', 'trabajador', 'empleador', 'ocupacion'],
+  trabajador: ['empleado', 'obrero', 'asalariado', 'dependiente'],
+  empleador: ['patron', 'empresa', 'empleadores', 'patrono'],
 
-  // Housing/rental topics
-  inquilino: ['alquiler', 'arrendamiento', 'arrendatario', 'vivienda', 'renta'],
-  propietario: ['dueno', 'arrendador', 'propiedad'],
+  // ==================== CIVIL LAW - CONTRACTS ====================
+  civil: ['codigo civil', 'obligaciones', 'contratos', 'responsabilidad', 'actos juridicos'],
+  contrato: ['convenio', 'acuerdo', 'pacto', 'obligacion', 'clausula'],
+  obligacion: ['obligaciones', 'deuda', 'acreedor', 'deudor', 'cumplimiento', 'incumplimiento'],
+  responsabilidad: ['dano', 'perjuicio', 'indemnizacion', 'culpa', 'dolo', 'negligencia'],
 
-  // Public procurement
-  contratacion: ['adquisiciones', 'compras', 'licitacion', 'concurso'],
-  publica: ['estado', 'gobierno', 'publico'],
+  // ==================== CIVIL LAW - PROPERTY & HOUSING ====================
+  inquilino: ['arrendatario', 'locatario', 'ocupante', 'residente'],
+  alquiler: ['arrendamiento', 'renta', 'arriendo', 'locacion', 'alquilar'],
+  arrendamiento: ['alquiler', 'renta', 'arriendo', 'locacion', 'inquilino', 'arrendatario', 'arrendador'],
+  arrendatario: ['inquilino', 'locatario', 'arrendamiento'],
+  arrendador: ['propietario', 'dueno', 'casero', 'locador'],
+  propietario: ['dueno', 'arrendador', 'propiedad', 'titular', 'poseedor'],
+  propiedad: ['inmueble', 'predio', 'bien', 'posesion', 'dominio', 'titularidad'],
+  vivienda: ['casa', 'departamento', 'inmueble', 'hogar', 'domicilio', 'residencia'],
+  departamento: ['vivienda', 'inmueble', 'piso', 'apartamento'],
+  desalojo: ['desahucio', 'lanzamiento', 'restitucion', 'desocupacion'],
+  hipoteca: ['garantia', 'credito', 'prestamo', 'banco', 'inmueble'],
 
-  // Civil topics
-  civil: ['codigo', 'obligaciones', 'contratos', 'familia', 'sucesiones', 'propiedad'],
-  matrimonio: ['casamiento', 'conyuges', 'esposos', 'union', 'matrimonios'],
-  divorcio: ['separacion', 'disolucion', 'divorcios', 'separaciones'],
-  separacion: ['divorcio', 'disolucion', 'separaciones'],
-  familia: ['matrimonio', 'divorcio', 'patria', 'potestad', 'alimentos', 'hijos'],
+  // ==================== FAMILY LAW ====================
+  familia: ['matrimonio', 'divorcio', 'patria potestad', 'alimentos', 'hijos', 'conyuges', 'parientes', 'filiacion', 'adopcion', 'tutela', 'curatela'],
+  matrimonio: ['casamiento', 'conyuges', 'esposos', 'union', 'matrimonial', 'boda', 'nupcias', 'casarse', 'casado', 'casada', 'casar', 'casarme', 'casarnos'],
+  casar: ['matrimonio', 'casamiento', 'boda', 'nupcias', 'esposo', 'esposa', 'conyuge'],
+  casarse: ['matrimonio', 'casamiento', 'boda', 'nupcias'],
+  casarme: ['matrimonio', 'casamiento', 'boda', 'nupcias'],
+  divorcio: ['separacion', 'disolucion', 'divorcios', 'divorciar', 'divorciarse', 'divorciarme', 'divorciarnos', 'separarse', 'fin matrimonio', 'ruptura', 'divorciarme', 'separarnos'],
+  divorciarme: ['divorcio', 'separacion', 'disolucion', 'matrimonio'],
+  divorciarse: ['divorcio', 'separacion', 'disolucion', 'matrimonio'],
+  separacion: ['divorcio', 'disolucion', 'separarse', 'ruptura', 'cuerpos'],
+  esposo: ['esposa', 'conyuge', 'marido', 'mujer', 'pareja', 'consorte'],
+  esposa: ['esposo', 'conyuge', 'marido', 'mujer', 'pareja', 'consorte'],
+  conyuge: ['esposo', 'esposa', 'marido', 'mujer', 'consorte', 'conyugal'],
+  alimentos: ['pension', 'alimenticia', 'manutencion', 'sostenimiento', 'alimentario'],
+  pension: ['alimentos', 'alimenticia', 'mensualidad', 'cuota'],
+  hijos: ['menores', 'ninos', 'descendientes', 'prole', 'hijo', 'hija'],
+  custodia: ['tenencia', 'guarda', 'patria potestad', 'regimen', 'visitas'],
+  tenencia: ['custodia', 'guarda', 'cuidado', 'menor'],
+  patria: ['potestad', 'padres', 'autoridad parental'],
+  visitas: ['regimen', 'visita', 'convivencia', 'relacion'],
+  adopcion: ['adoptar', 'adoptivo', 'adoptante', 'adoptado'],
+  union: ['convivencia', 'concubinato', 'hecho', 'conviviente', 'pareja'],
+  conviviente: ['concubino', 'pareja', 'union de hecho'],
+  herencia: ['sucesion', 'heredero', 'testamento', 'legado', 'causante', 'fallecido'],
+  sucesion: ['herencia', 'herederos', 'testamento', 'intestada', 'causante'],
+  testamento: ['herencia', 'sucesion', 'legado', 'voluntad', 'testamentario'],
 
-  // Criminal topics
-  penal: ['delito', 'pena', 'sancion', 'crimen', 'criminal'],
-  robo: ['hurto', 'sustraccion', 'apropiacion'],
+  // ==================== CRIMINAL LAW ====================
+  penal: ['delito', 'pena', 'sancion', 'crimen', 'criminal', 'codigo penal', 'condena', 'prision'],
+  delito: ['crimen', 'infraccion', 'ilicito', 'falta', 'hecho punible'],
+  robo: ['hurto', 'sustraccion', 'apropiacion', 'asalto', 'latrocinio'],
+  hurto: ['robo', 'sustraccion', 'apoderamiento'],
+  estafa: ['fraude', 'engano', 'defraudacion', 'timador'],
+  violencia: ['agresion', 'maltrato', 'lesiones', 'violento'],
+  homicidio: ['asesinato', 'muerte', 'matar', 'occiso'],
+  denuncia: ['denunciar', 'acusar', 'querella', 'demanda penal'],
 
-  // Tax topics
-  tributario: ['impuesto', 'tributo', 'fiscal', 'sunat', 'igv', 'renta'],
-  igv: ['iva', 'valor agregado', 'ventas'],
+  // ==================== TAX LAW ====================
+  tributario: ['impuesto', 'tributo', 'fiscal', 'sunat', 'igv', 'renta', 'contribucion'],
+  impuesto: ['tributo', 'contribucion', 'tasa', 'gravamen'],
+  igv: ['iva', 'valor agregado', 'ventas', 'impuesto general'],
+  renta: ['ingresos', 'ganancias', 'utilidades', 'impuesto a la renta'],
+  sunat: ['tributario', 'fiscal', 'impuestos', 'administracion tributaria'],
 
-  // Business topics
-  empresa: ['sociedad', 'compania', 'negocio', 'comercio'],
-  comercio: ['comercial', 'mercantil', 'empresarial'],
+  // ==================== BUSINESS & COMMERCIAL ====================
+  empresa: ['sociedad', 'compania', 'negocio', 'comercio', 'empresarial'],
+  sociedad: ['empresa', 'compania', 'corporacion', 'sac', 'srl', 'sa'],
+  comercio: ['comercial', 'mercantil', 'empresarial', 'negocio'],
+  comercial: ['mercantil', 'comercio', 'negocio', 'transaccion'],
 
-  // Administrative topics
-  administrativo: ['procedimiento', 'silencio', 'recurso', 'impugnacion'],
+  // ==================== PUBLIC PROCUREMENT ====================
+  contratacion: ['adquisiciones', 'compras', 'licitacion', 'concurso', 'osce'],
+  publica: ['estado', 'gobierno', 'publico', 'estatal'],
+  licitacion: ['concurso', 'seleccion', 'adjudicacion', 'proceso'],
+  osce: ['contrataciones', 'estado', 'supervision'],
 
-  // Constitutional topics
-  constitucion: ['constitucional', 'derechos fundamentales', 'garantias'],
-  amparo: ['tutela', 'proteccion', 'derechos'],
+  // ==================== ADMINISTRATIVE LAW ====================
+  administrativo: ['procedimiento', 'silencio', 'recurso', 'impugnacion', 'administracion', 'funcionario'],
+  procedimiento: ['tramite', 'proceso', 'gestion', 'diligencia'],
+  recurso: ['apelacion', 'reclamacion', 'impugnacion', 'queja'],
+  funcionario: ['servidor', 'empleado publico', 'autoridad'],
 
-  // Consumer topics
-  consumidor: ['cliente', 'usuario', 'indecopi', 'proteccion'],
+  // ==================== CONSTITUTIONAL LAW ====================
+  constitucion: ['constitucional', 'derechos fundamentales', 'garantias', 'carta magna'],
+  amparo: ['tutela', 'proteccion', 'derechos', 'accion de amparo', 'garantia'],
+  habeas: ['corpus', 'libertad', 'detencion'],
+  derechos: ['garantias', 'libertades', 'fundamentales', 'humanos'],
 
-  // Environmental topics
-  ambiental: ['medio ambiente', 'ecologia', 'contaminacion', 'recursos naturales'],
+  // ==================== CONSUMER PROTECTION ====================
+  consumidor: ['cliente', 'usuario', 'indecopi', 'proteccion', 'comprador'],
+  indecopi: ['consumidor', 'proteccion', 'reclamo', 'queja'],
+  reclamo: ['queja', 'denuncia', 'consumidor', 'libro'],
+
+  // ==================== ENVIRONMENTAL LAW ====================
+  ambiental: ['medio ambiente', 'ecologia', 'contaminacion', 'recursos naturales', 'impacto'],
+
+  // ==================== PROPERTY REGISTRATION ====================
+  registral: ['sunarp', 'registro', 'inscripcion', 'partida', 'asiento'],
+  sunarp: ['registros publicos', 'inscripcion', 'propiedad', 'partida'],
+
+  // ==================== NOTARIAL ====================
+  notarial: ['notario', 'escritura', 'protocolo', 'legalizacion'],
+  notario: ['notaria', 'escritura publica', 'certificacion'],
+
+  // ==================== MUNICIPAL ====================
+  municipal: ['municipalidad', 'alcalde', 'concejo', 'ordenanza', 'licencia'],
+  licencia: ['permiso', 'autorizacion', 'funcionamiento'],
+
+  // ==================== TRANSPORT ====================
+  transito: ['vehiculo', 'conductor', 'licencia', 'papeleta', 'infraccion'],
+  vehiculo: ['auto', 'carro', 'automovil', 'transporte'],
 }
 
 // Stop words to remove from queries
@@ -68,6 +143,40 @@ const STOP_WORDS = new Set([
   'hacer', 'tengo', 'tiene', 'hay', 'cuales', 'cual',
   'mis', 'sus', 'mis', 'tus', 'nuestro', 'vuestro',
 ])
+
+/**
+ * Simple Spanish stemmer - removes common verb endings and suffixes
+ * Returns stems only if they are long enough to be meaningful (4+ chars)
+ */
+function spanishStem(word: string): string[] {
+  const stems: string[] = [word]
+  const MIN_STEM_LENGTH = 4 // Avoid false positives like "cas" from "casar"
+
+  // Common verb endings to remove (ordered by length - longer first for proper matching)
+  const verbEndings = ['arme', 'arte', 'arse', 'arnos', 'ando', 'aron', 'aba',
+                       'erme', 'erte', 'erse', 'ernos', 'iendo', 'ieron',
+                       'irme', 'irte', 'irse', 'irnos',
+                       'ar', 'er', 'ir', 'ia']
+
+  for (const ending of verbEndings) {
+    if (word.endsWith(ending) && word.length > ending.length + 2) {
+      const root = word.slice(0, -ending.length)
+      // Only add stems that are long enough to be meaningful
+      if (root.length >= MIN_STEM_LENGTH) {
+        stems.push(root)
+        stems.push(root + 'o')  // e.g., divorci -> divorcio
+        stems.push(root + 'io') // e.g., separac -> separacion
+      }
+    }
+  }
+
+  // Handle -cion -> -cio
+  if (word.endsWith('cion') && word.length > 6) {
+    stems.push(word.slice(0, -2)) // separacion -> separaci
+  }
+
+  return [...new Set(stems)]
+}
 
 /**
  * Extract keywords from natural language query
@@ -90,6 +199,10 @@ function extractKeywords(query: string): string[] {
     // Add the original word
     keywords.push(word)
 
+    // Add stemmed variations
+    const stems = spanishStem(word)
+    keywords.push(...stems)
+
     // Also add singular/plural variations
     if (word.endsWith('s') && word.length > 4) {
       keywords.push(word.slice(0, -1)) // Remove plural 's'
@@ -98,7 +211,7 @@ function extractKeywords(query: string): string[] {
     }
   }
 
-  return keywords
+  return [...new Set(keywords)]
 }
 
 /**
