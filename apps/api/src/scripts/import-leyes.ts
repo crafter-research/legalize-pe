@@ -6,9 +6,9 @@
 import { readFile, readdir, stat } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { eq } from 'drizzle-orm'
 import { parseFrontmatter } from '@legalize-pe/parser'
 import type { LawMetadata } from '@legalize-pe/parser'
+import { eq } from 'drizzle-orm'
 import { db, schema } from '../db'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))

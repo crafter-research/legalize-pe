@@ -2,7 +2,7 @@ import { readFileSync, readdirSync, statSync } from 'node:fs'
 import { join, relative } from 'node:path'
 import { parseFrontmatter as parseFromParser } from '@legalize-pe/parser'
 import type { LawMetadata } from '@legalize-pe/parser'
-import { shouldSkipFile, RANGO_LABELS_FULL } from './constants'
+import { RANGO_LABELS_FULL, shouldSkipFile } from './constants'
 
 // Keep local type as alias for compatibility
 export type LeyFrontmatter = LawMetadata

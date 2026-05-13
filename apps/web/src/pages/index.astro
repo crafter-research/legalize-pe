@@ -5,7 +5,7 @@ import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import Layout from '../layouts/Layout.astro'
 import { RANGO_LABELS } from '../lib/constants'
-import { getAllMdFiles, parseFrontmatter, LEYES_DIR } from '../lib/leyes'
+import { LEYES_DIR, getAllMdFiles, parseFrontmatter } from '../lib/leyes'
 
 const leyFiles = getAllMdFiles(LEYES_DIR)
 const leyes = leyFiles

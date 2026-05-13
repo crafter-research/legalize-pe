@@ -36,15 +36,18 @@ export const GET: APIRoute = async ({ params, url, clientAddress }) => {
   const toHash = url.searchParams.get('to')
 
   if (!id || !fromHash || !toHash) {
-    return new Response(JSON.stringify({ error: 'Parámetros requeridos: id, from, to' }), {
-      status: 400,
-      headers: {
-        'Content-Type': 'application/json',
-        'X-RateLimit-Limit': '100',
-        'X-RateLimit-Remaining': remaining.toString(),
-        'X-RateLimit-Reset': resetTime.toString(),
+    return new Response(
+      JSON.stringify({ error: 'Parámetros requeridos: id, from, to' }),
+      {
+        status: 400,
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': '100',
+          'X-RateLimit-Remaining': remaining.toString(),
+          'X-RateLimit-Reset': resetTime.toString(),
+        },
       },
-    })
+    )
   }
 
   if (!VALID_ID_PATTERN.test(id)) {

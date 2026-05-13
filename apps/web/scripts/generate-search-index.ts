@@ -19,4 +19,6 @@ console.log(`✅ Generated index with ${searchIndex.length} entries`)
 writeFileSync(OUTPUT_FILE, JSON.stringify(searchIndex), 'utf-8')
 
 console.log(`✅ Written to ${OUTPUT_FILE}`)
-console.log(`📊 File size: ${(JSON.stringify(searchIndex).length / 1024).toFixed(2)} KB`)
+console.log(
+  `📊 File size: ${(JSON.stringify(searchIndex).length / 1024).toFixed(2)} KB`,
+)

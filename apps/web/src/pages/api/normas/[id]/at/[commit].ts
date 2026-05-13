@@ -34,15 +34,18 @@ export const GET: APIRoute = async ({ params, clientAddress }) => {
   const { id, commit } = params
 
   if (!id || !commit) {
-    return new Response(JSON.stringify({ error: 'Parámetros requeridos: id, commit' }), {
-      status: 400,
-      headers: {
-        'Content-Type': 'application/json',
-        'X-RateLimit-Limit': '100',
-        'X-RateLimit-Remaining': remaining.toString(),
-        'X-RateLimit-Reset': resetTime.toString(),
+    return new Response(
+      JSON.stringify({ error: 'Parámetros requeridos: id, commit' }),
+      {
+        status: 400,
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': '100',
+          'X-RateLimit-Remaining': remaining.toString(),
+          'X-RateLimit-Reset': resetTime.toString(),
+        },
       },
-    })
+    )
   }
 
   if (!VALID_ID_PATTERN.test(id)) {

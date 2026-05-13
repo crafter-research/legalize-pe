@@ -5,7 +5,8 @@ export const prerender = true
 
 const SITE_URL = 'https://legalize.crafter.ing'
 const SITE_TITLE = 'Legalize PE - Legislacion Peruana'
-const SITE_DESCRIPTION = 'Ultimas normas legales peruanas publicadas en el Diario Oficial El Peruano'
+const SITE_DESCRIPTION =
+  'Ultimas normas legales peruanas publicadas en el Diario Oficial El Peruano'
 
 function escapeXml(text: string): string {
   return text
@@ -21,15 +22,16 @@ export const GET: APIRoute = async () => {
 
   // Get the 50 most recent laws
   const recentLeyes = leyes
-    .filter(l => l.f) // Must have a date
+    .filter((l) => l.f) // Must have a date
     .sort((a, b) => b.f.localeCompare(a.f))
     .slice(0, 50)
 
-  const items = recentLeyes.map(ley => {
-    const pubDate = new Date(ley.f).toUTCString()
-    const link = `${SITE_URL}/leyes/${ley.id}`
+  const items = recentLeyes
+    .map((ley) => {
+      const pubDate = new Date(ley.f).toUTCString()
+      const link = `${SITE_URL}/leyes/${ley.id}`
 
-    return `
+      return `
     <item>
       <title>${escapeXml(ley.t)}</title>
       <link>${link}</link>
@@ -38,7 +40,8 @@ export const GET: APIRoute = async () => {
       <description>${escapeXml(ley.t)}. ${escapeXml(ley.r)} publicada el ${ley.f}.</description>
       <category>${escapeXml(ley.r)}</category>
     </item>`
-  }).join('')
+    })
+    .join('')
 
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
