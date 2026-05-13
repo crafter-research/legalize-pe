@@ -46,8 +46,7 @@ export function buildSearchIndex(): SearchableLey[] {
   const leyes: SearchableLey[] = []
 
   for (const filename of files) {
-    if (filename.startsWith('HISTORIAL')) continue
-
+    
     const content = readFileSync(join(LEYES_DIR, filename), 'utf-8')
     const { meta, body } = parseFrontmatter(content)
 
@@ -80,8 +79,7 @@ export function buildCompactSearchIndex(): CompactLey[] {
   const leyes: CompactLey[] = []
 
   for (const filename of files) {
-    if (filename.startsWith('HISTORIAL')) continue
-
+    
     const content = readFileSync(join(LEYES_DIR, filename), 'utf-8')
     const { meta, body } = parseFrontmatter(content)
 

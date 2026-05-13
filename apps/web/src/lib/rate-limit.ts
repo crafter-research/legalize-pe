@@ -36,16 +36,16 @@ export function checkRateLimit(ip: string): {
     return { allowed: true, remaining: MAX_REQUESTS - 1, resetTime }
   }
 
-  // Increment count for existing record
-  record.count++
+  // Increment atomically and check
+  const currentCount = ++record.count
 
-  if (record.count > MAX_REQUESTS) {
+  if (currentCount > MAX_REQUESTS) {
     return { allowed: false, remaining: 0, resetTime: record.resetTime }
   }
 
   return {
     allowed: true,
-    remaining: MAX_REQUESTS - record.count,
+    remaining: MAX_REQUESTS - currentCount,
     resetTime: record.resetTime,
   }
 }

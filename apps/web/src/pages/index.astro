@@ -2,8 +2,9 @@
 export const prerender = true
 
 import { readFileSync, readdirSync, statSync } from 'node:fs'
-import { join, relative } from 'node:path'
+import { join } from 'node:path'
 import Layout from '../layouts/Layout.astro'
+import { RANGO_LABELS, shouldSkipFile } from '../lib/constants'
 
 interface LeyCard {
   titulo: string
@@ -27,7 +28,7 @@ function parseLeyCard(content: string): LeyCard {
 function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
   const files: string[] = []
   for (const entry of readdirSync(dir)) {
-    if (entry.startsWith('.') || entry.startsWith('HISTORIAL')) continue
+    if (shouldSkipFile(entry)) continue
     const fullPath = join(dir, entry)
     const stat = statSync(fullPath)
     if (stat.isDirectory()) {
@@ -48,21 +49,7 @@ const leyes = leyFiles
     (b.fechaPublicacion ?? '').localeCompare(a.fechaPublicacion ?? ''),
   )
 
-const rangoLabels: Record<string, string> = {
-  constitucion: 'Constitución',
-  ley: 'Ley',
-  'ley-organica': 'Ley Orgánica',
-  'decreto-legislativo': 'D. Leg.',
-  'decreto-urgencia': 'D. Urg.',
-  'decreto-supremo': 'D. Sup.',
-  'resolucion-suprema': 'R. Sup.',
-  'resolucion-ministerial': 'R. Min.',
-  'resolucion-jefatural': 'R. Jef.',
-  'resolucion-directoral': 'R. Dir.',
-  resolucion: 'Resolución',
-  ordenanza: 'Ordenanza',
-  reglamento: 'Reglamento',
-}
+const rangoLabels = RANGO_LABELS
 
 // Categorías populares
 const categorias = [

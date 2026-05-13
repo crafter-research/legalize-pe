@@ -75,7 +75,6 @@ marked.use({
   }
 })
 
-const rawContentEscaped = JSON.stringify(rawContent)
 const htmlContent = await marked(body)
 
 // Citation data
@@ -313,41 +312,11 @@ const jsonLd = {
   </main>
 </Layout>
 
-<script define:vars={{ rawContent: rawContentEscaped, filename, identificador: id, citationData: JSON.stringify(citationData) }}>
-  const raw = JSON.parse(rawContent)
+<script define:vars={{ identificador: id, citationData: JSON.stringify(citationData) }}>
   const citation = JSON.parse(citationData)
 
-  const btnCopy = document.getElementById('btn-copy')
-  const btnDownload = document.getElementById('btn-download')
   const btnCite = document.getElementById('btn-cite')
   const citationModal = document.getElementById('citation-modal')
-
-  btnCopy?.addEventListener('click', async () => {
-    try {
-      await navigator.clipboard.writeText(raw)
-      btnCopy.textContent = 'Copiado!'
-      setTimeout(() => {
-        btnCopy.textContent = 'Copiar Markdown'
-      }, 2000)
-    } catch {
-      btnCopy.textContent = 'Error al copiar'
-      setTimeout(() => {
-        btnCopy.textContent = 'Copiar Markdown'
-      }, 2000)
-    }
-  })
-
-  btnDownload?.addEventListener('click', () => {
-    const blob = new Blob([raw], { type: 'text/markdown;charset=utf-8' })
-    const url = URL.createObjectURL(blob)
-    const anchor = document.createElement('a')
-    anchor.href = url
-    anchor.download = filename
-    document.body.appendChild(anchor)
-    anchor.click()
-    document.body.removeChild(anchor)
-    URL.revokeObjectURL(url)
-  })
 
   // Citation Modal
   function formatDate(dateStr) {
