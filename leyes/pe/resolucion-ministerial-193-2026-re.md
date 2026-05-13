@@ -1,5 +1,5 @@
 ---
-titulo: "Autorizan viaje de Director General para Asuntos Multilaterales y Globales a Panamá en comisión de servicios"
+titulo: "Resolución Ministerial N° 193-2026-RE - Autorizan viaje de Director General para Asuntos Multilaterales y Globales a Panamá en comisión de servicios"
 identificador: "resolucion-ministerial-193-2026-re"
 pais: "pe"
 jurisdiccion: "nacional"

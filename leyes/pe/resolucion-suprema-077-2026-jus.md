@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de extradición activa de ciudadano peruano para ser extraditado de la República del Paraguay y ser procesado en la República del Perú"
+titulo: "Resolución Suprema N° 077-2026-JUS - Acceden a solicitud de extradición activa de ciudadano peruano para ser extraditado de la República del Paraguay y ser procesado en la República del Perú"
 identificador: "resolucion-suprema-077-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

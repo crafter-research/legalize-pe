@@ -32,6 +32,9 @@ importers:
       '@legalize-pe/git':
         specifier: workspace:*
         version: link:../../packages/git
+      '@legalize-pe/parser':
+        specifier: workspace:*
+        version: link:../../packages/parser
       '@libsql/client':
         specifier: ^0.14.0
         version: 0.14.0
@@ -78,6 +81,9 @@ importers:
       '@legalize-pe/git':
         specifier: workspace:*
         version: link:../../packages/git
+      '@legalize-pe/parser':
+        specifier: workspace:*
+        version: link:../../packages/parser
       '@vercel/analytics':
         specifier: ^2.0.1
         version: 2.0.1(next@15.5.14(@babel/core@7.29.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)
@@ -3453,7 +3459,6 @@ packages:
 
   libsql@0.4.7:
     resolution: {integrity: sha512-T9eIRCs6b0J1SHKYIvD8+KCJMcWZ900iZyxdnSCdqxN12Z1ijzT+jY5nrk72Jw4B0HGzms2NgpryArlJqvc3Lw==}
-    cpu: [x64, arm64, wasm32]
     os: [darwin, linux, win32]
 
   lilconfig@3.1.3:

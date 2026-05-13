@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de traslado pasivo de ciudadano colombiano que se encuentra cumpliendo sentencia en el Establecimiento Penitenciario de Ancón II para cumplir el resto de su condena en un centro penitenciario de la República de Colombia"
+titulo: "Resolución Suprema N° 079-2026-JUS - Acceden a solicitud de traslado pasivo de ciudadano colombiano que se encuentra cumpliendo sentencia en el Establecimiento Penitenciario de Ancón II para cumplir el resto de su condena en un centro penitenciario de la República de Colombia"
 identificador: "resolucion-suprema-079-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

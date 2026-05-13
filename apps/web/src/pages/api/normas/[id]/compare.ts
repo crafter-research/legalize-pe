@@ -1,6 +1,7 @@
 import path from 'node:path'
 import { createGitService } from '@legalize-pe/git'
 import type { APIRoute } from 'astro'
+import { checkRateLimit } from '../../../../lib/rate-limit'
 
 export const prerender = false
 
@@ -8,7 +9,28 @@ export const prerender = false
 const VALID_ID_PATTERN = /^[a-z0-9-]+$/
 const VALID_HASH_PATTERN = /^[a-f0-9]{7,40}$/
 
-export const GET: APIRoute = async ({ params, url }) => {
+export const GET: APIRoute = async ({ params, url, clientAddress }) => {
+  // Rate limiting
+  const ip = clientAddress || 'unknown'
+  const { allowed, remaining, resetTime } = checkRateLimit(ip)
+
+  if (!allowed) {
+    const retryAfter = Math.ceil((resetTime - Date.now()) / 1000)
+    return new Response(
+      JSON.stringify({ error: 'Rate limit exceeded. Please try again later.' }),
+      {
+        status: 429,
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': '100',
+          'X-RateLimit-Remaining': '0',
+          'X-RateLimit-Reset': resetTime.toString(),
+          'Retry-After': retryAfter.toString(),
+        },
+      },
+    )
+  }
+
   const { id } = params
   const fromHash = url.searchParams.get('from')
   const toHash = url.searchParams.get('to')
@@ -16,21 +38,36 @@ export const GET: APIRoute = async ({ params, url }) => {
   if (!id || !fromHash || !toHash) {
     return new Response(JSON.stringify({ error: 'Parámetros requeridos: id, from, to' }), {
       status: 400,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'X-RateLimit-Limit': '100',
+        'X-RateLimit-Remaining': remaining.toString(),
+        'X-RateLimit-Reset': resetTime.toString(),
+      },
     })
   }
 
   if (!VALID_ID_PATTERN.test(id)) {
     return new Response(JSON.stringify({ error: 'Identificador inválido' }), {
       status: 400,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'X-RateLimit-Limit': '100',
+        'X-RateLimit-Remaining': remaining.toString(),
+        'X-RateLimit-Reset': resetTime.toString(),
+      },
     })
   }
 
   if (!VALID_HASH_PATTERN.test(fromHash) || !VALID_HASH_PATTERN.test(toHash)) {
     return new Response(JSON.stringify({ error: 'Hash de commit inválido' }), {
       status: 400,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'X-RateLimit-Limit': '100',
+        'X-RateLimit-Remaining': remaining.toString(),
+        'X-RateLimit-Reset': resetTime.toString(),
+      },
     })
   }
 
@@ -77,7 +114,12 @@ export const GET: APIRoute = async ({ params, url }) => {
       }),
       {
         status: 200,
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': '100',
+          'X-RateLimit-Remaining': remaining.toString(),
+          'X-RateLimit-Reset': resetTime.toString(),
+        },
       },
     )
   } catch (error) {
@@ -86,7 +128,12 @@ export const GET: APIRoute = async ({ params, url }) => {
       JSON.stringify({ error: 'Error al obtener las versiones' }),
       {
         status: 500,
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'X-RateLimit-Limit': '100',
+          'X-RateLimit-Remaining': remaining.toString(),
+          'X-RateLimit-Reset': resetTime.toString(),
+        },
       },
     )
   }

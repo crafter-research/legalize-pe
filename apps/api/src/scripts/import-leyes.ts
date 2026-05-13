@@ -7,69 +7,19 @@ import { readFile, readdir, stat } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { eq } from 'drizzle-orm'
+import { parseFrontmatter } from '@legalize-pe/parser'
+import type { LawMetadata } from '@legalize-pe/parser'
 import { db, schema } from '../db'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const LEYES_DIR = join(__dirname, '../../../../leyes/pe')
 
-interface Frontmatter {
-  titulo: string
-  identificador: string
-  pais: string
-  jurisdiccion: string
-  rango: string
-  sector?: string
-  fechaPublicacion: string
-  fechaPromulgacion?: string
-  fechaVigencia?: string
-  ultimaActualizacion?: string
-  estado: string
-  fuente?: string
-  fuenteAlternativa?: string
-  diarioOficial?: string
-  sumilla?: string
-  materias?: string[] | string
-  spijId?: string
-  disclaimer?: boolean
-}
-
-function parseFrontmatter(content: string): {
-  frontmatter: Frontmatter
-  body: string
-} {
-  const match = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
-  if (!match) {
-    throw new Error('Invalid frontmatter format')
-  }
-
-  const [, yamlContent, body] = match
-  const frontmatter: Record<string, string> = {}
-
-  for (const line of (yamlContent ?? '').split('\n')) {
-    const colonIndex = line.indexOf(':')
-    if (colonIndex > 0) {
-      const key = line.slice(0, colonIndex).trim()
-      let value = line.slice(colonIndex + 1).trim()
-      // Remove quotes
-      if (
-        (value.startsWith('"') && value.endsWith('"')) ||
-        (value.startsWith("'") && value.endsWith("'"))
-      ) {
-        value = value.slice(1, -1)
-      }
-      frontmatter[key] = value
-    }
-  }
-
-  return {
-    frontmatter: frontmatter as unknown as Frontmatter,
-    body: body?.trim() ?? '',
-  }
-}
-
 async function importLaw(filePath: string): Promise<boolean> {
   const content = await readFile(filePath, 'utf-8')
-  const { frontmatter, body } = parseFrontmatter(content)
+  const { frontmatter, body } = parseFrontmatter(content) as {
+    frontmatter: LawMetadata
+    body: string
+  }
 
   // Check if law already exists
   const existing = await db

@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de extradición activa de ciudadana peruana para ser extraditada de la República Italiana y ser procesada en la República del Perú"
+titulo: "Resolución Suprema N° 076-2026-JUS - Acceden a solicitud de extradición activa de ciudadana peruana para ser extraditada de la República Italiana y ser procesada en la República del Perú"
 identificador: "resolucion-suprema-076-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

@@ -2,9 +2,9 @@
 export const prerender = true
 
 import Layout from '../../layouts/Layout.astro'
-import { buildCompactSearchIndex } from '../../lib/search-index'
 
-const compactLeyes = buildCompactSearchIndex()
+// Load search index from static JSON file (pre-generated at build time)
+const compactLeyes: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> = []
 
 const rangoLabels: Record<string, string> = {
   constitucion: 'Constitucion',
@@ -16,28 +16,13 @@ const rangoLabels: Record<string, string> = {
   reglamento: 'Reglamento',
 }
 
-const uniqueRangos = [...new Set(compactLeyes.map((l) => l.r))].filter(Boolean).sort()
+// Initialize with empty data - will be loaded from static JSON on client
+const dates: string[] = []
+const minYear = '1990'
+const maxYear = '2024'
+const uniqueRangos: string[] = []
+const topMaterias: string[] = []
 
-// Get unique materias - flatten all arrays and get unique values
-const allMaterias = compactLeyes.flatMap((l) => l.m || [])
-const materiaCount = new Map<string, number>()
-for (const m of allMaterias) {
-  materiaCount.set(m, (materiaCount.get(m) || 0) + 1)
-}
-// Get top 30 materias by frequency
-const topMaterias = [...materiaCount.entries()]
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 30)
-  .map(([m]) => m)
-  .sort((a, b) => a.localeCompare(b, 'es'))
-
-// Get date range for filter
-const dates = compactLeyes.map((l) => l.f).filter(Boolean).sort()
-const minYear = dates.length > 0 ? dates[0].substring(0, 4) : '1990'
-const maxYear = dates.length > 0 ? dates[dates.length - 1].substring(0, 4) : '2024'
-
-// Serialize data for client-side
-const searchIndex = JSON.stringify(compactLeyes)
 const rangoLabelsJson = JSON.stringify(rangoLabels)
 ---
 
@@ -52,8 +37,8 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
 
       <header class="page-header">
         <h1>Buscar normas legales</h1>
-        <p class="subtitle">
-          Explora {compactLeyes.length} normas de legislacion peruana. Busqueda por titulo, numero y contenido.
+        <p class="subtitle" id="subtitle-text">
+          Explora la legislacion peruana. Busqueda por titulo, numero y contenido.
         </p>
       </header>
 
@@ -83,9 +68,6 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
             <label for="filter-tipo">Tipo</label>
             <select id="filter-tipo">
               <option value="">Todas</option>
-              {uniqueRangos.map((rango) => (
-                <option value={rango}>{rangoLabels[rango] ?? rango}</option>
-              ))}
             </select>
           </div>
           <div class="filter-group">
@@ -101,27 +83,18 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
             <label for="filter-materia">Materia</label>
             <select id="filter-materia">
               <option value="">Todas</option>
-              {topMaterias.map((materia) => (
-                <option value={materia}>{materia}</option>
-              ))}
             </select>
           </div>
           <div class="filter-group">
             <label for="filter-desde">Desde</label>
             <select id="filter-desde">
               <option value="">Cualquier año</option>
-              {Array.from({ length: Number(maxYear) - Number(minYear) + 1 }, (_, i) => Number(maxYear) - i).map((year) => (
-                <option value={year}>{year}</option>
-              ))}
             </select>
           </div>
           <div class="filter-group">
             <label for="filter-hasta">Hasta</label>
             <select id="filter-hasta">
               <option value="">Cualquier año</option>
-              {Array.from({ length: Number(maxYear) - Number(minYear) + 1 }, (_, i) => Number(maxYear) - i).map((year) => (
-                <option value={year}>{year}</option>
-              ))}
             </select>
           </div>
           <div class="filter-group">
@@ -137,7 +110,7 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
         </div>
 
         <div id="search-results-info" class="results-info" role="status" aria-live="polite">
-          Mostrando <span id="results-showing">0</span> de <span id="results-count">{compactLeyes.length}</span> normas
+          Mostrando <span id="results-showing">0</span> de <span id="results-count">0</span> normas
           <span id="search-mode" class="search-mode"></span>
         </div>
       </section>
@@ -200,7 +173,6 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
         <button type="button" id="clear-filters" class="btn-secondary">Limpiar filtros</button>
       </div>
 
-      <script type="application/json" id="search-data" set:html={searchIndex}></script>
       <script type="application/json" id="rango-labels" set:html={rangoLabelsJson}></script>
     </div>
   </main>
@@ -211,13 +183,13 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
 
   const ITEMS_PER_PAGE = 50
 
-  // Load data
-  const searchIndexData = document.getElementById('search-data')
+  // Load rango labels
   const rangoLabelsData = document.getElementById('rango-labels')
-  const rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> =
-    searchIndexData ? JSON.parse(searchIndexData.textContent || '[]') : []
   const rangoLabels: Record<string, string> =
     rangoLabelsData ? JSON.parse(rangoLabelsData.textContent || '{}') : {}
+
+  // Load search index from static JSON file
+  let rawIndex: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> = []
 
   interface Ley {
     identificador: string
@@ -240,7 +212,87 @@ const rangoLabelsJson = JSON.stringify(rangoLabels)
     score?: number
   }
 
-  ;(() => {
+  ;(async () => {
+    // Fetch search index from static JSON file
+    try {
+      const response = await fetch('/search-index.json')
+      rawIndex = await response.json()
+    } catch (error) {
+      console.error('Failed to load search index:', error)
+      return
+    }
+
+    // Update subtitle with count
+    const subtitleText = document.getElementById('subtitle-text')
+    if (subtitleText) {
+      subtitleText.textContent = `Explora ${rawIndex.length} normas de legislacion peruana. Busqueda por titulo, numero y contenido.`
+    }
+
+    // Populate filter dropdowns
+    const uniqueRangos = [...new Set(rawIndex.map((l) => l.r))].filter(Boolean).sort()
+    const filterTipoEl = document.getElementById('filter-tipo') as HTMLSelectElement | null
+    if (filterTipoEl) {
+      for (const rango of uniqueRangos) {
+        const option = document.createElement('option')
+        option.value = rango
+        option.textContent = rangoLabels[rango] ?? rango
+        filterTipoEl.appendChild(option)
+      }
+    }
+
+    // Populate materia filter
+    const allMaterias = rawIndex.flatMap((l) => l.m || [])
+    const materiaCount = new Map<string, number>()
+    for (const m of allMaterias) {
+      materiaCount.set(m, (materiaCount.get(m) || 0) + 1)
+    }
+    const topMaterias = [...materiaCount.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 30)
+      .map(([m]) => m)
+      .sort((a, b) => a.localeCompare(b, 'es'))
+
+    const filterMateriaEl = document.getElementById('filter-materia') as HTMLSelectElement | null
+    if (filterMateriaEl) {
+      for (const materia of topMaterias) {
+        const option = document.createElement('option')
+        option.value = materia
+        option.textContent = materia
+        filterMateriaEl.appendChild(option)
+      }
+    }
+
+    // Populate year filters
+    const dates = rawIndex.map((l) => l.f).filter(Boolean).sort()
+    const minYear = dates.length > 0 ? dates[0].substring(0, 4) : '1990'
+    const maxYear = dates.length > 0 ? dates[dates.length - 1].substring(0, 4) : '2024'
+    const years = Array.from({ length: Number(maxYear) - Number(minYear) + 1 }, (_, i) => Number(maxYear) - i)
+
+    const filterDesdeEl = document.getElementById('filter-desde') as HTMLSelectElement | null
+    const filterHastaEl = document.getElementById('filter-hasta') as HTMLSelectElement | null
+    if (filterDesdeEl) {
+      for (const year of years) {
+        const option = document.createElement('option')
+        option.value = year.toString()
+        option.textContent = year.toString()
+        filterDesdeEl.appendChild(option)
+      }
+    }
+    if (filterHastaEl) {
+      for (const year of years) {
+        const option = document.createElement('option')
+        option.value = year.toString()
+        option.textContent = year.toString()
+        filterHastaEl.appendChild(option)
+      }
+    }
+
+    // Update results count
+    const resultsCountEl = document.getElementById('results-count')
+    if (resultsCountEl) {
+      resultsCountEl.textContent = rawIndex.length.toString()
+    }
+
     const leyes: Ley[] = rawIndex.map((l) => ({
       identificador: l.id,
       titulo: l.t,

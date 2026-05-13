@@ -1,5 +1,5 @@
 ---
-titulo: "Acceden a solicitud de extradición activa de ciudadano francés para ser extraditado de la República Francesa y ser procesado en la República del Perú"
+titulo: "Resolución Suprema N° 075-2026-JUS - Acceden a solicitud de extradición activa de ciudadano francés para ser extraditado de la República Francesa y ser procesado en la República del Perú"
 identificador: "resolucion-suprema-075-2026-jus"
 pais: "pe"
 jurisdiccion: "nacional"

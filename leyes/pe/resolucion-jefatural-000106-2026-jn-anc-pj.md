@@ -1,5 +1,5 @@
 ---
-titulo: "Disponen la realización de Visitas Judiciales Ordinarias para el año 2026"
+titulo: "Resolución Jefatural N° 000106-2026-JN-ANC-PJ - Disponen la realización de Visitas Judiciales Ordinarias para el año 2026"
 identificador: "resolucion-jefatural-000106-2026-jn-anc-pj"
 pais: "pe"
 jurisdiccion: "nacional"

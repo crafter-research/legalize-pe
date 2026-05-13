@@ -1,5 +1,5 @@
 ---
-titulo: "Aprueban costos administrativos y operativos del FISE de las Distribuidoras Eléctricas en sus actividades vinculadas con el descuento en la compra del balón de gas al mes de enero de 2026"
+titulo: "Resolución N° 009-2026-OS-GRT - Aprueban costos administrativos y operativos del FISE de las Distribuidoras Eléctricas en sus actividades vinculadas con el descuento en la compra del balón de gas al mes de enero de 2026"
 identificador: "resolucion-009-2026-os-grt"
 pais: "pe"
 jurisdiccion: "nacional"

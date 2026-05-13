@@ -1,5 +1,5 @@
 ---
-titulo: "TUO del Reglamento General de los Registros Públicos"
+titulo: "Resolución N° 126-2012-SUNARP - TUO del Reglamento General de los Registros Públicos"
 identificador: "res-126-2012-sunarp"
 pais: "pe"
 jurisdiccion: "pe"

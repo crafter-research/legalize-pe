@@ -1,5 +1,5 @@
 ---
-titulo: "Nombran a Embajador del Perú en la República de Finlandia para desempeñarse simultáneamente como Embajador Extraordinario y Plenipotenciario del Perú ante la República de Estonia"
+titulo: "Resolución Suprema N° 062-2026-RE - Nombran a Embajador del Perú en la República de Finlandia para desempeñarse simultáneamente como Embajador Extraordinario y Plenipotenciario del Perú ante la República de Estonia"
 identificador: "resolucion-suprema-062-2026-re"
 pais: "pe"
 jurisdiccion: "nacional"

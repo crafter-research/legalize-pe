@@ -1,5 +1,5 @@
 ---
-titulo: "Aceptan renuncia de Viceministro de Minas"
+titulo: "Resolución Suprema N° 014-2026-EM - Aceptan renuncia de Viceministro de Minas"
 identificador: "resolucion-suprema-014-2026-em"
 pais: "pe"
 jurisdiccion: "nacional"

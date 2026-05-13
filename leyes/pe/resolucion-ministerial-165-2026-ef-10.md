@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Vocales del Tribunal Administrativo Previsional de la Oficina de Normalización Previsional"
+titulo: "Resolución Ministerial N° 165-2026-EF-10 - Designan Vocales del Tribunal Administrativo Previsional de la Oficina de Normalización Previsional"
 identificador: "resolucion-ministerial-165-2026-ef-10"
 pais: "pe"
 jurisdiccion: "nacional"

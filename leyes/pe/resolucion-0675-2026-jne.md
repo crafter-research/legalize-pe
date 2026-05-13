@@ -1,5 +1,5 @@
 ---
-titulo: "Aprueban el uso para las elecciones primarias de las Elecciones Regionales y Municipales 2026 del padrón de electores afiliados de la organización política Movimiento Político Unidos por el Desarrollo de Huánuco - UDH elaborado por el RENIEC"
+titulo: "Resolución N° 0675-2026-JNE - Aprueban el uso para las elecciones primarias de las Elecciones Regionales y Municipales 2026 del padrón de electores afiliados de la organización política Movimiento Político Unidos por el Desarrollo de Huánuco - UDH elaborado por el RENIEC"
 identificador: "resolucion-0675-2026-jne"
 pais: "pe"
 jurisdiccion: "nacional"

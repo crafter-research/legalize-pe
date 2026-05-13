@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Asesora Il del Despacho Viceministerial de Gestión Institucional"
+titulo: "Resolución Ministerial N° 205-2026-MINEDU - Designan Asesora Il del Despacho Viceministerial de Gestión Institucional"
 identificador: "resolucion-ministerial-205-2026-minedu"
 pais: "pe"
 jurisdiccion: "nacional"

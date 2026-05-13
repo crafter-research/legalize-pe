@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Directora de Normatividad de la Dirección de Normatividad de la Dirección General de Políticas y Análisis Regulatorio del Despacho Viceministerial de MYPE e Industria"
+titulo: "Resolución Ministerial N° 000090-2026-PRODUCE - Designan Directora de Normatividad de la Dirección de Normatividad de la Dirección General de Políticas y Análisis Regulatorio del Despacho Viceministerial de MYPE e Industria"
 identificador: "resolucion-ministerial-000090-2026-produce"
 pais: "pe"
 jurisdiccion: "nacional"

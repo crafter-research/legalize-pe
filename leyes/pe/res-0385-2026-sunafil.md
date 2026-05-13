@@ -1,5 +1,5 @@
 ---
-titulo: "No todo accidente laboral es responsabilidad del empleador"
+titulo: "Resolución N° 0385-2026-SUNAFIL - No todo accidente laboral es responsabilidad del empleador"
 identificador: "res-0385-2026-sunafil"
 pais: "pe"
 jurisdiccion: "pe"

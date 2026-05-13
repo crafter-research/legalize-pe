@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Directora Ejecutiva del Programa Nacional de Asistencia Solidaria Pensión 65"
+titulo: "Resolución Suprema N° 009-2026-MIDIS - Designan Directora Ejecutiva del Programa Nacional de Asistencia Solidaria Pensión 65"
 identificador: "resolucion-suprema-009-2026-midis"
 pais: "pe"
 jurisdiccion: "nacional"

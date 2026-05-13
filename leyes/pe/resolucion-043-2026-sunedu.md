@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Ejecutiva de la Unidad de Tesorería de la Oficina de Administración de la Sunedu"
+titulo: "Resolución N° 043-2026-SUNEDU - Designan Ejecutiva de la Unidad de Tesorería de la Oficina de Administración de la Sunedu"
 identificador: "resolucion-043-2026-sunedu"
 pais: "pe"
 jurisdiccion: "nacional"

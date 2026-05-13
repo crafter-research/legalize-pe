@@ -1,5 +1,5 @@
 ---
-titulo: "Designan miembro del Consejo Directivo del Instituto Tecnológico de la Producción - ITP en representación del Ministerio de Comercio Exterior y Turismo"
+titulo: "Resolución Suprema N° 003-2026-PRODUCE - Designan miembro del Consejo Directivo del Instituto Tecnológico de la Producción - ITP en representación del Ministerio de Comercio Exterior y Turismo"
 identificador: "resolucion-suprema-003-2026-produce"
 pais: "pe"
 jurisdiccion: "nacional"

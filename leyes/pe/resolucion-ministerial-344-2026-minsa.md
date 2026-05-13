@@ -1,5 +1,5 @@
 ---
-titulo: "Designan Director Ejecutivo de la Dirección de Banco de Sangre y Hemoterapia - PRONAHEBAS"
+titulo: "Resolución Ministerial N° 344-2026-MINSA - Designan Director Ejecutivo de la Dirección de Banco de Sangre y Hemoterapia - PRONAHEBAS"
 identificador: "resolucion-ministerial-344-2026-minsa"
 pais: "pe"
 jurisdiccion: "nacional"
