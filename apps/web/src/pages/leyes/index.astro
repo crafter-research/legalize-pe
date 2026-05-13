@@ -2,28 +2,9 @@
 export const prerender = true
 
 import Layout from '../../layouts/Layout.astro'
+import { RANGO_LABELS_FULL } from '../../lib/constants'
 
-// Load search index from static JSON file (pre-generated at build time)
-const compactLeyes: Array<{id: string, t: string, r: string, e: string, f: string, b: string, m: string[]}> = []
-
-const rangoLabels: Record<string, string> = {
-  constitucion: 'Constitucion',
-  ley: 'Ley',
-  'ley-organica': 'Ley Organica',
-  'decreto-legislativo': 'Decreto Legislativo',
-  'decreto-urgencia': 'Decreto de Urgencia',
-  'decreto-supremo': 'Decreto Supremo',
-  reglamento: 'Reglamento',
-}
-
-// Initialize with empty data - will be loaded from static JSON on client
-const dates: string[] = []
-const minYear = '1990'
-const maxYear = '2024'
-const uniqueRangos: string[] = []
-const topMaterias: string[] = []
-
-const rangoLabelsJson = JSON.stringify(rangoLabels)
+const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
 ---
 
 <Layout title="Normas — Legalize PE" description="Busca y explora la legislacion peruana con busqueda inteligente. Encuentra leyes, decretos legislativos, decretos supremos y mas.">
