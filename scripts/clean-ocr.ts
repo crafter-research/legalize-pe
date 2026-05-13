@@ -4,7 +4,7 @@
  * Run with: npx tsx scripts/clean-ocr.ts
  */
 
-import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs'
 import { join, relative } from 'node:path'
 
 const LEYES_DIR = join(process.cwd(), 'leyes/pe')
@@ -39,12 +39,22 @@ const PATTERNS_TO_REMOVE = [
 // Common encoding fixes (Spanish characters)
 const ENCODING_FIXES: [RegExp, string][] = [
   // Vowels with accents
-  [/á/g, 'á'], [/é/g, 'é'], [/í/g, 'í'], [/ó/g, 'ó'], [/ú/g, 'ú'],
-  [/Á/g, 'Á'], [/É/g, 'É'], [/Í/g, 'Í'], [/Ó/g, 'Ó'], [/Ú/g, 'Ú'],
+  [/á/g, 'á'],
+  [/é/g, 'é'],
+  [/í/g, 'í'],
+  [/ó/g, 'ó'],
+  [/ú/g, 'ú'],
+  [/Á/g, 'Á'],
+  [/É/g, 'É'],
+  [/Í/g, 'Í'],
+  [/Ó/g, 'Ó'],
+  [/Ú/g, 'Ú'],
   // Ñ
-  [/ñ/g, 'ñ'], [/Ñ/g, 'Ñ'],
+  [/ñ/g, 'ñ'],
+  [/Ñ/g, 'Ñ'],
   // Ü
-  [/ü/g, 'ü'], [/Ü/g, 'Ü'],
+  [/ü/g, 'ü'],
+  [/Ü/g, 'Ü'],
   // Remove replacement character (can't guess what it was)
   [/�/g, ''],
 ]
@@ -56,7 +66,7 @@ const WHITESPACE_FIXES: [RegExp, string][] = [
   // Trailing whitespace
   [/[ \t]+$/gm, ''],
   // Multiple spaces -> single
-  [/  +/g, ' '],
+  [/ {2,}/g, ' '],
 ]
 
 function getAllMdFiles(dir: string, baseDir: string = dir): string[] {
@@ -95,7 +105,10 @@ function cleanContent(content: string): string {
   return cleaned
 }
 
-function processFile(filepath: string): { changed: boolean; removedLines: number } {
+function processFile(filepath: string): {
+  changed: boolean
+  removedLines: number
+} {
   const original = readFileSync(filepath, 'utf-8')
   const cleaned = cleanContent(original)
 
@@ -132,7 +145,7 @@ for (const filepath of files) {
   }
 }
 
-console.log(`\n✅ Done!`)
+console.log('\n✅ Done!')
 console.log(`   Files processed: ${files.length}`)
 console.log(`   Files modified: ${totalChanged}`)
 console.log(`   Lines removed: ${totalLinesRemoved}`)

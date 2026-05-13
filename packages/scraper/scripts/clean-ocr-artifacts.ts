@@ -84,7 +84,7 @@ function main() {
 
     if (cleanedContent !== content) {
       writeFileSync(filePath, cleanedContent, 'utf-8')
-      console.log(`✓ Cleaned: ${filePath.replace(LEYES_DIR + '/', '')}`)
+      console.log(`✓ Cleaned: ${filePath.replace(`${LEYES_DIR}/`, '')}`)
       cleaned++
     } else {
       unchanged++
