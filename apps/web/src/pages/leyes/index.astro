@@ -44,7 +44,8 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
           </button>
         </div>
 
-        <div class="filters">
+        <fieldset class="filters">
+          <legend class="sr-only">Filtrar normas por tipo, estado, materia y fecha</legend>
           <div class="filter-group">
             <label for="filter-tipo">Tipo</label>
             <select id="filter-tipo">
@@ -88,7 +89,7 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
               <option value="title-desc">Titulo Z-A</option>
             </select>
           </div>
-        </div>
+        </fieldset>
 
         <div id="search-results-info" class="results-info" role="status" aria-live="polite">
           Mostrando <span id="results-showing">0</span> de <span id="results-count">0</span> normas
@@ -741,6 +742,11 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS_FULL)
     gap: 0.75rem;
     flex-wrap: wrap;
     margin-bottom: 1rem;
+    border: none;
+    padding: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    min-inline-size: min-content;
   }
 
   .filter-group {

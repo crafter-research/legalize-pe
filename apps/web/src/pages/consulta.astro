@@ -43,7 +43,10 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS)
             placeholder="Ejemplo: Mi empleador no me pagó mi CTS, ¿qué puedo hacer?…"
             rows="3"
             aria-label="Describe tu consulta legal"
+            aria-describedby="query-error"
+            aria-invalid="false"
           ></textarea>
+          <div id="query-error" class="query-error" role="alert" aria-live="polite" style="display: none;"></div>
           <div class="query-actions">
             <button type="button" id="clear-query" class="btn-secondary" disabled>
               Limpiar
@@ -194,6 +197,20 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS)
 
   .query-box textarea::placeholder {
     color: var(--color-text-muted);
+  }
+
+  .query-box textarea[aria-invalid="true"] {
+    border-color: #ef4444;
+  }
+
+  .query-error {
+    color: #ef4444;
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    background: rgba(239, 68, 68, 0.1);
+    border-left: 3px solid #ef4444;
+    border-radius: 4px;
   }
 
   .query-actions {
@@ -610,12 +627,19 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS)
   const noResultsDiv = document.getElementById('no-results')
   const resultsTitle = document.getElementById('results-title')
   const resultsSubtitle = document.getElementById('results-subtitle')
+  const queryError = document.getElementById('query-error')
 
   // Enable/disable buttons based on textarea content
   queryTextarea.addEventListener('input', () => {
     const hasText = queryTextarea.value.trim().length > 0
     searchBtn.disabled = !hasText
     clearBtn.disabled = !hasText
+
+    // Clear error when user types
+    if (queryError && queryError.style.display !== 'none') {
+      queryError.style.display = 'none'
+      queryTextarea.setAttribute('aria-invalid', 'false')
+    }
   })
 
   // Clear query
@@ -644,6 +668,12 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS)
   searchBtn.addEventListener('click', () => {
     const query = queryTextarea.value.trim()
     if (query) {
+      if (query.length < 10) {
+        queryError.textContent = 'Por favor, ingresa al menos 10 caracteres para realizar una búsqueda efectiva.'
+        queryError.style.display = 'block'
+        queryTextarea.setAttribute('aria-invalid', 'true')
+        return
+      }
       performSearch(query)
     }
   })
@@ -654,6 +684,12 @@ const rangoLabelsJson = JSON.stringify(RANGO_LABELS)
       e.preventDefault()
       const query = queryTextarea.value.trim()
       if (query) {
+        if (query.length < 10) {
+          queryError.textContent = 'Por favor, ingresa al menos 10 caracteres para realizar una búsqueda efectiva.'
+          queryError.style.display = 'block'
+          queryTextarea.setAttribute('aria-invalid', 'true')
+          return
+        }
         performSearch(query)
       }
     }

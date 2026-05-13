@@ -633,20 +633,22 @@ const jsonLd = {
         }
 
         const latestHash = data[0].hash
-        historyList.innerHTML = data.map((commit, i) => `
+        historyList.innerHTML = data.map((commit, i) => {
+          const dateStr = new Date(commit.authorDate).toLocaleDateString('es-PE', { year: 'numeric', month: 'short', day: 'numeric' })
+          return `
           <div class="history-item">
             <div class="commit-info">
-              <span class="commit-date">${new Date(commit.authorDate).toLocaleDateString('es-PE', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+              <span class="commit-date">${dateStr}</span>
               <span class="commit-message">${commit.subject}</span>
             </div>
             <div class="commit-actions">
-              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small" title="Ver esta version">Ver</a>
+              <a href="/leyes/${identificador}/version/${commit.hash}" class="btn-small" aria-label="Ver version del ${dateStr}">Ver</a>
               ${i < data.length - 1 ? `
                 <a href="/leyes/${identificador}/diff?from=${data[i+1].hash}&to=${commit.hash}" class="btn-small btn-outline" title="Comparar con version anterior">Comparar</a>
               ` : '<span class="btn-small btn-disabled" title="Version inicial">Inicial</span>'}
             </div>
           </div>
-        `).join('')
+        `}).join('')
 
       } catch (err) {
         historyList.innerHTML = `
