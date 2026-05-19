@@ -1,0 +1,22 @@
+[
+  {
+    "file": "ds-021-2019-jus.md",
+    "reason": "missing/invalid fechaPublicacion: Tue Dec 10 2019 19:00:00 GMT-0500 (Peru Standard Time)"
+  },
+  {
+    "file": "ds-163-2020-pcm.md",
+    "reason": "missing/invalid fechaPublicacion: Fri Oct 02 2020 19:00:00 GMT-0500 (Peru Standard Time)"
+  },
+  {
+    "file": "ley-30077.md",
+    "reason": "missing/invalid fechaPublicacion: Mon Aug 19 2013 19:00:00 GMT-0500 (Peru Standard Time)"
+  },
+  {
+    "file": "ley-26487.md",
+    "reason": "missing/invalid fechaPublicacion: Tue Jun 20 1995 19:00:00 GMT-0500 (Peru Standard Time)"
+  },
+  {
+    "file": "ley-30714.md",
+    "reason": "missing/invalid fechaPublicacion: Fri Dec 29 2017 19:00:00 GMT-0500 (Peru Standard Time)"
+  }
+]
