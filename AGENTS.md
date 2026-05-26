@@ -13,7 +13,7 @@ If you are an AI agent editing files here, read this first.
 ## Layout
 
 ```
-pe/                              # Nacional: leyes, DLeg, DS, Constitución (~1,617 norms)
+pe/                              # Nacional: leyes, DLeg, DS, Constitución (1,622 Markdown files)
 pe/reformas-constitucionales/    # 31 Leyes de Reforma Constitucional
 pe-cus/                          # Cusco regional ordinances
 pe-{iso}/                        # 25 ISO 3166-2:PE regional codes + pe-lim, pe-cal (most pending V2)

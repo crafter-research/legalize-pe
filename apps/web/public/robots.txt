@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://legalize.crafter.ing/sitemap-index.xml

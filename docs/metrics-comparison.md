@@ -35,15 +35,15 @@
 | Total Endpoints | 0 | 9 |
 
 ### Legalize-PE API Endpoints:
-1. `GET /api/normas` — List and search laws (filters: q, tipo, jurisdiccion, estado, fecha)
-2. `GET /api/normas/:id` — Get specific law by identifier
-3. `GET /api/normas/por-fecha/:fecha` — Laws published on specific date
-4. `GET /api/normas/actualizadas` — Recently modified laws
-5. `GET /api/normas/:id/history` — Git history for a law
-6. `GET /api/normas/:id/diff` — Compare versions of a law
-7. `GET /api/normas/:id/at/:commit` — View law at specific Git commit
-8. `GET /api/calendario/:year/:month` — Publication calendar
-9. `GET /api/stats` — General statistics
+1. `GET /api/normas` - List and search laws (filters: q, tipo, jurisdiccion, estado, fecha)
+2. `GET /api/normas/:id` - Get specific law by identifier
+3. `GET /api/normas/por-fecha/:fecha` - Laws published on specific date
+4. `GET /api/normas/actualizadas` - Recently modified laws
+5. `GET /api/normas/:id/history` - Git history for a law
+6. `GET /api/normas/:id/diff` - Compare versions of a law
+7. `GET /api/normas/:id/at/:commit` - View law at specific Git commit
+8. `GET /api/calendario/:year/:month` - Publication calendar
+9. `GET /api/stats` - General statistics
 
 ---
 

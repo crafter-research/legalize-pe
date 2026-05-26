@@ -1,166 +1,89 @@
-# Legalize — Perú
+# legalize-pe
 
-Legislación peruana como repositorio Git. Cada ley es un archivo Markdown, cada reforma un commit con la fecha real de publicación.
+Corpus peruano para la federación [legalize.dev](https://legalize.dev).
 
-**Web:** [legalize.crafter.ing](https://legalize.crafter.ing)
+Este repositorio contiene solo el corpus: normas legales en Markdown con frontmatter YAML y su historial en Git. El código que genera, audita, publica y sirve este corpus vive en [`crafter-research/legalize-pe-engine`](https://github.com/crafter-research/legalize-pe-engine).
 
-## Estadísticas
+**Web:** [legalize-pe.crafter.ing](https://legalize-pe.crafter.ing)
 
-| Categoría | Cantidad |
-|-----------|----------|
-| Normas legales | 1,617 |
-| Reformas constitucionales | 31 |
+## Estado
 
-## Funcionalidades
+| Área | Estado |
+|---|---|
+| Corpus nacional `pe/` | 1,622 archivos Markdown |
+| Reformas constitucionales | 31 archivos bajo `pe/reformas-constitucionales/` |
+| Corpus regional Cusco `pe-cus/` | 5 ordenanzas regionales |
+| Constitución 1993 | 32 commits de línea histórica, 1993 a 2024 |
+| Federación legalize.dev | PR abierto: [legalize-dev/legalize#17](https://github.com/legalize-dev/legalize/pull/17) |
 
-### Búsqueda y filtros
+## Estructura
 
-- **Búsqueda full-text** — Fuzzy search con Fuse.js por título, identificador y contenido
-- **Filtro por tipo** — Ley, Decreto Legislativo, Decreto Supremo, etc.
-- **Filtro por estado** — Vigente, derogada, modificada
-- **Filtro por materia** — Civil, penal, laboral, tributario y 30+ categorías
-- **Filtro por fecha** — Rango de años (desde/hasta)
-- **Ordenamiento** — Por relevancia, fecha o título
-- **Paginación** — 50 resultados por página con "cargar más"
-
-### Lectura de normas
-
-- **Tabla de contenidos** — Navegación rápida por secciones
-- **Deep links** — Enlaces directos a artículos específicos (`#articulo-1`)
-- **Texto justificado** — Formato optimizado para lectura legal
-- **Light/Dark mode** — Toggle de tema con persistencia
-
-### Historial y versiones
-
-- **Historial de versiones** — Ver cambios de cada norma a lo largo del tiempo
-- **Comparador de versiones** — Diff unificado y lado a lado estilo GitHub
-
-### Citas y compartir
-
-- **Generador de citas** — Formato legal peruano, APA 7, URL permanente
-- **Compartir** — Twitter, LinkedIn, WhatsApp, copiar enlace
-- **Export PDF** — Imprimir o guardar como PDF
-
-### Extras
-
-- **PWA** — Funciona offline, instalable en móvil
-- **RSS Feed** — `/feed.xml` con las 50 normas más recientes
-- **Descarga** — Exportar normas en Markdown
-
-### API
-
-| Endpoint | Descripción |
-|----------|-------------|
-| `GET /feed.xml` | RSS feed con las 50 normas más recientes |
-| `GET /api/normas/:id/history` | Historial de commits de una norma |
-| `GET /api/normas/:id/at/:commit` | Contenido en un commit específico |
-| `GET /api/normas/:id/diff?from=X&to=Y` | Diff unificado entre versiones |
-| `GET /api/normas/:id/compare?from=X&to=Y` | Comparación lado a lado |
-
-```bash
-# RSS feed
-curl "https://legalize.crafter.ing/feed.xml"
-
-# Historial del Código Civil
-curl "https://legalize.crafter.ing/api/normas/dleg-295/history"
-
-# Diff entre dos versiones
-curl "https://legalize.crafter.ing/api/normas/dleg-295/diff?from=abc123&to=def456"
+```text
+legalize-pe/
+├── pe/                         # Normas nacionales de Perú
+│   ├── CON-1993.md             # Constitución Política del Perú
+│   └── reformas-constitucionales/
+├── pe-cus/                     # Ordenanzas regionales de Cusco
+├── docs/                       # Notas de extracción y métricas históricas
+├── AUDIT.md                    # Estado auditable del corpus
+└── README.md
 ```
 
-## Inicio rápido
+## Formato
+
+Cada norma sigue [SPEC v0.2](https://github.com/legalize-dev/legalize/blob/main/SPEC.md) con extensiones peruanas cuando hace falta.
+
+```yaml
+---
+title: Constitución Política del Perú
+identifier: CON-1993
+country: pe
+rank: constitucion
+publication_date: '1993-12-30'
+last_updated: '2024-12-11'
+status: in_force
+source: 'https://lpderecho.pe/constitucion-politica-peru-actualizada/'
+official_journal: El Peruano
+---
+```
+
+Campos regionales usados por `pe-{iso}/`:
+
+```yaml
+jurisdiction: pe-cus
+scope: Regional
+issuing_entity: Gobierno Regional de CUSCO
+date_precision: year
+```
+
+## Uso
 
 ```bash
 git clone https://github.com/crafter-research/legalize-pe.git
 cd legalize-pe
 
-# Ver el Artículo 2 de la Constitución
-grep -A 20 "Artículo 2" leyes/pe/constitucion-1993.md
-
-# Historial de reformas constitucionales
-git log --oneline --date=short --format="%ad %s" -- leyes/pe/reformas-constitucionales/
+rg "Artículo 2" pe/CON-1993.md
+git log --oneline --date=short --format="%ad %s" -- pe/CON-1993.md
 ```
 
-## Estructura
-
-```
-legalize-pe/
-├── apps/
-│   ├── web/                    # Astro + PWA
-│   └── api/                    # Next.js API REST
-├── packages/
-│   ├── git/                    # Utilidades Git para historial
-│   ├── parser/                 # Parser de frontmatter YAML
-│   └── scraper/                # Scraping de fuentes oficiales
-└── leyes/
-    └── pe/                     # Legislación nacional
-        ├── constitucion-1993.md
-        ├── dleg-295.md         # Código Civil
-        ├── dleg-635.md         # Código Penal
-        └── reformas-constitucionales/
-```
-
-## Normas principales
-
-| Norma | Identificador |
-|-------|---------------|
-| Constitución Política | `constitucion-1993` |
-| Código Civil | `dleg-295` |
-| Código Penal | `dleg-635` |
-| Código Procesal Civil | `dleg-768` |
-| Código Procesal Penal | `dleg-957` |
-| Código Procesal Constitucional | `ley-31307` |
-| LO del Poder Judicial | `ds-017-93-jus` |
-| LO de Municipalidades | `ley-27972` |
-
-## Formato
-
-```yaml
----
-titulo: "Decreto Legislativo N° 295 - Código Civil"
-identificador: "dleg-295"
-rango: "decreto-legislativo"
-fechaPublicacion: "1984-07-25"
-estado: "vigente"
-fuente: "https://spij.minjus.gob.pe"
----
-
-# Código Civil
-
-TÍTULO PRELIMINAR
-
-Artículo I.- La ley se deroga sólo por otra ley...
-```
-
-## Stack
-
-- **Monorepo:** Turborepo + pnpm
-- **Web:** Astro (static + SSR)
-- **API:** Next.js + Drizzle + Turso
-- **PWA:** Workbox
-- **Búsqueda:** Fuse.js
-- **Git:** simple-git
-
-## Desarrollo
+Para correr la web, los scrapers, auditorías o migraciones, usa el engine:
 
 ```bash
-pnpm install
-pnpm dev          # Inicia web en localhost:4321
-pnpm build        # Build de producción
+git clone https://github.com/crafter-research/legalize-pe-engine.git
+cd legalize-pe-engine
+bun install
+bun cli --help
 ```
 
 ## Fuentes
 
-- [SPIJ](https://spij.minjus.gob.pe) — Sistema Peruano de Información Jurídica
-- [El Peruano](https://elperuano.pe) — Diario Oficial
+- [SPIJ](https://spij.minjus.gob.pe), Sistema Peruano de Información Jurídica
+- [El Peruano](https://elperuano.pe), diario oficial
+- `gob.pe` para normas regionales e institucionales
 
 El texto legislativo es de dominio público según el Decreto Legislativo 822, Artículo 9.
 
 ## Licencia
 
-- **Contenido legislativo:** Dominio público
-- **Código:** [MIT](LICENSE)
-
----
-
-[Crafter Station](https://www.crafterstation.com)
+- Contenido legislativo: dominio público
+- Documentación y archivos auxiliares: [MIT](LICENSE)

@@ -1,5 +1,7 @@
 # PLAN: ICEGOV 2026 Paper + PWA
 
+> Archived planning note from April 2026. Current corpus status lives in [README.md](./README.md), and current build code lives in [`crafter-research/legalize-pe-engine`](https://github.com/crafter-research/legalize-pe-engine).
+
 ## Overview
 
 **Goal:** Submit an Ongoing Research paper to ICEGOV 2026 Track 11 (Accelerating Digital Transformation in the Global South)
@@ -16,7 +18,7 @@
 | Field | Value |
 |-------|-------|
 | Conference | ICEGOV 2026 (19th International Conference on Theory and Practice of Electronic Governance) |
-| Track | 11 — Accelerating Digital Transformation in the Global South |
+| Track | 11 - Accelerating Digital Transformation in the Global South |
 | Category | Ongoing Research |
 | Pages | 8-10 |
 | Abstract | Up to 300 words |
@@ -26,11 +28,11 @@
 
 ## Three Contributions
 
-1. **C1 — Methodology:** A replicable pipeline for digitizing legislation in countries without open data APIs (scraping + OCR + Markdown + Git)
+1. **C1 - Methodology:** A replicable pipeline for digitizing legislation in countries without open data APIs (scraping + OCR + Markdown + Git)
 
-2. **C2 — Implementation:** An open-source platform (legalize-pe) with web app, REST API (9 endpoints), and offline-capable PWA
+2. **C2 - Implementation:** An open-source platform (legalize-pe) with web app, REST API (9 endpoints), and offline-capable PWA
 
-3. **C3 — Evaluation:** Empirical comparison showing improvements over Peru's existing system (SPIJ)
+3. **C3 - Evaluation:** Empirical comparison showing improvements over Peru's existing system (SPIJ)
 
 ---
 
@@ -42,7 +44,7 @@
 | 2 | Background / Related Work | 1-1.5 | legalize-es (Spain), Free Law Project (US), legislation.gov.uk (UK), Akoma Ntoso (OASIS standard). Git for versioning concept. |
 | 3 | The Peruvian Legal Access Problem | 1 | SPIJ critique, no API, regional laws unpublished in El Peruano, data hostility, 200k+ norms inaccessible. |
 | 4 | Methodology / Approach | 2 | Pipeline: scraping (agent-browser, SPIJ) → OCR (Tesseract) → Markdown + frontmatter → Git (commits = reforms) → Database (Turso) → REST API → PWA. Architecture diagram. |
-| 5 | Implementation: Legalize-PE | 1.5 | Tech stack (Astro, Next.js, Drizzle, Turso), 119 laws, 9 API endpoints, offline PWA, open source repo. Screenshots. |
+| 5 | Implementation: Legalize-PE | 1.5 | Tech stack at the time (Astro, Next.js, Drizzle, Turso), 119 laws then, 9 API endpoints, offline PWA, open source repo. Screenshots. |
 | 6 | Preliminary Results | 1 | Comparison table: SPIJ vs legalize-pe (5 metrics). Lighthouse scores. |
 | 7 | Discussion & Future Work | 0.5-1 | Limitations (119/200k laws), scaling plan, regional expansion, replicability for other Global South countries. |
 | 8 | Conclusion | 0.5 | Summary of contributions, call to action for open legal infrastructure. |
@@ -65,7 +67,7 @@
 ## PWA Requirements
 
 - [ ] Service worker for offline caching
-- [ ] Cache all 119 laws for offline reading
+- [ ] Cache the then-current 119 laws for offline reading
 - [ ] Installable (manifest.json)
 - [ ] Works without internet connection
 - [ ] Sync new laws when online
@@ -118,8 +120,8 @@
 - [ ] Lighthouse report screenshots
 
 ### Already Done:
-- [x] 119 laws in Git repository
-- [x] Astro web app (legalize.crafter.ing)
+- [x] 119 laws in Git repository at the time
+- [x] Astro web app (legalize-pe.crafter.ing)
 - [x] Next.js API (9 endpoints)
 - [x] Turso database with Drizzle
 - [x] Git history viewer
@@ -133,11 +135,11 @@
 ## References to Include
 
 ### Open Legal Infrastructure
-- [ ] legalize-es (Enrique Lopez) — inspiration, Git for Spanish legislation
-- [ ] Free Law Project — US case law
-- [ ] legislation.gov.uk — UK official legislation platform
-- [ ] Akoma Ntoso — OASIS standard for legislative documents
-- [ ] Germany GRIT project — Git for German laws
+- [ ] legalize-es (Enrique Lopez) - inspiration, Git for Spanish legislation
+- [ ] Free Law Project - US case law
+- [ ] legislation.gov.uk - UK official legislation platform
+- [ ] Akoma Ntoso - OASIS standard for legislative documents
+- [ ] Germany GRIT project - Git for German laws
 
 ### Digital Governance / Global South
 - [ ] UN E-Government Survey reports
@@ -185,4 +187,4 @@ Paper is ready to submit when:
 - **ICEGOV:** https://icegov.org
 - **Submission:** https://edas.info
 - **legalize-pe:** https://github.com/crafter-research/legalize-pe
-- **Live site:** https://legalize.crafter.ing
+- **Live site:** https://legalize-pe.crafter.ing
